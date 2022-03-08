@@ -20,7 +20,7 @@ def createJs(title): # json 파일로 변경
       line = f.readline()
 
 
-def 기사크롤링(검색, page, 파일이름):
+def 기사크롤링(검색, page, 파일이름, 카테고리):
 
     start = 0
     for i in range(1, page+1):
@@ -37,13 +37,13 @@ def 기사크롤링(검색, page, 파일이름):
         for 뉴스 in news:
             제목 = 뉴스.find("div", attrs = {"class" : "mCBkyc y355M JQe2Ld nDgy9d"}).get_text()
             링크 = 뉴스.find("a", {"class" : "WlydOe"})["href"]
-            L.append({'제목': 제목, '링크' : 링크} )
+            L.append({'제목': 제목, '링크' : 링크, '카테고리': 카테고리} )
             번수 += 1
     createJs(파일이름)
     
 
-기사크롤링('ukraine damage situation', 3, 'English_UkraineDamageSituationNewsData')
+기사크롤링('ukraine damage situation', 3, 'English_UkraineDamageSituationNewsData','피해 상황')
 L = []
-기사크롤링('우크라이나 피해 상황', 3, 'Korean_UkraineDamageSituationNewsData')
+기사크롤링('우크라이나 피해 상황', 3, 'Korean_UkraineDamageSituationNewsData', '피해 상황')
 
 print("Test")
