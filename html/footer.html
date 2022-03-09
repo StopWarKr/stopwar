@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>StopWar</title>
+		<link rel="stylesheet" href="../css/reset.css" />
+		<link rel="stylesheet" href="../css/font.css" />
+		<style>
+			/* 스타일 작성 */
+			footer {
+                width: 100%;
+                height: 140px;
+                position: absolute;
+                bottom: 0;
+                display: flex;
+                justify-content: center;
+                background-color: #F9F9F9;
+                border-top: 1px solid #EEEEEE;
+            }
+
+            .footer-logo {
+                margin-top: 54px;
+                width: 160px;
+                height: 32px;
+                border: none;
+                background: url("../image/logo-gray.svg") no-repeat center transparent;
+                cursor: pointer;
+            }
+
+            .scroll-up-btn {
+                position: absolute;
+                margin: 42px 0;
+                right: 108px;
+                padding: 0;
+                background-color: #FFFFFF;
+                border: 1px solid #EEEEEE;  
+                cursor: pointer;
+            }
+            .scroll-up-btn::after {
+                content: "";
+                position: absolute;
+                top: 15px;
+                /* left: 24px; */
+                left: calc(50% - 8px/2);    
+                background: url("../image/btn-scroll-top.svg") no-repeat center transparent;
+                width: 8px;
+                height: 5px;
+            }
+
+            .scroll-up-btn span {
+                padding: 26px 14px 10px;
+                display: block;
+                font-size: 14px;
+                font-weight: 400;
+                line-height: 21px;              
+            }
+		</style>
+	</head>
+
+	<body>
+		<!-- skip : 윤우상 -->
+		<ul class="skip">
+			<li><a href="#news">뉴스 바로가기</a></li>
+			<li><a href="#sponsor">후원정보 바로가기</a></li>
+		</ul>
+		<!-- //skip -->
+
+		<!-- header : 김초연 , 김상돈 -->
+		<header>
+			<h1>StopWar</h1>
+		</header>
+		<!-- //header -->
+
+		<!-- main : 뉴스 -->
+		<main id="news">
+			<!-- 제목 및 검색 : 유현세 -->
+			<h2>뉴스정보</h2>
+
+			<!-- //제목 및 검색  -->
+
+			<!-- 카테고리 : 조미진, 최성이 -->
+			<!-- //카테고리 -->
+
+			<!-- 뉴스카드 : 윤수영, 박지윤, 지다혜 -->
+			<ul>
+				<li><article></article></li>
+			</ul>
+			<!-- //뉴스카드 -->
+		</main>
+		<!-- //main : 뉴스 -->
+
+		<!-- aside : 후원정보 :박유진, 김경민 -->
+		<aside class="sponsor"></aside>
+		<!-- //aside : 후원정보 -->
+
+		<!-- footer : 지다혜 -->
+		<footer>
+			<!-- 참여자이름, 메일주소 -->
+			<button type="button" class="scroll-up-btn">
+                <span>TOP</span>
+            </button>
+            <button type="button" class="footer-logo"></button>
+		</footer>
+		<!-- //footer -->
+
+		<!-- 스크립트 연결 -->
+
+		<!-- // 스크립트 연결 -->
+	</body>
+</html>

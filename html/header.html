@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>StopWar</title>
+    <link rel="stylesheet" href="../css/reset.css" />
+    <link rel="stylesheet" href="../css/font.css" />
+    <style>
+      /* 스타일 작성 */
+
+      .header-cont {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        padding: 28px 85px 28px 108px;
+        box-sizing: border-box;
+        border-bottom: 1.6px solid #eee;
+      }
+      .select-lang {
+        position: relative;
+        border-collapse: collapse;
+        text-align: center;
+        font-size: 14px;
+        line-height: 20px;
+      }
+
+      .lang-btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 20px;
+        width: 120px;
+        height: 40px;
+        border: 1px solid #eeeeee;
+        color: #333333;
+      }
+      .lang-txt {
+        position: relative;
+      }
+      .lang-txt::before {
+        content: '';
+        display: block;
+        position: absolute;
+        top: 0;
+        left: -30px;
+        width: 20px;
+        height: 20px;
+        background-image: url('../image/icon-lang.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+      }
+      .lang-txt::after {
+        content: '';
+        display: block;
+        position: absolute;
+        top: 8px;
+        left: 50px;
+        width: 8px;
+        height: 4px;
+        background-image: url('../image/icon-arrow.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+      }
+      .lang-cont {
+        position: absolute;
+        display: none;
+        flex-direction: column;
+        gap: 5px;
+        width: 120px;
+        padding: 10px;
+        box-sizing: border-box;
+        border: 1px solid #eeeeee;
+        background-color: #ffffff;
+        color: #767676;
+        text-align: center;
+      }
+      /* JS로 'on' class 추가해주세요 */
+      .lang-cont.on {
+        display: flex;
+      }
+      .lang-cont .lang-items {
+        width: 100%;
+        padding: 4px 0;
+      }
+      .lang-cont .lang-items:hover {
+        background-color: #f5f5f5;
+        color: #333333;
+      }
+    </style>
+  </head>
+
+  <body>
+    <!-- skip : 윤우상 -->
+    <ul class="skip">
+      <li><a href="#news">뉴스 바로가기</a></li>
+      <li><a href="#sponsor">후원정보 바로가기</a></li>
+    </ul>
+    <!-- //skip -->
+
+    <!-- header : 김초연 , 김상돈 -->
+    <header>
+      <ul class="header-cont">
+        <li class="header-logo">
+          <a href="/">
+            <img src="../image/logo.png" alt="stop-war" />
+          </a>
+        </li>
+        <li class="select-lang">
+          <button class="lang-btn">
+            <span class="lang-txt">한국어</span>
+          </button>
+          <ul class="lang-cont">
+            <li class="lang-items">한국어</li>
+            <li class="lang-items">English</li>
+            <li class="lang-items">Українська мова</li>
+          </ul>
+        </li>
+      </ul>
+    </header>
+    <!-- //header -->
+
+    <!-- main : 뉴스 -->
+    <main id="news">
+      <!-- 제목 및 검색 : 유현세 -->
+      <h2>뉴스정보</h2>
+
+      <!-- //제목 및 검색  -->
+
+      <!-- 카테고리 : 조미진, 최성이 -->
+      <!-- //카테고리 -->
+
+      <!-- 뉴스카드 : 윤수영, 박지윤, 지다혜 -->
+      <ul>
+        <li><article></article></li>
+      </ul>
+      <!-- //뉴스카드 -->
+    </main>
+    <!-- //main : 뉴스 -->
+
+    <!-- aside : 후원정보 :박유진, 김경민 -->
+    <aside class="sponsor"></aside>
+    <!-- //aside : 후원정보 -->
+
+    <!-- footer : 지다혜 -->
+    <footer>
+      <!-- 참여자이름, 메일주소 -->
+    </footer>
+    <!-- //footer -->
+
+    <!-- 스크립트 연결 -->
+
+    <!-- // 스크립트 연결 -->
+  </body>
+</html>
