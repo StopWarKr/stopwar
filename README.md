@@ -53,7 +53,7 @@
 ## 데이터 구조
 ```javascript
 [{
-    name : '우크라이나 뉴스기사...', //제목
+    title : '우크라이나 뉴스기사...', //제목
     link : 'URL', //클릭하면 들어갈 수 있는 url
     category : 'history' // 카테고리
 }, ...]
