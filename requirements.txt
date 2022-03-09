@@ -1,9 +1,6 @@
 wheel
-beautifulsoup4==4.9.1
+beautifulsoup4
 bs4
-requests==2.24.0
-soupsieve==2.0.1
-urllib3==1.25.8
-numpy==1.18.1
-pandas
+requests
+urllib3
 selenium
