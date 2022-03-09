@@ -1,2 +1,2 @@
-with open('crawlingData/data.js', "w", encoding="UTF-8-sig") as f_write:
-    f_write('test1')
+with open("../crawlingData/data1.js", "w") as f:
+    f.write("Life is too short, you need python 1")
