@@ -52,18 +52,18 @@ def get_news_data_from_current_page(source):
     name = news.find("div", attrs = {"class" : "mCBkyc y355M JQe2Ld nDgy9d"}).get_text()
     description = news.find("div", attrs = {"class" : "GI74Re nDgy9d"}).get_text()
     date = news.find_all("span")[2].get_text()
-    news_link = news.find("a", attrs = {"class" : "WlydOe"})["href"]
+    link = news.find("a", attrs = {"class" : "WlydOe"})["href"]
     
     src = news.find("img", attrs={"class" : "rISBZc zr758c M4dUYb"})['src']
     image_path = download_image_from_src(name, src)
 
-    print(str(news_index)+"번째 기사" '\n' , name, '\n', news_link)
+    print(str(news_index)+"번째 기사" '\n' , name, '\n', link)
 
     news_data.append({
       "name" : name, 
       "description" : description,
       "date" : date,
-      "news_link" : news_link,
+      "link" : link,
       "image_path" : image_path,
       "category" : category
       })
@@ -74,7 +74,7 @@ def get_news_data_from_current_page(source):
 
 
 # json파일 생성하는 함수
-category = "engagement"
+category = "Battle"
 jsondata_path = "crawlingData"
 def create_json(language, json_data):
   language += "_"
@@ -87,11 +87,11 @@ def create_json(language, json_data):
 
 # dirver 세팅
 webdriver_options = webdriver.ChromeOptions()
-#webdriver_options.add_argument('headless')
+webdriver_options.add_argument('headless')
 #webdriver_options.add_argument("window-size=800x600") # 안보이는 창의 크기를 몇으로 할건지 정의
 time.sleep(1)
 driver = webdriver.Chrome("crawler\chromedriver.exe", options=webdriver_options)
-#driver.maximize_window()
+driver.maximize_window()
 driver.implicitly_wait(10)
 time.sleep(1)
 
