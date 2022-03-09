@@ -4,23 +4,23 @@
         "description": "Ukraine is the first military engagement of America's Proxy Wars where a \ncountry wants to fight for itself. Posted by Op Ed | Mar 8, 2022 | \nArticles,...",
         "date": "17시간 전",
         "news_link": "https://www.milwaukeeindependent.com/articles/ukraine-first-military-engagement-americas-proxy-wars-country-wants-fight/",
-        "image_link": "crawlingData\\img\\Ukraine is the first military engagement of America's Proxy ... image.png",
+        "image_path": "crawlingData\\img\\Ukraine is the first military engagement of America's Proxy ... image.png",
         "category": "engagement"
     },
     {
         "name": "Russia-Ukraine war: US, UK ban Russian oil – Live news",
         "description": "Ukrainian President Volodymyr Zelenskyy calls for more Western action \nagainst ... “Our intention in our regular engagement with China,...",
-        "date": "2시간 전",
+        "date": "3시간 전",
         "news_link": "https://www.aljazeera.com/news/2022/3/8/us-europe-ramp-up-pressure-russian-energy-amid-ukraine-war-liveblog",
-        "image_link": "crawlingData\\img\\Russia-Ukraine war US, UK ban Russian oil – Live news image.png",
+        "image_path": "crawlingData\\img\\Russia-Ukraine war US, UK ban Russian oil – Live news image.png",
         "category": "engagement"
     },
     {
         "name": "Why is Poland giving MiG-29 fighter jets to the US – and is it a risky move?",
         "description": "However, any new planes need to be ones that Ukraine's pilots are trained \nto ... as those countries' engagement in the military conflict”.",
-        "date": "4시간 전",
+        "date": "5시간 전",
         "news_link": "https://www.theguardian.com/world/2022/mar/08/why-is-poland-giving-mig-29-fighter-jets-to-us-risky-move",
-        "image_link": "crawlingData\\img\\Why is Poland giving MiG-29 fighter jets to the US – and is it a risky move image.png",
+        "image_path": "crawlingData\\img\\Why is Poland giving MiG-29 fighter jets to the US – and is it a risky move image.png",
         "category": "engagement"
     },
     {
@@ -28,7 +28,7 @@
         "description": "The Eastern European nation has been hit with sanctions for its involvement \nin the Ukraine conflict. While the nation's leader Alexander...",
         "date": "1일 전",
         "news_link": "https://www.bloomberg.com/news/articles/2022-03-07/fitch-cuts-belarus-on-sanctions-risk-over-ukraine-involvement",
-        "image_link": "crawlingData\\img\\Fitch Cuts Belarus on Sanctions Risk Over Ukraine Involvement image.png",
+        "image_path": "crawlingData\\img\\Fitch Cuts Belarus on Sanctions Risk Over Ukraine Involvement image.png",
         "category": "engagement"
     },
     {
@@ -36,15 +36,7 @@
         "description": "... (UNSC) Resolution condemning Russia for the invasion of Ukraine. ... \nand Ukrainian resistance are leading to more uncertain outcomes.",
         "date": "10시간 전",
         "news_link": "https://www.thehindu.com/opinion/op-ed/chinas-takeaways-from-the-russia-ukraine-war/article65205249.ece",
-        "image_link": "crawlingData\\img\\China’s takeaways from the war image.png",
-        "category": "engagement"
-    },
-    {
-        "name": "Ukraine at OSCE: Russia engaged in nuclear terrorism",
-        "description": "This was emphasized by Ukraine's Permanent Representative to International \nOrganizations in Vienna Yevhenii Tsymbaliuk during a special...",
-        "date": "1일 전",
-        "news_link": "https://www.ukrinform.net/rubric-ato/3423260-ukraine-at-osce-russia-engaged-in-nuclear-terrorism.html",
-        "image_link": "crawlingData\\img\\Ukraine at OSCE Russia engaged in nuclear terrorism image.png",
+        "image_path": "crawlingData\\img\\China’s takeaways from the war image.png",
         "category": "engagement"
     },
     {
@@ -52,15 +44,7 @@
         "description": "Catch up quick: Israeli Prime Minister Naftali Bennett visited Moscow on \nSaturday and met with Putin. Since then, he's been engaged in a flurry...",
         "date": "9시간 전",
         "news_link": "https://www.axios.com/israel-russia-ukraine-ceasefire-critical-point-5cb18c61-deba-46fb-b637-571614138dd8.html",
-        "image_link": "crawlingData\\img\\Israeli officials say Russia-Ukraine ceasefire talks at critical point image.png",
-        "category": "engagement"
-    },
-    {
-        "name": "How the U.S. Raced to Arm Ukraine Against Russia",
-        "description": "Arming Ukraine: 17,000 Anti-Tank Weapons in 6 Days and a ... forces can be \nregarded as the involvement of these states in an armed conflict.",
-        "date": "2일 전",
-        "news_link": "https://www.nytimes.com/2022/03/06/us/politics/us-ukraine-weapons.html",
-        "image_link": "crawlingData\\img\\How the U.S. Raced to Arm Ukraine Against Russia image.png",
+        "image_path": "crawlingData\\img\\Israeli officials say Russia-Ukraine ceasefire talks at critical point image.png",
         "category": "engagement"
     },
     {
@@ -68,7 +52,15 @@
         "description": "Their fight must inspire a new era of global engagement. We have to \nrecognize that for Putin, Ukraine is not enough, and the world is \nwatching...",
         "date": "1주 전",
         "news_link": "https://www.deseret.com/2022/2/27/22954086/ukraine-fight-must-inspire-new-era-of-global-engagement-russia-united-states-america-republican-gop",
-        "image_link": "crawlingData\\img\\Russia’s invasion of Ukraine is a wake-up call for U.S. foreign policy image.png",
+        "image_path": "crawlingData\\img\\Russia’s invasion of Ukraine is a wake-up call for U.S. foreign policy image.png",
+        "category": "engagement"
+    },
+    {
+        "name": "How the U.S. Raced to Arm Ukraine Against Russia",
+        "description": "Arming Ukraine: 17,000 Anti-Tank Weapons in 6 Days and a ... forces can be \nregarded as the involvement of these states in an armed conflict.",
+        "date": "2일 전",
+        "news_link": "https://www.nytimes.com/2022/03/06/us/politics/us-ukraine-weapons.html",
+        "image_path": "crawlingData\\img\\How the U.S. Raced to Arm Ukraine Against Russia image.png",
         "category": "engagement"
     },
     {
@@ -76,7 +68,15 @@
         "description": "But other differences suggest that Putin's aggression toward Ukraine should \nhave been more likely than Hussein's takeover of Kuwait to inspire...",
         "date": "1일 전",
         "news_link": "https://www.nytimes.com/2022/03/07/briefing/russia-ukraine-war-us-involvement.html",
-        "image_link": "crawlingData\\img\\Preventing This War image.png",
+        "image_path": "crawlingData\\img\\Preventing This War image.png",
+        "category": "engagement"
+    },
+    {
+        "name": "Ukraine at OSCE: Russia engaged in nuclear terrorism",
+        "description": "This was emphasized by Ukraine's Permanent Representative to International \nOrganizations in Vienna Yevhenii Tsymbaliuk during a special...",
+        "date": "1일 전",
+        "news_link": "https://www.ukrinform.net/rubric-ato/3423260-ukraine-at-osce-russia-engaged-in-nuclear-terrorism.html",
+        "image_path": "crawlingData\\img\\Ukraine at OSCE Russia engaged in nuclear terrorism image.png",
         "category": "engagement"
     }
 ]

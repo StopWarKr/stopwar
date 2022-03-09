@@ -41,6 +41,7 @@ def get_news_data_from_current_page(source):
   news_index = 0
   #res = requests.get(url, headers = User_Agent_head)                             
   #res.raise_for_status()
+  time.sleep(3)
   soup = BeautifulSoup(source, "html5lib")
   time.sleep(3)
   
@@ -52,9 +53,9 @@ def get_news_data_from_current_page(source):
     description = news.find("div", attrs = {"class" : "GI74Re nDgy9d"}).get_text()
     date = news.find_all("span")[2].get_text()
     news_link = news.find("a", attrs = {"class" : "WlydOe"})["href"]
-
+    
     src = news.find("img", attrs={"class" : "rISBZc zr758c M4dUYb"})['src']
-    image_link = download_image_from_src(name, src)
+    image_path = download_image_from_src(name, src)
 
     print(str(news_index)+"번째 기사" '\n' , name, '\n', news_link)
 
@@ -63,7 +64,7 @@ def get_news_data_from_current_page(source):
       "description" : description,
       "date" : date,
       "news_link" : news_link,
-      "image_link" : image_link,
+      "image_path" : image_path,
       "category" : category
       })
 
@@ -86,10 +87,11 @@ def create_json(language, json_data):
 
 # dirver 세팅
 webdriver_options = webdriver.ChromeOptions()
-webdriver_options.add_argument('headless')
-webdriver_options.add_argument("window-size=1920x1080") # 안보이는 창의 크기를 몇으로 할건지 정의
+#webdriver_options.add_argument('headless')
+#webdriver_options.add_argument("window-size=800x600") # 안보이는 창의 크기를 몇으로 할건지 정의
+time.sleep(1)
 driver = webdriver.Chrome("crawler\chromedriver.exe", options=webdriver_options)
-driver.maximize_window()
+#driver.maximize_window()
 driver.implicitly_wait(10)
 time.sleep(1)
 
