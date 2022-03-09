@@ -43,5 +43,5 @@ def ukraineHistory_en(search, page, file_name, category):
 
 
 # English
-ukraineHistory_en("ukraine", 2, "English_UkraineHistory", "history")
+ukraineHistory_en("ukraine", 2, "en_HistoryNewsData", "history")
 print(english_result)
