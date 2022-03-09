@@ -1,5 +1,6 @@
+wheel
 beautifulsoup4==4.9.1
-bs4==0.0.1
+bs4
 requests==2.24.0
 soupsieve==2.0.1
 urllib3==1.25.8

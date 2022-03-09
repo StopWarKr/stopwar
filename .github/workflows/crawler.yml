@@ -1,7 +1,8 @@
 name: crawl current data
-on:
-  schedule:
-    - cron: "*/3 * * * *"
+# on:
+#   schedule:
+#     - cron: "*/3 * * * *"
+on: [push]
 jobs:
   runCrawler:
     runs-on: ubuntu-latest
