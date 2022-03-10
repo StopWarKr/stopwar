@@ -24,12 +24,21 @@
 
 ## 데이터 구조
 ```javascript
-[{
-    title : '우크라이나 뉴스기사...', //제목
-    content : '러시아와 우크라이나의...', //내용
-    link : 'URL', //클릭하면 들어갈 수 있는 url
-    category : 'history', // 카테고리
-    source : '조선일보', // 출처
-    date : '2022-03-10' // 날짜(협의)
-}, ...]
+[
+    {
+        "name": "우크라이나 사태: 러시아 침공 11일째 상황",
+        "description": "현지 주민들은 수도 근처 지역인 부차, 호스토멜, 이르핀에서 러시아군과 격렬한 전투가 벌어졌으며 포격이 쉴 새 없이 쏟아졌다고 말했다. \n민간인들이...",
+        "date": "3일 전",
+        "link": "https://www.bbc.com/korean/news-60643146",
+        "image_path": "crawlingData\\img\\우크라이나 사태 러시아 침공 11일째 상황 image.png",
+        "category": "Battle"
+    },
+    {
+        "name": "러시아-우크라이나 전쟁: 최근 전개 상황 < 전쟁/난민 < 국제 ...",
+        "description": "볼로디미르 젤렌스키 우크라이나 대통령은 9일(현지시간) 12시간의 휴전 동안 우크라이나 교전 지역에서 최소 35,000명의 민간인이 \n대피했다고 밝혔다...",
+        "date": "9시간 전",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2423456",
+        "image_path": "crawlingData\\img\\러시아우크라이나 전쟁 최근 전개 상황  전쟁난민  국제  image.png",
+        "category": "Battle"
+    }...]
 ```
