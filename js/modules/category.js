@@ -30,7 +30,11 @@ const renderCard = (news, inputValue) => {
   article.appendChild(link);
   link.appendChild(imgBox);
   imgBox.appendChild(img);
-  img.setAttribute('src', IMG_URL + news.image_path);
+  if (news.image_path){
+    img.setAttribute('src', IMG_URL + news.image_path);
+  } else {
+    img.setAttribute('src', IMG_URL + 'image/no-image.png');
+  }
   img.setAttribute('alt', news.category);
   link.appendChild(contentsBox);
   link.setAttribute('href', news.link);
@@ -38,7 +42,7 @@ const renderCard = (news, inputValue) => {
   // contentsBox.appendChild(title).textContent = news.name;
   contentsBox.appendChild(content).textContent = news.description;
   contentsBox.appendChild(time).textContent = news.date;
-  contentsBox.appendChild(source).textContent = '출처';
+  contentsBox.appendChild(source).textContent = ' 출처 : ' + news.link.split('/')[2];
 
   // 기본 데이터 설정
   const newsName = news.name ? news.name : '제목없음';
@@ -85,6 +89,8 @@ const getNews = async (category) => {
       const datas = await getAPI(url);
       if (!!datas) {
         response.push(...datas);
+      } else {
+        console.log('데이터 없음!');
       }
     }
   } else {
@@ -95,6 +101,7 @@ const getNews = async (category) => {
 
   removeElement();
   response.forEach((news) => {
+    console.log(news);
     newsCardList.appendChild(renderCard(news));
   });
 };

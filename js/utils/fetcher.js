@@ -4,9 +4,10 @@ export const getAPI = async (url) => {
   try {
     const res = await fetch(url);
     const datas = await res.json();
+    console.log(url + 'json파일이 있습니다.');
     return datas;
   } catch (error) {
-    console.log('json파일이 없습니다.');
+    console.log(url + 'json파일이 없습니다.');
     console.log(error);
   }
 };
