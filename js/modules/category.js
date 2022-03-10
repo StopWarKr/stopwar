@@ -96,7 +96,11 @@ const getNews = async (category) => {
   } else {
     const url = BASE_URL + AllCategory[category];
     const datas = await getAPI(url);
-    response.push(...datas);
+    if (!!datas) {
+      response.push(...datas);
+    } else {
+      console.log('데이터 없음!');
+    }
   }
 
   removeElement();
