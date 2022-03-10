@@ -1,0 +1,188 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 1024px) {
+  /* header: 장서령 */
+  .header-cont {
+    padding: 20px 0px;
+  }
+
+  /* main: 장서령 */
+  .main {
+    margin-bottom: 60px;
+  }
+
+  .sponsor {
+    display: none;
+  }
+
+  .news {
+    width: 100%;
+    min-width: 100%;
+    padding: 20px;
+  }
+
+  .news h2 {
+    font-size: 25px;
+  }
+
+  .search {
+    width: 200px;
+    height: 3rem;
+  }
+
+  .search-button {
+    width: calc(3rem - 6px);
+    height: calc(3rem - 6px);
+  }
+
+  .news-category {
+    justify-content: center;
+  }
+
+  .news-card-list li:last-child {
+    margin-bottom: 24px;
+  }
+
+  .news-card {
+    margin-bottom: 20px;
+  }
+
+  .card-img-frame {
+    min-width: 144px;
+    margin-right: 10px;
+  }
+
+  .card-cont {
+    width: calc(100% - 150px);
+  }
+
+  .card-tit {
+    font-size: 20px;
+  }
+
+  .button-more {
+    margin: 0 auto 10px;
+  }
+
+  /* modal: 심채영 */
+  /* .sponsor {
+    display: flex;
+    flex-direction: column;
+    width: 380px;
+    height: 716px;
+    padding: 39px 30px 47px 30px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    background-color: #f5f5f5;
+  }
+  .sponsor h2 {
+    margin-bottom: 33px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #015bbb;
+    line-height: 29px;
+  }
+  .sponsor-card {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 14px 20px;
+    background-color: #fff;
+  }
+  .sponsor-card.first {
+    padding: 23px 32px;
+  }
+  .sponsor-card img {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+  }
+  .sponsor-card h3 {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 29px;
+    color: #333;
+  }
+  .sponsor-card p {
+    color: #767676;
+    line-height: 23px;
+  }
+  .sponsor-list li:not(:first-child) {
+    margin-top: 8px;
+  }
+
+  .btn-close {
+    position: absolute;
+    right: 25%;
+  }
+
+  .modal-background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+  } */
+
+  .modal-background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+  }
+  /* footer: 윤수영 */
+  footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row-reverse;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 60px;
+    padding: 0 15px 0;
+  }
+
+  .footer-logo {
+    display: none;
+  }
+
+  .sponsor-info-btn {
+    display: block;
+    position: fixed;
+    bottom: 10px;
+    left: 15px;
+    width: 120px;
+    height: 40px;
+    border: 1px solid #eeeeee;
+    background: #ffffff;
+    z-index: 10;
+    cursor: pointer;
+  }
+
+  .scroll-up-btn {
+    right: 50px;
+    width: 40px;
+    height: 40px;
+    margin: 0;
+  }
+
+  .scroll-up-btn::after {
+    top: 8px;
+  }
+
+  .scroll-up-btn span {
+    padding: 12px 0 0;
+  }
+}

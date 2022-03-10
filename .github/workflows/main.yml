@@ -1,0 +1,14 @@
+name: GithubActionTest
+ 
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: hello world 출력!!
+      run: echo Hello, world!
+    - name: 디렉토리 출력!!
+      run: ls -al
+    - name: 파이썬 버전 출력!!
+      run: python -V

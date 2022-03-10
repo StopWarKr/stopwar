@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>StopWar</title>
+    <link rel="stylesheet" href="../css/reset.css" />
+    <link rel="stylesheet" href="../css/font.css" />
+    <style>
+      #news {
+        width: 1053px;
+        padding: 49px 128px 77px 108px;
+        box-sizing: border-box;
+      }
+
+      .main-header {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        margin-bottom: 24px;
+      }
+
+      h2 {
+        color: #015bbb;
+        font-size: 32px;
+        font-weight: 700;
+      }
+
+      .search {
+        position: relative;
+        background-color: #f5f5f5;
+        border-radius: 40px;
+        width: 312px;
+        height: 40px;
+      }
+
+      .search-input {
+        position: relative;
+        border: none;
+        margin-left: 33px;
+        background-color: transparent;
+        width: 75%;
+        height: 100%;
+      }
+
+      .search-input::placeholder {
+        font-size: 14px;
+        color: #000000;
+        line-height: 40px;
+        opacity: 0.4;
+      }
+      .search-input:focus {
+        outline: none;
+      }
+      .search-img {
+        position: absolute;
+        top: 12.25px;
+        right: 18.25px;
+        width: 18.5px;
+        height: 18.5px;
+      }
+
+      .news-card-list li:last-child {
+        margin-bottom: 77px;
+      }
+
+      .news-card {
+        margin-bottom: 40px;
+        transition: opacity 0.2s ease-in-out;
+      }
+
+      .news-card:hover {
+        opacity: 0.5;
+      }
+
+      .news-card-link {
+        display: flex;
+        width: 100%;
+      }
+
+      .card-img-frame {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+        box-sizing: border-box;
+        min-width: 184px;
+        height: 120px;
+        margin-right: 24px;
+        border-radius: 20px;
+        border-color: #ddd;
+        background: #eee;
+      }
+
+      img {
+        width: 100%;
+      }
+
+      .card-cont {
+        width: calc(100% - 208px);
+      }
+
+      .card-tit {
+        display: block;
+        overflow: hidden;
+        width: 100%;
+        margin: 7px 0;
+        font-size: 24px;
+        font-weight: bold;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+
+      .card-desc {
+        display: -webkit-box;
+        overflow: hidden;
+        margin-bottom: 15px;
+        font-size: 14px;
+        color: #666;
+        line-height: 1.6;
+        text-overflow: ellipsis;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+      }
+
+      .card-date,
+      .card-source {
+        font-size: 14px;
+        color: #767676;
+      }
+
+      .card-date::after {
+        content: '|';
+        margin-left: 5px;
+      }
+
+      .button-more {
+        display: block;
+        box-sizing: border-box;
+        width: 120px;
+        height: 35px;
+        margin: 0 auto 77px;
+        padding-right: 20px;
+        border: 1px solid #015bbb;
+        border-radius: 20px;
+        background: transparent url('../image/btn-more.svg') no-repeat 75% 55% /
+          contain;
+        background-size: 16px;
+        cursor: pointer;
+        transition: all 0.2s ease-out;
+      }
+
+      .button-more:hover,
+      .button-more:active {
+        background: #015bbb url('../image/btn-more-hover.svg') no-repeat 75% 55% /
+          contain;
+        background-size: 16px;
+        color: #fff;
+      }
+    </style>
+  </head>
+
+  <body>
+    <!-- skip : 윤우상 -->
+    <ul class="skip">
+      <li><a href="#news">뉴스 바로가기</a></li>
+      <li><a href="#sponsor">후원정보 바로가기</a></li>
+    </ul>
+    <!-- //skip -->
+
+    <!-- header : 김초연 , 김상돈 border-bottom 부탁드릴게요!-->
+    <header>
+      <h1>StopWar</h1>
+    </header>
+    <!-- //header -->
+
+    <!-- main : 뉴스 -->
+    <main id="news">
+      <!-- 제목 및 검색 : 유현세,정시찬 -->
+      <div class="main-header">
+        <h2>뉴스정보</h2>
+        <form class="search">
+          <input
+            class="search-input"
+            type="text"
+            placeholder="검색어를 입력하세요"
+            onfocus="this.placeholder=''"
+            onblur="this.placeholder='검색어를 입력하세요'"
+          />
+          <img class="search-img" src="../image/search.svg" />
+        </form>
+      </div>
+
+      <!-- //제목 및 검색  -->
+
+      <!-- 카테고리 : 조미진, 최성이 -->
+      <!-- //카테고리 -->
+
+      <!-- 뉴스카드 : 윤수영, 박지윤, 지다혜 -->
+      <ul class="news-card-list"></ul>
+      <button class="button-more" type="button">더보기</button>
+      <!-- //뉴스카드 -->
+    </main>
+    <!-- //main : 뉴스 -->
+
+    <!-- aside : 후원정보 :박유진, 김경민 -->
+    <aside class="sponsor"></aside>
+    <!-- //aside : 후원정보 -->
+
+    <!-- footer : 지다혜 -->
+    <footer>
+      <!-- 참여자이름, 메일주소 -->
+    </footer>
+    <!-- //footer -->
+
+    <!-- 스크립트 연결 -->
+    <script src="../js/index.js"></script>
+    <script src="../js/news_card_history.js"></script>
+    <!-- <script src="../js/news_card_all.js"></script> -->
+
+    <!-- // 스크립트 연결 -->
+    <script src="../js/category_damage.js"></script>
+  </body>
+</html>

@@ -1,16 +1,241 @@
-<html>
+<!DOCTYPE html>
+<html lang="ko-KR">
   <head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HRZ5GWKWV1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>StopWar</title>
+    <link rel="icon" type="image/x-icon" href="./favicon.ico" />
+    <link rel="stylesheet" href="./css/reset.css" />
+    <link rel="stylesheet" href="./css/font.css" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="./css/media_query.css" />
+    <link rel="canonical" href="https://stopwar.co.kr/" />
+    <meta
+      name="keywords"
+      content="우크라이나, 러시아, 전쟁, 침공, 협상, 후원, 지원, 뉴스, Ukraine, Russia, stopwar"
+    />
+    <meta
+      name="Description"
+      content="우크라이나와 러시아 간의 전쟁 뉴스와 우크라이나 후원 정보를 제공합니다."
+    />
+    <meta
+      http-equiv="Subject"
+      content="우크라이나와 러시아 간의 전쟁 뉴스 및 우크라이나 후원 정보"
+    />
+    <meta property="og:title" content="StopWar" />
+    <meta property="og:url" content="https://stopwar.co.kr" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="StopWar" />
+    <meta
+      property="og:description"
+      content="우크라이나와 러시아 간의 전쟁 뉴스와 우크라이나 후원 정보를 제공합니다."
+    />
+    <meta property="og:image" content="./image/ogimage.jpg" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-HRZ5GWKWV1"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
 
-  gtag('config', 'G-HRZ5GWKWV1');
-</script>
-    </head>
+      gtag('config', 'G-HRZ5GWKWV1');
+    </script>
+  </head>
+
   <body>
-    <h1>접속 테스트</h1>
-    </body>
-  </html>
+    <!-- skip : 윤우상 -->
+    <ul class="skip">
+      <li><a href="#news">뉴스 바로가기</a></li>
+      <li><a href="#sponsor">후원정보 바로가기</a></li>
+    </ul>
+    <!-- //skip -->
+
+    <!-- header : 김초연 , 김상돈 -->
+    <header id="header">
+      <div class="header-cont">
+        <h1 class="header-logo">
+          <a href="/">
+            <img src="./image/logo.svg" alt="StopWar" />
+          </a>
+        </h1>
+        <div class="select-lang">
+          <button class="lang-btn">
+            <span class="lang-txt">한국어</span>
+          </button>
+          <ul class="lang-cont">
+            <!-- /* lang-cont에 JS로 'on' class 추가해주세요 */ -->
+            <li class="lang-items">한국어</li>
+            <li class="lang-items">English</li>
+            <li class="lang-items">Українська мова</li>
+          </ul>
+        </div>
+        <button type="button" class="sponsor-info-btn">후원정보</button>
+      </div>
+    </header>
+    <!-- //header -->
+
+    <main class="main">
+      <!-- main : 뉴스 -->
+      <section id="news" class="news">
+        <!-- 제목 및 검색 : 유현세,정시찬 -->
+        <div class="main-header">
+          <h2>뉴스정보</h2>
+          <form class="search">
+            <label for="search-input" class="search-label">검색</label>
+            <input
+              id="search-input"
+              class="search-input"
+              type="text"
+              placeholder="검색어를 입력하세요"
+            />
+            <button type="submit" class="search-button">
+              <img class="search-img" src="./image/search.svg" alt="검색" />
+            </button>
+          </form>
+        </div>
+        <!-- //제목 및 검색  -->
+
+        <!-- 카테고리 : 조미진, 최성이 -->
+        <ul class="news-category">
+          <li class="category-bg on">
+            <button class="category-tit all-btn">ALL</button>
+          </li>
+          <li class="category-bg">
+            <button class="category-tit history-btn">역사</button>
+          </li>
+          <li class="category-bg">
+            <button class="category-tit regul-btn">규제</button>
+          </li>
+          <li class="category-bg">
+            <button class="category-tit nego-btn">협상 진행 과정</button>
+          </li>
+          <li class="category-bg">
+            <button class="category-tit live-btn">지역 라이브 상황</button>
+          </li>
+          <li class="category-bg">
+            <button class="category-tit damage-btn">피해 상황</button>
+          </li>
+          <li class="category-bg">
+            <button class="category-tit combat-btn">교전 최신 상황</button>
+          </li>
+          <li class="category-bg">
+            <button class="category-tit sponsor-btn">후원</button>
+          </li>
+          <li class="category-bg">
+            <button class="category-tit category-btn">카테고리</button>
+          </li>
+        </ul>
+        <!-- //카테고리 -->
+
+        <!-- 뉴스카드 : 윤수영, 박지윤, 지다혜 -->
+        <ul class="news-card-list"></ul>
+        <button class="button-more" type="button">더보기</button>
+        <!-- //뉴스카드 -->
+      </section>
+      <!-- //main : 뉴스 -->
+
+      <!-- aside : 후원정보 :박유진, 김경민 -->
+      <aside class="sponsor" id="sponsor">
+        <h2>후원정보</h2>
+        <ul class="sponsor-list">
+          <li>
+            <a
+              href="https://overseas.mofa.go.kr/ua-ko/index.do"
+              class="sponsor-card"
+              target="_blank"
+            >
+              <div class="sponsor-detail">
+                <h3>주한우크라이나 대사관</h3>
+                <p>하나은행 /우크라이나대사관</p>
+                <p>174-910024-87105</p>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://ko.airbnb.org/help-ukraine"
+              class="sponsor-card"
+              target="_blank"
+            >
+              <img src="./image/airbnd.svg" alt="에어비앤비" />
+              <div class="sponsor-detail">
+                <h3>에어비엔비</h3>
+                <p>피란민 호스팅</p>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.unhcr.or.kr/ukraine-emergency/?utm_source=facebook&utm_medium=social&utm_campaign=KR_PS_KO_UA_banner__ukraine%7Cretargetlookalike%7Cimagea%7Ccc&&utm_content=RF1202539&fbclid=IwAR2TR_6a6tyyatwoMu4RgOOycSVYTwiIQZQOTJJGmWlodEhdcPU42SPmxGg"
+              class="sponsor-card"
+              target="_blank"
+            >
+              <img src="./image/un.svg" alt="유엔" />
+              <div class="sponsor-detail">
+                <h3>유엔난민기구</h3>
+                <p>우크라이나 긴급구호</p>
+              </div>
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://help.unicef.org/gao/ukraine-emergency?language=en"
+              class="sponsor-card"
+              target="_blank"
+            >
+              <img src="./image/unicef.svg" alt="유니세프" />
+              <div class="sponsor-detail">
+                <h3>유니세프 글로벌</h3>
+                <p>우크라이나 어린이 돕기</p>
+              </div>
+            </a>
+          </li>
+          <li class="sponsor-item">
+            <a
+              href="https://www.sc.or.kr/participate/campaignView.do?NO=29049&utm_source=google_pc&utm_medium=paid_search&utm_campaign=sa&utm_content=%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98&utm_term=%5B%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98%EC%A0%84%EC%9F%81%ED%9B%84%EC%9B%90%5D&gclid=CjwKCAiA1JGRBhBSEiwAxXblwQDct4VcqQKKsXApujZyHP82xzjrLNZznbWOOrFPmJoQGVCIuTBZKRoCk9gQAvD_BwE"
+              class="sponsor-card"
+              target="_blank"
+            >
+              <img src="./image/savethechild.svg" alt="세이브더칠드런" />
+              <div class="sponsor-detail">
+                <h3>세이브더칠드런</h3>
+                <p>우크라이나 긴급구호</p>
+              </div>
+            </a>
+          </li>
+          <li class="sponsor-item">
+            <a
+              href="https://www.redcross.ch/en"
+              class="sponsor-card"
+              target="_blank"
+            >
+              <img src="./image/swisscross.svg" alt="스위스적십자" />
+              <div class="sponsor-detail">
+                <h3>스위스 적십자</h3>
+                <p>우크라이나 비상 키트 돕기</p>
+              </div>
+            </a>
+          </li>
+        </ul>
+      </aside>
+      <!-- //aside : 후원정보 -->
+    </main>
+
+    <!-- footer : 지다혜 -->
+    <footer>
+      <img class="footer-logo" src="./image/logo-gray.svg" alt="StopWar" />
+      <a href="#header" type="button" class="scroll-up-btn"><span>TOP</span></a>
+    </footer>
+    <!-- //footer -->
+
+    <!-- 스크립트 연결 -->
+    <script type="module" src="./js/index.js"></script>
+    <!-- // 스크립트 연결 -->
+  </body>
+</html>
