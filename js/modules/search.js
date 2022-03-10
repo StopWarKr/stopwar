@@ -31,7 +31,7 @@ export const search = async (event) => {
     removeElement();
     if (filteredArr.length > 0) {
       filteredArr.forEach((news) => {
-        newsCardList.appendChild(renderCard(news));
+        newsCardList.appendChild(renderCard(news, inputValue));
       });
     } else {
       newsCardList.innerHTML = '검색 결과가 없습니다.';

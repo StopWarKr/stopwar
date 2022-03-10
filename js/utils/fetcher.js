@@ -6,7 +6,7 @@ export const getAPI = async (url) => {
     const datas = await res.json();
     return datas;
   } catch (error) {
-    // console.log('json파일이 없습니다.');
+    console.log('json파일이 없습니다.');
     console.log(error);
   }
 };

@@ -10,9 +10,9 @@ body {
   position: absolute;
   top: -200px;
   left: 0;
+  max-width: 300px;
   background-color: #333;
   color: white;
-  max-width: 300px;
   text-align: center;
   line-height: 30px;
 }
@@ -73,9 +73,7 @@ header {
   left: -30px;
   width: 20px;
   height: 20px;
-  background-image: url('../image/icon-lang.png');
-  background-size: cover;
-  background-repeat: no-repeat;
+  background: url('../image/icon-lang.svg') no-repeat 0 0 / cover;
 }
 .lang-txt::after {
   content: '';
@@ -85,13 +83,11 @@ header {
   left: 50px;
   width: 8px;
   height: 4px;
-  background-image: url('../image/icon-arrow.png');
-  background-size: cover;
-  background-repeat: no-repeat;
+  background: url('../image/icon-arrow.png') no-repeat 0 0 / cover;
 }
 .lang-cont {
-  position: absolute;
   display: none;
+  position: absolute;
   flex-direction: column;
   gap: 5px;
   width: 120px;
@@ -139,9 +135,8 @@ header {
 .category-bg {
   border: 1px solid #cccccc;
   border-radius: 4rem;
-
   background: rgba(204, 204, 204, 0.1);
-  color: #767676;
+  color: #6e6e6e;
   transition: all 0.3s;
 }
 .category-bg:hover,
@@ -153,9 +148,9 @@ header {
 }
 .category-tit {
   padding: 0.4rem 1.4rem;
-  font-size: 1.4rem;
   border-radius: 4rem;
   color: inherit;
+  font-size: 1.4rem;
   cursor: pointer;
 }
 /* main category : end --------------------------------*/
@@ -192,23 +187,22 @@ h2 {
   width: 1px;
   height: 1px;
   margin: -1px;
-  border: 0;
   padding: 0;
+  border: 0;
 }
 .search-input {
-  border: none;
   width: 100%;
   height: 100%;
-  border-radius: 40px;
-  background-color: #f5f5f5;
   border: 1px solid #f5f5f5;
+  border-radius: 40px;
   box-sizing: border-box;
+  background-color: #f5f5f5;
   text-indent: 2rem;
 }
 .search-input:focus {
-  outline: none;
-  background: #fff;
   border-color: #015bbb;
+  background: #fff;
+  outline: none;
 }
 
 .search-input::placeholder {
@@ -222,7 +216,6 @@ h2 {
   display: flex;
   align-items: center;
   justify-content: center;
-
   position: absolute;
   top: 3px;
   right: 3px;
@@ -265,12 +258,12 @@ h2 {
   justify-content: center;
   align-items: center;
   overflow: hidden;
-  box-sizing: border-box;
   min-width: 184px;
   height: 120px;
   margin-right: 24px;
   border-radius: 20px;
   border-color: #ddd;
+  box-sizing: border-box;
   background: #eee;
 }
 
@@ -318,16 +311,14 @@ img {
 
 .button-more {
   display: block;
-  box-sizing: border-box;
   width: 120px;
   height: 35px;
   margin: 0 auto 77px;
   padding-right: 20px;
   border: 1px solid #015bbb;
   border-radius: 20px;
-  background: transparent url('../image/btn-more.svg') no-repeat 75% 55% /
-    contain;
-  background-size: 16px;
+  box-sizing: border-box;
+  background: transparent url('../image/btn-more.svg') no-repeat 75% 55% / 16px;
   cursor: pointer;
   transition: all 0.3s;
 }
@@ -335,8 +326,7 @@ img {
 .button-more:hover,
 .button-more:active {
   background: #015bbb url('../image/btn-more-hover.svg') no-repeat 75% 55% /
-    contain;
-  background-size: 16px;
+    16px;
   color: #fff;
 }
 /* main card : end --------------------------------*/
@@ -345,8 +335,8 @@ img {
 .sponsor {
   display: flex;
   flex-direction: column;
-  background-color: #f5f5f5;
   padding: 3rem 4rem;
+  background-color: #f5f5f5;
 }
 .sponsor h2 {
   margin-bottom: 1rem;
@@ -383,43 +373,43 @@ img {
 
 /* footer : start --------------------------------*/
 footer {
-  width: 100%;
-  height: 140px;
   display: flex;
   justify-content: center;
-  background-color: #f9f9f9;
+  width: 100%;
+  height: 140px;
   border-top: 1px solid #eeeeee;
+  background-color: #f9f9f9;
 }
 
 .footer-logo {
-  margin-top: 54px;
   width: 160px;
   height: 32px;
+  margin-top: 54px;
 }
 
 .scroll-up-btn {
   position: absolute;
-  margin: 42px 0;
   right: 108px;
+  margin: 42px 0;
   padding: 0;
-  background-color: #ffffff;
   border: 1px solid #eeeeee;
+  background-color: #ffffff;
+  text-align: center;
   cursor: pointer;
 }
 .scroll-up-btn::after {
   content: '';
   position: absolute;
   top: 15px;
-  /* left: 24px; */
   left: calc(50% - 8px / 2);
-  background: url('../image/btn-scroll-top.svg') no-repeat center transparent;
   width: 8px;
   height: 5px;
+  background: url('../image/btn-scroll-top.svg') no-repeat center transparent;
 }
 
 .scroll-up-btn span {
-  padding: 26px 14px 10px;
   display: block;
+  padding: 26px 14px 10px;
   font-size: 14px;
   font-weight: 400;
   line-height: 21px;
