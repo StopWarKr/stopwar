@@ -1,7 +1,7 @@
 name: crawl current data
 # on:
 #   schedule:
-#     - cron: "*/3 * * * *"
+#     - cron: "*/60 * * * *"
 on: [push]
 jobs:
   runCrawler:

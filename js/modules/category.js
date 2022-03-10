@@ -33,21 +33,20 @@ const renderCard = (news, inputValue) => {
   if (news.image_path){
     img.setAttribute('src', IMG_URL + news.image_path);
   } else {
-    img.setAttribute('src', IMG_URL + 'image/no-image.png');
+    img.setAttribute('src', './image/no-image.jpg');
   }
   img.setAttribute('alt', news.category);
   link.appendChild(contentsBox);
   link.setAttribute('href', news.link);
   link.setAttribute('target', '_blink');
   // contentsBox.appendChild(title).textContent = news.name;
-  contentsBox.appendChild(content).textContent = news.description;
   contentsBox.appendChild(time).textContent = news.date;
   contentsBox.appendChild(source).textContent = ' 출처 : ' + news.link.split('/')[2];
-
+  
   // 기본 데이터 설정
   const newsName = news.name ? news.name : '제목없음';
   let output = newsName;
-
+  
   // 검색어가 있을 경우
   if(inputValue && inputValue.length !== 0) {
     // 검색어 배열을 forEach로 돌려 keyword를 하나씩 가져온다.
@@ -62,8 +61,9 @@ const renderCard = (news, inputValue) => {
       output = [output.slice(0, startIndex), addMarkElement, output.slice(endIndex, newsName.length)].join('');
     });
   } 
-
+  
   contentsBox.appendChild(title).innerHTML = output;
+  contentsBox.appendChild(content).textContent = news.description;
 
   return newsCard;
 };
