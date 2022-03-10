@@ -26,7 +26,10 @@
 ```javascript
 [{
     title : '우크라이나 뉴스기사...', //제목
+    content : '러시아와 우크라이나의...', //내용
     link : 'URL', //클릭하면 들어갈 수 있는 url
-    category : 'history' // 카테고리
+    category : 'history', // 카테고리
+    source : '조선일보', // 출처
+    date : '2022-03-10' // 날짜(협의)
 }, ...]
 ```
