@@ -52,12 +52,12 @@
     margin-right: 10px;
   }
 
-  .card-cont {
-    width: calc(100% - 150px);
-  }
-
   .card-tit {
+    display: block;
+    min-width: 250px;
     font-size: 20px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 
   .button-more {

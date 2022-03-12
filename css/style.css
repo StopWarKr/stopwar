@@ -258,13 +258,14 @@ h2 {
   justify-content: center;
   align-items: center;
   overflow: hidden;
-  min-width: 184px;
+  width: 184px;
   height: 120px;
   margin-right: 24px;
   border-radius: 20px;
   border-color: #ddd;
   box-sizing: border-box;
   background: #eee;
+  flex-shrink: 0;
 }
 
 img {
@@ -282,7 +283,7 @@ img {
   margin: 7px 0;
   font-size: 24px;
   font-weight: bold;
-  text-overflow: ellipsis;
+  /* text-overflow: ellipsis; */
   white-space: nowrap;
 }
 
