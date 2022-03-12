@@ -1,8 +1,10 @@
 name: crawl current data
-# on:
-#   schedule:
-#     - cron: "*/60 * * * *"
-on: [push]
+# 6시간마다 실행되게 해두었습니다.
+# 총 1000번이므로 250일 운영 가능합니다.
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+# on: [push]
 jobs:
   runCrawler:
     runs-on: ubuntu-latest
