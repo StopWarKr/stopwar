@@ -1,48 +1,8 @@
 ﻿[
     {
-        "name": "Is the Ukraine war intensifying regulatory pressure on crypto firms?",
-        "description": "Is the Ukraine war intensifying regulatory pressure on crypto firms? Every \nday, people are seeing “live” why sanctions matter. “Everyone is...",
-        "link": "https://cointelegraph.com/news/is-the-ukraine-war-intensifying-regulatory-pressure-on-crypto-firms",
-        "date": "-",
-        "image_path": "",
-        "catagory": "규제"
-    },
-    {
-        "name": "Russia moves to ban Instagram, declare Meta an 'extremist ...",
-        "description": "Silicon Valley companies have been rewriting their rules during the war in \nUkraine. Russia is retaliating. · YouTube blocked Russian state media...",
-        "link": "https://www.washingtonpost.com/technology/2022/03/11/russian-prosecutor-general-seeks-ban-instagram-declare-meta-an-extremist-organization/",
-        "date": "-",
-        "image_path": "",
-        "catagory": "규제"
-    },
-    {
-        "name": "US and UK rule out no-fly zone over Ukraine, again",
-        "description": "US and UK rule out no-fly zone over Ukraine, again. Top US and UK diplomats \npledge to bolster Ukrainian defences but say direct confrontation...",
-        "link": "https://www.aljazeera.com/news/2022/3/9/us-and-uk-rule-out-no-fly-zone-over-ukraine-again",
-        "date": "-",
-        "image_path": "",
-        "catagory": "규제"
-    },
-    {
-        "name": "Fines, Fear, Self-Censorship: Russia's New Ukraine Laws ...",
-        "description": "Fines, Fear, Self-Censorship: Russia's New Ukraine Laws Cast Chill ... \nPresident Vladimir Putin sent his forces into Ukraine on Feb.",
-        "link": "https://www.usnews.com/news/world/articles/2022-03-11/fines-fear-self-censorship-russias-new-ukraine-laws-cast-chill",
-        "date": "-",
-        "image_path": "",
-        "catagory": "규제"
-    },
-    {
-        "name": "Ukraine says Russian attacks block Mariupol evacuation: Live news",
-        "description": "Ukraine's capital, Kyiv, braces for an all-out assault as Russian military \n... “Ukraine's regulatory authority said work that began on the...",
-        "link": "https://www.aljazeera.com/news/2022/3/11/ukraine-says-russian-attacks-block-mariupol-evacuation-again-liveblog",
-        "date": "-",
-        "image_path": "",
-        "catagory": "규제"
-    },
-    {
-        "name": "Republicans Call for Pause on Climate-Related Regulation ...",
-        "description": "... asking the Biden administration to put climate-related financial \nregulations on the backburner in light of Russia's invasion of Ukraine.",
-        "link": "https://www.wsj.com/livecoverage/russia-ukraine-latest-news-2022-03-08/card/republicans-call-for-pause-on-climate-related-regulation-citing-ukraine-conflict-gyzpeWwpzFszladTt2Qa",
+        "name": "US rules out Ukraine no-fly zone after Zelenskyy appeal",
+        "description": "The United States has ruled out enforcing a “no-fly zone” on Russian \naircraft over Ukraine after Ukrainian President Volodymyr Zelenskyy...",
+        "link": "https://www.aljazeera.com/news/2022/3/1/us-rules-out-ukraine-no-fly-zone-after-zelenskyy-appeal",
         "date": "-",
         "image_path": "",
         "catagory": "규제"
@@ -51,14 +11,6 @@
         "name": "European Union/Ukraine: EU Member States Start ...",
         "description": "The Directive applies to Ukrainian citizens; foreign citizens residents in \nUkraine; and spouses or partners, minor children, and cohabiting...",
         "link": "https://www.fragomen.com/insights/european-unionukraine-eu-member-states-start-implementing-temporary-protection-directive.html",
-        "date": "-",
-        "image_path": "",
-        "catagory": "규제"
-    },
-    {
-        "name": "US rules out Ukraine no-fly zone after Zelenskyy appeal",
-        "description": "The United States has ruled out enforcing a “no-fly zone” on Russian \naircraft over Ukraine after Ukrainian President Volodymyr Zelenskyy...",
-        "link": "https://www.aljazeera.com/news/2022/3/1/us-rules-out-ukraine-no-fly-zone-after-zelenskyy-appeal",
         "date": "-",
         "image_path": "",
         "catagory": "규제"
@@ -104,14 +56,6 @@
         "catagory": "규제"
     },
     {
-        "name": "Fines, fear, self-censorship: Russia's new Ukraine law casts chill",
-        "description": "Fines, fear, self-censorship: Russia's new Ukraine law casts chill. \nBy:Reuters ... (Corrects to law singular, not laws, in headline).",
-        "link": "https://www.fxempire.com/news/article/fines-fear-self-censorship-russias-new-ukraine-laws-cast-chill-932301",
-        "date": "-",
-        "image_path": "",
-        "catagory": "규제"
-    },
-    {
         "name": "Is Russia committing war crimes by bombing hospitals in Ukraine?",
         "description": "In Russia's invasion of Ukraine, there have already been reports of ... by \na set of ethical rules both at times of peace and times of war.",
         "link": "https://www.aljazeera.com/features/2022/3/10/is-russia-committing-war-crimes-by-bombing-hospitals-in-ukraine",
@@ -144,6 +88,14 @@
         "catagory": "규제"
     },
     {
+        "name": "NATO chief says coming days 'likely to be worse,' rejects call ...",
+        "description": "BRUSSELS — The war in Ukraine will probably become even more punishing for \ncivilians, as Russia employs brutal tactics it has used to deadly...",
+        "link": "https://www.washingtonpost.com/world/2022/03/04/nato-ukraine-russia/",
+        "date": "-",
+        "image_path": "",
+        "catagory": "규제"
+    },
+    {
         "name": "Executive Order on Prohibiting Certain Imports and New ...",
         "description": "... to Undermine the Sovereignty and Territorial Integrity of Ukraine ... \nby the Constitution and the laws of the United States of America,...",
         "link": "https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/08/executive-order-on-prohibiting-certain-imports-and-new-investments-with-respect-to-continued-russian-federation-efforts-to-undermine-the-sovereignty-and-territorial-integrity-of-ukraine/",
@@ -152,9 +104,57 @@
         "catagory": "규제"
     },
     {
-        "name": "NATO chief says coming days 'likely to be worse,' rejects call ...",
-        "description": "BRUSSELS — The war in Ukraine will probably become even more punishing for \ncivilians, as Russia employs brutal tactics it has used to deadly...",
-        "link": "https://www.washingtonpost.com/world/2022/03/04/nato-ukraine-russia/",
+        "name": "Commission proposes temporary protection status",
+        "description": "Temporary Protection Directive. Since the Russia's military invasion of \nUkraine, over 650,000 people have fled to neighbouring EU Member...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_22_1469",
+        "date": "-",
+        "image_path": "",
+        "catagory": "규제"
+    },
+    {
+        "name": "How Will Joe Biden’s Executive Order on Crypto Regulations Change Due to \nthe Russia-Ukraine War?",
+        "description": "... between Russia and Ukraine, US President Joe Biden is expected to sign \nthe executive order about cryptocurrency regulations this week.",
+        "link": "https://cryptopotato.com/how-will-joe-bidens-executive-order-on-crypto-regulations-change-due-to-the-russia-ukraine-war/",
+        "date": "-",
+        "image_path": "",
+        "catagory": "규제"
+    },
+    {
+        "name": "The War in Ukraine Could Pose New Security Risks for Crypto Investors. \nHere’s How to Protect Your Coins",
+        "description": "To evade sanctions, Russia could lean on crypto as a form of currency since \nthe “international financial rules and regulations are not as...",
+        "link": "https://time.com/nextadvisor/investing/cryptocurrency/protect-your-crypto-war-in-ukraine/",
+        "date": "-",
+        "image_path": "",
+        "catagory": "규제"
+    },
+    {
+        "name": "US, by limiting technology exports, hurting Russia's ability to wage war in \nUkraine: Officials",
+        "description": "As the war in Ukraine continues, one office inside the Commerce ... against \ncompanies that that criminally violate the export control rules.",
+        "link": "https://abcnews.go.com/Politics/us-limiting-technology-exports-hurting-russias-ability-wage/story?id=83396451",
+        "date": "-",
+        "image_path": "",
+        "catagory": "규제"
+    },
+    {
+        "name": "Amid War in Ukraine, Crypto Regulation Refocuses on the Dark Side of \nDigital Assets",
+        "description": "Amid War in Ukraine, Crypto Regulation Refocuses on the Dark Side of \nDigital Assets. By PYMNTS Listen to Article. Posted on...",
+        "link": "https://www.pymnts.com/news/regulation/2022/amid-war-ukraine-crypto-regulation-refocuses-dark-side-digital-assets/",
+        "date": "-",
+        "image_path": "",
+        "catagory": "규제"
+    },
+    {
+        "name": "Russia-Ukraine war and sanctions spur increasing calls for ...",
+        "description": "Russia-Ukraine war and sanctions spur increasing calls for crypto \nregulation: CNBC Crypto World. CNBC Crypto World features the latest news...",
+        "link": "https://www.cnbc.com/video/2022/03/03/russia-ukraine-war-sanctions-spur-calls-for-crypto-regulation-cnbc-crypto-world.html",
+        "date": "-",
+        "image_path": "",
+        "catagory": "규제"
+    },
+    {
+        "name": "Ukraine paves the way for crypto regulation",
+        "description": "Ukraine paves the way for crypto regulation. The country's government \npassed a bill legalizing crypto, but it doesn't recognize bitcoin or \nother...",
+        "link": "https://www.protocol.com/bulletins/ukraine-crypto-legalize",
         "date": "-",
         "image_path": "",
         "catagory": "규제"
