@@ -38,12 +38,14 @@ class GoogleCrawler:
             "div", attrs={"class": "GI74Re nDgy9d"}).get_text()
 
         return {
-            'title': title,
+            'name': title,
+            'description': content,
             'link': url,
+            'date': "-",
+            # 'source': source,
+            'image_path': '',
             'catagory': self.category,
-            'source': source,
-            'content': content,
-            # todo: date 추가 필요
+            # todo: date 수정 필요
         }
 
     def write_json(self, filename):
