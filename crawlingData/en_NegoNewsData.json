@@ -1,81 +1,161 @@
 ﻿[
     {
-        "name": "Ukraine rejects Russian pressure in talks, Moscow says zero ...",
-        "description": "1개월 전",
-        "link": "https://www.reuters.com/world/europe/russia-ukraine-say-berlin-talks-fail-yield-breakthrough-2022-02-11/",
-        "date": "1개월 전",
+        "name": "‘No progress’ as top Russia, Ukraine diplomats talk in Turkey",
+        "description": "Negotiations mediated by Ankara are the first high-level contact between \nthe two sides since Moscow's invasion of its ex-Soviet neighbour.",
+        "link": "https://www.aljazeera.com/news/2022/3/10/top-russia-ukraine-diplomats-arrive-in-turkey-for-talks",
+        "date": "2일 전",
         "image_path": "",
         "catagory": "협상 진행 과정"
     },
     {
-        "name": "Ukraine Negotiations Need to Take In the Whole of European ...",
-        "description": "1개월 전",
-        "link": "https://foreignpolicy.com/2022/02/10/mediation-ukraine-russia-2014-war-west/",
-        "date": "1개월 전",
-        "image_path": "",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "Russia, Ukraine Talks Falter as Scope for Diplomatic Solution Narrows",
-        "description": "1개월 전",
-        "link": "https://www.wsj.com/articles/russia-ukraine-meet-for-talks-as-scope-for-diplomatic-solution-narrows-11644494258",
-        "date": "1개월 전",
-        "image_path": "",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "WATCH: State Department warns no sanctions relief for Russia in Iran \nnuclear deal negotiations",
-        "description": "18시간 전",
-        "link": "https://www.pbs.org/newshour/world/watch-live-state-department-spokesperson-ned-price-holds-briefing-amid-ongoing-crisis-in-ukraine",
-        "date": "18시간 전",
-        "image_path": "",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "Ukrainian Fighters Battle to Hold Capital",
-        "description": "2주 전",
-        "link": "https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war",
-        "date": "2주 전",
-        "image_path": "",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "Dow falls 200 points, notches its fifth straight week of losses as \nRussia-Ukraine war drags on",
-        "description": "1일 전",
-        "link": "https://www.cnbc.com/2022/03/10/stock-market-futures-open-to-close-news.html",
+        "name": "Ukraine and Russia Fail to Make Progress in Talks to End War",
+        "description": "Ukraine and Russia failed to make progress in halting the war and ... and \nforemost pre-condition for having such kind of negotiations is...",
+        "link": "https://www.bloomberg.com/news/articles/2022-03-10/ukraine-and-russia-fail-to-make-progress-in-talks-to-halt-war",
         "date": "1일 전",
         "image_path": "",
         "catagory": "협상 진행 과정"
     },
     {
-        "name": "Latest Ukraine updates: Renewed calls for de-escalation",
-        "description": "3주 전",
-        "link": "https://www.aljazeera.com/news/2022/2/15/us-offers-ukraine-1bn-loan-guarantee-liveblog",
-        "date": "3주 전",
+        "name": "Ukraine renews evacuation efforts as foreign ministers prepare for talks",
+        "description": "“The list of demands that Russia put together and forwarded to Ukraine — it \nis not a negotiation position, it is really an ultimatum,”...",
+        "link": "https://www.ft.com/content/6db772be-9d16-412f-9f69-86f02681b1b8",
+        "date": "1일 전",
+        "image_path": "",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "Russia's Putin sees 'positive shifts' in talks with Ukraine",
+        "description": "He then said Ukrainian negotiations were taking place practically every ... \nset out Russia's position and said he believed that Ukraine was...",
+        "link": "https://www.reuters.com/world/putin-sees-certain-positive-shifts-talks-with-ukraine-2022-03-11/",
+        "date": "23시간 전",
+        "image_path": "",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "Russia military makes slow, costly progress on Ukraine ...",
+        "description": "Two weeks after Russian forces streamed into neighboring Ukraine following \nmonths of ... In the north, progress has been tougher to discern.",
+        "link": "https://www.washingtonpost.com/national-security/2022/03/11/russia-military-ukraine-battlefield-progress/",
+        "date": "19시간 전",
+        "image_path": "",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "Russia uses warplanes, artillery in widening assault on Ukraine",
+        "description": "Russian forces trying to regroup from recent losses, stalled progress of \ninvasion. The Associated Press · Posted: Mar 11, 2022 3:55 AM ET | Last...",
+        "link": "https://www.cbc.ca/news/world/ukraine-war-russia-invasion-1.6381134",
+        "date": "1일 전",
+        "image_path": "",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "No diplomatic off-ramp in sight for Russia's war in Ukraine",
+        "description": "While Russian President Vladimir Putin said Friday there had been \"certain \npositive advances\" in negotiations with Ukraine, US and European...",
+        "link": "https://www.cnn.com/2022/03/11/politics/ukraine-russia-putin-diplomacy/index.html",
+        "date": "11시간 전",
+        "image_path": "",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "Russia-Ukraine war military dispatch: March 10, 2022",
+        "description": "Negotiations. Ukrainian Foreign Minister Dmytro Kuleba said no progress was \nmade on achieving a ceasefire in Ukraine during talks with his...",
+        "link": "https://www.aljazeera.com/news/2022/3/10/russia-ukraine-war-military-dispatch-march-10-2022",
+        "date": "1일 전",
+        "image_path": "",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "Ukraine: how negotiations could stop the war and what needs to happen first",
+        "description": "But if China has been engaged in this sort of diplomacy, it has yet to \nresult in any progress. Efforts by Turkey, India and the UAE have also...",
+        "link": "https://theconversation.com/ukraine-how-negotiations-could-stop-the-war-and-what-needs-to-happen-first-178820",
+        "date": "3일 전",
+        "image_path": "",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "Russia and Ukraine have gulf to bridge as negotiations step up",
+        "description": "“I don't see so far any material change in the Russian negotiating \nposition,” said Alexander Gabuev at the Carnegie Moscow Center.",
+        "link": "https://www.ft.com/content/d9309ade-f9b7-4dba-b65c-6e4e55356a00",
+        "date": "2일 전",
         "image_path": "",
         "catagory": "협상 진행 과정"
     },
     {
         "name": "Latest Russia-Ukraine updates: US to impose sanctions on Putin",
-        "description": "2주 전",
+        "description": "Wang said the current situation in Ukraine is not something Beijing wished \nto ... “They have not achieved the progress that we believe they...",
         "link": "https://www.aljazeera.com/news/2022/2/24/russian-troops-advancing-closer-to-kyiv-us-says-liveblog",
         "date": "2주 전",
         "image_path": "",
         "catagory": "협상 진행 과정"
     },
     {
-        "name": "European stocks fall after hawkish shift from ECB and as Ukraine-Russia \nnegotiations falter",
-        "description": "1일 전",
-        "link": "https://www.marketwatch.com/story/european-stocks-give-back-gains-as-ecb-meeting-looms-goldman-sachs-cuts-growth-outlook-over-ukraine-11646902776",
+        "name": "What Happened on Day 5 of Russia’s Invasion of Ukraine",
+        "description": "Delegations from Kyiv and Moscow failed to make progress in Belarus. ... \nadministration to offer Temporary Protected Status to Ukrainians...",
+        "link": "https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war",
+        "date": "2주 전",
+        "image_path": "",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "Latest Ukraine updates: Renewed calls for de-escalation",
+        "description": "“The pair discussed the grave situation on the Ukrainian border, ... Putin \nhas said at a news conference that a negotiation process should...",
+        "link": "https://www.aljazeera.com/news/2022/2/15/us-offers-ukraine-1bn-loan-guarantee-liveblog",
+        "date": "3주 전",
+        "image_path": "",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "Israeli officials say Russia-Ukraine ceasefire talks at critical point",
+        "description": "Why it matters: Israel, which has good relations with both Ukraine and \nRussia, is in a unique situation mediating between the countries.",
+        "link": "https://www.axios.com/israel-russia-ukraine-ceasefire-critical-point-5cb18c61-deba-46fb-b637-571614138dd8.html",
+        "date": "3일 전",
+        "image_path": "",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "How Russia views the situation in Ukraine, Western sanctions",
+        "description": "And, Ryan, it is also the case that Putin seemed to be saying that there's \nbeen some positive movement in negotiations with Ukraine. What is he...",
+        "link": "https://www.pbs.org/newshour/show/how-russia-views-the-situation-in-ukraine-and-the-price-exacted-by-western-sanctions",
+        "date": "12시간 전",
+        "image_path": "",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "Ukraine, Russia begin talks on Belarus border",
+        "description": "Russia has been cagier, with the Kremlin declining to comment on Moscow's \naim in negotiations. It was not clear whether any progress could...",
+        "link": "https://www.aljazeera.com/news/2022/2/28/ceasefire-talks-begin-four-days-after-russian-invasion-of-ukraine",
+        "date": "2주 전",
+        "image_path": "",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "Is Russia sabotaging the Iran nuclear deal over Ukraine sanctions?",
+        "description": "Despite progress in the negotiations to restore the 2015 Iran nuclear deal, \nthe accord's future is at stake after a last-minute Russian demand...",
+        "link": "https://www.dw.com/en/is-russia-sabotaging-the-iran-nuclear-deal-over-ukraine-sanctions/a-61064382",
+        "date": "2일 전",
+        "image_path": "",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "Russia, Ukraine agree to set up evacuation corridors",
+        "description": "Russian negotiator Vladimir Medinsky reported “substantial progress” at \nThursday's talks – the second round of negotiations since Russia...",
+        "link": "https://www.aljazeera.com/news/2022/3/4/russia-ukraine-agree-to-set-up-evacuation-corridors",
+        "date": "1주 전",
+        "image_path": "",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "Ukraine envoy: Israel is scared of Russia, isn’t sole mediator, shouldn’t \nbe neutral",
+        "description": "As part of taking a clear pro-Ukrainian position, Korniychuk called on the \n... in Turkey for the highest-level peace negotiations to date,...",
+        "link": "https://www.timesofisrael.com/ukraine-envoy-israel-is-afraid-of-russia-and-should-drop-neutral-position/",
         "date": "1일 전",
         "image_path": "",
         "catagory": "협상 진행 과정"
     },
     {
-        "name": "Russian strikes hit western Ukraine as offensive widens",
-        "description": "19시간 전",
-        "link": "https://www.dailylocal.com/2022/03/11/russian-strikes-hit-western-ukraine-as-offensive-widens/",
-        "date": "19시간 전",
+        "name": "Ukraine rejects Russian pressure in talks, Moscow says zero ...",
+        "description": "Russia's envoy to the talks said there was \"zero\" progress and accused ... \n\"If Ukraine agrees to this, then the status of Russia will change...",
+        "link": "https://www.reuters.com/world/europe/russia-ukraine-say-berlin-talks-fail-yield-breakthrough-2022-02-11/",
+        "date": "1개월 전",
         "image_path": "",
         "catagory": "협상 진행 과정"
     }

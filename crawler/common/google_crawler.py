@@ -32,11 +32,9 @@ class GoogleCrawler:
         title = news.find(
             'div', attrs={'class': 'mCBkyc y355M JQe2Ld nDgy9d'}).get_text()
         url = news.find('a', {'class': 'WlydOe'})['href']
-        source = news.find(
-            'div', attrs={'class': 'CEMjEf NUnG9d'}).find('span').get_text()
         content = news.find(
             'div', attrs={'class': 'GI74Re nDgy9d'}).get_text()
-        date = content = news.find(
+        date = news.find(
             'div', attrs={'class': 'OSrXXb ZE0LJd'}).find('span').get_text()
 
         return {
@@ -44,10 +42,8 @@ class GoogleCrawler:
             'description': content,
             'link': url,
             'date': date,
-            # 'source': source,
             'image_path': '',
             'catagory': self.category,
-            # todo: date 수정 필요
         }
 
     def write_json(self, filename):

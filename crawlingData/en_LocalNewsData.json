@@ -1,47 +1,71 @@
 ﻿[
     {
-        "name": "Live updates: Zelenskyy says 100,000 evacuated amid blockade",
-        "description": "1일 전",
-        "link": "https://www.eastbaytimes.com/2022/03/10/live-updates-us-urges-ukraine-war-crimes-investigation/",
-        "date": "1일 전",
+        "name": "Russia-Ukraine live news: Moscow pushes ahead towards Kyiv",
+        "description": "Footage from a local TV station showed large-scale destruction to several \nbuildings and a stadium in the city.",
+        "link": "https://www.aljazeera.com/news/2022/3/11/ukraine-says-russian-attacks-block-mariupol-evacuation-again-liveblog",
+        "date": "3시간 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "Live updates: UK reports fighting near Kyiv, cities shelled",
-        "description": "2시간 전",
-        "link": "https://apnews.com/article/russia-ukraine-business-mevlut-cavusoglu-europe-nato-b33709c6f51d1b580f2c6874066eb819",
-        "date": "2시간 전",
+        "name": "Russia invades Ukraine: Live updates",
+        "description": "Russia's domestic airline industry could soon become a mere shell of its \nformer self due to restrictions on its operations.",
+        "link": "https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-12-22/index.html",
+        "date": "실시간으로 업데이트됨",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "Latest Ukraine updates: UN urges safe passage for civilians",
-        "description": "5일 전",
-        "link": "https://www.aljazeera.com/news/2022/3/6/russia-ukraine-us-mulls-oil-ban-liveblog",
-        "date": "5일 전",
+        "name": "Russia-Ukraine War LIVE Updates: Melitopol mayor abducted, Mariupol \nblocked, says Ukraine President Volodymyr",
+        "description": "According to Zhyvytsky, evacuation efforts starting at 09:00 local time \n(07:00 GMT) will see vehicles departing from six destinations around the...",
+        "link": "https://www.cnbctv18.com/world/russia-ukraine-war-live-updates-just-7000-evacuated-so-far-says-zelenskyy-us-accuses-kremlin-of-violating-nuclear-safety-12807652.htm",
+        "date": "실시간으로 업데이트됨",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "Ukraine war: Zelenskyy warns of 'new stage of terror' as Russian troops \naccused of kidnapping city's mayor",
-        "description": "8시간 전",
-        "link": "https://news.sky.com/story/ukraine-war-zelenskyy-warns-of-new-stage-of-terror-as-russian-troops-accused-of-kidnapping-citys-mayor-12563878",
-        "date": "8시간 전",
+        "name": "U.S., Europe restrict Russian trade as Putin's forces advance on Kyiv",
+        "description": "More cities in Ukraine have been targeted by Russian airstrikes Friday, \nlocal authorities say, in a move that suggests Moscow is expanding its \nattack...",
+        "link": "https://www.cnbc.com/2022/03/11/russia-ukraine-live-updates.html",
+        "date": "13시간 전",
+        "image_path": "",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "Russia-Ukraine updates: Ukraine at 'turning point', Zelenskyy says",
+        "description": "The governors of two Ukrainian regions, Kyiv and Donetsk, said in separate \nstatements ... Interfax Ukraine quoted the local mayor as saying.",
+        "link": "https://www.haaretz.com/world-news/europe/LIVE-live-updates-russia-to-let-civilians-leave-kyiv-four-other-ukrainian-cities-1.10668142",
+        "date": "1시간 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
     {
         "name": "Ukraine demands release of 'abducted' mayor — live updates",
-        "description": "10시간 전",
+        "description": "Ukraine demands release of 'abducted' mayor — live updates ... \nrepresentatives of legitimate local Ukrainian authorities,\" he said.",
         "link": "https://www.dw.com/en/ukraine-demands-release-of-abducted-mayor-live-updates/a-61104419",
         "date": "10시간 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "Latest Ukraine updates: Kyiv mayor says half the city has fled",
+        "description": "This live blog is now closed; thank you for joining us. ... “Putin's \nmilitary plan to quickly capture Ukraine, it is clear now has failed.",
+        "link": "https://www.aljazeera.com/news/2022/3/9/fighter-jets-to-ukraine-risks-escalation-us-says-liveblog",
+        "date": "2일 전",
+        "image_path": "",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "Latest Ukraine updates: UN urges safe passage for civilians",
+        "description": "This live blog is now closed; thank you for joining us. ... Ukraine will on \nTuesday hold the next auction of local one-year bonds to raise...",
+        "link": "https://www.aljazeera.com/news/2022/3/6/russia-ukraine-us-mulls-oil-ban-liveblog",
+        "date": "5일 전",
+        "image_path": "",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "Latest Ukraine updates: UN stresses ‘urgent’ need for talks",
-        "description": "1일 전",
+        "description": "Will sanctions on Russia fuel dissent against Putin at home? end of list. \nThis live blog is now closed; thank you for joining us. For the latest...",
         "link": "https://www.aljazeera.com/news/2022/3/10/ukraine-tells-iaea-it-lost-contact-chernobyl-plant-liveblog",
         "date": "1일 전",
         "image_path": "",
@@ -49,113 +73,89 @@
     },
     {
         "name": "Latest Ukraine updates: UNGA votes to demand Russian withdrawal",
-        "description": "1주 전",
+        "description": "Local authorities deny Kherson has fallen, but say Russian troops have ... \ntake place,” Iryna Vereshchuk said on live television in Ukraine.",
         "link": "https://www.aljazeera.com/news/2022/3/1/ukraine-on-edge-as-russia-continues-its-assault-liveblog",
         "date": "1주 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "Latest Russia-Ukraine news: Russian rockets destroy military airfield in \nVasylkiv",
-        "description": "실시간으로 업데이트됨",
-        "link": "https://nypost.com/2022/03/12/russia-ukraine-news-live-updates-and-coverage/",
-        "date": "실시간으로 업데이트됨",
+        "name": "Latest Russia-Ukraine updates: Tens of thousands flee their homes",
+        "description": "The live blog is now closed; thank you for joining us. ... the first hours \nof Russia's invasion of Ukraine, according to local officials.",
+        "link": "https://www.aljazeera.com/news/2022/2/23/ukraine-declares-state-of-emergency-amid-fears-of-invasion-liveblog",
+        "date": "2주 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "The Russia-Ukraine War: March 7, 2022",
-        "description": "4일 전",
-        "link": "https://www.wsj.com/livecoverage/russia-ukraine-latest-news-2022-03-07",
-        "date": "4일 전",
+        "name": "As it happened: EU agrees to review membership bids from Ukraine, Georgia, \nMoldova",
+        "description": "Follow our live blog for all the latest developments. ... Local officials \nsaid Ukrainian forces on Monday had retaken control of the...",
+        "link": "https://www.france24.com/en/europe/20220306-live-ukraine-updates-odessa-residents-step-up-defences-as-fears-of-a-russian-attack-grow",
+        "date": "5일 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "Russia-Ukraine war highlights: On eve of talks, Russian forces close in on \nKyiv",
-        "description": "2일 전",
-        "link": "https://www.hindustantimes.com/world-news/russia-ukraine-war-live-updates-march-9-2022-101646783739072.html",
-        "date": "2일 전",
+        "name": "Highlights: Russia suspends sale of foreign currencies until Sept 9",
+        "description": "Russia-Ukraine crisis highlights: Ukraine and Russia held the third round \nof ... news agency AFP reported quoting local officials.",
+        "link": "https://www.hindustantimes.com/world-news/russia-ukraine-war-live-updates-march-8-2022-101646698099316.html",
+        "date": "3일 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "Memorial Hermann doctor helping to amplify needs of ...",
-        "description": "8시간 전",
-        "link": "https://www.click2houston.com/news/local/2022/03/12/houston-area-doctor-collecting-medical-supplies-to-send-to-ukraine/",
+        "name": "LIVE: Putin 'will never' win war in Ukraine - Biden",
+        "description": "On Wednesday in the Mykolaiv region, she says “Russian occupiers fired at a \nvan with a group of female teachers of the local orphanage (and)...",
+        "link": "https://www.1news.co.nz/2022/03/09/live-putin-will-never-win-war-in-ukraine-biden/",
+        "date": "3일 전",
+        "image_path": "",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "Ukraine war: Zelenskyy warns of 'new stage of terror' as Russian troops \naccused of kidnapping city's mayor",
+        "description": "Ukraine's Ministry of Foreign Affairs warns that the abduction of Melitopol \n... representatives of legitimate local Ukrainian authorities.",
+        "link": "https://news.sky.com/story/ukraine-war-zelenskyy-warns-of-new-stage-of-terror-as-russian-troops-accused-of-kidnapping-citys-mayor-12563878",
         "date": "8시간 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "Russia-Ukraine Conflict Live Updates | Russia says it could target Western \narms supplies to Ukraine",
-        "description": "실시간으로 업데이트됨",
-        "link": "https://www.moneycontrol.com/news/world/russia-ukraine-conflict-live-updates-u-s-accuses-russia-of-violating-nuclear-safety-principles-in-ukraine-8223451.html",
-        "date": "실시간으로 업데이트됨",
+        "name": "Live updates: Russia warns US over arms shipments to Ukraine",
+        "description": "“They have transitioned into a new stage of terror, in which they try to \nphysically liquidate representatives of Ukraine's lawful local...",
+        "link": "https://wtop.com/russia-ukraine-war-news/2022/03/live-updates-86-turks-children-sheltering-in-mariupol/",
+        "date": "1시간 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "Macron says UK failing to live up to its ‘grand statements’ on Ukraine \nrefugees",
-        "description": "18시간 전",
-        "link": "https://www.theguardian.com/world/2022/mar/11/macron-condemns-uk-grand-statements-ukraine-refugee-crisis",
-        "date": "18시간 전",
-        "image_path": "",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "What Happened on Day 15 of Russia’s Invasion of Ukraine",
-        "description": "2일 전",
-        "link": "https://www.nytimes.com/live/2022/03/10/world/ukraine-russia-war",
-        "date": "2일 전",
-        "image_path": "",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "Devastation, anger, numbness. For these Memphians, war in Ukraine hits \nclose to home",
-        "description": "9시간 전",
-        "link": "https://www.commercialappeal.com/story/news/local/2022/03/12/ukraine-russia-war-invasion-memphis-residents/9324817002/",
-        "date": "9시간 전",
-        "image_path": "",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "February 27, 2022 Russia-Ukraine news",
-        "description": "2주 전",
-        "link": "https://www.cnn.com/europe/live-news/ukraine-russia-news-02-27-22/index.html",
+        "name": "Latest Russia-Ukraine updates: US to impose sanctions on Putin",
+        "description": "The live blog is now closed; thank you for joining us. ... legal options \navailable to help locally employed staff who were left in Ukraine...",
+        "link": "https://www.aljazeera.com/news/2022/2/24/russian-troops-advancing-closer-to-kyiv-us-says-liveblog",
         "date": "2주 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "February 25, 2022 Russia-Ukraine news",
-        "description": "2주 전",
-        "link": "https://www.cnn.com/europe/live-news/ukraine-russia-news-02-25-22/index.html",
+        "name": "Ukraine says it killed a top Russian general; U.S. collects evidence of \npossible Russian war crimes",
+        "description": "This has been CNBC's live blog tracking developments on the war in ... was \nkilled near Kharkiv, the agency said on Monday night local time.",
+        "link": "https://www.cnbc.com/2022/03/07/possible-russian-energy-ban-sends-oil-soaring-poland-us-in-jet-talks.html",
+        "date": "4일 전",
+        "image_path": "",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "Latest Ukraine updates: Ukraine imposes state of emergency",
+        "description": "Ukraine declares nationwide state of emergency as fears of war rise. ... \nThis live blog is now closed, thanks for joining us.",
+        "link": "https://www.aljazeera.com/news/2022/2/23/not-peacekeepers-at-all-un-chief-condemns-russia-move-live",
         "date": "2주 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "Russia-Ukraine updates: UN says 1 million refugees have fled ...",
-        "description": "1주 전",
-        "link": "https://www.inquirer.com/news/nation-world/live/russia-ukraine-war-putin-biden-news-updates-20220302.html",
-        "date": "1주 전",
-        "image_path": "",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "Latest Russia-Ukraine updates: Battles rage for Ukraine’s cities",
-        "description": "2주 전",
-        "link": "https://www.aljazeera.com/news/2022/2/25/unsc-to-vote-on-resolution-condemning-russia-invasion-liveblog",
-        "date": "2주 전",
-        "image_path": "",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "Latest Ukraine updates: Talks spur deal on humanitarian corridors",
-        "description": "1주 전",
-        "link": "https://www.aljazeera.com/news/2022/3/2/russian-troops-in-streets-of-kherson-mayor-says-liveblog",
-        "date": "1주 전",
+        "name": "Latest Ukraine updates: Russian strikes destroy Vinnytsia airport",
+        "description": "This live blog is now closed, thanks for joining us. ... at noon local time \nduring a ceasefire, according to Ukrainian military authorities.",
+        "link": "https://www.aljazeera.com/news/2022/3/5/russia-ukraine-nato-support-liveblog",
+        "date": "6일 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     }
