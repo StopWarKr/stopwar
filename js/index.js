@@ -20,7 +20,7 @@ buttonWrapper.addEventListener('click', async (e) => {
   if (currentNode.nodeName === 'BUTTON') {
     currentNode.parentElement.classList.add('on');
     initialRenderCard();
-    console.log(data);
+    btnMore.style.display = 'block';
     data = await getNews(currentNode.textContent);
   }
 });
