@@ -32,7 +32,8 @@ jobs:
           fi
       - name: Run crawler
         run: |
-          python "crawler/total_news_crawler.py"
+          python "crawler/test1.py"
+          python "crawler/test2.py"
       - name: Commit files
         run: |
           git config --local user.email "paullabkorea@gmail.com"
