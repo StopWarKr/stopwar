@@ -1,9 +1,9 @@
 ﻿[
     {
-        "name": "Russia-Ukraine live news: Ukrainian base near Poland attacked",
-        "description": "Moscow strikes military base in western Ukraine, killing at least 35, \nUkrainian officials say. A woman stands outside a local hospital...",
+        "name": "Russia-Ukraine live news: 2,187 residents killed in Mariupol",
+        "description": "Russia-Ukraine live news: 2,187 residents killed in Mariupol ... by the \nRussian army earlier this month, a local broadcaster reported.",
         "link": "https://www.aljazeera.com/news/2022/3/12/russia-ukraine-war-alarm-grows-over-mariupol-liveblog",
-        "date": "2시간 전",
+        "date": "20시간 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
@@ -11,15 +11,47 @@
         "name": "What Happened on Day 17 of Russia's Invasion of Ukraine",
         "description": "NOVOYAVORIVSK, Ukraine — Russian warplanes fired about 30 cruise missiles \nat a Ukrainian military base near the Polish border, local...",
         "link": "https://www.nytimes.com/live/2022/03/12/world/ukraine-russia-war",
-        "date": "46분 전",
+        "date": "49분 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "March 12, 2022 Russia-Ukraine news",
-        "description": "Our live coverage of Russia's invasion of Ukraine has moved here. ... \nrepresentatives of the legitimate local Ukrainian authorities.",
-        "link": "https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-12-22/index.html",
-        "date": "7시간 전",
+        "name": "Latest Russia-Ukraine war news: Live updates",
+        "description": "Today, Russian war criminals abducted another democratically elected \nUkrainian mayor, head of Dniprorudne Yevhen Matveyev. Getting zero local...",
+        "link": "https://www.washingtonpost.com/world/2022/03/13/russia-ukraine-war-news-live-updates/",
+        "date": "실시간으로 업데이트됨",
+        "image_path": "",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "US journalist Brent Renaud killed when Russian soldiers open fire; 35 die \nin missile attack near Polish border: Live Ukraine updates",
+        "description": "... 35 die in missile attack near Polish border: Live Ukraine updates ... \nwestern Ukraine killed at least 35 people and wounded 134, a local...",
+        "link": "https://www.usatoday.com/story/news/politics/2022/03/13/ukraine-russia-invasion-live-updates/7025078001/",
+        "date": "실시간으로 업데이트됨",
+        "image_path": "",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "Ukraine: US journalist reportedly shot dead in Irpin — live updates",
+        "description": "To catch up on Saturday's developments on the war in Ukraine, ... and \nleaving others injured, according to local Italian firefighters.",
+        "link": "https://www.dw.com/en/ukraine-new-york-times-journalist-reportedly-shot-dead-in-irpin-live-updates/a-61109259",
+        "date": "4시간 전",
+        "image_path": "",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "Tributes paid to US journalist shot dead by Russians in Ukraine",
+        "description": "US journalist Brent Renaud killed by Russian forces in Ukraine, local \npolice say · 0% intro APR until 2023 is 100% insane · A slam dunk if you...",
+        "link": "https://www.cnn.com/2022/03/13/media/russia-ukraine-brent-renaud-death-intl/index.html",
+        "date": "1시간 전",
+        "image_path": "",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "Latest Ukraine updates: Moscow threatens Western arms shipments",
+        "description": "This live blog is now closed; thank you for joining us. For the latest news \non March 13, go here. Here are the updates for March 12:.",
+        "link": "https://www.aljazeera.com/news/2022/3/11/ukraine-says-russian-attacks-block-mariupol-evacuation-again-liveblog",
+        "date": "1일 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
@@ -33,25 +65,9 @@
     },
     {
         "name": "Russia invades Ukraine: Live updates",
-        "description": "Russian troops are attempting to \"envelop\" Ukrainian forces in the east ... \nMultiple explosions were heard shortly before 6 a.m. local time...",
-        "link": "https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-13-22/h_fd7e7747f6ab6ecfa4e6ca946fdb771a",
-        "date": "23분 전",
-        "image_path": "",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "Live Updates: Ukraine Says 85 Children Killed Since Invasion",
-        "description": "The 44-year-old Elena Yurchuk worked as a nurse at a local hospital she \nsays no longer exists. She says, “Our city is under siege and we barely...",
-        "link": "https://www.usnews.com/news/world/articles/2022-03-13/live-updates-russia-pounds-military-range-in-ukraines-west",
+        "description": "Russian troops are attempting to \"envelop\" Ukrainian forces in the east of \nthe ... sometime between 5 a.m. and 5:30 a.m. [local time],...",
+        "link": "https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-13-22/h_57b59c9208bc10e9ceb921cbc76405dc",
         "date": "1시간 전",
-        "image_path": "",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "Live updates: 9 killed in Russian strike in western Ukraine",
-        "description": "Live updates: 9 killed in Russian strike in western Ukraine ... in western \nUkraine close to the Polish border, a local official said Sunday.",
-        "link": "https://www.startribune.com/live-updates-russia-pounds-military-range-in-ukraines-west/600155590/",
-        "date": "5시간 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
@@ -59,7 +75,7 @@
         "name": "Russia - Ukraine war live updates: Putin, gas prices, Russia oil ban, wheat \nshortages, NATO, Zelensky...",
         "description": "What you need to know about the conflict · Operational report from \nUkrainian military at midnight local time. · According to Ukraine, the \n\"nature...",
         "link": "https://en.as.com/en/2022/03/12/latest_news/1647076161_511912.html",
-        "date": "3시간 전",
+        "date": "9시간 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
@@ -72,18 +88,10 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "The Latest Russia-Ukraine War News: Live Updates",
-        "description": "Ukrainian officials on Saturday said that local staff at the Zaporizhzhia \nfacility had been told the complex was now owned by Russia's nuclear...",
-        "link": "https://www.wsj.com/livecoverage/russia-ukraine-latest-news-2022-03-11",
-        "date": "9분 전",
-        "image_path": "",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "Live updates: Turkey trying to evacuate citizens in Mariupol",
-        "description": "The latest developments on the Russia-Ukraine war: ... base in western \nUkraine close to the Polish border, a local official said Sunday.",
-        "link": "https://www.macon.com/news/business/article259356084.html",
-        "date": "12분 전",
+        "name": "Live updates: Russia pounds military range in Ukraine's west",
+        "description": "“They are blackmailing local leaders, putting pressure on deputies, looking \nfor someone to bribe.” City council members in Kherson, a southern...",
+        "link": "https://apnews.com/e4ccdd9cf82e868ad8854f6f97cadb27",
+        "date": "11시간 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
@@ -96,18 +104,10 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "March 9, 2022 Russia-Ukraine news",
-        "description": "After Ukraine and Russia agreed on several evacuation corridors Wednesday \n... “Our local partner has confirmed that it will be immediately...",
-        "link": "https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-09-22/h_c0c68952690d8be14fc4012a5b8edca7",
-        "date": "3일 전",
-        "image_path": "",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "Russia-Ukraine war news live updates: Russia bombs Sumy, 9 dead; \nhumanitarian corridors open in Cherhihiv, Sum",
-        "description": "With that we wrap the LIVE updates on the Russia-Ukraine war for today. ... \nUkraine should make sure not to take local currency with them,...",
-        "link": "https://www.cnbctv18.com/world/russia-ukraine-war-news-live-updates-vladimir-putin-volodymyr-zelenskyy-odesa-kharkiv-mariupol-russian-general-killed-12743202.htm",
-        "date": "4일 전",
+        "name": "Ukraine-Russia live updates: Putin's forces strike base 15 ...",
+        "description": "At a local hospital a few kilometres from the base we saw at least 30 \nwalking wounded, some with injuries to the legs, others with serious head \ninjuries. More...",
+        "link": "https://news.sky.com/story/ukraine-russia-live-updates-putins-forces-strike-base-15-miles-from-nato-territory-both-sides-hint-at-breakthrough-in-talks-uk-government-concerned-about-use-of-nuclear-weapons-12541713",
+        "date": "3시간 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
@@ -120,22 +120,6 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "Live updates: Biden to authorize further $200M for Ukraine",
-        "description": "KYIV, Ukraine — Ukraine's President Volodymyr Zelenskyy says about 1,300 \nUkrainian soldiers have been killed in fighting since the start of the...",
-        "link": "https://www.bellinghamherald.com/news/article259335729.html",
-        "date": "5시간 전",
-        "image_path": "",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "Ukraine: Attack on military base near Poland kills dozens, says Ukraine — \nlive updates",
-        "description": "A bus transporting around 50 Ukrainians veered off the road in Italy, \nkilling one person and leaving others injured, according to local...",
-        "link": "https://www.dw.com/en/ukraine-attack-on-military-base-near-poland-kills-dozens-says-ukraine-live-updates/a-61109259",
-        "date": "1시간 전",
-        "image_path": "",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "Latest Ukraine updates: UN urges safe passage for civilians",
         "description": "This live blog is now closed; thank you for joining us. ... Ukraine will on \nTuesday hold the next auction of local one-year bonds to raise...",
         "link": "https://www.aljazeera.com/news/2022/3/6/russia-ukraine-us-mulls-oil-ban-liveblog",
@@ -144,58 +128,50 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "Ukraine war: 'Russia-installed' Melitopol mayor says city must adapt to new \nreality after predecessor's 'kidnapping'",
+        "description": "Galina Danilchenko, a former member of the city council, was announced as \nthe new mayor on local TV on Saturday, according to reports.",
+        "link": "https://news.sky.com/story/ukraine-war-humanitarian-aid-for-besieged-city-of-mariupol-will-arrive-this-afternoon-zelenskyy-says-12564860",
+        "date": "5시간 전",
+        "image_path": "",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "Live updates: Aid group: Start planning for post-war help",
+        "description": "The latest developments on the Russia-Ukraine war: ... base in western \nUkraine close to the Polish border, a local official said Sunday.",
+        "link": "https://www.newsobserver.com/news/business/article259356084.html",
+        "date": "1시간 전",
+        "image_path": "",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "Tato and Mama gave me a home in Ukraine. Now they're under attack",
         "description": "(CNN) They're not my parents, but after two years of living in Ukraine, \nthey grew to become my Tato and Mama -- Ukrainian for \"mom\" and \"dad...",
         "link": "https://www.cnn.com/2022/03/12/europe/ukraine-chernihiv-tato-mama-intl-hnk-dst/index.html",
-        "date": "10시간 전",
+        "date": "16시간 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "Macron says UK failing to live up to its ‘grand statements’ on Ukraine \nrefugees",
-        "description": "“I would hope that the Ukrainian men and women who have lived through ... \nRefugees who can find a private sponsor or local authority willing...",
-        "link": "https://www.theguardian.com/world/2022/mar/11/macron-condemns-uk-grand-statements-ukraine-refugee-crisis",
-        "date": "1일 전",
+        "name": "Live updates: Red Cross: Besieged Mariupol needs cease-fire",
+        "description": "| UPDATED: March 13, 2022 at 11:03 a.m.. By The Associated Press. The \nlatest developments on the Russia-Ukraine war: GENEVA — The Red Cross is...",
+        "link": "https://www.eastbaytimes.com/2022/03/13/live-updates-red-cross-besieged-mariupol-needs-cease-fire/",
+        "date": "3분 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "Invaders ‘cannot conquer us’, Zelenskiy says, as 13,000 flee besieged \ncities – as it happened",
-        "description": "Ukraine's president says the capital will only fall to Russian troops if it \n... Zelenskiy says; Nato chief warns on chemical weapons – live.",
-        "link": "https://www.theguardian.com/world/live/2022/mar/12/ukraine-news-russia-war-ceasefire-broken-humanitarian-corridors-kyiv-russian-invasion-live-vladimir-putin-volodymyr-zelenskiy-latest-updates-live",
-        "date": "7시간 전",
+        "name": "Ukraine: Satellite images show infrastructure damage in Mariupol — as it \nhappened",
+        "description": "This live updates article is now closed. ... to physically eliminate \nrepresentatives of legitimate local Ukrainian authorities,\" he said.",
+        "link": "https://www.dw.com/en/ukraine-satellite-images-show-infrastructure-damage-in-mariupol-as-it-happened/a-61104419",
+        "date": "14시간 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "Russian airstrike damages historic Ukrainian monastery",
-        "description": "An airstrike damaged Ukraine's historic Holy Dormition Sviatogirsk Lavra, \n... The blast, which went off around 10 p.m. local time Saturday,...",
-        "link": "https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-13-22/h_e1905e260badeb635420976a05d72825",
-        "date": "4시간 전",
-        "image_path": "",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "Latest Ukraine updates: UN stresses ‘urgent’ need for talks",
-        "description": "Will sanctions on Russia fuel dissent against Putin at home? end of list. \nThis live blog is now closed; thank you for joining us. For the latest...",
-        "link": "https://www.aljazeera.com/news/2022/3/10/ukraine-tells-iaea-it-lost-contact-chernobyl-plant-liveblog",
-        "date": "2일 전",
-        "image_path": "",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "Live updates: Rabbi in Portugal arrested amid oligarch probe",
-        "description": "The latest developments on the Russia-Ukraine war: ... Police did not \nspecify the day of the arrest, which local media say occurred on...",
-        "link": "https://www.mercurynews.com/2022/03/12/live-updates-rabbi-in-portugal-arrested-amid-oligarch-probe/",
-        "date": "15시간 전",
-        "image_path": "",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "Latest Russia-Ukraine updates: Kyiv to hold talks with Moscow",
-        "description": "The live blog is now closed; thank you for joining us. ... launched at \nUkraine from Belarus at approximately 5pm local time (15:00 GMT).",
-        "link": "https://www.aljazeera.com/news/2022/2/26/fighting-for-kyiv-ongoing-as-russia-vows-all-out-war-live-news",
-        "date": "2주 전",
+        "name": "Letter from the Editor: How often should Ukraine news be on the front page?",
+        "description": "Shortly after the Russian invasion of Ukraine late last month, I received \nan email ... It is true that local newspapers like The Oregonian,...",
+        "link": "https://www.oregonlive.com/opinion/2022/03/letter-from-the-editor-how-often-should-ukraine-news-be-on-the-front-page.html",
+        "date": "1시간 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
     },
@@ -208,17 +184,9 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "What Happened on Day 14 of Russia's Invasion of Ukraine",
-        "description": "The Kremlin accused the United States of waging “an economic war” against \nRussia. Published March 9, 2022Updated March 12, 2022. Follow our live \nnews...",
-        "link": "https://www.nytimes.com/live/2022/03/09/world/ukraine-russia-war",
-        "date": "16시간 전",
-        "image_path": "",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "Latest Russia-Ukraine updates: Battles rage for Ukraine’s cities",
-        "description": "The live blog is now closed; thank you for joining us. ... Sisters wait at \na checkpoint run by local volunteers in Beregsurany, Hungary,...",
-        "link": "https://www.aljazeera.com/news/2022/2/25/unsc-to-vote-on-resolution-condemning-russia-invasion-liveblog",
+        "name": "Latest Russia-Ukraine updates: Kyiv to hold talks with Moscow",
+        "description": "The live blog is now closed; thank you for joining us. ... launched at \nUkraine from Belarus at approximately 5pm local time (15:00 GMT).",
+        "link": "https://www.aljazeera.com/news/2022/2/26/fighting-for-kyiv-ongoing-as-russia-vows-all-out-war-live-news",
         "date": "2주 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
@@ -232,9 +200,41 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "Latest Ukraine updates: Kyiv TV tower hit in alleged attack",
-        "description": "The live blog is now closed; thank you for joining us. ... Ukrainian city \nof Kherson, according to a journalist and a local official.",
-        "link": "https://www.aljazeera.com/news/2022/2/28/us-announces-plan-to-expel-russian-diplomats-from-un-liveblog",
+        "name": "Ukraine war: Tens of thousands of Ukrainian refugees could come to UK - \nwith £10,000 funding per individual, says Michael Gove",
+        "description": "... of Ukrainian refugees could come to the UK and each local council will \n... than 3,000\" visas for Ukrainians fleeing the war with Russia.",
+        "link": "https://news.sky.com/story/ukraine-war-tens-of-thousands-of-ukrainian-refugees-could-come-to-uk-with-10-000-funding-per-individual-says-michael-gove-12564972",
+        "date": "8시간 전",
+        "image_path": "",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "Latest Russia-Ukraine updates: Battles rage for Ukraine’s cities",
+        "description": "The live blog is now closed; thank you for joining us. ... Sisters wait at \na checkpoint run by local volunteers in Beregsurany, Hungary,...",
+        "link": "https://www.aljazeera.com/news/2022/2/25/unsc-to-vote-on-resolution-condemning-russia-invasion-liveblog",
+        "date": "2주 전",
+        "image_path": "",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "Odessa braces for Russian assault as humanitarian ...",
+        "description": "Ukrainian officials said Russia pressed them to give up Crimea and ... Over \nthe weekend, the live-streaming platform Twitch told Russian...",
+        "link": "https://www.washingtonpost.com/world/2022/03/07/russia-ukraine-war-news-putin-live-updates/",
+        "date": "5일 전",
+        "image_path": "",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "What Happened on Day 14 of Russia's Invasion of Ukraine",
+        "description": "Follow our live news updates on the Russia-Ukraine war. Image. Ukrainian \nfighters training in Kyiv on Wednesday...",
+        "link": "https://www.nytimes.com/live/2022/03/09/world/ukraine-russia-war",
+        "date": "1일 전",
+        "image_path": "",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "Latest Russia-Ukraine updates: Tens of thousands flee their homes",
+        "description": "The live blog is now closed; thank you for joining us. ... the first hours \nof Russia's invasion of Ukraine, according to local officials.",
+        "link": "https://www.aljazeera.com/news/2022/2/23/ukraine-declares-state-of-emergency-amid-fears-of-invasion-liveblog",
         "date": "2주 전",
         "image_path": "",
         "catagory": "지역 라이브 상황"
