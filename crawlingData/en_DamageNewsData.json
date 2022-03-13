@@ -1,33 +1,25 @@
 ﻿[
     {
-        "name": "Ukraine says Russian artillery hits another hospital, mosque; Moscow warns \nthe West that convoys are targets: Live updates",
-        "description": "Maj. Gen. Andrei Kolesnikov would be the third Russian general to die since \nthe invasion of Ukraine began, making an unusual loss of such a high...",
+        "name": "Explosions reported outside western city of Lviv; Moscow warns that convoys \nare targets: Live updates",
+        "description": "... assault on Ukraine, which resulted in damage to another hospital ... \nUkraine's Foreign Ministry said Russian forces shelled a mosque in...",
         "link": "https://www.usatoday.com/story/news/politics/2022/03/12/ukraine-russia-invasion-live-updates/7008613001/",
         "date": "실시간으로 업데이트됨",
         "image_path": "",
         "catagory": "피해 상황"
     },
     {
-        "name": "Russia invades Ukraine: Live updates",
-        "description": "New satellite images show extensive damage in western Mariupol, Ukraine. \nFrom CNN's Paul P. Murphy.",
-        "link": "https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-12-22/h_196c98892d8f46c4460aae6bd4a8fc6e",
-        "date": "2시간 전",
-        "image_path": "",
-        "catagory": "피해 상황"
-    },
-    {
-        "name": "Russia-Ukraine live news: Alarm grows over Mariupol ‘catastrophe’",
-        "description": "The humanitarian situation in the besieged city continues to deteriorate as \nsatellite pictures show extensive damage. A woman cries as she hugs...",
+        "name": "Russia-Ukraine live news: Kyiv residents scrambling to escape",
+        "description": "The debris of damaged houses, destroyed during a Russian aerial bombing in \nthe village of. The debris of damaged houses lies on the ground near...",
         "link": "https://www.aljazeera.com/news/2022/3/12/russia-ukraine-war-alarm-grows-over-mariupol-liveblog",
-        "date": "3시간 전",
+        "date": "1시간 전",
         "image_path": "",
         "catagory": "피해 상황"
     },
     {
-        "name": "March 11, 2022 Russia-Ukraine news",
-        "description": "Russian forces launched multiple missile attacks early Friday on a wide \nrange of targets across Ukraine, causing substantial damage in and...",
-        "link": "https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-11-22/h_b68b5adabfaef6b52ca51196d893b061",
-        "date": "1일 전",
+        "name": "Russia invades Ukraine: Live updates",
+        "description": "Chernobyl running on generators: Repairs to the nuclear power plant's \nelectrical system, damaged during a Russian attack on March 9, are \nongoing...",
+        "link": "https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-13-22/index.html",
+        "date": "실시간으로 업데이트됨",
         "image_path": "",
         "catagory": "피해 상황"
     },
@@ -43,23 +35,31 @@
         "name": "Live updates: Ukraine says shelling damaged cancer hospital",
         "description": "LVIV, Ukraine — Ukrainian officials accused Russia damaging a cancer \nhospital and several residential buildings in the southern city of \nMykolaiv...",
         "link": "https://apnews.com/article/russia-ukraine-zelenskyy-kyiv-business-europe-de7079ba72bedc1b9364d9ac3a98bcdb",
-        "date": "23시간 전",
+        "date": "1일 전",
+        "image_path": "",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Latest Russia-Ukraine news: Airstrike launched on military base near Poland \nborder",
+        "description": "Latest Russia-Ukraine news: Airstrike launched on military base near ... \nairstrike damage after the Russian attack in Mariupol, Ukraine,...",
+        "link": "https://nypost.com/2022/03/12/russia-ukraine-news-live-updates-and-coverage/",
+        "date": "실시간으로 업데이트됨",
+        "image_path": "",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "March 12, 2022 Russia-Ukraine news",
+        "description": "New satellite imagery from Maxar Technologies shows the extent of damage \ncaused by military strikes in western Mariupol. The images were taken...",
+        "link": "https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-12-22/h_d7ddf51a92bd3d4c8e15397ac8b1dfe8",
+        "date": "8시간 전",
         "image_path": "",
         "catagory": "피해 상황"
     },
     {
         "name": "Satellite photos of Mariupol, Ukraine show damage from ...",
-        "description": "Maxar Technologies' WorldView-3 satellite took this photo of a heavily \ndamaged shopping mall and other stores in Mariupol, Ukraine, on March...",
+        "description": "Maxar Technologies' WorldView-3 satellite took this photo of a heavily \ndamaged shopping mall and other stores in Mariupol, Ukraine,...",
         "link": "https://www.space.com/mariupol-ukraine-damage-satellite-photos",
-        "date": "2일 전",
-        "image_path": "",
-        "catagory": "피해 상황"
-    },
-    {
-        "name": "Russian attacks hit at least 9 Ukrainian medical facilities ...",
-        "description": "To confirm which hospitals have been damaged, The Washington Post examined \nmore than 500 videos and photos, reviewed social media posts from the...",
-        "link": "https://www.washingtonpost.com/world/2022/03/12/ukraine-hospital-attacks-video/",
-        "date": "1일 전",
+        "date": "3일 전",
         "image_path": "",
         "catagory": "피해 상황"
     },
@@ -72,25 +72,17 @@
         "catagory": "피해 상황"
     },
     {
+        "name": "Russian attacks hit at least 9 Ukrainian medical facilities ...",
+        "description": "To confirm which hospitals have been damaged, The Washington Post examined \n... a hospital damaged in Ukraine was used for military purposes.",
+        "link": "https://www.washingtonpost.com/world/2022/03/12/ukraine-hospital-attacks-video/",
+        "date": "8시간 전",
+        "image_path": "",
+        "catagory": "피해 상황"
+    },
+    {
         "name": "A Ukrainian VC with employees in Russia surveys the damage of Putin’s war",
         "description": "A Ukrainian VC with employees in Russia surveys the damage of Putin's war. \nBy. Mark Pavlyukovskyy. March 11, 2022 9:30 AM PST...",
         "link": "https://fortune.com/2022/03/11/ukrainian-vc-employees-russia-surveys-damage-putin-war/",
-        "date": "1일 전",
-        "image_path": "",
-        "catagory": "피해 상황"
-    },
-    {
-        "name": "Latest Developments in Ukraine: March 11",
-        "description": "A Ukrainian serviceman takes a photograph of a damaged church after \nshelling in a residential district in Mariupol, Ukraine, March 10, 2022.",
-        "link": "https://www.voanews.com/a/latest-developments-in-ukraine-march-11/6480339.html",
-        "date": "1일 전",
-        "image_path": "",
-        "catagory": "피해 상황"
-    },
-    {
-        "name": "Ukraine’s Architectural Treasures Face Destruction",
-        "description": "Across Ukraine, scores of historic buildings, priceless artworks and ... \nSadly, other flagships of Ukrainian culture were damaged before...",
-        "link": "https://www.nytimes.com/2022/03/11/travel/ukraine-architecture-war.html",
         "date": "1일 전",
         "image_path": "",
         "catagory": "피해 상황"
@@ -104,26 +96,18 @@
         "catagory": "피해 상황"
     },
     {
-        "name": "France Says Putin Shows No Interest In Ending War; Zelenskiy Says 1,300 \nUkrainian Troops Have Died",
-        "description": "Meanwhile, Ukraine President Volodymyr Zelenskiy said about 1,300 ... \nUkrainian officials accused Russia damaging a cancer hospital and...",
-        "link": "https://www.rferl.org/a/russia-invasion-ukraine-kyiv-zelenskiy-shelling/31749390.html",
-        "date": "6시간 전",
-        "image_path": "",
-        "catagory": "피해 상황"
-    },
-    {
-        "name": "Russia invades Ukraine: Live updates",
-        "description": "As a new day nears for Ukraine, these are the latest updates from on ... \nsatellite imagery showed damage and fires in apartment buildings...",
-        "link": "https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-12-22/h_d7ddf51a92bd3d4c8e15397ac8b1dfe8",
-        "date": "2시간 전",
-        "image_path": "",
-        "catagory": "피해 상황"
-    },
-    {
         "name": "Photos: Ukraine assesses damage as Russian strikes hit Kyiv",
         "description": "Russian missiles and shelling rained down on Ukraine after President \nVladimir Putin unleashed a full-scale invasion. A damaged residential...",
         "link": "https://www.aljazeera.com/gallery/2022/2/25/photos-ukraine-assesses-damage-as-russian-strikes-hit-kyiv",
         "date": "2주 전",
+        "image_path": "",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "What Happened on Day 14 of Russia's Invasion of Ukraine",
+        "description": "The United Nations said Wednesday that its monitors had confirmed 516 \ncivilian deaths and 908 injuries, acknowledging the figures were \ndoubtless...",
+        "link": "https://www.nytimes.com/live/2022/03/09/world/ukraine-russia-war",
+        "date": "10시간 전",
         "image_path": "",
         "catagory": "피해 상황"
     },
@@ -136,22 +120,6 @@
         "catagory": "피해 상황"
     },
     {
-        "name": "Russian attack on Zaporizhzhia nuclear plant more dangerous ...",
-        "description": "The security footage supports claims by Ukraine's nuclear regulator of \ndamage at three other locations: the Unit 1 reactor building,...",
-        "link": "https://www.npr.org/2022/03/11/1085427380/ukraine-nuclear-power-plant-zaporizhzhia",
-        "date": "1일 전",
-        "image_path": "",
-        "catagory": "피해 상황"
-    },
-    {
-        "name": "Russia's attack on Ukraine, daylight saving time, NCAA March Madness: 5 \nthings to know this weekend",
-        "description": "Ukraine: Russia artillery damages another hospital. Devastating economic \nsanctions from the U.S. and its allies haven't stopped Russia's assault...",
-        "link": "https://www.usatoday.com/story/news/2022/03/12/russia-ukraine-daylight-saving-time-5-things-know-weekend/9440309002/",
-        "date": "14시간 전",
-        "image_path": "",
-        "catagory": "피해 상황"
-    },
-    {
         "name": "Russia’s war in Ukraine, explained",
         "description": "Russia is bombarding major cities in Ukraine, more than a week into a war \n... levels and that the fire did not damage “essential” equipment.",
         "link": "https://www.vox.com/2022/2/23/22948534/russia-ukraine-war-putin-explosions-invasion-explained",
@@ -160,10 +128,10 @@
         "catagory": "피해 상황"
     },
     {
-        "name": "Live updates: U.S. House approves Russia oil import ban bill",
-        "description": "The latest developments on the Russia-Ukraine war: ... social media account \non Wednesday said the hospital suffered “colossal” damage.",
-        "link": "https://apnews.com/article/russia-ukraine-kyiv-business-nato-evacuations-cd8d100194423e647d07e4d6c226acbc",
-        "date": "2일 전",
+        "name": "Russian attack on Zaporizhzhia nuclear plant more dangerous ...",
+        "description": "The security footage supports claims by Ukraine's nuclear regulator of \ndamage at three other locations: the Unit 1 reactor building,...",
+        "link": "https://www.npr.org/2022/03/11/1085427380/ukraine-nuclear-power-plant-zaporizhzhia",
+        "date": "1일 전",
         "image_path": "",
         "catagory": "피해 상황"
     },
@@ -176,18 +144,10 @@
         "catagory": "피해 상황"
     },
     {
-        "name": "Ukraine Maps: Tracking Where Russian Forces Are Invading",
-        "description": "Since the invasion started, at least 67 Ukrainian towns and cities have \nbeen ... These satellite images show widespread damage on the city's west \nside — in...",
-        "link": "https://www.nytimes.com/interactive/2022/world/europe/ukraine-maps.html",
-        "date": "4주 전",
-        "image_path": "",
-        "catagory": "피해 상황"
-    },
-    {
-        "name": "Brutal onslaught rages in Ukraine as Russia expands assaults on key cities",
-        "description": "An Interior Ministry adviser said the damage was caused by the falling \nwreckage of a cruise missile after it had been intercepted by Ukrainian...",
-        "link": "https://www.cnn.com/2022/03/02/europe/ukraine-russia-invasion-wednesday-intl-hnk/index.html",
-        "date": "1주 전",
+        "name": "Explosions heard across Ukraine as Putin announces ...",
+        "description": "Missile strikes and military barrages struck Ukrainian targets from ... \nattack on Ukraine\" and warned of \"a catastrophic loss of life and...",
+        "link": "https://www.npr.org/2022/02/23/1082510234/russia-ukraine-updates",
+        "date": "2주 전",
         "image_path": "",
         "catagory": "피해 상황"
     },
@@ -200,18 +160,58 @@
         "catagory": "피해 상황"
     },
     {
-        "name": "Russia-Ukraine War: Animals of Ukraine — a Collateral ...",
-        "description": "Russia-Ukraine War: Animals of Ukraine — a Collateral Damage or an \nIrreplaceable Loss? By Ashmita Gupta. 4 days ago. TWC India. Representative \nImage.",
-        "link": "https://weather.com/en-IN/india/news/news/2022-03-08-animals-of-ukraine-collateral-damage-or-an-irreplaceable-loss",
-        "date": "4일 전",
-        "image_path": "",
-        "catagory": "피해 상황"
-    },
-    {
         "name": "Live updates: Official: Artillery kills 70 Ukraine soldiers",
         "description": "The latest developments on the Russia-Ukraine war: ... signs of fighting \noutside Kyiv, including destroyed vehicles and a damaged bridge.",
         "link": "https://apnews.com/article/russia-ukraine-war-live-updates-ee7cdf19bdab43a22cb1391c98c62b4d",
         "date": "1주 전",
+        "image_path": "",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Kyiv Fighting Overshadows Chance of Ukraine Peace Talks ...",
+        "description": "With battles reported in the suburbs of Kyiv and heavy fighting around \nUkraine's second city, Kharkiv, President Volodymyr Zelenskiy warned that...",
+        "link": "https://www.bloomberg.com/news/articles/2022-02-28/heavy-fighting-in-ukraine-damages-prospects-for-russia-talks",
+        "date": "2주 전",
+        "image_path": "",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Russian forces land in Kharkiv as bombardment of Ukraine ...",
+        "description": "Photo: State Emergency Service of Ukraine / Handout/Anadolu Agency via ... \nstrike on Tuesday, causing massive damage to the local city hall.",
+        "link": "https://www.axios.com/ukraine-russia-peace-talks-zelensky-72a5de75-6cad-4780-9686-d28cec86edd8.html",
+        "date": "1주 전",
+        "image_path": "",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Live updates: U.S. House approves Russia oil import ban bill",
+        "description": "The latest developments on the Russia-Ukraine war: ... social media account \non Wednesday said the hospital suffered “colossal” damage.",
+        "link": "https://apnews.com/article/russia-ukraine-kyiv-business-nato-evacuations-cd8d100194423e647d07e4d6c226acbc",
+        "date": "3일 전",
+        "image_path": "",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Ukraine Maps: Tracking Where Russian Forces Are Invading",
+        "description": "Since the invasion started, at least 67 Ukrainian towns and cities have \nbeen ... These satellite images show widespread damage on the city's west \nside — in...",
+        "link": "https://www.nytimes.com/interactive/2022/world/europe/ukraine-maps.html",
+        "date": "4주 전",
+        "image_path": "",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Ukraine conflict: Before and after images reveal Russian destruction",
+        "description": "While Russian forces remain some distance from the Ukrainian capital ... \nArtillery and air strikes have caused severe damage in the area,...",
+        "link": "https://www.bbc.com/news/world-europe-60610840",
+        "date": "1주 전",
+        "image_path": "",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Russia-Ukraine War: Animals of Ukraine — a Collateral ...",
+        "description": "Russia-Ukraine War: Animals of Ukraine — a Collateral Damage or an \nIrreplaceable Loss? By Ashmita Gupta. 4 days ago. TWC India. Representative \nImage.",
+        "link": "https://weather.com/en-IN/india/news/news/2022-03-08-animals-of-ukraine-collateral-damage-or-an-irreplaceable-loss",
+        "date": "5일 전",
         "image_path": "",
         "catagory": "피해 상황"
     },
@@ -232,9 +232,9 @@
         "catagory": "피해 상황"
     },
     {
-        "name": "Ukraine conflict: Before and after images reveal Russian destruction",
-        "description": "While Russian forces remain some distance from the Ukrainian capital ... \nArtillery and air strikes have caused severe damage in the area,...",
-        "link": "https://www.bbc.com/news/world-europe-60610840",
+        "name": "Unesco 'gravely concerned' about damage to Ukrainian ...",
+        "description": "Unesco 'gravely concerned' about damage to Ukrainian cultural heritage. The \nUN body is monitoring heritage sites by satellite and plans a...",
+        "link": "https://www.theartnewspaper.com/2022/03/04/unesco-gravely-concerned-about-damage-to-ukrainian-cultural-heritage",
         "date": "1주 전",
         "image_path": "",
         "catagory": "피해 상황"

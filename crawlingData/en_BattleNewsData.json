@@ -1,24 +1,80 @@
 ﻿[
     {
+        "name": "Opinion | Will Sanctions on Russia Help Ukraine?",
+        "description": "The sanctions are raising the price of Russia's belligerence and can \ndegrade its capacity to pursue this campaign of terror, or others,...",
+        "link": "https://www.nytimes.com/2022/03/11/opinion/russia-sanctions.html",
+        "date": "1일 전",
+        "image_path": "",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "Russia-Ukraine conflict: Are we in the undertow of an inevitably wider war?",
+        "description": "We're now past two weeks since Russia invaded Ukraine and there ... of a \nbumbling belligerent — its 60-kilometre-long invasion convoy near...",
+        "link": "https://globalnews.ca/news/8677117/russia-ukraine-conflict-wider-war-commentary/",
+        "date": "1일 전",
+        "image_path": "",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "Ukraine War and Media Framing: Obnoxious Orientalist Overtones",
+        "description": "Russian invasion on Ukraine has evoked considerable outpouring of ... \nWestern media poignantly portrayed the plight of Ukrainians and...",
+        "link": "https://moderndiplomacy.eu/2022/03/12/ukraine-war-and-media-framing-obnoxious-orientalist-overtones/",
+        "date": "16시간 전",
+        "image_path": "",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "Providing Arms and Materiel to Ukraine: Neutrality, Co ...",
+        "description": "... to Ukraine: Neutrality, Co-belligerency, and the Use of Force ... Like \nRussia and Ukraine, some of the States providing military...",
+        "link": "https://lieber.westpoint.edu/ukraine-neutrality-co-belligerency-use-of-force/",
+        "date": "5일 전",
+        "image_path": "",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "Special Forces, Unprivileged Belligerency, and the War in the ...",
+        "description": "The February 24, 2022 invasion of Ukraine resulted in news reports of fear \nin the streets of Kyiv as Ukrainian forces engaged in “ · The use of...",
+        "link": "https://lieber.westpoint.edu/special-forces-unprivileged-belligerency-war-shadows/",
+        "date": "4일 전",
+        "image_path": "",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "The NATO Critics Who Predicted Russia’s Belligerence",
+        "description": "A poster of Russian President Vladimir Putin is used for target practice by \nUkrainian troops.",
+        "link": "https://newrepublic.com/article/165562/nato-critics-predicted-russia-putin-belligerence-ukraine",
+        "date": "1주 전",
+        "image_path": "",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "Supplying Arms to Ukraine is Not an Act of War",
+        "description": "In the Old World Order that existed before 1928, economic sanctions against \na belligerent and supplying arms to one side and not another were...",
+        "link": "https://www.justsecurity.org/80661/supplying-arms-to-ukraine-is-not-an-act-of-war/",
+        "date": "11시간 전",
+        "image_path": "",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "Shaheen, Durbin Meet with European Ambassadors on ...",
+        "description": "Shaheen has led action in the U.S. Senate in support of Ukraine in response \nto Vladimir Putin's belligerence against Ukraine, which also...",
+        "link": "https://www.shaheen.senate.gov/news/press/shaheen-durbin-meet-with-european-ambassadors-on-ukraine",
+        "date": "1일 전",
+        "image_path": "",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "Ukraine and War Powers: A Legal Explainer",
+        "description": "(Under U.S. domestic law, the U.S. executive branch has adapted the notion \nof co-belligerency – with roots in neutrality law – in order to...",
+        "link": "https://www.justsecurity.org/80438/ukraine-and-war-powers-a-legal-explainer/",
+        "date": "1주 전",
+        "image_path": "",
+        "catagory": "교전 최신 상황"
+    },
+    {
         "name": "Russia presses invasion to outskirts of Ukrainian capital",
         "description": "KYIV, Ukraine (AP) — Russia pressed its invasion of Ukraine to the \noutskirts of the capital Friday after unleashing airstrikes on cities and...",
         "link": "https://apnews.com/article/russia-ukraine-putin-attack-a05e7c4563ac94b963134bba83187d46",
-        "date": "2주 전",
-        "image_path": "",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "Russia bombs Ukraine, starts invasion",
-        "description": "But Putin, who vowed to liberate and protect the Russia-backed separatist \neastern region of Ukraine, was unbowed and belligerent,...",
-        "link": "https://www.latimes.com/politics/story/2022-02-23/biden-expected-to-allow-sanctions-on-firm-behind-nord-stream-2-pipeline",
-        "date": "2주 전",
-        "image_path": "",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "'The world will hold Russia accountable': Leaders react to 'horrific \nevents' in Ukraine",
-        "description": "Ukraine and our NATO allies facing ongoing Russian belligerence have strong \nbipartisan, bicameral support in the U.S. Congress.",
-        "link": "https://www.usatoday.com/story/news/politics/2022/02/23/reactions-russia-invasion-ukraine/6919358001/",
         "date": "2주 전",
         "image_path": "",
         "catagory": "교전 최신 상황"
@@ -28,6 +84,14 @@
         "description": "Even seasoned Kremlinologists were alarmed by Russian President Vladimir \nPutin's belligerent tone as he offered a monologue on why Ukraine...",
         "link": "https://www.nbcnews.com/news/world/putin-russia-ukraine-history-speech-rcna17132",
         "date": "2주 전",
+        "image_path": "",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "Using a New Cyber Tool, Westerners Have Been Texting Russians About the War \nin Ukraine",
+        "description": "Since its forces invaded Ukraine on Feb. ... Most were belligerent—one \nsender, who mistook her for a U.S. citizen, said he would throw a...",
+        "link": "https://www.wsj.com/articles/using-a-new-cyber-tool-westerners-have-been-texting-russians-about-the-war-in-ukraine-11647100803",
+        "date": "14시간 전",
         "image_path": "",
         "catagory": "교전 최신 상황"
     },
@@ -72,18 +136,18 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "How US might help Ukraine -- without broadening the war",
-        "description": "How US might help Ukraine -- without broadening the war ... to avoid Moscow \nbranding any NATO country a \"co-belligerent\" of Ukraine.",
-        "link": "https://www.france24.com/en/live-news/20220308-how-us-might-help-ukraine-without-broadening-the-war",
-        "date": "4일 전",
-        "image_path": "",
-        "catagory": "교전 최신 상황"
-    },
-    {
         "name": "Russia's war in Ukraine: complete guide in maps, video and ...",
         "description": "Moscow's rhetoric grew more belligerent. Putin demanded legal guarantees \nthat Ukraine would never join Nato or host its missile strike...",
         "link": "https://www.theguardian.com/world/2022/mar/07/russia-war-ukraine-complete-guide-maps-video-and-pictures",
         "date": "5일 전",
+        "image_path": "",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "How US might help Ukraine -- without broadening the war",
+        "description": "How US might help Ukraine -- without broadening the war ... to avoid Moscow \nbranding any NATO country a \"co-belligerent\" of Ukraine.",
+        "link": "https://www.france24.com/en/live-news/20220308-how-us-might-help-ukraine-without-broadening-the-war",
+        "date": "4일 전",
         "image_path": "",
         "catagory": "교전 최신 상황"
     },
@@ -104,14 +168,6 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "Macron welcomes EU leaders for Ukraine crisis talks at Versailles",
-        "description": "EU leaders doused Ukraine's hopes gaining membership of the European Union \n... Since Russia's belligerence against its pro-EU neighbour,...",
-        "link": "https://www.france24.com/en/europe/20220310-macron-hosts-eu-leaders-for-ukraine-crisis-talks-at-versailles",
-        "date": "2일 전",
-        "image_path": "",
-        "catagory": "교전 최신 상황"
-    },
-    {
         "name": "Why the U.S. can engage Russia on cyber over Ukraine",
         "description": "Corn, a retired U.S. Army colonel and military attorney who served in the \nArmy for 27 years, noted that “co-belligerent” is the correct term...",
         "link": "https://venturebeat.com/2022/03/09/why-the-u-s-can-engage-russia-on-cyber-over-ukraine/",
@@ -120,9 +176,9 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "The Fog of War, Civilian Resistance, and the Soft Underbelly ...",
-        "description": "All across Ukraine, ordinary citizens have been cornered into ... In 2002, \nthe terms “unlawful combatant” and “unprivileged belligerent”...",
-        "link": "https://lieber.westpoint.edu/fog-of-war-civilian-resistance-unprivileged-belligerency/",
+        "name": "Macron welcomes EU leaders for Ukraine crisis talks at Versailles",
+        "description": "EU leaders doused Ukraine's hopes gaining membership of the European Union \n... Since Russia's belligerence against its pro-EU neighbour,...",
+        "link": "https://www.france24.com/en/europe/20220310-macron-hosts-eu-leaders-for-ukraine-crisis-talks-at-versailles",
         "date": "2일 전",
         "image_path": "",
         "catagory": "교전 최신 상황"
@@ -136,10 +192,18 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "Russian Invasion Revives World War II Memories for Ukraine",
-        "description": "Moscow was a co-belligerent with Nazi Germany in dismembering Poland in \n1939, under the Molotov-Ribbentrop Pact. While most Russians and...",
-        "link": "https://www.wsj.com/articles/in-ukraine-world-war-ii-memories-echo-as-russia-attacks-its-cities-11646677679",
-        "date": "5일 전",
+        "name": "The Fog of War, Civilian Resistance, and the Soft Underbelly ...",
+        "description": "All across Ukraine, ordinary citizens have been cornered into ... In 2002, \nthe terms “unlawful combatant” and “unprivileged belligerent”...",
+        "link": "https://lieber.westpoint.edu/fog-of-war-civilian-resistance-unprivileged-belligerency/",
+        "date": "2일 전",
+        "image_path": "",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "Will Russia invade Ukraine? : NewsCenter",
+        "description": "Russian President Vladimir Putin's recent belligerent behavior toward \nneighboring Ukraine has already caused NATO allies to close ranks and...",
+        "link": "https://www.rochester.edu/newscenter/will-russia-invade-ukraine-511112/",
+        "date": "3주 전",
         "image_path": "",
         "catagory": "교전 최신 상황"
     },
@@ -152,10 +216,26 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "Will Russia invade Ukraine? : NewsCenter",
-        "description": "Russian President Vladimir Putin's recent belligerent behavior toward \nneighboring Ukraine has already caused NATO allies to close ranks and...",
-        "link": "https://www.rochester.edu/newscenter/will-russia-invade-ukraine-511112/",
-        "date": "3주 전",
+        "name": "What is Putin's exit strategy? | TheHill",
+        "description": "Ukraine and Russian belligerence demands a re-balancing of interests. A new \nstrategy is also required, in this case one based on a Porcupine...",
+        "link": "https://thehill.com/opinion/international/596075-what-is-putins-exit-strategy",
+        "date": "2주 전",
+        "image_path": "",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "Russian Invasion Revives World War II Memories for Ukraine",
+        "description": "Moscow was a co-belligerent with Nazi Germany in dismembering Poland in \n1939, under the Molotov-Ribbentrop Pact. While most Russians and...",
+        "link": "https://www.wsj.com/articles/in-ukraine-world-war-ii-memories-echo-as-russia-attacks-its-cities-11646677679",
+        "date": "5일 전",
+        "image_path": "",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "Neutrality in the War against Ukraine",
+        "description": "A neutral State is prohibited from allowing a belligerent party to use its \nterritory as a base of military operations or for any other exercise...",
+        "link": "https://lieber.westpoint.edu/neutrality-in-the-war-against-ukraine/",
+        "date": "1주 전",
         "image_path": "",
         "catagory": "교전 최신 상황"
     }

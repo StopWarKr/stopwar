@@ -89,7 +89,7 @@
     },
     {
         "name": "Courtyard of the Khotyn Stronghold",
-        "description": "\nThe southern part of the courtyard of the Khotyn Stronghold, known as \"The yard of warriors\".\nKhotyn fortress, Ukraine.  ",
+        "description": "\nThe southern part of the courtyard of the Khotyn Stronghold, known as \"The yard of warriors\".\nKhotyn fortress, Ukraine. ",
         "link": "https://www.worldhistory.org/image/14922/courtyard-of-the-khotyn-stronghold/",
         "date": "-",
         "image_path": "https://www.worldhistory.org/img/c/p/360x202/14922.jpg?v=1638101791",
@@ -136,19 +136,19 @@
         "category": "역사"
     },
     {
-        "name": "Battle of Khotyn (1621)",
-        "description": "\nThe Battle of Khotyn (1621), oil on canvas painting by Józef Brandt, depicting Jan Karol Chodkiewicz (on the white horse), 1867.\nNational Museum, Warsaw. ",
-        "link": "https://www.worldhistory.org/image/14924/battle-of-khotyn-1621/",
-        "date": "-",
-        "image_path": "https://www.worldhistory.org/img/c/p/360x202/14924.jpg?v=1638183721",
-        "category": "역사"
-    },
-    {
         "name": "Fresco in the Saint Sophia Cathedral",
         "description": "\nWell-preserved fresco of a saint, 11th century.\nSaint Sophia Cathedral of Kyiv. ",
         "link": "https://www.worldhistory.org/image/14822/fresco-in-the-saint-sophia-cathedral/",
         "date": "-",
         "image_path": "https://www.worldhistory.org/img/c/p/360x202/14822.jpg?v=1636828202",
+        "category": "역사"
+    },
+    {
+        "name": "Battle of Khotyn (1621)",
+        "description": "\nThe Battle of Khotyn (1621), oil on canvas painting by Józef Brandt, depicting Jan Karol Chodkiewicz (on the white horse), 1867.\nNational Museum, Warsaw. ",
+        "link": "https://www.worldhistory.org/image/14924/battle-of-khotyn-1621/",
+        "date": "-",
+        "image_path": "https://www.worldhistory.org/img/c/p/360x202/14924.jpg?v=1638183721",
         "category": "역사"
     },
     {
