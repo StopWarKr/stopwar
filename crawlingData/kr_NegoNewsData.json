@@ -1,25 +1,73 @@
 ﻿[
     {
-        "name": "뉴시스",
-        "description": "우크라이나와 러시아는 그간 침공 상황에서 대표단을 꾸려 세 차례 협상을 진행했었다. 한편 러시아에서는 이날 우크라이나와의 협상에서 한 \n치도 양보...",
-        "link": "https://mobile.newsis.com/view.html?ar_id=NISX20220310_0001787879",
-        "date": "3일 전",
-        "image_path": "",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "[뉴욕유가] 이란 핵 협상 중단 속에 3%↑…주간은 5%↓",
-        "description": "또한 러시아와 우크라이나의 전쟁 상황이 유동적인 만큼 변동성이 지속될 것으로 예상하고 있다. 블라디미르 푸틴 러시아 대통령이 \n우크라이나와의 협상...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/03/230110/",
+        "name": "뉴욕증시, 푸틴 '협상 진전' 발언에 반등 출발",
+        "description": "투자자들은 러시아와 우크라이나의 전쟁 상황과 서방의 제재 강화 가능성, 그에 따른 경제적 여파 등을 주목하고 있다. 이날은 푸틴 \n대통령이 우크라이나...",
+        "link": "https://www.mk.co.kr/news/stock/view/2022/03/230064/",
         "date": "1일 전",
         "image_path": "",
         "catagory": "협상 진행 과정"
     },
     {
-        "name": "뉴시스",
-        "description": "러시아 언론 리아노보스티에 따르면 이날 벨라루스 브레스트에서 열린 양측 간 협상은 세 시간 가까이 진행됐다. 리아노보스티는 우크라이나 \n대표단을...",
-        "link": "https://mobile.newsis.com/view.html?ar_id=NISX20220308_0001785249",
+        "name": "우크라 휴전협상 단원, 러 스파이였다... 한 명 총살당해 - 조선일보",
+        "description": "이런 상황에도 미하일로 포돌랴크 우크라이나 대통령실 고문은 이날 “3차 정전 회담이 앞으로 1~2일 내에 열릴 것”이라며 “인도주의 \n통로 제공과 휴전...",
+        "link": "https://www.chosun.com/international/international_general/2022/03/06/WZN4PN6SMNCOVE5E2IF5PPL3ZI/",
+        "date": "6일 전",
+        "image_path": "",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "우크라 종전의 조건…“양측 모두 양보 불가피”",
+        "description": "현 상황대로라면 협상 타결 가능성은 아직 요원하며 전쟁의 결과에 따라 좌우될 것이다. 러시아가 결정적 승리를 거두지 못한다면 \n우크라이나는 협상...",
+        "link": "https://www.donga.com/news/Inter/article/all/20220304/112153000/1",
+        "date": "1주 전",
+        "image_path": "",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "WP “우크라 종전 가능성 희박…美, 러와 직접 협상해야”",
+        "description": "러시아의 우크라이나 침공 사태가 뚜렷한 결론 없이 장기화될 가능성이 높다는 ... 익명을 요구한 한 유럽 외교관은 WP에 “이러한 \n상황이 계속 될수록...",
+        "link": "https://www.donga.com/news/Inter/article/all/20220311/112286234/1",
+        "date": "2일 전",
+        "image_path": "",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "전쟁비용 하루 30조원…푸틴, 우크라戰 오래 끌 수 있을까 - 조선비즈",
+        "description": "블라디미르 푸틴 러시아 대통령이 “협상이든 전쟁이든 어떠한 수단을 ... 의 군사작전이 일정에 따라 진행되고 있다”며 “우크라이나 협상 \n대표단은...",
+        "link": "https://biz.chosun.com/international/international_general/2022/03/07/47WMEPRMANCAJOZX6TJG4SULP4/",
+        "date": "6일 전",
+        "image_path": "",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "[우크라 침공] 출구전략 모색하나…포성속 계속되는 대화",
+        "description": "이런 인도주의적 위기 상황에서 러시아와 우크라이나가 대화의 끈을 놓지 않아 ... 러시아와 우크라이나 협상 대표단은 개전 닷새만인 \n지난달 28일...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/03/224857/",
+        "date": "3일 전",
+        "image_path": "",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "러시아-우크라, 3차 휴전 협상 “인도주의 통로 가동” 재확인",
+        "description": "우크라이나의 대통령실 고문 미하일 포돌랴크는 이날 회담 직후 트위터에 “3차 협상은 끝났다. 상황을 크게 개선하는 결과를 이끌어내지는 \n못했다”...",
+        "link": "https://kr-mb.theepochtimes.com/%EB%9F%AC%EC%8B%9C%EC%95%84-%EC%9A%B0%ED%81%AC%EB%9D%BC-3%EC%B0%A8-%ED%9C%B4%EC%A0%84-%ED%98%91%EC%83%81-%EC%9D%B8%EB%8F%84%EC%A3%BC%EC%9D%98-%ED%86%B5%EB%A1%9C-%EA%B0%80%EB%8F%99-%EC%9E%AC_610953.html",
         "date": "5일 전",
+        "image_path": "",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "[데스크 칼럼] 우크라이나의 교훈과 윤석열 정부의 과제 - 조선비즈",
+        "description": "핵무기를 보유한 두 나라와 국경을 접한 상황에서 국가 안보를 위해 미국 ... 우크라이나 전쟁에서 보듯 힘이 뒷받침되지 않는 외교나 \n협상의 한계는...",
+        "link": "https://biz.chosun.com/opinion/desk_column/2022/03/12/T5NSL5RY3RDFTGV42Y55M5U6FA/",
+        "date": "1일 전",
+        "image_path": "",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "우크라 침공 이틀째, 푸틴·시진핑 통화… “우크라와 협상 원해” - 조선일보",
+        "description": "중국 외교부에 따르면 푸틴 대통령은 이날 통화에서 시 주석에게 우크라이나에서 진행되고 있는 러시아의 '특별 군사 행동' 상황을 \n설명하면서 “미국...",
+        "link": "https://www.chosun.com/international/china/2022/02/26/GCZFZZM7MRCZNFHSLZZO7BXTOM/",
+        "date": "2주 전",
         "image_path": "",
         "catagory": "협상 진행 과정"
     },
@@ -27,54 +75,6 @@
         "name": "러시아-우크라이나, 전쟁 나흘만에 소강상태, '96시간 저항' 성공",
         "description": "벨라루스 군도 러시아 지원에 나선다. Washington Post는 벨라루스가 이르면 협상이 진행되는 오늘 중으로 러시아에 벨라루스 \n군을 파병해 우크라이나...",
         "link": "https://radiokorea.com/news/article.php?uid=382658",
-        "date": "2주 전",
-        "image_path": "",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "러시아-우크라, 3차 협상서 민간인 피난 통로 개설 재합의",
-        "description": "우크라이나 측 협상 대표인 미하일로 포돌랴크 우크라이나 대통령실 고문은 협상 이후 \"상황을 크게 진전시키는 결과를 끌어내지는 \n못했지만,...",
-        "link": "https://www.pressian.com/pages/articles/2022030808013638434",
-        "date": "5일 전",
-        "image_path": "",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "[우크라 침공] 서방·이란 \"외부 요인으로 핵협상 일시 중단\"(종합)",
-        "description": "여기서 말한 외부 요인이란 러시아가 우크라이나 침공에 따른 국제사회 ... 하지만 협상이 막바지로 가는 상황에서 러시아가 새로운 요구를 \n하면서...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/03/230080/",
-        "date": "1일 전",
-        "image_path": "",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "러·우크라 곧 2차 협상…러, 제2의도시 집중공격",
-        "description": "[앵커]. 러시아와 우크라이나가 현지시간 3일 오전 2차 회담을 하기로 했습니다. 별 소득 없었던 1차 회담과 달리 이번엔 상황에 \n변화를 가져올 만한...",
-        "link": "https://www.yna.co.kr/view/MYH20220303008300038",
-        "date": "1주 전",
-        "image_path": "",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "러시아-우크라이나 3차 협상 종료…러시아, 한국 등 48개국 비우 ...",
-        "description": "우크라이나 측은 상황을 크게 개선시키는 결과를 끌어내지는 못했지만, 인도적 통로 개설에 있어 작지만 긍정적인 진전이 있었다고 말했습니다.",
-        "link": "https://news.kbs.co.kr/news/view.do?ncd=5410841",
-        "date": "5일 전",
-        "image_path": "",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "[뉴욕증시포커스] 진전 없는 우크라·인플레 우려 확대…나스닥 ...",
-        "description": "이날 블라디미르 푸틴 러시아 대통령은 우크라이나 협상과 관련해 '일부 긍정적인 상황'을 맞이하고 있다고 평가했다. 하지만 쿨라베 \n우크라이나 외무...",
-        "link": "http://www.econovill.com/news/articleView.html?idxno=568275",
-        "date": "1일 전",
-        "image_path": "",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "러시아·우크라이나 회담 착수, \"전쟁 끝낼 수 있다면…\"",
-        "description": "이번 회담이 상황 반전의 물꼬를 트는 계기가 될 수 있을지 주목된다. ... 러시아 국영매체 <타스>통신은 \"러시아와 우크라이나 \n대표단의 협상은...",
-        "link": "https://www.pressian.com/pages/articles/2022022809423816620",
         "date": "2주 전",
         "image_path": "",
         "catagory": "협상 진행 과정"
