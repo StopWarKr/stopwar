@@ -1,42 +1,122 @@
 ﻿[
     {
-        "name": "[영상] 러시아군, 민간 지역도 '무차별 폭격'…우크라이나 피해 ...",
-        "description": "우크라이나 피해 상황 정리 ... 러시아 군이 우크라이나의 군사시설 뿐 아니라 민간 지역까지 무차별 공격 ... 현지 상황을 영상으로 \n정리했습니다.",
-        "link": "https://news.kbs.co.kr/news/view.do?ncd=5407602",
+        "name": "우크라이나 사태: 러시아 침공 11일째 상황",
+        "description": "우크라이나 사태: 러시아 침공 11일째 상황. 2022년 3월 7일. 폴란드의 국경 도시 프셰미실에는 연일 우크라이나 피란민들이 \n몰려들고 있다. 사진 출처, Reuters.",
+        "link": "https://www.bbc.com/korean/news-60643146",
         "date": "1주 전",
-        "image_path": "https://news.kbs.co.kr/data/news/2022/03/03/20220303_lAdRvc.jpg",
+        "image_path": "https://ichef.bbci.co.uk/news/1024/branded_korean/1713/production/_123570950_hi074374380.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "전쟁배상 받을수 있을까…우크라이나 경제피해 벌써 120조원",
+        "description": "우스텐코는 \"우크라이나의 인도주의적 위기 상황이 상상할 수 있는 것보다 훨씬 더 심각하다\"며 러시아산 에너지 수입 금지 등 서방 \n국가들이 러시아...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/03/228233/",
+        "date": "3일 전",
+        "image_path": "https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_228233_16469729564971604.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라 “앞으로 24시간이 결정적”…러, 병력 손실 첫 인정",
+        "description": "<비비시>(BBC) 방송은 러시아 군도 이날 전투에서 일부 병력을 잃었다고 인정했지만, 구체적인 피해 상황을 거론하지 않은 채 \n우크라이나 군보다 피해...",
+        "link": "https://www.hani.co.kr/arti/international/international_general/1032843.html",
+        "date": "2주 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/487/imgdb/original/2022/0228/20220228501236.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
         "name": "우크라 전쟁: 미국, '중국이 러시아를 돕는다면 대가를 치를 것'",
         "description": "미국 백악관은 13일(현지시간) 중국이 러시아의 우크라이나 침공을 지원 ... 세계 어디에서도 경제 제재를 피해 생명줄을 구하지 못하게 \n할 것입니다.",
         "link": "https://www.bbc.com/korean/news-60732813",
-        "date": "4시간 전",
+        "date": "15시간 전",
         "image_path": "https://ichef.bbci.co.uk/news/1024/branded_korean/58C6/production/_123662722_593c5427-3843-4c52-b110-0dac61882214.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "우크라이나로 떠난 이근 사망설 확산…이유는?",
-        "description": "이에 외교부는 현재까지 우크라이나에서의 우리 국민 피해 사실이 확인된 바 ... 이근이 현지 상황에 대한 SNS에 대한 언급 등이 \n없었던 것과 함께...",
-        "link": "https://www.hankookilbo.com/News/Read/A2022031413230004666",
-        "date": "7시간 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/14/cccbf4ad-4724-42c5-99ae-52bb3279668c.jpg?t=20220314051239",
+        "name": "우크라이나 전쟁, 글로벌 경기 불황으로 이어질까?",
+        "description": "그러나 전 세계적으로 전쟁의 영향을 피해 갈 수 있는 곳은 별로 없을 것으로 ... 러시아가 주요 무역국인 이들 국가의 경제는 현재 \n상황에서 비교적...",
+        "link": "https://www.bbc.com/korean/features-60702879",
+        "date": "3일 전",
+        "image_path": "https://ichef.bbci.co.uk/news/1024/branded_korean/57C6/production/_123407422_mediaitem123407421.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "개전 17일 전황, 민간인 피해 속출…“키이우는 곧 절망적 상황”",
-        "description": "[앵커] 러시아의 우크라이나 침공이 보름을 넘기면서 전선이 서부와 남부로 급속히 확산되고 있습니다 전쟁양상이 달라지고 있는건데 러시아 \n군의...",
-        "link": "https://news.kbs.co.kr/news/view.do?ncd=5414055",
-        "date": "2일 전",
-        "image_path": "https://news.kbs.co.kr/data/news/title_image/newsmp4/world_now/2022/03/12/30_5414055.jpg",
+        "name": "뉴시스",
+        "description": "[의정부=뉴시스] 배성윤 기자 = 러시아의 우크라이나 침공 사태로 국내 경제에 타격이 예상되는 가운데, 경기도가 수출입 피해 등 경영 \n애로를 겪고...",
+        "link": "https://mobile.newsis.com/view.html?ar_id=NISX20220315_0001793178",
+        "date": "1시간 전",
+        "image_path": "https://image.newsis.com/2021/04/07/NISI20210407_0000722263_web.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "주한 우크라이나 대사 “학교 2백곳·병원 35곳 파괴, 150만 명 ...",
-        "description": "무차별 공격을 피해 피란길에 오른 우크라이나 국민들이 인도주의적 위기 상황에 처한 만큼 국제사회의 지원이 절실하다고 우크라이나 대사는 \n호소...",
-        "link": "https://news.kbs.co.kr/news/view.do?ncd=5414922",
-        "date": "2시간 전",
-        "image_path": "https://news.kbs.co.kr/data/news/2022/03/14/20220314_ar9Euq.jpg",
+        "name": "우크라이나 난민 지원 한 뜻…종교·시민단체 연대",
+        "description": "현재 벌어지고 있는 일이라고 믿기 힘든 참혹한 상황이 이어지고 있는 우크라이나. 하루 아침에 전쟁의 피해로 터전을 잃은 난민들을 위해 \n신속한...",
+        "link": "https://www.goodnews1.com/news/articleView.html?idxno=405794",
+        "date": "10시간 전",
+        "image_path": "https://cdn.goodnews1.com/news/thumbnail/405794_6005914_307_v150.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "경남도, 러시아-우크라이나 사태에 '비상대응단' 구성",
+        "description": "[천지일보 경남=이선미 기자] 경상남도(도지사권한대행 하병필)가 러시아-우크라이나 전면전 사태와 관련해 지역경제 상황 점검과 피해 \n최소화를 위해...",
+        "link": "http://www.newscj.com/news/articleView.html?idxno=959290",
+        "date": "16시간 전",
+        "image_path": "https://cdn.newscj.com/news/photo/202203/newscj_천지일보_2022_3_14_165022_1026470.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라이나, 러시아 침공에 따른 피해 규모 발표",
+        "description": "또 우크라이나의 피해 상황은 어린이 14명을 포함해 민간인 사망자는 352명이라고 우크라이나 보건부 장관이 밝혔다. 부상자는 어린이 \n116명을 포함해...",
+        "link": "http://www.ggilbo.com/news/articleView.html?idxno=898656",
+        "date": "2주 전",
+        "image_path": "http://cdn.ggilbo.com/news/photo/202202/898656_729963_3816.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라이나 사태: 러시아 침공 8일째 상황",
+        "description": "러시아의 우크라이나 침공 8일째인 3일(현지시간) 우크라이나 항구도시 마리우폴의 ... 해당 영상에선 주택가 내 참혹한 피해 규모를 \n확인할 수 있다.",
+        "link": "https://www.bbc.com/korean/international-60613885",
+        "date": "1주 전",
+        "image_path": "https://ichef.bbci.co.uk/news/1024/branded_korean/39A8/production/_123506741_mediaitem123506740.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라이나 고려인 5세 아들 구출작전...13세 어린이 전쟁 피해 한국 들어와 - 조선일보",
+        "description": "최비탈리씨는 전쟁 이후 손자의 안위(安危)가 걱정돼 음식점 일은 거의 못하고 고려인마을 지원센터에 나와 전시상황을 살피며 손자를 구할 \n방법을...",
+        "link": "https://www.chosun.com/national/regional/2022/03/14/YUHL7OY4VZEAFJ4GXUY54QHLIE/",
+        "date": "15시간 전",
+        "image_path": "https://images.chosun.com/resizer/hWJT0PU6ClrHcTrnTmzypwZjmWY=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EHQJX5UVOZCMBLTVNJDQURF354.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "러시아-우크라 4차 회담 중단...\"15일 재개\"",
+        "description": "마리우폴은 러시아의 침공 첫 주부터 러시아군에 포위되면서 수만 명의 민간인들이 음식과 식수 없이 대피소로 피해 있는 상황입니다. \n우크라이나...",
+        "link": "https://www.voakorea.com/a/6485171.html",
+        "date": "9시간 전",
+        "image_path": "https://gdb.voanews.com/093e0000-0a00-0242-39c4-08da05ae8243_w1200_r1.jpeg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "[영상] 러시아군, 민간 지역도 '무차별 폭격'…우크라이나 피해 ...",
+        "description": "우크라이나 피해 상황 정리 ... 러시아 군이 우크라이나의 군사시설 뿐 아니라 민간 지역까지 무차별 공격 ... 현지 상황을 영상으로 \n정리했습니다.",
+        "link": "https://news.kbs.co.kr/news/view.do?ncd=5407602",
+        "date": "2주 전",
+        "image_path": "https://news.kbs.co.kr/data/news/2022/03/03/20220303_lAdRvc.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라이나 전쟁: 하르키우 최전방에서 일주일",
+        "description": "매일 밤 이어지는 공습을 피해 시민들은 도망쳤고, 100만 명이 넘는 사람들이 ... 에서 우크라이나군과 함께 일주일을 보내며 현지 \n상황을 보도했다.",
+        "link": "https://www.bbc.com/korean/news-60735195",
+        "date": "15시간 전",
+        "image_path": "https://ichef.bbci.co.uk/news/1024/branded_korean/2253/production/_123678780_p0bv7184.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "도, 우크라 사태 피해기업에 긴급 수혈‥200억 규모 '특별경영 ...",
+        "description": "최근 갑작스러운 러시아·우크라이나 사태 발발로 국내 경제에 타격이 예상되는 가운데, 경기도가 수출입 피해 등 경영 애로를 겪고 있는 \n도내...",
+        "link": "http://www.e-newsp.com/news/article.html?no=44445",
+        "date": "6분 전",
+        "image_path": "http://www.e-newsp.com/data/design/logo/default_image_share_20170821143106.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -48,6 +128,22 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "개전 17일 전황, 민간인 피해 속출…“키이우는 곧 절망적 상황”",
+        "description": "[앵커] 러시아의 우크라이나 침공이 보름을 넘기면서 전선이 서부와 남부로 급속히 확산되고 있습니다 전쟁양상이 달라지고 있는건데 러시아 \n군의...",
+        "link": "https://news.kbs.co.kr/news/view.do?ncd=5414055",
+        "date": "2일 전",
+        "image_path": "https://news.kbs.co.kr/data/news/title_image/newsmp4/world_now/2022/03/12/30_5414055.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "“비행금지구역 없인 방공호 속 죽어가는 시민들 구조 못 합니다!”",
+        "description": "[인터뷰] 존슨 영 총리 폐부 찌른 다리야 칼레뉴크 우크라이나의 ... 하늘 길 뚫려 우크라 시민 피해 ... 지금 우크라이나 내부 \n상황이 어떤가.",
+        "link": "https://www.hani.co.kr/arti/international/international_general/1034848.html",
+        "date": "1시간 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/847/508/imgdb/original/2022/0314/20220314503884.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "우크라이나 침공이 불러올 세계 식량 위기",
         "description": "홀스더 CEO는 BBC와의 인터뷰에서 \"상황이 시시각각 변하고 있다\"고 ... 야라 인터내셔널은 키이우 지사에 미사일이 떨어지면서 이미 \n피해를 봤다.",
         "link": "https://www.bbc.com/korean/international-60643439",
@@ -56,27 +152,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "러, 우크라 침공 19일째 …키이우 아파트 폭격 사상자 속출",
-        "description": "피해 상황과 관련해선 아직 확인되지 않았다. 우크라이나군은 지난 24시간 사이 러시아군 항공기 4대를 격추했고, 러시아군 야전 기지에 \n대한 공격을 시작...",
-        "link": "https://www.fnnews.com/news/202203141646112033",
-        "date": "5시간 전",
-        "image_path": "https://image.fnnews.com/resource/media/image/2022/03/14/202203141646052169_l.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "침공 첫날, 우크라이나인 137명 사망…러시아는 미사일 160발 발사",
-        "description": "러시아의 침공 첫날인 24일(현지시간) 우크라이나 내 다수의 군사시설이 파괴되고 ... 부상자까지 포함하면 피해 규모는 더 클 것으로 \n예상된다.",
-        "link": "https://m.khan.co.kr/world/world-general/article/202202250734001",
-        "date": "2주 전",
-        "image_path": "No Image",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "우크라이나 전쟁 계기로 유럽의 '난민 환대 정신' 되살아나",
-        "description": "러시아의 침공을 피해 외국으로 탈출한 우크라이나인이 12일(현지시각) ... 유럽연합은 우크라이나 상황이 개선되지 않을 경우 1년 뒤 \n체류 기간을 6...",
-        "link": "https://www.hani.co.kr/arti/international/international_general/1034684.html",
-        "date": "16시간 전",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/970/621/imgdb/original/2022/0313/20220313502163.jpg",
+        "name": "악화되는 우크라이나 내부 상황…\"가장 필요한 건 음식과 약\"",
+        "description": "현재 우크라이나에선 약 250만 명의 피란민이 전쟁을 피해 국경을 넘었는데요. 아직 수많은 시민들은 도심을 탈출하지 못한 채 전쟁 \n위험에 노출돼...",
+        "link": "https://www.nocutnews.co.kr/news/5723107",
+        "date": "10시간 전",
+        "image_path": "https://file2.nocutnews.co.kr/newsroom/image/2022/03/14/202203142148037692_2.jpg",
         "catagory": "지역 라이브 상황"
     }
 ]
