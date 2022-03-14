@@ -120,7 +120,7 @@ const removeElement = () => {
 const getNews = async (category) => {
   const response = [];
 
-  if (category === 'ALL') {
+  if (category === 'all-btn') {
     for (let ele in AllCategory) {
       console.log(ele);
       const url = BASE_URL + AllCategory[ele];

@@ -1,7 +1,7 @@
 import { getNews, initialRenderCard, renderTen } from './modules/category.js';
 import { search } from './modules/search.js';
 
-let data = await getNews('ALL');
+let data = await getNews('all-btn');
 
 // 최초 ALL 카테고리 렌더링
 // window.onload = getNews('ALL');
@@ -21,7 +21,7 @@ buttonWrapper.addEventListener('click', async (e) => {
     currentNode.parentElement.classList.add('on');
     initialRenderCard();
     btnMore.style.display = 'block';
-    data = await getNews(currentNode.textContent);
+    data = await getNews(currentNode.className.split(' ')[1]);
   }
 });
 
