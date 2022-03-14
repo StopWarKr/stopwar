@@ -13,15 +13,15 @@ try:
 except:
     print('kr_BattleNewsData error')
 
+# TODO :이 사이트만 크롤링이 타 사이트인데 수정 여부 논의 필요
 try:
     ukraineHistory_en('ukraine', 2, 'en_HistoryNewsData', '역사')
     print('en_HistoryNewsData')
 except:
     print('en_HistoryNewsData error')
 
-# TODO :한국어 필요
 try:
-    ukraineHistory_en('ukraine', 2, 'kr_HistoryNewsData', '역사')
+    GoogleCrawler('역사').crawl_news('우크라이나 역사', 3).write_json('kr_HistoryNewsData')
     print('kr_HistoryNewsData')
 except:
     print('kr_HistoryNewsData error')
