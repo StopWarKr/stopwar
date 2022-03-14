@@ -33,7 +33,7 @@ const renderCard = (news, inputValue) => {
     if (news.image_path.slice(0, 4) == 'http') {
       img.setAttribute('src', news.image_path);
     } else {
-      img.setAttribute('src', IMG_URL + news.image_path);
+      img.setAttribute('src', './image/no-image.jpg');
     }
   } else {
     img.setAttribute('src', './image/no-image.jpg');
