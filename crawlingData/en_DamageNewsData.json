@@ -1,74 +1,98 @@
 ﻿[
     {
-        "name": "Russia’s war in Ukraine, explained",
-        "description": "Russia is bombarding major cities in Ukraine, more than a week into a war \n... levels and that the fire did not damage “essential” equipment.",
-        "link": "https://www.vox.com/2022/2/23/22948534/russia-ukraine-war-putin-explosions-invasion-explained",
-        "date": "1주 전",
-        "image_path": "",
+        "name": "Ukraine latest updates: 2,187 residents killed in Mariupol",
+        "description": "“Life-changing injuries and chronic, debilitating conditions cannot be \ntreated. The human suffering is simply immense.” The Geneva-based...",
+        "link": "https://www.aljazeera.com/news/2022/3/12/russia-ukraine-war-alarm-grows-over-mariupol-liveblog",
+        "date": "1일 전",
+        "image_path": "https://www.aljazeera.com/wp-content/uploads/2022/03/AP22070654665640.jpg?quality=80&resize=1024%2C630",
         "catagory": "피해 상황"
     },
     {
-        "name": "A Ukrainian VC with employees in Russia surveys the damage of Putin’s war",
-        "description": "A Ukrainian VC with employees in Russia surveys the damage of Putin's war. \nBy. Mark Pavlyukovskyy. March 11, 2022 9:30 AM PST...",
-        "link": "https://fortune.com/2022/03/11/ukrainian-vc-employees-russia-surveys-damage-putin-war/",
-        "date": "2일 전",
-        "image_path": "",
+        "name": "Ukraine: Satellite images show infrastructure damage in Mariupol — as it \nhappened",
+        "description": "Zelenskyy says Ukrainians have right to self-determination. Ukrainian \nPresident Volodymyr Zelenskyy addressed fellow Ukrainians in an online...",
+        "link": "https://www.dw.com/en/ukraine-satellite-images-show-infrastructure-damage-in-mariupol-as-it-happened/a-61104419",
+        "date": "1일 전",
+        "image_path": "https://static.dw.com/image/61109250_6.jpg",
         "catagory": "피해 상황"
     },
     {
-        "name": "Ukraine Maps: Tracking Where Russian Forces Are Invading",
-        "description": "Russian forces struck a number of civilian buildings in the southeastern \ncity of Mariupol. These satellite images show widespread damage on the \ncity's west side...",
-        "link": "https://www.nytimes.com/interactive/2022/world/europe/ukraine-maps.html",
-        "date": "1개월 전",
-        "image_path": "",
+        "name": "Russia causes extensive damage in Ukrainian port city Mariupol, satellite \nimages show",
+        "description": "Satellite images taken Saturday show extensive damage to the port city of \nMariupol in Ukraine after Russia pounded it with strikes.",
+        "link": "https://globalnews.ca/news/8678798/mariupol-ukraine-russia-satellite-images/",
+        "date": "1일 전",
+        "image_path": "https://globalnews.ca/wp-content/uploads/2022/03/CP152329022.jpg?quality=85&strip=all&w=720&h=379&crop=1",
         "catagory": "피해 상황"
     },
     {
-        "name": "Ukraine has started using Clearview AI’s facial recognition during war",
-        "description": "Ukraine's defense ministry on Saturday began using Clearview AI's facial \n... and works even if there is facial damage, Ton-That wrote.",
-        "link": "https://www.cnbc.com/2022/03/13/ukraine-has-started-using-clearview-ais-facial-recognition-during-war.html",
+        "name": "Russia won’t rule out taking ‘full control’ of major Ukraine cities as \ntalks resume",
+        "description": "A damaged building after an overnight attack in Erbil, the capital of the \nnorthern Iraqi Kurdish autonomous region, March 13, 2022.",
+        "link": "https://www.timesofisrael.com/liveblog-march-13-2022-2/",
+        "date": "실시간으로 업데이트됨",
+        "image_path": "https://static.timesofisrael.com/www/uploads/2022/03/AP22073350692560-1024x640.jpg",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "What Happened on Day 18 of Russia’s Invasion of Ukraine",
+        "description": "Russia's invasion has caused more than $119 billion in damage to ... KYIV, \nUkraine — Fighting has damaged a 16th-century monastery and cave...",
+        "link": "https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war",
+        "date": "2시간 전",
+        "image_path": "https://static01.nyt.com/images/2022/03/14/world/13ukraine-blog-finalheader/merlin_203797248_a0513035-b3af-411d-a7fa-cb73fcf02fba-articleLarge.jpg",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Ukraine war damage tops $100 billion so far, economic ...",
+        "description": "WASHINGTON, March 10 (Reuters) - Ukraine's top government economic adviser \nOleg Ustenko said on Thursday that invading Russian forces have...",
+        "link": "https://www.reuters.com/world/ukraine-economic-adviser-says-war-damage-tops-100-billion-so-far-2022-03-10/",
+        "date": "3일 전",
+        "image_path": "https://www.reuters.com/resizer/dYNlRCtQFF67t9iK3kqKH9qqEdM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5G6CH4ZUVZISPJOOBG32G7SDW4.jpg",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Russian air strike hits military range; Moscow warns that convoys are \ntargets: March 12 recap",
+        "description": "Maj. Gen. Andrei Kolesnikov would be the third Russian general to die since \nthe invasion of Ukraine began, making an unusual loss of such a high...",
+        "link": "https://www.usatoday.com/story/news/politics/2022/03/12/ukraine-russia-invasion-live-updates/7008613001/",
+        "date": "1일 전",
+        "image_path": "https://www.gannett-cdn.com/presto/2022/03/11/USAT/34a6e2d8-24d7-4597-a6fb-8eae314ac68b-AP_Russia_Ukraine_War-1.jpg?crop=3686,2074,x0,y227&width=3200&height=1801&format=pjpg&auto=webp",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "First on CNN: Damage to Snake Island, where Ukrainian troops defiantly \nrejected surrender, seen in satellite photo",
+        "description": "The Ukrainian troops were all killed -- and Ukrainian President Volodymyr \nZelensky said they would be \"awarded the title of Hero of Ukraine...",
+        "link": "https://www.cnn.com/2022/03/13/europe/snake-island-satellite-photos-intl-hnk/index.html",
         "date": "9시간 전",
-        "image_path": "",
+        "image_path": "https://cdn.cnn.com/cnnnext/dam/assets/220313184628-snake-island-satellite-super-tease.jpg",
         "catagory": "피해 상황"
     },
     {
-        "name": "Ukraine war now 'apocalyptic' humanitarians warn, in call for ...",
-        "description": "On 25 February 2022 in Kyiv, Ukraine, a man calls relatives, standing in \nfront of an apartment building heavily damaged during the ongoing...",
-        "link": "https://news.un.org/en/story/2022/03/1113512",
-        "date": "5일 전",
-        "image_path": "",
+        "name": "Satellite photos of Mariupol, Ukraine show damage from ...",
+        "description": "Maxar Technologies' WorldView-3 satellite took this photo of a heavily \ndamaged shopping mall and other stores in Mariupol, Ukraine, on March...",
+        "link": "https://www.space.com/mariupol-ukraine-damage-satellite-photos",
+        "date": "4일 전",
+        "image_path": "https://cdn.mos.cms.futurecdn.net/LqMBCYHfYubokKQsBMoNBk-1200-80.jpeg",
         "catagory": "피해 상황"
     },
     {
-        "name": "Russia’s war on Ukraine: Where Putin's forces have hit so far",
-        "description": "Multiple injuries have been reported and at least 10 people are believed to \nhave been killed, according to BBC News. A Ukrainian military plane...",
-        "link": "https://nypost.com/2022/02/24/russias-war-on-ukraine-where-putins-forces-have-hit-so-far/",
+        "name": "Monastery sheltering 1,000 and evacuation train attacked as Ukraine refugee \ntotal hits 2.6 million",
+        "description": "A Ukrainian monastery sheltering 1,000 people was struck by Russian \nmissiles and a train heading to pick up evacuees was damaged by bomb...",
+        "link": "https://www.dailymail.co.uk/news/article-10607985/Monastery-sheltering-1-000-evacuation-train-attacked-Ukraine-refugee-total-hits-2-6-million.html",
+        "date": "22시간 전",
+        "image_path": "https://i.dailymail.co.uk/1s/2022/03/13/14/55297577-0-image-a-22_1647181335602.jpg",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Latest Developments in Ukraine: March 11",
+        "description": "A Ukrainian serviceman takes a photograph of a damaged church after \nshelling in a residential district in Mariupol, Ukraine, March 10, 2022.",
+        "link": "https://www.voanews.com/a/latest-developments-in-ukraine-march-11/6480339.html",
+        "date": "3일 전",
+        "image_path": "https://gdb.voanews.com/02280000-0aff-0242-219f-08da0334c064_cx0_cy8_cw0_w1200_r1.jpg",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Photos: Ukraine assesses damage as Russian strikes hit Kyiv",
+        "description": "Russian missiles and shelling rained down on Ukraine after President \nVladimir Putin unleashed a full-scale invasion. A damaged residential...",
+        "link": "https://www.aljazeera.com/gallery/2022/2/25/photos-ukraine-assesses-damage-as-russian-strikes-hit-kyiv",
         "date": "2주 전",
-        "image_path": "",
-        "catagory": "피해 상황"
-    },
-    {
-        "name": "Explosions heard across Ukraine as Putin announces ...",
-        "description": "Missile strikes and military barrages struck Ukrainian targets from ... \nattack on Ukraine\" and warned of \"a catastrophic loss of life and...",
-        "link": "https://www.npr.org/2022/02/23/1082510234/russia-ukraine-updates",
-        "date": "2주 전",
-        "image_path": "",
-        "catagory": "피해 상황"
-    },
-    {
-        "name": "Gas pipeline in eastern Ukraine damaged by Russian fighting ...",
-        "description": "March 6 (Reuters) - Ukrainian engineers scrambled on Sunday to repair a gas \npipeline damaged by Russian forces, halting supplies to parts of...",
-        "link": "https://www.reuters.com/world/europe/gas-pipeline-eastern-ukraine-damaged-by-russian-fighting-local-governor-says-2022-03-06/",
-        "date": "1주 전",
-        "image_path": "",
-        "catagory": "피해 상황"
-    },
-    {
-        "name": "Live updates: Official: Artillery kills 70 Ukraine soldiers",
-        "description": "The latest developments on the Russia-Ukraine war: ... signs of fighting \noutside Kyiv, including destroyed vehicles and a damaged bridge.",
-        "link": "https://apnews.com/article/russia-ukraine-war-live-updates-ee7cdf19bdab43a22cb1391c98c62b4d",
-        "date": "2주 전",
-        "image_path": "",
+        "image_path": "https://www.aljazeera.com/wp-content/uploads/2022/02/2022-02-25T062356Z_2116856991_RC2UQS9Q6PNA_RTRMADP_3_UKRAINE-CRISIS.jpg?quality=80&resize=1200%2C630",
         "catagory": "피해 상황"
     },
     {
@@ -76,7 +100,143 @@
         "description": "While Russian forces remain some distance from the Ukrainian capital ... \nArtillery and air strikes have caused severe damage in the area,...",
         "link": "https://www.bbc.com/news/world-europe-60610840",
         "date": "1주 전",
-        "image_path": "",
+        "image_path": "https://ichef.bbci.co.uk/news/1024/branded_news/FE88/production/_123506156_index_image.jpg",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Ukraine official: Cost of damage from Russian invasion ...",
+        "description": "The cost of damage to Ukrainian civilian property and state infrastructure \ncaused by Russia's invasion from destruction due to a full-scale...",
+        "link": "https://www.reformer.com/ukraine/ukraine-official-cost-of-damage-from-russian-invasion-already-exceeds-100-billion/article_fd21dfda-a187-11ec-8ed4-5badb6838977.html",
+        "date": "2일 전",
+        "image_path": "https://bloximages.newyork1.vip.townnews.com/reformer.com/content/tncms/assets/v3/editorial/6/50/650013ce-a188-11ec-a774-03a7902dfaea/622bc9645f5b7.image.jpg?crop=1854%2C973%2C0%2C72&resize=1200%2C630&order=crop%2Cresize",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Ukrainian minister puts war damage to infrastructure at about ...",
+        "description": "LVIV, Ukraine, March 7 (Reuters) - Ukraine has suffered about $10 billion \nin damage to infrastructure since Russia invaded the country,...",
+        "link": "https://www.reuters.com/world/europe/ukrainian-minister-puts-war-damage-infrastructure-about-10-billion-2022-03-07/",
+        "date": "6일 전",
+        "image_path": "https://www.reuters.com/resizer/wftLZKUB0rzdr_1mUoXqIanz6sQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3ANYP2S3NJPMBIAL4H3UK2ZHNY.jpg",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Battle to protect Ukraine's most important World Heritage sites, including \nSt Sophia's Cathedral in Kyiv",
+        "description": "There are warnings that the important cultural sites could be damaged \nduring the conflict; These include St Sophia's Cathedral in Kyiv, which...",
+        "link": "https://www.abc.net.au/news/2022-03-14/ukraine-world-heritage-sites-st-sophias-cathedral-kyiv/100906420",
+        "date": "17시간 전",
+        "image_path": "https://live-production.wcms.abc-cdn.net.au/7123b36a4d3e36e7931ef941228f08c9?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "'90% of houses are damaged': Russia's Syria-honed tactics ...",
+        "description": "There have been terrible strikes on homes, schools and hospitals around \nUkraine. But residents of both towns say the barrage of shelling, rocket...",
+        "link": "https://www.theguardian.com/world/2022/mar/04/ninety-per-cent-of-houses-are-damaged-thousands-trapped-in-ukraines-small-towns",
+        "date": "1주 전",
+        "image_path": "https://i.guim.co.uk/img/media/3687d01b2f538dd8c47ba961e654229e82d642d8/0_21_7199_4319/master/7199.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7df147519658625ee2c672f2684cd53b",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Damage, debris and devastation in Ukraine after Russian invasion",
+        "description": "While Russian forces remain some distance from the Ukrainian capital Kyiv, \nthere have been a number of deadly aerial attacks on the city. This...",
+        "link": "https://www.indiatoday.in/world/russia-ukraine-war/video/damage-debris-devastation-ukraine-russian-invasion-war-kyiv-1921452-2022-03-06",
+        "date": "1주 전",
+        "image_path": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202203/Ukraine__5__IT_1646198192681-647x363.jpeg?VXbbpzrodIgFV.Mr0E18ifawHa3jb9wH",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Ukraine war now 'apocalyptic' humanitarians warn, in call for ...",
+        "description": "On 25 February 2022 in Kyiv, Ukraine, a man calls relatives, standing in \nfront of an apartment building heavily damaged during the ongoing...",
+        "link": "https://news.un.org/en/story/2022/03/1113512",
+        "date": "5일 전",
+        "image_path": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/28-02-2022_UNICEF_Ukraine-03.jpg/image770x420cropped.jpg",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Unesco 'gravely concerned' about damage to Ukrainian ...",
+        "description": "Unesco 'gravely concerned' about damage to Ukrainian cultural heritage. The \nUN body is monitoring heritage sites by satellite and plans a...",
+        "link": "https://www.theartnewspaper.com/2022/03/04/unesco-gravely-concerned-about-damage-to-ukrainian-cultural-heritage",
+        "date": "1주 전",
+        "image_path": "https://cdn.sanity.io/images/cxgd3urn/production/3925a8296d937880993dc0e70d96bc5529816a16-850x567.jpg?rect=0,28,850,510&w=1200&h=720&q=85&fit=crop&auto=format",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Chernobyl Without Power Again After Russian Forces Damage High-Voltage \nLine, Ukrainian Energy Company Says",
+        "description": "... Forces Damage High-Voltage Line, Ukrainian Energy Company Says ... \nUkraine's national energy company, Ukrenergo, said on March 14.",
+        "link": "https://www.rferl.org/a/chernobyl-power-outage-russian-damage/31752275.html",
+        "date": "41분 전",
+        "image_path": "https://gdb.rferl.org/084a0000-0a00-0242-8fc8-08d9f7c8a75b_w1200_r1.jpg",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Chernobyl Nuclear Plant Damaged, Loses Power Again: 8 Points",
+        "description": "Kyiv: A high-voltage power line to Ukraine's Chernobyl nuclear plant was \ndamaged by Russian forces not long after electricity supplies were...",
+        "link": "https://www.ndtv.com/world-news/russia-ukraine-war-chernobyl-nuclear-plant-damaged-loses-power-again-5-points-2822042",
+        "date": "35분 전",
+        "image_path": "https://c.ndtvimg.com/2022-03/e5aalhh8_chernobyl-nuclear-plant-afp-650_625x300_09_March_22.jpg",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Live updates: Chernobyl powerline damaged by Russian forces",
+        "description": "The latest developments on the Russia-Ukraine war: LVIV, Ukraine — The \nUkrainian state power company says the power line supplying the site...",
+        "link": "https://wtop.com/russia-ukraine-war-news/2022/03/live-updates-russia-continues-strikes-on-kyiv-suburbs/",
+        "date": "1시간 전",
+        "image_path": "https://wtop.com/wp-content/uploads/2022/03/APTOPIX_Russia_Ukraine_War_28214-scaled.jpg",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Mariupol bombing: before and after satellite images show ...",
+        "description": "The scale of the destruction in the Ukrainian port city of Mariupol at ... \nof the damage done so far to the besieged city, which Ukrainian...",
+        "link": "https://www.theguardian.com/world/2022/mar/10/mariupol-bombing-ukraine-before-and-after-satellite-images-map-russian-attack-residential-maternity-childrens-hospital",
+        "date": "4일 전",
+        "image_path": "https://i.guim.co.uk/img/media/32a6101fcbeb0bafd28cf63c85381addc06b4bd6/0_96_752_451/master/752.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6a0853674927e061842039e21e14d159",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Russia’s invasion of Ukraine: List of key events from day 15",
+        "description": "As the Russia-Ukraine war enters its 15th day, we take a look at the main \ndevelopments. A car burns at the side of the damaged by shelling...",
+        "link": "https://www.aljazeera.com/news/2022/3/10/russia-invasion-of-ukraine-list-of-key-events-from-day-15",
+        "date": "4일 전",
+        "image_path": "https://www.aljazeera.com/wp-content/uploads/2022/03/AP22068632821906.jpg?quality=80&resize=1200%2C630",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "War Damage In Ukraine, Seen From Above And On The Ground",
+        "description": "The latest satellite images taken on the first day of Russia's massive \ninvasion of Ukraine show damage and destruction to Ukrainian airports...",
+        "link": "https://www.rferl.org/a/latest-images-of-russian-invasion-of-ukraine/31722763.html",
+        "date": "2주 전",
+        "image_path": "https://gdb.rferl.org/c4160000-0aff-0242-2082-08d9f84fd54a_w1200_r1.jpeg",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Russia-Ukraine war live updates: Have not ruled out taking full control of \nlarge cities in Ukraine, Russia says",
+        "description": "A high-voltage power line to Ukraine's Chernobyl nuclear plant was damaged \nby Russian forces not long after electricity supplies were...",
+        "link": "https://timesofindia.indiatimes.com/world/europe/russia-ukraine-war-live-updates-march-13/liveblog/90177969.cms",
+        "date": "실시간으로 업데이트됨",
+        "image_path": "https://static.toiimg.com/thumb/msid-90177969,width-1070,height-580,imgsize-1391976,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "A Ukrainian VC with employees in Russia surveys the damage of Putin’s war",
+        "description": "A Ukrainian VC with employees in Russia surveys the damage of Putin's war. \nBy. Mark Pavlyukovskyy. March 11, 2022 9:30 AM PST...",
+        "link": "https://fortune.com/2022/03/11/ukrainian-vc-employees-russia-surveys-damage-putin-war/",
+        "date": "2일 전",
+        "image_path": "https://content.fortune.com/wp-content/uploads/2022/03/237754848_1006768010124907_7338037296320215521_n.png?resize=1200,600",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Photos: Shelling continues in Ukraine as Russian forces advance",
+        "description": "Russian troops were in the centre of the southern Ukrainian port city ... \ndamaged following recent shelling as Russia's invasion of Ukraine...",
+        "link": "https://www.aljazeera.com/gallery/2022/3/3/photos-shelling-continues-in-ukraine-as-russian-forces-advance",
+        "date": "1주 전",
+        "image_path": "https://www.aljazeera.com/wp-content/uploads/2022/03/2022-03-02T163107Z_1779733725_RC2FUS9WT0QU_RTRMADP_3_UKRAINE-CRISIS-IRPIN.jpg?quality=80&resize=1200%2C630",
+        "catagory": "피해 상황"
+    },
+    {
+        "name": "Live updates: Russia continues strikes on Kyiv suburbs",
+        "description": "LVIV, Ukraine — Russian forces fired artillery strikes on suburbs northwest \n... “Life-changing injuries and chronic, debilitating conditions...",
+        "link": "https://apnews.com/560b945c4edc21311d96ee6035d7e849",
+        "date": "6시간 전",
+        "image_path": "https://storage.googleapis.com/afs-prod/media/6e821c7d9e3640949313388fef1043a5/3000.jpeg",
         "catagory": "피해 상황"
     }
 ]
