@@ -1,12 +1,14 @@
 # 🖐StopWar
-우크라이나 전쟁관련 소식 제공 비영리 서비스
+- 우크라이나 전쟁관련 소식 제공 비영리 서비스
+- 서비스 링크 : www.stopwar.co.kr
 
 ## 목적
-- 플랫폼 별 **다양한 전쟁 관련 뉴스** 및 우크라이나 대사관에 **금전적으로 후원할 수 있는 수단**을 아카이빙하여 전쟁 상황에 대해 한 눈에 파악하는 것이 목적입니다.
+- 플랫폼 별 **다양한 전쟁 관련 뉴스** 를 항목별 아카이빙하여 전쟁 상황을 한 눈에 파악
+- 우크라이나에 **금전적으로 후원할 수 있는 수단**을 아카이빙하여 후원에 대한 접근성 향상
  
 ## 멤버
 - PM
-    - 이호준
+    - [이호준](https://github.com/paullabkorea)
 - 기획
     - 현재국, [이한나](https://github.com/yeeehannah)
 - 디자인
@@ -20,25 +22,18 @@
 ## 폴더 트리
 * crawler : 뉴스 크롤링
 * crawlingData : 크롤링된 데이터셋
-* staticAsset : 정적 파일(CSS, JS, etc)
+* css, font, html, image, js : 정적 파일
 
 ## 데이터 구조
 ```javascript
 [
     {
-        "name": "우크라이나 사태: 러시아 침공 11일째 상황",
-        "description": "현지 주민들은 수도 근처 지역인 부차, 호스토멜, 이르핀에서 러시아군과 격렬한 전투가 벌어졌으며 포격이 쉴 새 없이 쏟아졌다고 말했다. \n민간인들이...",
-        "date": "3일 전",
-        "link": "https://www.bbc.com/korean/news-60643146",
-        "image_path": "crawlingData\\img\\우크라이나 사태 러시아 침공 11일째 상황 image.png",
-        "category": "Battle"
-    },
-    {
-        "name": "러시아-우크라이나 전쟁: 최근 전개 상황 < 전쟁/난민 < 국제 ...",
-        "description": "볼로디미르 젤렌스키 우크라이나 대통령은 9일(현지시간) 12시간의 휴전 동안 우크라이나 교전 지역에서 최소 35,000명의 민간인이 \n대피했다고 밝혔다...",
-        "date": "9시간 전",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2423456",
-        "image_path": "crawlingData\\img\\러시아우크라이나 전쟁 최근 전개 상황  전쟁난민  국제  image.png",
-        "category": "Battle"
-    }...]
-```
+        "name": "Opinion | Will Sanctions on Russia Help Ukraine?",
+        "description": "The sanctions are raising the price of Russia's belligerence and can \ndegrade its capacity to pursue this campaign of terror, or others,...",
+        "link": "https://www.nytimes.com/2022/03/11/opinion/russia-sanctions.html",
+        "date": "2일 전",
+        "image_path": "",
+        "catagory": "교전 최신 상황"
+    } ...
+]
+``` 
