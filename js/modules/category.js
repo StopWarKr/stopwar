@@ -30,7 +30,7 @@ const renderCard = (news, inputValue) => {
   link.appendChild(imgBox);
   imgBox.appendChild(img);
   if (news.image_path) {
-    if (news.image_path.slice(0, 4) == 'https') {
+    if (news.image_path.slice(0, 5) == 'https') {
       img.setAttribute('src', news.image_path);
     } else {
       img.setAttribute('src', './image/no-image.jpg');
