@@ -28,21 +28,39 @@ class GoogleCrawler:
         self.news_list = news_list
         return self
 
+    def __get_image_url(self, url):
+      newsResponse = requests.get(url)
+
+      newsResponse.encoding = 'utf-8'
+      newsHtml = newsResponse.text
+
+      soup = BeautifulSoup(newsHtml, 'html.parser')
+
+      if (soup.select_one('meta[property="og:image"]') == None):
+        return 'No Image'
+
+      image = soup.select_one('meta[property="og:image"]')['content']
+      return image
+      
+      
+
     def __parse_item(self, news):
         title = news.find(
             'div', attrs={'class': 'mCBkyc y355M JQe2Ld nDgy9d'}).get_text()
         url = news.find('a', {'class': 'WlydOe'})['href']
+        
         content = news.find(
             'div', attrs={'class': 'GI74Re nDgy9d'}).get_text()
         date = news.find(
             'div', attrs={'class': 'OSrXXb ZE0LJd'}).find('span').get_text()
+        image = self.__get_image_url(url)
 
         return {
             'name': title,
             'description': content,
             'link': url,
             'date': date,
-            'image_path': '',
+            'image_path': image,
             'catagory': self.category,
         }
 
