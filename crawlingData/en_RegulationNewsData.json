@@ -1,13 +1,5 @@
 ﻿[
     {
-        "name": "[아침브리핑] 우크라이나, 코인 팔아 방탄조끼 5500개 샀다",
-        "description": "코인데스크US, 디크립트 등은 이날 EU 의회에서 이 같은 내용을 담은 디지털 자산을 위한 입법 패키지 미카(MiCA: Markets \nin Crypto-Asset Regulation)...",
-        "link": "http://www.coindeskkorea.com/news/articleView.html?idxno=78154",
-        "date": "12시간 전",
-        "image_path": "https://cdn.coindeskkorea.com/news/photo/202203/78154_19437_3732.jpeg",
-        "catagory": "규제"
-    },
-    {
         "name": "US and UK rule out no-fly zone over Ukraine, again",
         "description": "US and UK rule out no-fly zone over Ukraine, again. Top US and UK diplomats \npledge to bolster Ukrainian defences but say direct confrontation...",
         "link": "https://www.aljazeera.com/news/2022/3/9/us-and-uk-rule-out-no-fly-zone-over-ukraine-again",
@@ -24,19 +16,27 @@
         "catagory": "규제"
     },
     {
+        "name": "Russia moves to ban Instagram, declare Meta an 'extremist ...",
+        "description": "Silicon Valley companies have been rewriting their rules during the war in \nUkraine. Russia is retaliating. · YouTube blocked Russian state media...",
+        "link": "https://www.washingtonpost.com/technology/2022/03/11/russian-prosecutor-general-seeks-ban-instagram-declare-meta-an-extremist-organization/",
+        "date": "2일 전",
+        "image_path": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HG5VRXVBJYI6ZFBYEVLQTNWN3Q.jpg&w=1440",
+        "catagory": "규제"
+    },
+    {
+        "name": "Facebook users in Ukraine can now post ‘Death to Putin’ after Meta relaxes \nits rules on hate speech against Russia",
+        "description": "Facebook users in Ukraine can now post 'Death to Putin' after Meta relaxes \nits rules on hate speech against Russia.",
+        "link": "https://fortune.com/2022/03/11/facebook-meta-relax-hate-speech-ukraine-russia-death-putin/",
+        "date": "3일 전",
+        "image_path": "https://content.fortune.com/wp-content/uploads/2022/03/GettyImages-1238872506-3-e1646975046826.jpg?resize=1200,600",
+        "catagory": "규제"
+    },
+    {
         "name": "‘Shameful’: UK’s response to Ukraine refugee crisis criticised",
         "description": "the British government continued to apply current rules that meant they did \nnot welcome Ukrainian refugees who wanted to reach Britain,” Macron...",
         "link": "https://www.aljazeera.com/news/2022/3/13/shameful-uks-ukraine-policy-criticised-amid-russian-invasion",
         "date": "1일 전",
         "image_path": "https://www.aljazeera.com/wp-content/uploads/2022/03/AP22063562561490.jpg?quality=80&resize=1200%2C630",
-        "catagory": "규제"
-    },
-    {
-        "name": "FIFA adopts temporary employment and registration rules to ...",
-        "description": "Following the escalation of Russia's invasion of Ukraine, which has led to \nan ongoing and distressing humanitarian crisis, the Bureau of the...",
-        "link": "https://www.fifa.com/media-releases/fifa-adopts-temporary-employment-and-registration-rules-to-address-several",
-        "date": "1주 전",
-        "image_path": "No Image",
         "catagory": "규제"
     },
     {
@@ -48,19 +48,19 @@
         "catagory": "규제"
     },
     {
+        "name": "FIFA adopts temporary employment and registration rules to ...",
+        "description": "Following the escalation of Russia's invasion of Ukraine, which has led to \nan ongoing and distressing humanitarian crisis, the Bureau of the...",
+        "link": "https://www.fifa.com/media-releases/fifa-adopts-temporary-employment-and-registration-rules-to-address-several",
+        "date": "1주 전",
+        "image_path": "No Image",
+        "catagory": "규제"
+    },
+    {
         "name": "Ukraine: Cohesion funding to support people fleeing",
         "description": "... fleeing from Russia's invasion of Ukraine. CARE is introducing the \nnecessary flexibility in the 2014-2020 Cohesion policy rules to allow...",
         "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_22_1607",
         "date": "5일 전",
         "image_path": "https://ec.europa.eu/commission/presscorner/assets/framework/images/logo/ec_logo.png",
-        "catagory": "규제"
-    },
-    {
-        "name": "Efforts continue to restore power to Chernobyl : Regulation & ...",
-        "description": "The head of Ukraine's Energoatom told the International Atomic Energy ... \nthat the State Nuclear Regulatory Inspectorate of Ukraine (SNRIU)...",
-        "link": "https://www.world-nuclear-news.org/Articles/Ukraine-says-power-line-to-Chernobyl-fixed",
-        "date": "27분 전",
-        "image_path": "No Image",
         "catagory": "규제"
     },
     {
@@ -72,11 +72,27 @@
         "catagory": "규제"
     },
     {
+        "name": "Taiwan's ASUS says Russia shipments at a halt, after Ukraine ...",
+        "description": "\"ASUS routinely abides by all international regulations, and this situation \n- combined with complex challenges across supply chain, logistics...",
+        "link": "https://www.reuters.com/world/asia-pacific/taiwan-says-asus-will-evacuate-russia-after-ukraine-urges-exit-2022-03-14/",
+        "date": "45분 전",
+        "image_path": "https://www.reuters.com/resizer/S2xIpSoLAcTWyrOCVOW0K8duFOY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HNTMHHENPJKMVIO2D7SVHGXWWI.jpg",
+        "catagory": "규제"
+    },
+    {
         "name": "Ukraine: Cohesion funding to support people fleeing Russia's ...",
         "description": "CARE is introducing the necessary flexibility in the 2014-2020 Cohesion \npolicy rules to allow a swift reallocation of available funding to...",
         "link": "https://ec.europa.eu/regional_policy/en/newsroom/news/2022/03/03-08-2022-ukraine-cohesion-funding-to-support-people-fleeing-russia-s-invasion-of-ukraine",
         "date": "5일 전",
         "image_path": "https://ec.europa.eu/regional_policy/images/news/we_care_cohesion.png",
+        "catagory": "규제"
+    },
+    {
+        "name": "Efforts continue to restore power to Chernobyl : Regulation & ...",
+        "description": "The head of Ukraine's Energoatom told the International Atomic Energy ... \nthat the State Nuclear Regulatory Inspectorate of Ukraine (SNRIU)...",
+        "link": "https://www.world-nuclear-news.org/Articles/Ukraine-says-power-line-to-Chernobyl-fixed",
+        "date": "1시간 전",
+        "image_path": "No Image",
         "catagory": "규제"
     },
     {
@@ -91,7 +107,7 @@
         "name": "EU grants temporary protection for people fleeing war in Ukraine",
         "description": "To respond to the sudden large-scale displacement from Ukraine, the 2001 EU \nTemporary Protection Directive has been activated for the first...",
         "link": "https://www.ceps.eu/ceps-publications/eu-grants-temporary-protection-for-people-fleeing-war-in-ukraine/",
-        "date": "2시간 전",
+        "date": "4시간 전",
         "image_path": "https://www.ceps.eu/wp-content/uploads/2022/03/PI2022-09-img.jpg",
         "catagory": "규제"
     },
@@ -99,8 +115,16 @@
         "name": "Is the Ukraine war intensifying regulatory pressure on crypto firms?",
         "description": "Is the Ukraine war intensifying regulatory pressure on crypto firms? Every \nday, people are seeing “live” why sanctions matter. “Everyone is...",
         "link": "https://cointelegraph.com/news/is-the-ukraine-war-intensifying-regulatory-pressure-on-crypto-firms",
-        "date": "2일 전",
+        "date": "3일 전",
         "image_path": "No Image",
+        "catagory": "규제"
+    },
+    {
+        "name": "What to watch today: Dow futures rise as Russia-Ukraine war, Fed stay in \nfocus",
+        "description": "Softbank's Vision Fund sold $1 billion of its stake in South Korean \nsoftware company Coupang (CPNG), according to a regulatory filing. The \nsale...",
+        "link": "https://www.cnbc.com/2022/03/14/what-to-watch-today-dow-futures-rise-as-russia-ukraine-war-fed-stay-in-focus.html",
+        "date": "1시간 전",
+        "image_path": "https://image.cnbcfm.com/api/v1/image/106841105-16135091062021-02-16t204146z_479126445_rc2wtl9bvik4_rtrmadp_0_usa-stocks.jpeg?v=1613509183",
         "catagory": "규제"
     },
     {
@@ -128,19 +152,19 @@
         "catagory": "규제"
     },
     {
-        "name": "Polish government attempting to legalise…",
-        "description": "The Act on Assistance to Citizens of Ukraine in Connection with the Armed \n... to pass laws and implement regulations that enable corruption.",
-        "link": "https://www.transparency.org/en/press/polish-government-attempt-legalise-corruption-crisis-refugees-ukraine",
-        "date": "3시간 전",
-        "image_path": "https://images.transparencycdn.org/images/_1200x630_crop_center-center_82_none/Poland-refugee-law-corruption.png?mtime=1647247767",
+        "name": "European Airlines' Recovery Dampened by Russia-Ukraine ...",
+        "description": "Flights over Russia and Ukraine were the shortest routes for many ... are \navailable at https://www.fitchratings.com/site/regulatory.",
+        "link": "https://www.fitchratings.com/research/corporate-finance/european-airlines-recovery-dampened-by-russia-ukraine-conflict-14-03-2022",
+        "date": "1시간 전",
+        "image_path": "No Image",
         "catagory": "규제"
     },
     {
-        "name": "War makes social media an ethical minefield",
-        "description": "Russia's invasion of Ukraine is forcing new dilemmas on social media's ... \nrelaxed their rules around violent speech amid the Ukraine war.",
-        "link": "https://www.axios.com/ukraine-war-social-media-ethical-minefield-ba76bded-5b8e-45b0-ad05-dcd14e2484d0.html",
-        "date": "3일 전",
-        "image_path": "https://images.axios.com/Lh4bOoTJsrwOar3LV2RqpcX-VdE=/0x0:1920x1080/1366x768/2022/03/10/1646951603941.jpg",
+        "name": "Russia and Ukraine are only the beginning of modern warfare being waged \nonline",
+        "description": "We need government regulations to protect against cyberattacks. It's a \ncomplicated one to answer, but let me begin by telling you what we can't...",
+        "link": "https://www.usatoday.com/story/opinion/columnists/2022/03/14/russia-ukraine-cybersecurity-cyberattack/6984487001/",
+        "date": "2시간 전",
+        "image_path": "https://www.gannett-cdn.com/-mm-/eb34b9888702cb3f4641b6ee49362a859a5dfd45/c=0-0-2309-1299/local/-/media/2022/02/28/USATODAY/usatsports/cybersecurity-laptop-lock.jpg?width=2309&height=1299&fit=crop&format=pjpg&auto=webp",
         "catagory": "규제"
     },
     {
@@ -149,14 +173,6 @@
         "link": "https://www.fragomen.com/insights/european-unionukraine-eu-member-states-start-implementing-temporary-protection-directive.html",
         "date": "2일 전",
         "image_path": "https://www.fragomen.com/a/web/jw8CFvqZCBTzJTGK5te2fn/3gcYmk/alert-social-open-graph.jpg",
-        "catagory": "규제"
-    },
-    {
-        "name": "European Airlines' Recovery Dampened by Russia-Ukraine ...",
-        "description": "Flights over Ukraine are suspended due to the war. ... relevant interests \nare available at https://www.fitchratings.com/site/regulatory.",
-        "link": "https://www.fitchratings.com/research/corporate-finance/european-airlines-recovery-dampened-by-russia-ukraine-conflict-14-03-2022",
-        "date": "40분 전",
-        "image_path": "No Image",
         "catagory": "규제"
     },
     {
@@ -176,18 +192,10 @@
         "catagory": "규제"
     },
     {
-        "name": "IMO seeks safe corridor for ships and crew from Ukraine conflict",
-        "description": "As Seatrade Maritime News has reported the seafarers stranded onboard on a \nnumber of vessels in Ukrainian ports have been evacuated and...",
-        "link": "https://www.seatrade-maritime.com/regulation/imo-seeks-safe-corridor-ships-and-crew-ukraine-conflict",
-        "date": "10시간 전",
-        "image_path": "https://www.seatrade-maritime.com/sites/seatrade-maritime.com/files/IMO_HQ_London_Seafarer.jpg",
-        "catagory": "규제"
-    },
-    {
         "name": "Klobuchar says don't rule out sending US fighter planes to Poland | TheHill",
         "description": "said on Sunday that she doesn't want the United States to rule out an \narrangement with Poland to send fighter jets to Ukraine amid Russia's...",
         "link": "https://thehill.com/homenews/sunday-talk-shows/598031-klobuchar-says-dont-rule-out-sending-us-fighter-planes-to-poland",
-        "date": "17시간 전",
+        "date": "19시간 전",
         "image_path": "https://thehill.com/sites/default/files/klobucharamy_052621gn_lead.jpg",
         "catagory": "규제"
     },
@@ -197,6 +205,22 @@
         "link": "https://www.world-nuclear-news.org/Articles/Ukraine-says-nuclear-plants-operating-normally",
         "date": "2주 전",
         "image_path": "No Image",
+        "catagory": "규제"
+    },
+    {
+        "name": "IMO seeks safe corridor for ships and crew from Ukraine conflict",
+        "description": "As Seatrade Maritime News has reported the seafarers stranded onboard on a \nnumber of vessels in Ukrainian ports have been evacuated and...",
+        "link": "https://www.seatrade-maritime.com/regulation/imo-seeks-safe-corridor-ships-and-crew-ukraine-conflict",
+        "date": "11시간 전",
+        "image_path": "https://www.seatrade-maritime.com/sites/seatrade-maritime.com/files/IMO_HQ_London_Seafarer.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "The Russian war in Ukraine has yet another casualty ...",
+        "description": "The Union should take advantage of France's leadership, speeding up \ninvestments in raw materials production and adopting a battery regulation \nas soon as...",
+        "link": "https://www.euractiv.com/section/transport/opinion/the-russian-war-in-ukraine-has-yet-another-casualty-automotive/",
+        "date": "2시간 전",
+        "image_path": "https://www.euractiv.com/wp-content/uploads/sites/2/2022/03/shutterstock_733812400-800x450.png",
         "catagory": "규제"
     },
     {
@@ -211,32 +235,8 @@
         "name": "UK relaxes visa rules for Ukrainian refugees",
         "description": "Visa rules are set to be relaxed in the UK, allowing people in the UK to \nbring over Ukrainian family members, as the Government extends...",
         "link": "https://www.ibblaw.co.uk/insights/uk-relaxes-visa-rules-for-ukrainian-refugees",
-        "date": "4일 전",
+        "date": "5일 전",
         "image_path": "https://www.ibblaw.co.uk/wp-content/uploads/2022/03/shutterstock_2048925557-1.jpg",
-        "catagory": "규제"
-    },
-    {
-        "name": "Ukraine’s cyber success prompts call for U.S. to shore up its defenses",
-        "description": "Three weeks into Russia's ground invasion of Ukraine, ... the stage for a \nclassic battle between supporters of regulation and free markets.",
-        "link": "https://fortune.com/2022/03/10/cyber-hack-ukraine-russia-defense-public-private-regulation/",
-        "date": "3일 전",
-        "image_path": "https://content.fortune.com/wp-content/uploads/2022/03/GettyImages-1239035855.jpg?resize=1200,600",
-        "catagory": "규제"
-    },
-    {
-        "name": "US rules out 'high risk' fighter jet transfer for Ukraine | TheHill",
-        "description": "US rules out 'high risk' fighter jet transfer for Ukraine ... States does \nnot support the transfer of aging Polish fighter jets to Ukraine,...",
-        "link": "https://thehill.com/policy/defense/597601-us-rules-out-high-risk-fighter-jet-transfer-for-ukraine",
-        "date": "4일 전",
-        "image_path": "https://thehill.com/sites/default/files/austin_ap.jpg",
-        "catagory": "규제"
-    },
-    {
-        "name": "The Russian war in Ukraine has yet another casualty ...",
-        "description": "The Union should take advantage of France's leadership, speeding up \ninvestments in raw materials production and adopting a battery regulation \nas soon as...",
-        "link": "https://www.euractiv.com/section/transport/opinion/the-russian-war-in-ukraine-has-yet-another-casualty-automotive/",
-        "date": "1시간 전",
-        "image_path": "https://www.euractiv.com/wp-content/uploads/sites/2/2022/03/shutterstock_733812400-800x450.png",
         "catagory": "규제"
     }
 ]

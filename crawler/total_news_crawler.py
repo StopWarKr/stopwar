@@ -1,6 +1,8 @@
 from common.google_crawler import GoogleCrawler
 from common.en_HistoryNewsData import ukraineHistory_en
 
+# error가 나는 이유는 google 크롤링을 너무 많이 해서입니다.
+# 시간단위로 끊던가, 개수를 줄이면 정상 작동합니다.
 try:
     GoogleCrawler('교전 최신 상황').crawl_news('ukraine belligerence', 3).write_json('en_BattleNewsData')
     print('en_BattleNewsData')
@@ -35,8 +37,9 @@ except:
 try:
     GoogleCrawler('규제').crawl_news('우크라이나 규제', 3).write_json('kr_RegulationNewsData')
     print('kr_RegulationNewsData')
-except:
-    print('en_RegulationNewsData error')
+except Exception as e:
+    print(e)
+    print('kr_RegulationNewsData error')
 
 try:
     GoogleCrawler('후원').crawl_news('Ukraine Sponsor', 3).write_json('en_SponsorNewsData')
