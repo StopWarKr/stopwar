@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>StopWar</title>
     <link rel="icon" type="image/x-icon" href="./favicon.ico" />
-    <meta property="og:image" content="./image/thumbnail.jpg">
+    <meta property="og:image" content="./image/thumbnail.jpg" />
     <link rel="stylesheet" href="./css/reset.css" />
     <link rel="stylesheet" href="./css/font.css" />
     <link rel="stylesheet" href="./css/style.css" />
@@ -65,17 +65,19 @@
             <img src="./image/logo.svg" alt="StopWar" />
           </a>
         </h1>
-        <div class="select-lang">
+        <!-- 구글 번역 API -->
+        <div id="google_translate_element" class="hd_lang"></div>
+        <!-- <div class="select-lang">
           <button class="lang-btn">
             <span class="lang-txt">한국어</span>
           </button>
           <ul class="lang-cont">
-            <!-- /* lang-cont에 JS로 'on' class 추가해주세요 */ -->
+             /* lang-cont에 JS로 'on' class 추가해주세요 */
             <li class="lang-items">한국어</li>
             <li class="lang-items">English</li>
             <li class="lang-items">Українська мова</li>
           </ul>
-        </div>
+        </div> -->
         <button type="button" class="sponsor-info-btn">후원정보</button>
       </div>
     </header>
@@ -249,5 +251,21 @@
     <!-- 스크립트 연결 -->
     <script type="module" src="./js/index.js"></script>
     <!-- // 스크립트 연결 -->
+    <!-- 구글 번역 API -->
+    <script>
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement(
+          {
+            pageLanguage: 'ko',
+            includedLanguages: 'ko,en,uk',
+            layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+            autoDisplay: true,
+          },
+          'google_translate_element',
+        );
+      }
+    </script>
+    <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <!-- // 구글 번역 API-->
   </body>
 </html>
