@@ -234,10 +234,11 @@ h2 {
 }
 .search-img {
   width: 70%;
+  height: auto;
 }
 
 .updateCycle {
-  color: #9e9e9e;
+  color: #767676;
   font-size: 14px;
 }
 
@@ -357,7 +358,7 @@ img {
 .sponsor-card {
   display: flex;
   flex-wrap: wrap;
-  width: 270px;
+  min-width: 270px;
   padding: 20px;
   background-color: #fff;
 }
@@ -424,3 +425,46 @@ footer {
   line-height: 21px;
 }
 /* footer : end --------------------------------*/
+
+/* 구글 번역 API */
+.hd_lang {
+  font-size: 14px;
+  min-width: 120px;
+  height: 40px;
+  overflow: hidden;
+  border: 1px solid #eeeeee;
+  color: #333333;
+  background: url('../image/icon-lang.svg') no-repeat 1rem 50% / 2.4rem,
+    url('../image/arrow_down.svg') no-repeat calc(100% - 0.8rem) 50% / 1.6rem;
+}
+.skiptranslate.goog-te-gadget {
+  width: calc(100% - 6.4rem);
+  height: 100%;
+  margin: 0 3rem 0 3.4rem;
+}
+.hd_lang .goog-te-gadget-simple {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+}
+.goog-te-gadget-icon,
+.goog-te-menu-value img,
+.goog-te-menu-value span:not(:first-child) {
+  display: none;
+}
+
+.goog-te-menu-frame.skiptranslate {
+  width: 120px;
+}
+
+/* 검색 결과 없음 */
+.nodata {
+  padding: 12rem 0 6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  color: #767676;
+  background: url(../image/nodata.png) no-repeat 50% 2rem / 8rem;
+}

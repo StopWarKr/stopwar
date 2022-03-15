@@ -11,6 +11,10 @@
     margin-bottom: 60px;
   }
 
+  .main-header {
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
   .sponsor {
     display: none;
   }
@@ -26,7 +30,7 @@
   }
 
   .search {
-    width: 200px;
+    width: 260px;
     height: 3rem;
   }
 
