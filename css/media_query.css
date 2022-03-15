@@ -12,7 +12,6 @@
   }
 
   .main-header {
-    flex-wrap: wrap;
     gap: 1rem;
   }
   .sponsor {
@@ -27,6 +26,7 @@
 
   .news h2 {
     font-size: 25px;
+    flex-shrink: 0;
   }
 
   .search {
@@ -189,5 +189,16 @@
 
   .scroll-up-btn span {
     padding: 12px 0 0;
+  }
+}
+@media screen and (max-width: 500px) {
+  html[lang='uk'] .main-header,
+  html[lang='en'] .main-header {
+    flex-wrap: wrap;
+  }
+
+  html[lang='uk'] .main-header .search,
+  html[lang='en'] .main-header .search {
+    width: 100%;
   }
 }
