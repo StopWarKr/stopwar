@@ -42,16 +42,16 @@ export const closeModal = () => {
   supportModal.style.display = 'none';
 };
 
-// openBtn.addEventListener('click', openModal);
-// closeBtn.addEventListener('click', closeModal);
+openBtn.addEventListener('click', openModal);
+closeBtn.addEventListener('click', closeModal);
 
-// // [이예슬] modal background click -> modal close
-// document.addEventListener('mousemove', (e) => {
-//   const element = document.elementFromPoint(e.pageX, e.pageY);
-//   const isBg = element.className == 'modal-background';
+// [이예슬] modal background click -> modal close
+document.addEventListener('mousemove', (e) => {
+  const element = document.elementFromPoint(e.pageX, e.pageY);
+  const isBg = element.className == 'modal-background';
 
-//   if (isBg) closeBtn();
-// });
+  if (isBg) closeModal();
+});
 
 // 더보기 클릭 시 10가 카드 추가 렌더링
 const btnMore = document.querySelector('.button-more');
