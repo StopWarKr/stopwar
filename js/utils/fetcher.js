@@ -8,9 +8,9 @@ export const getAPI = async (url) => {
     console.log(url + 'json파일이 있습니다.');
     
     // loading 화면 지우고 뉴스 기사들 보여주기
-    // document.querySelector(".news-card-list").style.display = 'block';
-    // document.querySelector(".button-more").style.display = 'block';
-    // document.querySelector(".loader").style.display = "none";
+    document.querySelector(".news-card-list").style.display = 'block';
+    document.querySelector(".button-more").style.display = 'block';
+    document.querySelector(".loader").style.display = "none";
     return datas;
   } catch (error) {
     console.log(url + 'json파일이 없습니다.');
