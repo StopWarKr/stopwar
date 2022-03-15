@@ -61,6 +61,7 @@ btnMore.addEventListener('click', (e) => {
 });
 
 // 구글 번역 API 스타일링 => css로 할 경우 가끔씩 안되는 문제, 시간차 때문인가..
+/*
 const translateBox = document.querySelector('#google_translate_element');
 const translateIcon = document.querySelector('.goog-te-gadget-icon');
 const translateBoxStyle = document.querySelector('.goog-te-gadget-simple');
@@ -75,3 +76,4 @@ translateKorea.textContent = '한국어';
 translateIcon.style.backgroundImage = 'url("./image/icon-lang.svg")';
 translateIcon.style.backgroundPosition = 'center';
 translateIcon.style.backgroundRepeat = 'no-repeat';
+*/
