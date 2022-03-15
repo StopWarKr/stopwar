@@ -190,6 +190,11 @@
   .scroll-up-btn span {
     padding: 12px 0 0;
   }
+
+  /* loading page */
+  .loader {
+    top: 350px;
+  }
 }
 @media screen and (max-width: 500px) {
   html[lang='uk'] .main-header,
