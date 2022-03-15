@@ -34,7 +34,7 @@ export const search = async (event) => {
         newsCardList.appendChild(renderCard(news, inputValue));
       });
     } else {
-      newsCardList.innerHTML = '검색 결과가 없습니다.';
+      newsCardList.innerHTML = '<p class="nodata">검색 결과가 없습니다.</p>';
     }
   });
 };
