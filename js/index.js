@@ -31,27 +31,45 @@ searchBtn.addEventListener('click', search);
 
 // 모달창
 const supportModal = document.querySelector('.modal-background');
+// 메인화면 영역
+const mainElement = document.querySelector('.main');
 
 const openBtn = document.querySelector('.sponsor-info-btn');
 export const openModal = () => {
+  // modal open 시 뒷 배경 스크롤 및 커서 클릭 막기
+  mainElement.style['pointer-events'] = 'none';
+  mainElement.style['position'] = 'fixed';
+
   supportModal.style.display = 'flex';
 };
 
 const closeBtn = document.querySelector('.btn-close');
 export const closeModal = () => {
+  // modal close 시 뒷 배경 스크롤 및 커서 클릭 원래대로 돌려놓기
   supportModal.style.display = 'none';
+  mainElement.style['position'] = 'relative';
+
+  setTimeout(() => {
+    mainElement.style['pointer-events'] = 'auto';
+  }, 100);
 };
 
 openBtn.addEventListener('click', openModal);
 closeBtn.addEventListener('click', closeModal);
 
-closeModal()
+closeModal();
 
 // [이예슬] modal background click -> modal close
 document.addEventListener('mousemove', (e) => {
   const element = document.elementFromPoint(e.pageX, e.pageY);
-  const isBg = element.className == 'modal-background';
 
+  const modal = document.querySelector('.modal-background');
+  const isModalFlex = modal.style.display;
+
+  // error 방지
+  if (!isModalFlex || !element) return false;
+
+  const isBg = element.className == 'modal-background';
   if (isBg) closeModal();
 });
 
