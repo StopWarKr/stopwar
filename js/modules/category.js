@@ -104,7 +104,6 @@ const renderTen = (response) => {
   }
 
   renderCount += 10;
-  console.log(renderCount);
 };
 
 // 현재 렌더링된 뉴스 지우기
@@ -122,7 +121,6 @@ const getNews = async (category) => {
 
   if (category === 'all-btn') {
     for (let ele in AllCategory) {
-      console.log(ele);
       const url = BASE_URL + AllCategory[ele];
       const datas = await getAPI(url);
       if (!!datas) {
