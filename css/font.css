@@ -2,14 +2,14 @@
 @font-face {
   font-family: NotoSansKR;
   src: local('NotoSansKR Regular'), local('NotoSansKR-Regular'),
-    url('./font/NotoSansKR-Regular.otf');
+    url('../font/NotoSansKR-Regular.otf');
   font-weight: normal;
 }
 
 @font-face {
   font-family: NotoSansKR;
   src: local('NotoSansKR Bold'), local('NotoSansKR-Bold'),
-    url('./font/NotoSansKR-Bold.otf');
+    url('../font/NotoSansKR-Bold.otf');
   font-weight: bold;
 }
 
