@@ -11,7 +11,7 @@ import time
 #     print('en_BattleNewsData error')
 
 try:
-    GoogleCrawler('교전 최신 상황').crawl_news('우크라이나 교전 상황', 2).write_json('kr_BattleNewsData')
+    GoogleCrawler('교전 최신 상황').crawl_news('우크라이나 교전 상황', 3).write_json('kr_BattleNewsData')
     print('kr_BattleNewsData')
 except Exception as e:
     print(e)
@@ -27,7 +27,7 @@ time.sleep(3);
 #     print('en_HistoryNewsData error')
 
 try:
-    GoogleCrawler('역사').crawl_news('우크라이나 역사', 2).write_json('kr_HistoryNewsData')
+    GoogleCrawler('역사').crawl_news('우크라이나 역사', 3).write_json('kr_HistoryNewsData')
     print('kr_HistoryNewsData')
 except:
     print('kr_HistoryNewsData error')
@@ -41,7 +41,7 @@ time.sleep(3);
 #     print('en_RegulationNewsData error')
 
 try:
-    GoogleCrawler('규제').crawl_news('우크라이나 규제', 2).write_json('kr_RegulationNewsData')
+    GoogleCrawler('규제').crawl_news('우크라이나 규제', 3).write_json('kr_RegulationNewsData')
     print('kr_RegulationNewsData')
 except Exception as e:
     print(e)
@@ -56,7 +56,7 @@ time.sleep(3);
 #     print('en_SponsorNewsData error')
 
 try:
-    GoogleCrawler('후원').crawl_news('우크라이나 후원', 2).write_json('kr_SponsorNewsData')
+    GoogleCrawler('후원').crawl_news('우크라이나 후원', 3).write_json('kr_SponsorNewsData')
     print('kr_SponsorNewsData')
 except Exception as e:
     print(e)
@@ -71,7 +71,7 @@ time.sleep(3);
 #     print('en_NegoNewsData error')
 
 try:
-    GoogleCrawler('협상 진행 과정').crawl_news('우크라이나 협상 진행 상황', 2).write_json('kr_NegoNewsData')
+    GoogleCrawler('협상 진행 과정').crawl_news('우크라이나 협상 진행 상황', 3).write_json('kr_NegoNewsData')
     print('kr_NegoNewsData')
 except Exception as e:
     print(e)
@@ -86,7 +86,7 @@ time.sleep(3);
 #     print('en_LocalNewsData error')
 
 try:
-    GoogleCrawler('지역 라이브 상황').crawl_news('우크라이나 실시간 상황', 2).write_json('kr_LocalNewsData')
+    GoogleCrawler('지역 라이브 상황').crawl_news('우크라이나 실시간 상황', 3).write_json('kr_LocalNewsData')
     print('kr_LocalNewsData')
 except Exception as e:
     print(e)
@@ -101,7 +101,7 @@ time.sleep(3);
 #     print('en_DamageNewsData error')
 
 try:
-    GoogleCrawler('지역 라이브 상황').crawl_news('우크라이나 피해 상황', 2).write_json('kr_DamageNewsData')
+    GoogleCrawler('지역 라이브 상황').crawl_news('우크라이나 피해 상황', 3).write_json('kr_DamageNewsData')
     print('kr_DamageNewsData')
 except Exception as e:
     print(e)

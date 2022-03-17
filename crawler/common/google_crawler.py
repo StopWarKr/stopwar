@@ -19,19 +19,22 @@ class GoogleCrawler:
         return soup.find_all('g-card', attrs={'class': 'ftSUBd'})
 
     def crawl_news(self, query, page):
-        news_list = []
-        for i in range(0, page):
-            url = f'https://www.google.com/search?q={query}&hl=ko&tbm=nws&ei=4eMlYunIJNyUr7wPnrm0oAo&start={i * 10}'
-            result = self.__request_items(url)  # todo: item 전부 다 잘 들어오는지 확인 필요
-            time.sleep(1);
-            for news in result:
-                news_list.append(self.__parse_item(news))
-
+        for i in range(3): # 3번까지 시도하도록 설계
+            news_list = []
+            for i in range(0, page):
+                url = f'https://www.google.com/search?q={query}&hl=ko&tbm=nws&ei=4eMlYunIJNyUr7wPnrm0oAo&start={i * 10}'
+                result = self.__request_items(url)  # todo: item 전부 다 잘 들어오는지 확인 필요
+                for news in result:
+                    news_list.append(self.__parse_item(news))
+            if news_list:
+                self.news_list = news_list
+                return self
+            time.sleep(10) # 크롤링 실패시 10초 쿨타임
         self.news_list = news_list
         return self
 
     def __get_image_url(self, url):
-        time.sleep(0.5);
+        time.sleep(0.5)
         newsResponse = requests.get(url, headers=User_Agent_head)
 
         newsResponse.encoding = 'utf-8'
@@ -66,5 +69,6 @@ class GoogleCrawler:
         }
 
     def write_json(self, filename):
-        with open(f'./crawlingData/{filename}.json', 'w', encoding='UTF-8-sig') as f_write:
-            json.dump(self.news_list, f_write, ensure_ascii=False, indent=4)
+        if self.news_list:
+            with open(f'./crawlingData/{filename}.json', 'w', encoding='UTF-8-sig') as f_write:
+                json.dump(self.news_list, f_write, ensure_ascii=False, indent=4)
