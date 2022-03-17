@@ -1,3 +1,4 @@
+from ast import Try
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -35,18 +36,21 @@ class GoogleCrawler:
 
     def __get_image_url(self, url):
         time.sleep(0.5)
-        newsResponse = requests.get(url, headers=User_Agent_head)
+        try:
+            newsResponse = requests.get(url, headers=User_Agent_head)
 
-        newsResponse.encoding = 'utf-8'
-        newsHtml = newsResponse.text
+            newsResponse.encoding = 'utf-8'
+            newsHtml = newsResponse.text
 
-        soup = BeautifulSoup(newsHtml, 'html.parser')
+            soup = BeautifulSoup(newsHtml, 'html.parser')
 
-        if (soup.select_one('meta[property="og:image"]') == None):
+            if (soup.select_one('meta[property="og:image"]') == None):
+                return 'No Image'
+
+            image = soup.select_one('meta[property="og:image"]')['content']
+            return image
+        except:
             return 'No Image'
-
-        image = soup.select_one('meta[property="og:image"]')['content']
-        return image
 
     def __parse_item(self, news):
         title = news.find(
