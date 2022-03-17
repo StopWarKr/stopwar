@@ -1,5 +1,6 @@
 from common.google_crawler import GoogleCrawler
 from common.en_HistoryNewsData import ukraineHistory_en
+import time
 
 # error가 나는 이유는 google 크롤링을 너무 많이 해서입니다.
 # 시간단위로 끊던가, 개수를 줄이면 정상 작동합니다.
@@ -16,6 +17,8 @@ except Exception as e:
     print(e)
     print('kr_BattleNewsData error')
 
+time.sleep(3);
+
 # TODO :이 사이트만 크롤링이 타 사이트인데 수정 여부 논의 필요
 # try:
 #     ukraineHistory_en('ukraine', 2, 'en_HistoryNewsData', '역사')
@@ -28,6 +31,8 @@ try:
     print('kr_HistoryNewsData')
 except:
     print('kr_HistoryNewsData error')
+
+time.sleep(3);
 
 # try:
 #     GoogleCrawler('규제').crawl_news('ukraine regulation', 2).write_json('en_RegulationNewsData')
@@ -42,6 +47,8 @@ except Exception as e:
     print(e)
     print('kr_RegulationNewsData error')
 
+time.sleep(3);
+
 # try:
 #     GoogleCrawler('후원').crawl_news('Ukraine Sponsor', 2).write_json('en_SponsorNewsData')
 #     print('en_SponsorNewsData')
@@ -54,6 +61,8 @@ try:
 except Exception as e:
     print(e)
     print('kr_SponsorNewsData error')
+
+time.sleep(3);
 
 # try:
 #     GoogleCrawler('협상 진행 과정').crawl_news('ukraine negotiation progress situation', 2).write_json('en_NegoNewsData')
@@ -68,6 +77,8 @@ except Exception as e:
     print(e)
     print('kr_NegoNewsData error')
 
+time.sleep(3);
+
 # try:
 #     GoogleCrawler('지역 라이브 상황').crawl_news('ukraine local live', 2).write_json('en_LocalNewsData')
 #     print('en_LocalNewsData')
@@ -80,6 +91,8 @@ try:
 except Exception as e:
     print(e)
     print('kr_LocalNewsData error')
+
+time.sleep(3);
 
 # try:
 #     GoogleCrawler('피해 상황').crawl_news('ukraine damage', 2).write_json('en_DamageNewsData')

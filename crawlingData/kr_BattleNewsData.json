@@ -1,9 +1,9 @@
 ﻿[
     {
         "name": "우크라이나 전쟁: 미 외신기자 피격 사망…러시아 침공 18일째 상황",
-        "description": "러시아의 우크라이나 침공 18일째인 13일(현지시간), 우크라이나 서부 야보리 ... 수도 키이우의 외곽 지역에서 교전이 계속되던 중 \n미국인 기자 한...",
+        "description": "우크라이나 전쟁: 미 외신기자 피격 사망…러시아 침공 18일째 상황. 2022년 3월 14일. 우크라이나 서부 야보리우의 군사 훈련 \n기지가 러시아군 순항 미사일의 집중...",
         "link": "https://www.bbc.com/korean/news-60732812",
-        "date": "2일 전",
+        "date": "3일 전",
         "image_path": "https://ichef.bbci.co.uk/news/1024/branded_korean/1557/production/_123636450_e7392a40-2933-401f-af6e-fead99e8db39.jpg",
         "catagory": "교전 최신 상황"
     },
@@ -16,14 +16,6 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "\"이근 사망설은 가짜…최전선서 매일 교전\" 종군기자가 전한 근황",
-        "description": "우크라이나 의용군에 참여하겠다며 출국한 해군 예비역 대위 이근이 무사한 것으로 ... 다만 태씨에 따르면 의용군 분위기는 좋지 않은 \n상황이다.",
-        "link": "https://news.mt.co.kr/mtview.php?no=2022031507252418232",
-        "date": "1일 전",
-        "image_path": "https://thumb.mt.co.kr/21/2022/03/2022031507252418232_1.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
         "name": "[World Now] 우크라이나 교전 격화‥푸틴은 '핵훈련'",
         "description": "우크라이나 동부 돈바스 지역에서 정부군과 반군 간 교전이 격화하면서 전쟁으로 이어질 수 있는 위기 상황이 조성되고 있습니다.",
         "link": "https://imnews.imbc.com/news/2022/world/article/6343179_35680.html",
@@ -32,59 +24,51 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "\"전쟁터 우크라이나 시설에 남겨진 아동 10만명 이상\"",
-        "description": "우크라이나에 발이 묶인 수백만 명에 달하는 아동은 국가전의 교전사태를 피해 ... 세이브더칠드런은 우크라이나의 전쟁이 격화되는 상황에서 \n피난을...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/03/242451/",
-        "date": "1시간 전",
-        "image_path": "https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_242451_16474109684976914.jpg",
+        "name": "키예프 곳곳서 폭발음과 총성…“시내서 격렬한 교전”",
+        "description": "러시아 군과 우크라이나 군의 전투는 이날 내내 키예프 인근에서 집중적으로 벌어졌다. 러시아는 키예프 진입의 교두보 구실을 하는 인근의 \n호스토...",
+        "link": "https://www.hani.co.kr/arti/international/international_general/1032665.html",
+        "date": "3주 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/537/imgdb/original/2022/0226/20220226500417.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "[우크라 침공] 평화협상 중에도 폭격 퍼붓는 러시아",
+        "description": "러시아군은 우크라이나 최대 물동항 오데사로 향하는 마지막 관문인 미콜라이우에서도 교전 강도를 높이고 있다. 15일(현지시간) 미국 \nCNN 방송 취재진을...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/03/243415/",
+        "date": "23시간 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/03/16/image_readtop_2022_243415_0_165711.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "\"이근 사망설은 가짜…최전선서 매일 교전\" 종군기자가 전한 근황",
+        "description": "우크라이나 의용군에 참여하겠다며 출국한 해군 예비역 대위 이근이 무사한 것으로 ... 다만 태씨에 따르면 의용군 분위기는 좋지 않은 \n상황이다.",
+        "link": "https://news.mt.co.kr/mtview.php?no=2022031507252418232",
+        "date": "2일 전",
+        "image_path": "https://thumb.mt.co.kr/21/2022/03/2022031507252418232_1.jpg",
         "catagory": "교전 최신 상황"
     },
     {
         "name": "[세상만사] 러시아 탱크 잡으러 가던 우크라이나군 실제 교전 장면",
         "description": "-2022. 3. 10 우크라이나 수도 키이우 인근. -여러 종류 대전차 무기로 무장한 우크라이나 군인들 -화면제공 : Radio \nFree Europe/Radio Liberty",
         "link": "https://www.ytn.co.kr/_ln/0104_202203141724007608",
-        "date": "1일 전",
+        "date": "2일 전",
         "image_path": "https://image.ytn.co.kr/general/jpg/2022/0314/202203141724007608_t.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "키예프 곳곳서 폭발음과 총성…“시내서 격렬한 교전”",
-        "description": "러시아 군과 우크라이나 군의 전투는 이날 내내 키예프 인근에서 집중적으로 벌어졌다. 러시아는 키예프 진입의 교두보 구실을 하는 인근의 \n호스토...",
-        "link": "https://www.hani.co.kr/arti/international/international_general/1032665.html",
-        "date": "2주 전",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/537/imgdb/original/2022/0226/20220226500417.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "동유럽 3국 정상, 키이우서 젤렌스키 만나…“EU 지지 피력”",
-        "description": "AFP통신에 따르면 기차를 타고 키이우에 도착한 이들은 데니스 슈미갈 우크라이나 총리와 함께 테이블에 둘러앉아 현 교전 상황 및 서방의 \n러시아 제재,...",
-        "link": "https://www.donga.com/news/Inter/article/all/20220316/112351699/1",
-        "date": "8시간 전",
-        "image_path": "No Image",
         "catagory": "교전 최신 상황"
     },
     {
         "name": "키예프 시내 곳곳서 교전의 총성…러, 우크라 '수도 함락' 본격화",
         "description": "우크라이나 <인테르팍스> 통신은 정부가 성명을 내어 “현재 시내 거리에서 전투가 벌어지고 있다”며 시민들에게 대피소에서 나오지 말라고 \n경고했다고...",
         "link": "https://www.hani.co.kr/arti/international/international_general/1032679.html",
-        "date": "2주 전",
+        "date": "3주 전",
         "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/537/imgdb/original/2022/0226/20220226500439.jpg",
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "푸틴 “우크라이나 전투에 추가 징집병 안 보낸다”",
-        "description": "이런 상황에서 푸틴 대통령의 공식 발언은 러시아가 추가 징집병이나 예비군을 모집할 여력이 안 된다거나 러시아 내에서 우크라이나 침공에 \n대한...",
-        "link": "https://www.donga.com/news/Inter/article/all/20220308/112218766/1",
-        "date": "1주 전",
-        "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/03/08/112218731.2.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "‘생존확인’ 이근, 韓여권반납·우크라이나 시민권? 문제는 무기징역·사형죄 가능성 높아 - 조선일보",
-        "description": "러시아와 우크라이나 전투에 참전한 것으로 알려진 전 해군특수전전단(UDT/SEAL) 이근. 생각지 못한 처벌수위까지 언급되고 있어 \n누리꾼의 걱정이...",
-        "link": "https://www.chosun.com/entertainments/entertain_photo/2022/03/16/AB7OMUXDIJ7BSDYEZNK4Z6LKSY/",
-        "date": "11시간 전",
-        "image_path": "https://images.chosun.com/resizer/k-SjXk4j_6zNprpwKYHTsma3g30=/530x278/filters:focal(219x180:229x190)/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OYOIANEXL6YFZYS5VZSERIAOKY.png",
+        "name": "바이든, 우크라이나 추가 원조 \"어려운 전쟁될 것\"...젤렌스키, 미 의회에 지원 확대 호소",
+        "description": "이 밖에 탄약과 방탄복 2만5천 세트, 전투용 헬멧 2만5천개 등도 지원됩니다. 미국은 최근 스팅어 대공 미사일과 재블린 대전차 \n미사일, Mi-17 헬리콥터를...",
+        "link": "https://www.voakorea.com/a/6487501.html",
+        "date": "16시간 전",
+        "image_path": "https://gdb.voanews.com/093e0000-0a00-0242-8a69-08da077f7198_w1200_r1.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -96,6 +80,14 @@
         "catagory": "교전 최신 상황"
     },
     {
+        "name": "푸틴 “우크라이나 전투에 추가 징집병 안 보낸다”",
+        "description": "이런 상황에서 푸틴 대통령의 공식 발언은 러시아가 추가 징집병이나 예비군을 모집할 여력이 안 된다거나 러시아 내에서 우크라이나 침공에 \n대한...",
+        "link": "https://www.donga.com/news/Inter/article/all/20220308/112218766/1",
+        "date": "1주 전",
+        "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/03/08/112218731.2.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
         "name": "우크라이나 사태: 러시아 침공 11일째 상황",
         "description": "현지 주민들은 수도 근처 지역인 부차, 호스토멜, 이르핀에서 러시아군과 격렬한 전투가 벌어졌으며 포격이 쉴 새 없이 쏟아졌다고 말했다. \n민간인들이...",
         "link": "https://www.bbc.com/korean/news-60643146",
@@ -104,19 +96,19 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "우크라 수도 키이우 시가전 임박…“러시아軍 고전 전망” - 조선비즈",
-        "description": "하지만 키이우에서의 전투가 시가전이 아니라 도시를 포위해 맹공을 퍼붓는 양상으로 전개될 경우 방어군으로서 우크라이나의 이점도 사라진다. \n배리...",
-        "link": "https://biz.chosun.com/international/international_general/2022/03/15/VER6DNJLQZHCZANWGDZTK3ZPN4/",
-        "date": "1일 전",
-        "image_path": "https://biz.chosun.com/resizer/5eUuWnInLurD37F8Ajd8k6G7DeU=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/HZT4FPMPRVK5VHMA7SIVKRICSI.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
         "name": "우크라이나: 키예프 거리 교전 시작...'무기를 내려놓지 않을 것'",
         "description": "TOP 뉴스. 1. 우크라이나 전쟁: 미 외신기자 피격 사망…러시아 침공 18일째 상황.",
         "link": "https://www.bbc.com/korean/international-60519286",
-        "date": "2주 전",
+        "date": "3주 전",
         "image_path": "https://ichef.bbci.co.uk/news/1024/branded_korean/2D2A/production/_123426511_b1c622b5-f334-463a-ad74-d51e187a8601.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "우크라 침공: '새로운 철의 장막이 쳐졌다'... 키예프 외곽 교전중",
+        "description": "우크라이나의 수도 키예프 인근에서 24일(현지시간) 치열한 전투가 벌어진 가운데 우크라이나군은 러시아의 침공을 막아내기 위해 고군분투 \n중이다.",
+        "link": "https://www.bbc.com/korean/60518994",
+        "date": "3주 전",
+        "image_path": "https://ichef.bbci.co.uk/news/1024/branded_korean/15F9B/production/_123411009_hi074103583.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -128,11 +120,19 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "'체첸의 도살자' 카디로프 우크라전 직접 참전 선언(종합)",
-        "description": "이 같은 상황에서 카디로프가 문제의 동영상을 공개하고 직접 참전하겠다고 밝힌 ... 카디로프는 1만 명의 체첸인이 우크라이나에 전투에 \n투입됐으며,...",
-        "link": "https://www.news1.kr/articles/?4617532",
-        "date": "2시간 전",
-        "image_path": "https://image.news1.kr/system/photos/2022/3/16/5272184/article.jpg",
+        "name": "\"전쟁터 우크라이나 시설에 남겨진 아동 10만명 이상\"",
+        "description": "우크라이나에 발이 묶인 수백만 명에 달하는 아동은 국가전의 교전사태를 피해 ... 세이브더칠드런은 우크라이나의 전쟁이 격화되는 상황에서 \n피난을...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/03/242451/",
+        "date": "1일 전",
+        "image_path": "https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_242451_16474109684976914.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "3주째 우크라와 교전 러시아 \"조급해 졌나\"…극비 신무기까지 꺼내 들었다",
+        "description": "러시아가 우크라이나에 있는 민간 시설들을 더 무차별로 폭격하면서 그동안 ... 러시아가 미끼 탄을 사용한 것은 그만큼 전쟁 상황에서 \n압박을 받고...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/03/243981/",
+        "date": "19시간 전",
+        "image_path": "https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_243981_16474334004977486.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -140,15 +140,15 @@
         "description": "MBC가 자사 유튜브 채널에서 러시아군이 침공해 교전 중인 우크라이나 수도 ... 우크라이나 침공' 현지 상황 실시간 영상'이라는 \n제목으로 방송되고...",
         "link": "https://m.khan.co.kr/national/national-general/article/202202281551001",
         "date": "2주 전",
-        "image_path": "No Image",
+        "image_path": "https://img.khan.co.kr/news/2022/02/28/2022022801003422900310282.jpg",
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "“러시아군, 마리우폴 병원에 400명 인질로 억류”",
-        "description": "40만명에 가까운 민간인이 여전히 묶여 있는 마리우폴 상황은 크게 나아 ... 우크라이나 정부는 이날 하루 동안 마리우폴 등 주요 교전 \n지역에서 탈출...",
-        "link": "https://www.hani.co.kr/arti/international/international_general/1035027.html",
-        "date": "5시간 전",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/488/imgdb/original/2022/0316/20220316501546.jpg",
+        "name": "젤렌스키 우크라이나 대통령, 가상자산 거래 합법화",
+        "description": "러시아와 교전 중 비트코인, 이더리움 등으로 약 1억 달러(1천200억 원)의 기부금을 유치한 우크라이나에서 가상자산 거래가 합법화됐다.",
+        "link": "https://zdnet.co.kr/view/?no=20220317093507",
+        "date": "6시간 전",
+        "image_path": "https://image.zdnet.co.kr/2022/03/17/a627a140b222485dae72bb7b4c7d5b81.jpg",
         "catagory": "교전 최신 상황"
     },
     {

@@ -1,26 +1,18 @@
 ﻿[
     {
+        "name": "[우크라 침공] 한적, 13억 규모 2차 긴급지원…45억원 모금",
+        "description": "한적을 통한 우크라이나 후원은 \n홈페이지(https://www.redcross.or.kr/donation_campaign/togetherofhumanity/index.htm)를 \n통해 가능하며,...",
+        "link": "https://www.mk.co.kr/news/society/view/2022/03/239575/",
+        "date": "1일 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/03/15/image_readtop_2022_239575_0_185012.jpg",
+        "catagory": "후원"
+    },
+    {
         "name": "맨유: 우크라이나 침공 러시아 항공사 후원 계약 해지",
         "description": "잉글랜드 프리미어리그(EPL) 맨체스터 유나이티드(맨유)가 러시아의 우크라이나 침공 사태와 관련해 러시아 항공사와의 후원 계약을 \n해지했다.",
         "link": "https://www.bbc.com/korean/international-60519283",
-        "date": "2주 전",
+        "date": "3주 전",
         "image_path": "https://ichef.bbci.co.uk/news/1024/branded_korean/BFEB/production/_123413194_manutd.jpg",
-        "catagory": "후원"
-    },
-    {
-        "name": "맨유, 우크라이나 침공 사태로 러시아 항공사와 후원 계약해지 - 머니S",
-        "description": "... 러시아의 우크라이나 침공 사태와 관련해 잉글랜드 프리미어리그(EPL) 맨체스터 유나이티드(맨유)가 10년째 이어온 러시아 \n항공사와의 후원 계약...",
-        "link": "https://m.moneys.mt.co.kr/article.html?no=2022022609448044598",
-        "date": "2주 전",
-        "image_path": "https://menu.mt.co.kr/moneyweek/thumb/2022/02/26/06/2022022609448044598_1.jpg/dims/optimize/",
-        "catagory": "후원"
-    },
-    {
-        "name": "英 축구계도 러시아 '손절'…맨체스터, 러시아 항공사 후원계약 해지",
-        "description": "러시아의 우크라이나 침공에 대해 서방의 직접 제재가 이어지는 가운데 잉글랜드 프로축구 맨체스터 유나이티드(맨유)가 10년간 이어온 \n러시아 항공사...",
-        "link": "https://www.hankyung.com/international/article/2022022611587",
-        "date": "2주 전",
-        "image_path": "No Image",
         "catagory": "후원"
     },
     {
@@ -40,11 +32,11 @@
         "catagory": "후원"
     },
     {
-        "name": "1만 원에 게임이 500개… 우크라이나 '후원 번들' 주요작 살펴보기",
-        "description": "우크라이나 '후원 번들' 주요작 살펴보기 ... 인디게임 플랫폼 itch.io가 우크라이나 지원을 위해 최소 10달러로 총 992개 \n품목을 구매할 수 있는...",
-        "link": "https://www.thisisgame.com/webzine/nboard/4/?n=144623",
-        "date": "6일 전",
-        "image_path": "https://file.thisisgame.com/upload/nboard/news/2022/03/10/20220310162756_7035.png",
+        "name": "기아대책, 우크라이나 접경 지역에 긴급 구호팀 파견",
+        "description": "12일에는 폴란드로 이동해 난민 임시 거처 구호 활동을 하고 있다. 기아대책은 우크라이나 난민을 돕기 위한 전용 후원 페이지를 개설하고 \n긴급 구호 모금...",
+        "link": "https://www.mk.co.kr/news/society/view/2022/03/236845/",
+        "date": "2일 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/03/15/image_readtop_2022_236845_0_095211.jpg",
         "catagory": "후원"
     },
     {
@@ -56,11 +48,11 @@
         "catagory": "후원"
     },
     {
-        "name": "서울시의사회, 우크라이나에 긴급구호 성금 6443만원 후원",
-        "description": "서울특별시의사회(회장 박명하)는 8일 주한 우크라이나 대사관을 방문, 회원 430명이 십시일반 모금한 우크라이나 긴급구호 후원 성금 \n6,443만원을...",
-        "link": "https://www.medworld.co.kr/news/articleView.html?idxno=209211",
+        "name": "1만 원에 게임이 500개… 우크라이나 '후원 번들' 주요작 살펴보기",
+        "description": "우크라이나 '후원 번들' 주요작 살펴보기 ... 인디게임 플랫폼 itch.io가 우크라이나 지원을 위해 최소 10달러로 총 992개 \n품목을 구매할 수 있는...",
+        "link": "https://www.thisisgame.com/webzine/nboard/4/?n=144623",
         "date": "1주 전",
-        "image_path": "https://cdn.medworld.co.kr/news/thumbnail/202203/209211_97490_623_v150.jpg",
+        "image_path": "https://file.thisisgame.com/upload/nboard/news/2022/03/10/20220310162756_7035.png",
         "catagory": "후원"
     },
     {
@@ -77,6 +69,14 @@
         "link": "https://www.hani.co.kr/arti/society/society_general/1032886.html",
         "date": "2주 전",
         "image_path": "https://flexible.img.hani.co.kr/flexible/normal/645/429/imgdb/original/2022/0228/20220228502484.jpg",
+        "catagory": "후원"
+    },
+    {
+        "name": "우크라이나 200억 규모 암호화폐 기부금 받았다…일부는 NFT 판매금 후원 - 서울경제",
+        "description": "우크라이나 정부가 1000만 달러(120억원)가 넘는 비트코인 기부를 받은 것으로 알려졌다. 일부는 대체 불가 코인을 판매한 자금으로 \n후원이 이뤄졌다.",
+        "link": "https://www.sedaily.com/NewsVIew/262BE9LKAZ",
+        "date": "2주 전",
+        "image_path": "https://newsimg.sedaily.com/2022/02/28/262BE9LKAZ_1.jpg",
         "catagory": "후원"
     }
 ]

@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import time
 
 User_Agent_head = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36'}
@@ -22,6 +23,7 @@ class GoogleCrawler:
         for i in range(0, page):
             url = f'https://www.google.com/search?q={query}&hl=ko&tbm=nws&ei=4eMlYunIJNyUr7wPnrm0oAo&start={i * 10}'
             result = self.__request_items(url)  # todo: item 전부 다 잘 들어오는지 확인 필요
+            time.sleep(1);
             for news in result:
                 news_list.append(self.__parse_item(news))
 
@@ -29,20 +31,19 @@ class GoogleCrawler:
         return self
 
     def __get_image_url(self, url):
-      newsResponse = requests.get(url)
+        time.sleep(0.5);
+        newsResponse = requests.get(url, headers=User_Agent_head)
 
-      newsResponse.encoding = 'utf-8'
-      newsHtml = newsResponse.text
+        newsResponse.encoding = 'utf-8'
+        newsHtml = newsResponse.text
 
-      soup = BeautifulSoup(newsHtml, 'html.parser')
+        soup = BeautifulSoup(newsHtml, 'html.parser')
 
-      if (soup.select_one('meta[property="og:image"]') == None):
-        return 'No Image'
+        if (soup.select_one('meta[property="og:image"]') == None):
+            return 'No Image'
 
-      image = soup.select_one('meta[property="og:image"]')['content']
-      return image
-      
-      
+        image = soup.select_one('meta[property="og:image"]')['content']
+        return image
 
     def __parse_item(self, news):
         title = news.find(
