@@ -5,7 +5,7 @@ export const getAPI = async (url) => {
     const res = await fetch(url);
     const datas = await res.json();
     
-    console.log(url + 'json파일이 있습니다.');
+    console.log(url + ' json파일이 있습니다.');
     
     // loading 화면 지우고 뉴스 기사들 보여주기
     document.querySelector(".news-card-list").style.display = 'block';
@@ -13,7 +13,7 @@ export const getAPI = async (url) => {
     document.querySelector(".loader").style.display = "none";
     return datas;
   } catch (error) {
-    console.log(url + 'json파일이 없습니다.');
+    console.log(url + ' json파일을 불러오는데 실패했습니다.');
     console.log(error);
   }
 };
