@@ -13,7 +13,7 @@ nhk_url = 'https://www3.nhk.or.jp/news/special/ukraine/?cid=oshirase'
 
 json_data = []
 
-def createJson(category, ): # json 파일로 변경 ./stopwar/crawlingData/
+def createJson(category): # json 파일로 변경 ./stopwar/crawlingData/
   with open(f'./stopwar/crawlingData/{category}.json', 'w', encoding = 'UTF-8-sig') as f_write:
     json.dump(json_data, f_write, ensure_ascii = False, indent = 4)
 
