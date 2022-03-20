@@ -129,6 +129,7 @@ const getNews = async (category) => {
         console.log('데이터 없음!');
       }
     }
+    response.sort(() => (Math.random() - Math.random()))
   } else {
     const url = BASE_URL + AllCategory[category];
     const datas = await getAPI(url);
