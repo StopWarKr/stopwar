@@ -1,18 +1,74 @@
 ﻿[
     {
-        "name": "인터넷 제공하고 SNS 여론전 펼치고…러시아에 맞서는 'IT의 힘'",
-        "description": "러시아의 우크라이나 침공은 우리가 알던 '전쟁'의 양상을 송두리째 ... 촬영한 러시아 군의 이동 현황을 실시간으로 우크라이나 측에 \n제공하고 있다.",
-        "link": "https://m.hankookilbo.com/News/Read/A2022032013390001535",
-        "date": "3시간 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/20/3b609337-3f56-4d97-a6ce-6bcb6467da96.jpg?t=20220320094710",
+        "name": "“美, 유럽에 최첨단 감시·정찰기 띄워 우크라에 정보 제공” - 조선일보",
+        "description": "더 인터셉트'와 인터뷰한 전직 중앙정보국(CIA) 관계자는 “미국이 통상 전장의 미군에게 제공되는 실시간 정보는 (우크라이나에) \n제공하지 않고 있다”...",
+        "link": "https://www.chosun.com/international/us/2022/03/20/MN3JFMFYHJHDZFTDHR2BJGP2QM/",
+        "date": "4시간 전",
+        "image_path": "https://images.chosun.com/resizer/CMeRJ5b4BnNKnf1SP3j0VAaOEEw=/1200x630/filters:focal(570x30:580x40)/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NUYTRWPTJZCONKNZWN62L4W6SY.png",
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "[곽재원의 4차 산업혁명] 우크라이나 사태와 '실시간 경제' 혁명",
-        "description": "이런 상황에서 지금 가장 난감해하는 사람들은 세계경제의 현실을 진단하고 향후를 전망하려는 관측통(이코노미스트)들이다. 신종 코로나 \n바이러스의 팬...",
-        "link": "https://www.etoday.co.kr/news/view/2111588",
+        "name": "“우크라이나 전쟁 현장을 게임 방송하듯 생방송”···MBC, 유튜브 생중계 논란",
+        "description": "'MBC 뉴스' 유튜브 채널에서 “[끝까지 LIVE] '러시아, 우크라이나 침공' 현지 상황 실시간 영상'이라는 제목으로 방송되고 있는 \n이 영상은 키예프...",
+        "link": "https://m.khan.co.kr/national/national-general/article/202202281551001",
+        "date": "3주 전",
+        "image_path": "https://img.khan.co.kr/news/2022/02/28/2022022801003422900310282.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "일본에서 보는 우크라이나 전쟁 : 칼럼 : 사설.칼럼 : 뉴스",
+        "description": "지난달 24일 러시아가 우크라이나를 침공했다. 일본에서도 방송, 신문, 사회관계망서비스(SNS)를 통해 우크라이나 상황이 실시간으로 \n전달되고 있다.",
+        "link": "https://www.hani.co.kr/arti/opinion/column/1033374.html",
         "date": "2주 전",
-        "image_path": "https://img.etoday.co.kr/pto_db/2022/03/20220306181451_1725272_210_268.jpg",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/851/456/imgdb/child/2022/0304/16463610722411_20211230502501.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "[LIVE] 러시아,우크라이나 침공 실시간 업데이트…키예프 함락 초읽기",
+        "description": "러시아의 우크라이나 침공 관련 뉴스를 실시간 업데이트한다. ... 자료를 통해 두 정상이 이날 우크라이나의 최근 상황과 관련해 \n통화했다고 밝혔다.",
+        "link": "https://www.joongang.co.kr/article/25051052",
+        "date": "3주 전",
+        "image_path": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/25/8f3bb888-6ab3-45df-9fe1-12cc56e489a0.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "\"우크라이나 무사하길\" SNS로 현지 상황 보며 평화 기원하는 ...",
+        "description": "러시아의 공격을 받은 우크라이나 현지 상황 영상이 SNS를 통해 퍼지고 있다. ... 우크라이나의 수도 키예프의 상황을 실시간으로 \n보여주는 계정에도...",
+        "link": "https://m.hankookilbo.com/News/Read/A2022022502490002078",
+        "date": "3주 전",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/02/25/9abccb7c-dda3-4583-adf4-2239a0b30236.jpg?t=20220320183052",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라이나 참상 실시간 중계가 알권리? 댓글창 전쟁게임 방불",
+        "description": "유튜브 채널 'MBCNEWS'의 우크라이나 현지 상황 생중계 화면. [PD저널=장세인 기자] 지난 24일 러시아 침공을 시작한 \n우크라이나 상황이 방송사 유튜브...",
+        "link": "https://www.pdjournal.com/news/articleView.html?idxno=73515",
+        "date": "3주 전",
+        "image_path": "http://www.pdjournal.com/news/thumbnail/202202/73515_75404_1657_v150.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "구글, 우크라이나 도로 실시간 보여주는 구글맵 기능 차단 - 조선비즈",
+        "description": "로이터에 따르면 이날 구글은 우크라이나에서 실시간 교통상황과 장소 혼잡도 관련 정보를 제공하는 구글맵 도구를 일시적으로 사용하지 \n못하도록 막았다.",
+        "link": "https://biz.chosun.com/international/international_economy/2022/02/28/WVWZY6TZXNAKPE7763VTNPMTLI/",
+        "date": "3주 전",
+        "image_path": "https://biz.chosun.com/resizer/hlEtKtUn5o2BPs4hEPyyL0e0Wps=/828x434/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/LTWBFK6BNND4NNWNBH2FJAMHEE.jpeg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "[톺뉴스] 틱톡으로 들여다보는 우크라이나 전쟁",
+        "description": "(서울=연합뉴스) 러시아의 전격적인 침공으로 시작된 우크라이나 전쟁이 열흘 ... 틱톡으로 들여다보는 우크라이나의 실시간 상황과 전쟁을 \n반대하는...",
+        "link": "https://www.yna.co.kr/view/MYH20220304016700797",
+        "date": "2주 전",
+        "image_path": "https://img4.yna.co.kr/mpic/YH/2022/03/04/MYH20220304016700797.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라이나 운명의 날...현지 실시간 영상 | 모바일 JTBC뉴스",
+        "description": "러시아가 우크라이나를 침공한 가운데 26일(현지시간) 새벽에도 러시아군 ... JTBC는 우크라이나 현지 상황을 유튜브 실시간으로 \n중계하고 있습니다.",
+        "link": "https://news.jtbc.joins.com/html/650/NB12048650.html",
+        "date": "3주 전",
+        "image_path": "https://photo.jtbc.joins.com/news/jam_photo/202202/26/b24bc623-ba1a-4f53-a517-170d29bb03ff.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -24,19 +80,19 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "우크라이나 전쟁의 이면: 서방과 러시아의 허위 정보전",
-        "description": "볼로디미르 젤렌스키 우크라이나 대통령도 소셜 미디어를 이용해 전 세계에 실시간으로 전쟁 상황을 알리고 있다. 반대로 거짓과 잘못된 \n정보가...",
-        "link": "https://www.technologyreview.kr/%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98-%EC%A0%84%EC%9F%81%EC%9D%98-%EC%9D%B4%EB%A9%B4-%EC%84%9C%EB%B0%A9%EA%B3%BC-%EB%9F%AC%EC%8B%9C%EC%95%84%EC%9D%98-%ED%97%88%EC%9C%84-%EC%A0%95%EB%B3%B4/",
-        "date": "1주 전",
-        "image_path": "https://www.technologyreview.kr/wp-content/uploads/2022/03/러시-1.jpg",
+        "name": "[곽재원의 4차 산업혁명] 우크라이나 사태와 '실시간 경제' 혁명",
+        "description": "이런 상황에서 지금 가장 난감해하는 사람들은 세계경제의 현실을 진단하고 향후를 전망하려는 관측통(이코노미스트)들이다. 신종 코로나 \n바이러스의 팬...",
+        "link": "https://www.etoday.co.kr/news/view/2111588",
+        "date": "2주 전",
+        "image_path": "https://img.etoday.co.kr/pto_db/2022/03/20220306181451_1725272_210_268.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "\"러시아처럼 살고 싶지 않아\".. 우크라이나인들의 용기",
-        "description": "SNS에 정보를 올리고 공유하고 전세계에 우크라이나 상황을 알리면서 지원 ... 전쟁속의 일상을 실시간으로 기록하고 있었고, 이는 \n우크라이나인들을...",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002819458",
+        "name": "인터넷 제공하고 SNS 여론전 펼치고…러시아에 맞서는 'IT의 힘'",
+        "description": "캐나다 위성 기업 MDA는 자사 위성으로 촬영한 러시아 군의 이동 현황을 실시간으로 우크라이나 측에 제공하고 있다. 전쟁의 구도가 \n물리력을 중심...",
+        "link": "https://m.hankookilbo.com/News/Read/A2022032013390001535",
         "date": "9시간 전",
-        "image_path": "http://ojsfile.ohmynews.com/CRI_T_IMG/2022/0320/A0002819458_T.jpg",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/20/3b609337-3f56-4d97-a6ce-6bcb6467da96.jpg?t=20220320161142",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -56,6 +112,14 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "\"러시아처럼 살고 싶지 않아\".. 우크라이나인들의 용기",
+        "description": "SNS에 정보를 올리고 공유하고 전세계에 우크라이나 상황을 알리면서 지원 ... 전쟁속의 일상을 실시간으로 기록하고 있었고, 이는 \n우크라이나인들을...",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002819458",
+        "date": "14시간 전",
+        "image_path": "http://ojsfile.ohmynews.com/CRI_T_IMG/2022/0320/A0002819458_T.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "'우크라가 민간인 공격'? 러시아의 주장이 틀린 이유",
         "description": "우크라이나 전역에 인터넷이 확충되어 있고, 대부분의 사람들이 스마트폰과 SNS를 사용한다. 그리고, 그들은 실시간으로 피해상황을 찍어서 \nSNS에...",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002818659",
@@ -72,11 +136,107 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "“전쟁 영상을 게임 보듯 소비”…MBC, 유튜브 생중계 논란",
+        "description": "우크라이나·러시아 양국 대통령을 비난하는 글이나 우크라이나의 상황과 무관한 혐오성 댓글도 쉽게 볼 수 있다. 교전중인 상황 실시간 중계 \n시청자 댓글...",
+        "link": "https://m.khan.co.kr/national/media/article/202202282220015",
+        "date": "3주 전",
+        "image_path": "https://img.khan.co.kr/news/2022/02/28/2022030101000026400317001.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "20만 세계 해커의 반격… 러 외무부·은행 홈피 마비 - 조선일보",
+        "description": "구글은 지도 서비스인 구글맵의 우크라이나 현지 도로 상황을 실시간으로 보여주는 기능을 일시적으로 차단했다. 러시아가 구글맵을 보고 \n우크라이나...",
+        "link": "https://www.chosun.com/economy/tech_it/2022/03/02/CVN5QC2XQZEAJP65BJUPRBZ3BE/",
+        "date": "2주 전",
+        "image_path": "https://images.chosun.com/resizer/-WGG_gi1hC4vBpaHYJ4J2rVI374=/696x365/filters:focal(305x323:315x333)/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3AFLXIYNFHDHH6373VZPMKPVA.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라이나 부총리, 한국 기업에 위성영상 제공 요청…업체 ...",
+        "description": "페도로프 부총리는 “러시아군과 장비의 움직임을 야간에도 파악하기 위해 실시간으로 제공되는 고해상의 합성개구레이더(SAR) 위성영상이 \n필요하다”며...",
+        "link": "https://m.dongascience.com/news.php?idx=52708",
+        "date": "2주 전",
+        "image_path": "https://image.dongascience.com/Photo/2022/03/16462870890774.JPG",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "정부·산업계, 우크라이나 전쟁에 실물경제 악영향 우려 초긴장",
+        "description": "산업부는 공급망 교란으로 원자재 및 에너지 수급 상황에 문제가 생길 가능성에 대비해 수급 상황을 실시간 점검하고 있다. 러시아나 \n우크라이나가...",
+        "link": "https://www.hani.co.kr/arti/economy/economy_general/1032459.html",
+        "date": "3주 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/640/407/imgdb/original/2022/0224/20220224503354.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "산업부, 수출통제 상담창구 '러시아 데스크' 본격 가동",
+        "description": "정부가 우크라이나 사태에 대비하기 위해 러시아 데스크를 본격 가동한다. ... 진출·수출기업의 상황을 실시간으로 모니터링하면서 지원 \n대책 마련에...",
+        "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148899315",
+        "date": "3주 전",
+        "image_path": "https://www.korea.kr/newsWeb/resources/attaches/2022.02/24/a57f5e3093e1cb3872988c6af8caa64f.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "산업부, 수출 상담데스크 운영…비축유 방출 검토",
+        "description": "수출기업은 우크라이나 2천300여개, 러시아 5천400여개에 달해 ... 원자재 및 에너지 수급 상황에 문제가 생길 가능성에 대비해 \n수급 상황도 실시간...",
+        "link": "https://www.hankyung.com/politics/article/202202247196Y",
+        "date": "3주 전",
+        "image_path": "https://img.hankyung.com/photo/202202/ZK.29058818.1.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "‘MBC에 분노’ 우크라이나 모델 올레나, 기부 호소 “전쟁 지원이 께름칙하면...”",
+        "description": "올레나는 러시아 공습을 받은 우크라이나 현지 상황을 실시간으로 공유하며 “한국에서도 알아야 한다”고 안타까운 마음을 드러내기도 했다.",
+        "link": "https://www.mk.co.kr/news/world/view/2022/03/191423/",
+        "date": "3주 전",
+        "image_path": "https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_191423_16461115664960981.png",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "전사자 태운 차량… 우크라 시민들, 거리에 무릎 꿇고 예우했다 - 조선일보",
+        "description": "13일(현지시각) 우크라이나 현지 상황을 실시간으로 전하는 페이스북 페이지에는 “우크라이나 크멜니츠키 지역에서 쓰러진 영웅을 맞이하는 \n모습”...",
+        "link": "https://www.chosun.com/international/international_general/2022/03/14/S74OONMFKZEZZKJYSRYDA2D5JY/",
+        "date": "6일 전",
+        "image_path": "https://images.chosun.com/resizer/kpbPl9ANMJXI9RDC0KGgR70Njoo=/500x262/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DVIEA4GZGJHFHC43DMKS5WADR4.gif",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "[권은경] 우크라이나를 돕는 세계의 손길",
+        "description": "세계 가장 거대한 검색 사이트인 구글은 구글 지도에서 교통상황을 실시간 보여주는 기능을 우크라이나 내에서 차단해 러시아 군이 활용할 수 \n없게...",
+        "link": "https://www.rfa.org/korean/commentary/ad8cc740acbd/kekcu-03182022103601.html",
+        "date": "2일 전",
+        "image_path": "https://www.rfa.org/korean/commentary/ad8cc740acbd/kekcu-03182022103601.html/@@images/image/social_media",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라이나 모델 올레나, 8억 기부 한국에 \"무한한 감사\"",
+        "description": "올레나는 MBC 에브리원 예능 프로그램 '대한 외국인'에 출연한 모델로, 지난달 24일 러시아가 우크라이나를 침공하자 고향 우크라이나 \n현지 상황을 실시간...",
+        "link": "https://www.mk.co.kr/star/hot-issues/view/2022/03/201267/",
+        "date": "2주 전",
+        "image_path": "https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_201267_16462958584963843.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라이나를 비추는 머스크의 ‘별’ [김성모 기자의 신비월드]",
+        "description": "'악마가 되지 말자'가 모토인 구글은 우크라이나의 실시간 교통 상황과 혼잡도 등을 알 수 있는 구글맵 기능을 일시 차단했다. 러시아군이 \n구글맵을 활용...",
+        "link": "https://www.donga.com/news/Inter/article/all/20220305/112171186/1",
+        "date": "2주 전",
+        "image_path": "https://dimg.donga.com/a/500/0/90/5/wps/NEWS/IMAGE/2022/03/05/112136018.3.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "[우크라 침공] 우크라, 미국에 장기전 대비한 자금지원 요청",
         "description": "미국은 우크라이나에 지원하는 무기는 공격용이 아닌 방어용이며 우크라이나에 실시간 정보를 제공하지만 치명적인 목표물에 대한 정보는 \n제공하지...",
         "link": "https://www.mk.co.kr/news/world/view/2022/03/251266/",
         "date": "2일 전",
         "image_path": "https://file.mk.co.kr/meet/yonhap/2022/03/18/image_readtop_2022_251266_0_163311.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라이나 시민들, 탱크 앞세운 러시아군에 소셜미디어로 맞서다",
+        "description": "트위터와 페이스북, 틱톡 등 소셜미디어에 실시간으로 전쟁의 참상을 ... 탱크가 연료가 떨어져 오도 가도 못하게 된 상황을 비웃는 \n모습이 담겼고,...",
+        "link": "https://www.hani.co.kr/arti/international/europe/1033181.html",
+        "date": "2주 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/553/369/imgdb/original/2022/0302/20220302502896.jpg",
         "catagory": "지역 라이브 상황"
     }
 ]
