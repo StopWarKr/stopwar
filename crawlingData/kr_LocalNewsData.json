@@ -1,6 +1,6 @@
 ﻿[
     {
-        "name": "“우크라이나 전쟁 현장을 게임 방송하듯 생방송”···MBC, 유튜브 ...",
+        "name": "“우크라이나 전쟁 현장을 게임 방송하듯 생방송”···MBC, 유튜브 생중계 논란",
         "description": "'MBC 뉴스' 유튜브 채널에서 “[끝까지 LIVE] '러시아, 우크라이나 침공' 현지 상황 실시간 영상'이라는 제목으로 방송되고 있는 \n이 영상은 키예프...",
         "link": "https://m.khan.co.kr/national/national-general/article/202202281551001",
         "date": "3주 전",
@@ -24,19 +24,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "“美, 유럽에 최첨단 감시·정찰기 띄워 우크라에 정보 제공” - 조선일보",
-        "description": "더 인터셉트'와 인터뷰한 전직 중앙정보국(CIA) 관계자는 “미국이 통상 전장의 미군에게 제공되는 실시간 정보는 (우크라이나에) \n제공하지 않고 있다”...",
-        "link": "https://www.chosun.com/international/us/2022/03/20/MN3JFMFYHJHDZFTDHR2BJGP2QM/",
-        "date": "1일 전",
-        "image_path": "https://images.chosun.com/resizer/CMeRJ5b4BnNKnf1SP3j0VAaOEEw=/1200x630/filters:focal(570x30:580x40)/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NUYTRWPTJZCONKNZWN62L4W6SY.png",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "\"우크라이나 무사하길\" SNS로 현지 상황 보며 평화 기원하는 ...",
         "description": "러시아의 공격을 받은 우크라이나 현지 상황 영상이 SNS를 통해 퍼지고 있다. ... 우크라이나의 수도 키예프의 상황을 실시간으로 \n보여주는 계정에도...",
         "link": "https://m.hankookilbo.com/News/Read/A2022022502490002078",
         "date": "3주 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/02/25/9abccb7c-dda3-4583-adf4-2239a0b30236.jpg?t=20220322125650",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/02/25/9abccb7c-dda3-4583-adf4-2239a0b30236.jpg?t=20220322183948",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -48,6 +40,14 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "우크라이나 운명의 날...현지 실시간 영상 | 모바일 JTBC뉴스",
+        "description": "러시아가 우크라이나를 침공한 가운데 26일(현지시간) 새벽에도 러시아군 ... JTBC는 우크라이나 현지 상황을 유튜브 실시간으로 \n중계하고 있습니다.",
+        "link": "https://news.jtbc.joins.com/html/650/NB12048650.html",
+        "date": "3주 전",
+        "image_path": "https://photo.jtbc.joins.com/news/jam_photo/202202/26/b24bc623-ba1a-4f53-a517-170d29bb03ff.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "[LIVE] 러시아,우크라이나 침공 실시간 업데이트…키예프 함락 초읽기",
         "description": "러시아의 우크라이나 침공 관련 뉴스를 실시간 업데이트한다. ... 자료를 통해 두 정상이 이날 우크라이나의 최근 상황과 관련해 \n통화했다고 밝혔다.",
         "link": "https://www.joongang.co.kr/article/25051052",
@@ -56,11 +56,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "우크라이나를 위한 평화콘서트 3월26일 다섯번째 무대",
-        "description": "이번 콘서트는 음악기획사 툴뮤직과 함께하며 유튜브 채널 'Every Concert' '마이크 잡스 TV' 'TOOLMUSIC'에서 \n실시간으로 감상할 수 있다. 스쿨임팩트는...",
-        "link": "http://daily.hankooki.com/news/articleView.html?idxno=802925",
-        "date": "6시간 전",
-        "image_path": "https://cdn.daily.hankooki.com/news/thumbnail/202203/802925_1076357_3215_v150.jpg",
+        "name": "“美, 유럽에 최첨단 감시·정찰기 띄워 우크라에 정보 제공” - 조선일보",
+        "description": "더 인터셉트'와 인터뷰한 전직 중앙정보국(CIA) 관계자는 “미국이 통상 전장의 미군에게 제공되는 실시간 정보는 (우크라이나에) \n제공하지 않고 있다”...",
+        "link": "https://www.chosun.com/international/us/2022/03/20/MN3JFMFYHJHDZFTDHR2BJGP2QM/",
+        "date": "2일 전",
+        "image_path": "https://images.chosun.com/resizer/CMeRJ5b4BnNKnf1SP3j0VAaOEEw=/1200x630/filters:focal(570x30:580x40)/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NUYTRWPTJZCONKNZWN62L4W6SY.png",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -80,19 +80,19 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "우크라이나를 위한 평화콘서트 3월26일 다섯번째 무대",
+        "description": "이번 콘서트는 음악기획사 툴뮤직과 함께하며 유튜브 채널 'Every Concert' '마이크 잡스 TV' 'TOOLMUSIC'에서 \n실시간으로 감상할 수 있다. 스쿨임팩트는...",
+        "link": "http://daily.hankooki.com/news/articleView.html?idxno=802925",
+        "date": "12시간 전",
+        "image_path": "https://cdn.daily.hankooki.com/news/thumbnail/202203/802925_1076357_3215_v150.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "우크라이나 CCTV 생중계... 공영방송의 한심한 '전쟁 보도'",
         "description": "우크라이나 키에프 현장 영상을 실시간으로 전해 드립니다. ... 현장 상황에 따라 영상 송출이 원활하지 않을 수 있는 점 양해 \n부탁드립니다.\"",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002813836",
         "date": "3주 전",
         "image_path": "http://ojsfile.ohmynews.com/CRI_T_IMG/2022/0226/A0002813836_T.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "평화와 연대하는 사람들",
-        "description": "아이는 학교에서는 전쟁이 시작되기 전부터 우크라이나 상황에 대해 전 ... 우크라이나의 젤렌스키 대통령을 실시간으로 연결해 생방송으로 \n현장 상황...",
-        "link": "https://www.mk.co.kr/news/culture/view/2022/03/261495/",
-        "date": "4시간 전",
-        "image_path": "https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_261495_16479365294983232.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -104,11 +104,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "고난 받는 우크라이나 난민 돕는 GMS 선교사",
-        "description": "24년째 우크라이나에서 사역 중인 김병범 선교사(The Christ Blessing Church) ... 전쟁이 일어난 직후 선교사 \n단체 카톡방을 통해 실시간으로 상황을...",
-        "link": "http://www.kidok.com/news/articleView.html?idxno=214862",
+        "name": "평화와 연대하는 사람들",
+        "description": "아이는 학교에서는 전쟁이 시작되기 전부터 우크라이나 상황에 대해 전 ... 우크라이나의 젤렌스키 대통령을 실시간으로 연결해 생방송으로 \n현장 상황...",
+        "link": "https://www.mk.co.kr/news/culture/view/2022/03/261495/",
         "date": "10시간 전",
-        "image_path": "http://www.kidok.com/news/thumbnail/202203/214862_64913_5942_v150.jpg",
+        "image_path": "https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_261495_16479365294983232.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -152,6 +152,14 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "“전쟁 영상을 게임 보듯 소비”…MBC, 유튜브 생중계 논란",
+        "description": "우크라이나·러시아 양국 대통령을 비난하는 글이나 우크라이나의 상황과 무관한 혐오성 댓글도 쉽게 볼 수 있다. 교전중인 상황 실시간 중계 \n시청자 댓글...",
+        "link": "https://m.khan.co.kr/national/media/article/202202282220015",
+        "date": "3주 전",
+        "image_path": "https://img.khan.co.kr/news/2022/02/28/2022030101000026400317001.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "“Pray For Ukraine”...전 세계의 평화의 빛Peace Light",
         "description": "이러한 상징 때문에 평화로운 순간을 떠올려보게 되는 우크라이나 국기가 ... 이는 러시아 군이 현지 교통상황 및 실시간 정보를 알 수 \n없도록 해...",
         "link": "https://www.mk.co.kr/news/business/view/2022/03/248638/",
@@ -160,11 +168,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "“전쟁 영상을 게임 보듯 소비”…MBC, 유튜브 생중계 논란",
-        "description": "우크라이나·러시아 양국 대통령을 비난하는 글이나 우크라이나의 상황과 무관한 혐오성 댓글도 쉽게 볼 수 있다. 교전중인 상황 실시간 중계 \n시청자 댓글...",
-        "link": "https://m.khan.co.kr/national/media/article/202202282220015",
+        "name": "‘MBC에 분노’ 우크라이나 모델 올레나, 기부 호소 “전쟁 지원이 께름칙하면...”",
+        "description": "올레나는 러시아 공습을 받은 우크라이나 현지 상황을 실시간으로 공유하며 “한국에서도 알아야 한다”고 안타까운 마음을 드러내기도 했다.",
+        "link": "https://www.mk.co.kr/news/world/view/2022/03/191423/",
         "date": "3주 전",
-        "image_path": "https://img.khan.co.kr/news/2022/02/28/2022030101000026400317001.jpg",
+        "image_path": "https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_191423_16461115664960981.png",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -176,11 +184,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "‘MBC에 분노’ 우크라이나 모델 올레나, 기부 호소 “전쟁 지원이 께름칙하면...”",
-        "description": "올레나는 러시아 공습을 받은 우크라이나 현지 상황을 실시간으로 공유하며 “한국에서도 알아야 한다”고 안타까운 마음을 드러내기도 했다.",
-        "link": "https://www.mk.co.kr/news/world/view/2022/03/191423/",
-        "date": "3주 전",
-        "image_path": "https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_191423_16461115664960981.png",
+        "name": "우크라이나를 비추는 머스크의 ‘별’ [김성모 기자의 신비월드]",
+        "description": "'악마가 되지 말자'가 모토인 구글은 우크라이나의 실시간 교통 상황과 혼잡도 등을 알 수 있는 구글맵 기능을 일시 차단했다. 러시아군이 \n구글맵을 활용...",
+        "link": "https://www.donga.com/news/Inter/article/all/20220305/112171186/1",
+        "date": "2주 전",
+        "image_path": "https://dimg.donga.com/a/500/0/90/5/wps/NEWS/IMAGE/2022/03/05/112136018.3.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -229,14 +237,6 @@
         "link": "https://www.mk.co.kr/opinion/columnists/view/2022/03/190915/",
         "date": "3주 전",
         "image_path": "https://file.mk.co.kr/news/facebook_mknews.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "글로벌 빅테크 기업들 “우크라이나 돕겠다” 지원 이어져",
-        "description": "일론 머스크 테슬라 최고경영자(CEO)는 우크라이나 내 인터넷망을 지원했다. 구글은 자체 지도에서 우크라이나 현지 교통 상황을 \n실시간으로 보여주는...",
-        "link": "http://www.aitimes.com/news/articleView.html?idxno=143237",
-        "date": "3주 전",
-        "image_path": "https://cdn.aitimes.com/news/thumbnail/202203/143237_148210_2017_v150.jpg",
         "catagory": "지역 라이브 상황"
     }
 ]
