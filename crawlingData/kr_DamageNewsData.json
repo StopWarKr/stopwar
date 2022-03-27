@@ -8,14 +8,6 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "우크라이나 사태: 러시아 침공 11일째 상황",
-        "description": "우크라이나 사태: 러시아 침공 11일째 상황. 2022년 3월 7일. 폴란드의 국경 도시 프셰미실에는 연일 우크라이나 피란민들이 \n몰려들고 있다. 사진 출처, Reuters.",
-        "link": "https://www.bbc.com/korean/news-60643146",
-        "date": "3주 전",
-        "image_path": "https://ichef.bbci.co.uk/news/1024/branded_korean/1713/production/_123570950_hi074374380.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "“러시아군 3주 만에 7000명 사망”…사기 저하가 전투에 영향 줄까",
         "description": "미 국방부는 최근 우크라이나 상황 일일 브리핑에서 러시아 병사들이 ... 의원은 “그것(러시아군 피해)이 푸틴의 계산에 영향을 줄 걸로 \n보지 않는다.",
         "link": "https://www.hani.co.kr/arti/international/international_general/1035227.html",
@@ -24,11 +16,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "우크라이나, 러시아 침공에 따른 피해 규모 발표",
-        "description": "우크라이나는 러시아군은 총 4300명의 사상자가 발생했으며, 200명이 포로로 잡혔다. 탱크는 146대가 파손됐으며, 장갑차 706대를 \n잃었다고 밝혔다. 또...",
-        "link": "http://www.ggilbo.com/news/articleView.html?idxno=898656",
-        "date": "4주 전",
-        "image_path": "http://cdn.ggilbo.com/news/photo/202202/898656_729963_3816.jpg",
+        "name": "우크라이나 사태: 러시아 침공 11일째 상황",
+        "description": "우크라이나 사태: 러시아 침공 11일째 상황. 2022년 3월 7일. 폴란드의 국경 도시 프셰미실에는 연일 우크라이나 피란민들이 \n몰려들고 있다. 사진 출처, Reuters.",
+        "link": "https://www.bbc.com/korean/news-60643146",
+        "date": "3주 전",
+        "image_path": "https://ichef.bbci.co.uk/news/1024/branded_korean/1713/production/_123570950_hi074374380.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -37,6 +29,14 @@
         "link": "https://www.mk.co.kr/star/broadcasting-service/view/2022/03/252235/",
         "date": "1주 전",
         "image_path": "https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_252235_16476542514980294.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라이나, 러시아 침공에 따른 피해 규모 발표",
+        "description": "우크라이나는 러시아군은 총 4300명의 사상자가 발생했으며, 200명이 포로로 잡혔다. 탱크는 146대가 파손됐으며, 장갑차 706대를 \n잃었다고 밝혔다. 또...",
+        "link": "http://www.ggilbo.com/news/articleView.html?idxno=898656",
+        "date": "4주 전",
+        "image_path": "http://cdn.ggilbo.com/news/photo/202202/898656_729963_3816.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -64,14 +64,6 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "러시아, 폴란드 국경 르비우 폭격…“바이든에 보내는 메시지”",
-        "description": "러시아군의 우크라이나 침공이 장기화하는 가운데 26일(현지시각) ... 현지 당국은 러시아의 공격이 지속되고 있어 정확한 피해 상황을 \n파악하지...",
-        "link": "https://www.hani.co.kr/arti/international/international_general/1036378.html",
-        "date": "11시간 전",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/486/imgdb/original/2022/0327/20220327500610.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "전쟁 6일째, 우크라이나 민간인 피해 속출 : 국제일반 : 국제 : 뉴스",
         "description": "마틴 그리피스 인권 담당 유엔 사무차장은 “아직 공식 확인되지 않은 피해 보고가 많아, 실제 사상자 규모는 훨씬 더 클 것”이라고 \n지적했다. 유엔난민...",
         "link": "https://www.hani.co.kr/arti/international/international_general/1033003.html",
@@ -88,10 +80,34 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "러시아, 폴란드 국경 르비우 폭격…“바이든에 보내는 메시지”",
+        "description": "러시아군의 우크라이나 침공이 장기화하는 가운데 26일(현지시각) ... 현지 당국은 러시아의 공격이 지속되고 있어 정확한 피해 상황을 \n파악하지...",
+        "link": "https://www.hani.co.kr/arti/international/international_general/1036378.html",
+        "date": "16시간 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/486/imgdb/original/2022/0327/20220327500610.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "바이든 폴란드 방문한 날…러, 인근 르비우 로켓 공격",
+        "description": "폭격을 받은 연구소에는 실험용 원자로가 설치돼있는데, 전투가 멈추지 않아 피해 규모를 추산하는 것이 불가능한 상황입니다. 우크라이나군의 \n반격도...",
+        "link": "https://www.yna.co.kr/view/MYH20220327005900038",
+        "date": "13시간 전",
+        "image_path": "https://img8.yna.co.kr/mpic/YH/2022/03/27/MYH20220327005900038.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "러, 바이든 폴란드 간 날 접경지 '르비우' 포격…핵 시설도 공격",
+        "description": "또한 우크라이나 의회는 국가원자력연구원 발표를 인용해 \"원자력 시설이 있는 지역에서 계속되는 공격으로 피해규모를 추정하는 것이 \n현재로선...",
+        "link": "https://news.mt.co.kr/mtview.php?no=2022032711515248605",
+        "date": "14시간 전",
+        "image_path": "https://thumb.mt.co.kr/21/2022/03/2022032711515248605_2.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "우크라이나군 선전(善戰) 이면에 미군 도움 있었다",
         "description": "상륙 전 공격을 위해 전투함 한 척이 아쉬운 상황에서 러시아 해군이 바실리 ... 그것도 우크라이나군의 로켓에 맞아 선체가 불에 탈 \n정도로 피해를...",
         "link": "https://www.donga.com/news/Inter/article/all/20220327/112549723/1",
-        "date": "9시간 전",
+        "date": "15시간 전",
         "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/03/27/112549721.2.jpg",
         "catagory": "지역 라이브 상황"
     },
@@ -120,11 +136,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "[우크라 침공] 러시아 기자 포격 사망…언론인 5명째",
-        "description": "우크라이나 수도 키이우(키예프) 전쟁 피해 상황을 촬영하던 러시아 기자가 자국군의 포격으로 사망했다고 영국 공영방송 BBC가 \n24일(현지시간) 보도...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/03/269054/",
-        "date": "3일 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/03/24/image_readtop_2022_269054_0_152112.jpg",
+        "name": "[우크라 침공] 러 전사자 규모는…\"밝혀지면 푸틴 타격받을 수도\"",
+        "description": "우크라이나 정부는 소셜미디어를 통해 러시아군의 피해 상황을 전파하며 군의 사기를 꺾는 데 주력하고 있다. 올렉시 레즈니코프 우크라이나 \n국방부 장관...",
+        "link": "https://www.yna.co.kr/view/AKR20220302100800009",
+        "date": "3주 전",
+        "image_path": "https://img6.yna.co.kr/photo/yna/YH/2022/03/02/PYH2022030207940034000_P4.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -136,51 +152,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "[우크라 침공] 러 전사자 규모는…\"밝혀지면 푸틴 타격받을 수도\"",
-        "description": "우크라이나 정부는 소셜미디어를 통해 러시아군의 피해 상황을 전파하며 군의 사기를 꺾는 데 주력하고 있다. 올렉시 레즈니코프 우크라이나 \n국방부 장관...",
-        "link": "https://www.yna.co.kr/view/AKR20220302100800009",
-        "date": "3주 전",
-        "image_path": "https://img6.yna.co.kr/photo/yna/YH/2022/03/02/PYH2022030207940034000_P4.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "'우크라이나 사태' 국내 기업 피해 현실화되고 있다",
         "description": "여한구 산업통상자원부 통상교섭본부장은 27일 서울 서초구 코트라에서 무역투자24의 지원 현황을 긴급 점검했다. 이날 점검은 우크라이나와 \n함께 러시아,...",
         "link": "https://www.hani.co.kr/arti/economy/economy_general/1032716.html",
         "date": "1개월 전",
         "image_path": "https://flexible.img.hani.co.kr/flexible/normal/640/415/imgdb/original/2022/0227/20220227500850.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "러시아, 우크라이나에서 예상외 고전.. '핵 전쟁' 가능성 증가",
-        "description": "원전이 폭발하면 체르노빌 원전 사고 때보다 피해 규모 10배 예상 ... 월가에서는 푸틴 대통령이 상황이 불리해질 경우 우크라이나에서 \n핵무기를 사용할 확률이 10%...",
-        "link": "https://www.radiokorea.com/news/article.php?uid=383209",
-        "date": "3주 전",
-        "image_path": "",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "[우크라이나 침공 한 달] 러시아군 병력 10% 상실 ... 평화협상 ...",
-        "description": "전쟁이 길어질수록 우크라이나 시민들의 피해만 커지고 결국 군사력에서 앞서는 러시아에 상황이 유리하게 돌아갈 가능성이 크기 때문이다.",
-        "link": "https://m.khan.co.kr/world/world-general/article/202203241541001",
-        "date": "3일 전",
-        "image_path": "https://img.khan.co.kr/news/2022/03/24/2022032401003190100284221.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "“체첸때보다 상황 나빠” 러, 키이우 전선 잇달아 퇴각… 전세 역전? - 조선일보",
-        "description": "우크라이나군은 최근 헤르손 공항을 공격해 러시아군에 큰 피해를 입혔다. 우크라이나 남동부 마리우폴 근처 베르단스크 항구에서는 보급품을 \n전달...",
-        "link": "https://www.chosun.com/international/2022/03/24/E63JB5QSDRGBLKQE6DNKAJESFM/",
-        "date": "2일 전",
-        "image_path": "https://images.chosun.com/resizer/idjTt_GsOZN4trioSKOPLh68g2U=/450x236/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE3FHRNBMRBXTNDNI5GGJMU6RQ.png",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "우크라이나군, 키이우 등에서 반격 '성과'…전쟁 장기화",
-        "description": "전쟁이 장기화하면서 의료 시설 피해가 늘고 보건 상황도 계속 나빠지고 있다. 세계보건기구(WHO)는 전투가 한달째 이어지면서 지금까지 \n64곳의 의료...",
-        "link": "https://www.hani.co.kr/arti/international/international_general/1036068.html",
-        "date": "3일 전",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/456/imgdb/original/2022/0324/20220324501278.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -192,6 +168,30 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "러시아, 우크라이나에서 예상외 고전.. '핵 전쟁' 가능성 증가",
+        "description": "원전이 폭발하면 체르노빌 원전 사고 때보다 피해 규모 10배 예상 ... 월가에서는 푸틴 대통령이 상황이 불리해질 경우 우크라이나에서 \n핵무기를 사용할 확률이 10%...",
+        "link": "https://www.radiokorea.com/news/article.php?uid=383209",
+        "date": "3주 전",
+        "image_path": "",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "러, 침공 6일만에 “전사자 498명” 공개… 美선 “1500~2000명” - 조선일보",
+        "description": "러시아 정부는 그동안 우크라이나 침공으로 인한 사상자 규모를 밝히지 않았다. 침공 초기엔 “어떤 피해도 없다”고 주장하다 지난달 \n27일에서야 사상자가...",
+        "link": "https://www.chosun.com/IPOYNNVRCNDNRDOANP4SDDUT6Y/",
+        "date": "3주 전",
+        "image_path": "https://images.chosun.com/resizer/wO33IEFPii7I79kKiFuYCouOlvE=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7R2GP7VM2VKNNJM6BII6I3LC6U.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "[우크라이나 침공 한 달] 러시아군 병력 10% 상실 ... 평화협상 ...",
+        "description": "전쟁이 길어질수록 우크라이나 시민들의 피해만 커지고 결국 군사력에서 앞서는 러시아에 상황이 유리하게 돌아갈 가능성이 크기 때문이다.",
+        "link": "https://m.khan.co.kr/world/world-general/article/202203241541001",
+        "date": "3일 전",
+        "image_path": "https://img.khan.co.kr/news/2022/03/24/2022032401003190100284221.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "전쟁 피해 우크라이나 전방위 지원",
         "description": "인접국 루마니아에서 31년째 활동하고 있는 월드비전은 350명의 현지 직원들을 통해 우크라이나 노보셀리차 시립병원에 전달했다. 600개 \n병상 규모의 이곳...",
         "link": "https://www.kidok.com/news/articleView.html?idxno=214842",
@@ -200,11 +200,27 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "[우크라 침공] 러시아 기자 포격 사망…언론인 5명째",
+        "description": "우크라이나 수도 키이우(키예프) 전쟁 피해 상황을 촬영하던 러시아 기자가 자국군의 포격으로 사망했다고 영국 공영방송 BBC가 \n24일(현지시간) 보도...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/03/269054/",
+        "date": "3일 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/03/24/image_readtop_2022_269054_0_152112.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "\"러시아 장군, 전투 중 우크라이나 저격수 공격에 사망\"",
         "description": "우크라이나 측은 러시아 군 피해가 최소 9,000명이 넘는다고 주장하고 있지만 전쟁 상황에서 집계가 명확하지 않을 수 있다고 덧붙였다.",
         "link": "https://www.hankookilbo.com/News/Read/A2022030417170000339",
         "date": "3주 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/04/b0c7cebf-00a7-4c28-9dab-524b76d30213.jpg?t=20220327124342",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/04/b0c7cebf-00a7-4c28-9dab-524b76d30213.jpg?t=20220327183454",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "러시아의 우크라이나 침공… 전쟁의 한복판에서 우크라이나 ...",
+        "description": "현재 전세계는 긴장 속에서 우크라이나의 상황을 주시 중이다. ... 죽음의 로또이자 절대적인 우연의 일치로 죽음을 피해간 그날도 그런 \n느낌이었다.",
+        "link": "http://m.cine21.com/news//view/?mag_id=99843",
+        "date": "9시간 전",
+        "image_path": "http://image.cine21.com/resize/cine21/person/2022/0322/10_26_17__623925b9b7be9[S800,800].jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -213,22 +229,6 @@
         "link": "https://biz.chosun.com/international/international_general/2022/03/16/RZKRMIRYCNCS5AMU4R3AVXRVQE/",
         "date": "1주 전",
         "image_path": "https://biz.chosun.com/resizer/MjzHR9f1SsyDhqF8TGxSi0S9o8Q=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/E4JHU4AS4JL2TNALT4ED4N676E.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "침공 첫날, 우크라이나인 137명 사망…러시아는 미사일 160발 발사",
-        "description": "러시아의 침공 첫날인 24일(현지시간) 우크라이나 내 다수의 군사시설이 파괴되고 ... 부상자까지 포함하면 피해 규모는 더 클 것으로 \n예상된다.",
-        "link": "https://m.khan.co.kr/world/world-general/article/202202250734001",
-        "date": "1개월 전",
-        "image_path": "https://img.khan.co.kr/news/2022/02/25/2022022501003088500278601.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "미국, '중국이 러시아를 돕는다면 대가를 치를 것'",
-        "description": "미국 백악관은 13일(현지시간) 중국이 러시아의 우크라이나 침공을 지원 ... 세계 어디에서도 경제 제재를 피해 생명줄을 구하지 못하게 \n할 것입니다.",
-        "link": "https://www.bbc.com/korean/news-60732813",
-        "date": "2주 전",
-        "image_path": "https://ichef.bbci.co.uk/news/1024/branded_korean/58C6/production/_123662722_593c5427-3843-4c52-b110-0dac61882214.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
