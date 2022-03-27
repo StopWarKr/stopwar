@@ -24,14 +24,6 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "[LIVE] 러시아,우크라이나 침공 실시간 업데이트…키예프 함락 초읽기",
-        "description": "러시아의 우크라이나 침공 관련 뉴스를 실시간 업데이트한다. ... 자료를 통해 두 정상이 이날 우크라이나의 최근 상황과 관련해 \n통화했다고 밝혔다.",
-        "link": "https://www.joongang.co.kr/article/25051052",
-        "date": "1개월 전",
-        "image_path": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/25/8f3bb888-6ab3-45df-9fe1-12cc56e489a0.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "우크라이나 참상 실시간 중계가 알권리? 댓글창 전쟁게임 방불",
         "description": "유튜브 채널 'MBCNEWS'의 우크라이나 현지 상황 생중계 화면. [PD저널=장세인 기자] 지난 24일 러시아 침공을 시작한 \n우크라이나 상황이 방송사 유튜브...",
         "link": "https://www.pdjournal.com/news/articleView.html?idxno=73515",
@@ -53,6 +45,14 @@
         "link": "https://www.yna.co.kr/view/MYH20220304016700797",
         "date": "3주 전",
         "image_path": "https://img4.yna.co.kr/mpic/YH/2022/03/04/MYH20220304016700797.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라이나군 선전(善戰) 이면에 미군 도움 있었다",
+        "description": "우크라이나군은 2014년 러시아의 크림반도 강제합병에 속수무책으로 당한 후 ... 상륙 전 공격을 위해 전투함 한 척이 아쉬운 상황에서 \n러시아 해군이...",
+        "link": "https://www.donga.com/news/Inter/article/all/20220327/112549723/1",
+        "date": "3시간 전",
+        "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/03/27/112549721.2.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -88,19 +88,19 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "“美, 유럽에 최첨단 감시·정찰기 띄워 우크라에 정보 제공” - 조선일보",
-        "description": "더 인터셉트'와 인터뷰한 전직 중앙정보국(CIA) 관계자는 “미국이 통상 전장의 미군에게 제공되는 실시간 정보는 (우크라이나에) \n제공하지 않고 있다”...",
-        "link": "https://www.chosun.com/international/us/2022/03/20/MN3JFMFYHJHDZFTDHR2BJGP2QM/",
-        "date": "6일 전",
-        "image_path": "https://images.chosun.com/resizer/CMeRJ5b4BnNKnf1SP3j0VAaOEEw=/1200x630/filters:focal(570x30:580x40)/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NUYTRWPTJZCONKNZWN62L4W6SY.png",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "구글맵, 러시아의 우크라이나 침공 미리 알았다",
         "description": "로이터에 따르면 구글은 관련 기능이 군이나 민간인의 움직임을 추측할 수 있는 수단으로 악용될 소지가 있어 우크라이나에서 실시간 \n교통상황과 장소...",
         "link": "http://www.aitimes.com/news/articleView.html?idxno=143245",
         "date": "3주 전",
         "image_path": "https://cdn.aitimes.com/news/thumbnail/202203/143245_148217_457_v150.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "“美, 유럽에 최첨단 감시·정찰기 띄워 우크라에 정보 제공” - 조선일보",
+        "description": "더 인터셉트'와 인터뷰한 전직 중앙정보국(CIA) 관계자는 “미국이 통상 전장의 미군에게 제공되는 실시간 정보는 (우크라이나에) \n제공하지 않고 있다”...",
+        "link": "https://www.chosun.com/international/us/2022/03/20/MN3JFMFYHJHDZFTDHR2BJGP2QM/",
+        "date": "6일 전",
+        "image_path": "https://images.chosun.com/resizer/CMeRJ5b4BnNKnf1SP3j0VAaOEEw=/1200x630/filters:focal(570x30:580x40)/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NUYTRWPTJZCONKNZWN62L4W6SY.png",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -120,14 +120,6 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "[아무튼, 주말] 전쟁을 끝낼 수만 있다면… “뭐라도 내가 할 수 있는 일을 해야죠” - 조선일보",
-        "description": "지난 2월 24일 러시아가 우크라이나를 침공한 이후 4주 가까이 시간이 흐르는 동안 TV와 라디오에서는 가장 주요한 소식으로 이를 \n실시간으로 다루고,...",
-        "link": "https://www.chosun.com/national/weekend/2022/03/26/CSL6GWMAVVDZPL7PQOOZJDUIJY/",
-        "date": "1일 전",
-        "image_path": "https://images.chosun.com/resizer/vZKLzM4XXbGZjxhu_IbHWW2PXsI=/1154x605/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ZC7WLK6EBEZVJHT5Z5EPUX3DE.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "20만 세계 해커의 반격… 러 외무부·은행 홈피 마비 - 조선일보",
         "description": "구글은 지도 서비스인 구글맵의 우크라이나 현지 도로 상황을 실시간으로 보여주는 기능을 일시적으로 차단했다. 러시아가 구글맵을 보고 \n우크라이나...",
         "link": "https://www.chosun.com/economy/tech_it/2022/03/02/CVN5QC2XQZEAJP65BJUPRBZ3BE/",
@@ -141,6 +133,14 @@
         "link": "https://m.dongascience.com/news.php?idx=52708",
         "date": "3주 전",
         "image_path": "https://image.dongascience.com/Photo/2022/03/16462870890774.JPG",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "[아무튼, 주말] 전쟁을 끝낼 수만 있다면… “뭐라도 내가 할 수 있는 일을 해야죠” - 조선일보",
+        "description": "지난 2월 24일 러시아가 우크라이나를 침공한 이후 4주 가까이 시간이 흐르는 동안 TV와 라디오에서는 가장 주요한 소식으로 이를 \n실시간으로 다루고,...",
+        "link": "https://www.chosun.com/national/weekend/2022/03/26/CSL6GWMAVVDZPL7PQOOZJDUIJY/",
+        "date": "1일 전",
+        "image_path": "https://images.chosun.com/resizer/vZKLzM4XXbGZjxhu_IbHWW2PXsI=/1154x605/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ZC7WLK6EBEZVJHT5Z5EPUX3DE.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -200,27 +200,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "틱톡이 '전쟁 중계'를 새롭게 바꾸고 있다",
-        "description": "러시아의 우크라이나 침공 상황과 참상이 실시간으로 전 세계에 전달되는 데는 소셜미디어의 역할이 빠질 수 없다. 그 중에도 틱톡이 가장 \n눈에 띈다...",
-        "link": "https://m.hankookilbo.com/News/Read/A2022030218090002631",
-        "date": "3주 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/02/383a9565-5c07-4cb3-ac29-61a148fbdd3f.jpg?t=20220327015051",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "사이버 세상은 이미 전시상황…러-전세계 해커 붙었다",
         "description": "러시아가 우크라이나 침공 전부터 사이버 공격을 벌인 것으로 확인된 ... 구글은 우크라이나의 실시간 교통 상황과 혼잡도 등을 알 수 \n있는 구글맵...",
         "link": "https://www.mk.co.kr/news/world/view/2022/02/190602/",
         "date": "4주 전",
         "image_path": "https://file.mk.co.kr/meet/neds/2022/02/image_readtop_2022_190602_16460475274960789.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "“Pray For Ukraine”...전 세계의 평화의 빛Peace Light",
-        "description": "이러한 상징 때문에 평화로운 순간을 떠올려보게 되는 우크라이나 국기가 ... 이는 러시아 군이 현지 교통상황 및 실시간 정보를 알 수 \n없도록 해...",
-        "link": "https://www.mk.co.kr/news/business/view/2022/03/248638/",
-        "date": "1주 전",
-        "image_path": "https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_248638_16475529024977879.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -232,11 +216,27 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "“Pray For Ukraine”...전 세계의 평화의 빛Peace Light",
+        "description": "이러한 상징 때문에 평화로운 순간을 떠올려보게 되는 우크라이나 국기가 ... 이는 러시아 군이 현지 교통상황 및 실시간 정보를 알 수 \n없도록 해...",
+        "link": "https://www.mk.co.kr/news/business/view/2022/03/248638/",
+        "date": "1주 전",
+        "image_path": "https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_248638_16475529024977879.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "[World & Now] 우크라이나의 `나홀로` 결사항전",
         "description": "탱크를 맨몸으로 막고, 화염병을 제조하며, 예비군으로 합류하려는 우크라이나 시민 행렬이 소셜미디어를 타고 실시간 공유되고 있다. 다윗과 \n골리앗의...",
         "link": "https://www.mk.co.kr/opinion/columnists/view/2022/03/190915/",
         "date": "3주 전",
         "image_path": "https://file.mk.co.kr/news/facebook_mknews.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라이나 시민들, 탱크 앞세운 러시아군에 소셜미디어로 맞서다",
+        "description": "트위터와 페이스북, 틱톡 등 소셜미디어에 실시간으로 전쟁의 참상을 ... 탱크가 연료가 떨어져 오도 가도 못하게 된 상황을 비웃는 \n모습이 담겼고,...",
+        "link": "https://www.hani.co.kr/arti/international/europe/1033181.html",
+        "date": "3주 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/553/369/imgdb/original/2022/0302/20220302502896.jpg",
         "catagory": "지역 라이브 상황"
     }
 ]
