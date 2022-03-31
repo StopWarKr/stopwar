@@ -3,7 +3,7 @@
         "name": "[자작나무 숲] 우크라이나의 검은 튤립 - 조선일보",
         "description": "푸틴의 러시아가 포기하지 않는 역사적 정체성의 본질이기도 하다. 무엇이 민족과 민족 사이를 획정하는가? 언어, 종교, 혈통, 역사, \n이념의 동시성인가?",
         "link": "https://www.chosun.com/opinion/specialist_column/2022/03/31/M5E5HQI2PVBTDIEKJQIG3K33XM/",
-        "date": "18시간 전",
+        "date": "1일 전",
         "image_path": "https://images.chosun.com/resizer/J1CDx0U9fQ4OJ9dN-wziMQ1mTdo=/640x336/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RG5WYTR3BJD4BH2UBIKHYBM4HQ.jpg",
         "catagory": "역사"
     },
@@ -11,16 +11,8 @@
         "name": "[긴급 인터뷰] 허승철 전 駐우크라이나 대사가 말하는 ‘우크라이나와 러시아’",
         "description": "블라디미르 푸틴 러시아 대통령은 대(對)국민 연설에서 이렇게 주장했다. - 우크라이나는 단순한 이웃 국가가 아니다. 우리(러시아)와 \n분리할 수 없는 역사, 문화, 정신의...",
         "link": "https://monthly.chosun.com/client/news/viw.asp?ctcd=E&nNewsNumb=202204100043",
-        "date": "12시간 전",
+        "date": "18시간 전",
         "image_path": "http://monthly.chosun.com/upload/2204/2204_358.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "[문정희 칼럼] 예술이 전쟁을 바꿀 수 있을까",
-        "description": "또한 한국인의 삶과 역사에 대해서도 특강이나 번역 워크숍을 통해 잘 설명할 수 있으리라 생각했다. 우크라이나 민족시인 타라스 \n셰프첸코(1814~1861)의...",
-        "link": "https://www.hani.co.kr/arti/opinion/column/1037077.html",
-        "date": "3시간 전",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/400/627/imgdb/original/2022/0331/20220331503635.jpg",
         "catagory": "역사"
     },
     {
@@ -29,6 +21,14 @@
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002819694",
         "date": "1주 전",
         "image_path": "http://ojsfile.ohmynews.com/CRI_T_IMG/2022/0321/A0002819694_T.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "[문정희 칼럼] 예술이 전쟁을 바꿀 수 있을까",
+        "description": "또한 한국인의 삶과 역사에 대해서도 특강이나 번역 워크숍을 통해 잘 설명할 수 있으리라 생각했다. 우크라이나 민족시인 타라스 \n셰프첸코(1814~1861)의...",
+        "link": "https://www.hani.co.kr/arti/opinion/column/1037077.html",
+        "date": "8시간 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/400/627/imgdb/original/2022/0331/20220331503635.jpg",
         "catagory": "역사"
     },
     {
@@ -56,19 +56,19 @@
         "catagory": "역사"
     },
     {
-        "name": "[우크라 침공] 러, 우크라 정체성 지우기?…문화유산·박물관 39곳 파괴",
-        "description": "우크라이나에는 유네스코 세계문화유산이 7곳 있으며 1954년 체결된 헤이그협약은 역사적 기념물과 문화유산을 목표로 공격하는 행위를 \n국제법상 전쟁...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/03/281693/",
-        "date": "2일 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/03/29/image_readtop_2022_281693_0_150511.jpg",
-        "catagory": "역사"
-    },
-    {
         "name": "유럽 최후의 대국, 우크라이나의 역사 - 구로카와 유지 [북적북적]",
         "description": "우크라이나 역사는 그동안 주로 '러시아/소련' 역사의 일부로 다뤄져 왔기 때문에 대중적으로 읽을 만한 우크라이나 역사책도 선택지가 \n많지...",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006665181",
         "date": "3주 전",
         "image_path": "https://img.sbs.co.kr/newimg/news/20220306/201644172_1280.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "[우크라 침공] 러, 우크라 정체성 지우기?…문화유산·박물관 39곳 파괴",
+        "description": "우크라이나에는 유네스코 세계문화유산이 7곳 있으며 1954년 체결된 헤이그협약은 역사적 기념물과 문화유산을 목표로 공격하는 행위를 \n국제법상 전쟁...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/03/281693/",
+        "date": "2일 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/03/29/image_readtop_2022_281693_0_150511.jpg",
         "catagory": "역사"
     },
     {
@@ -88,11 +88,19 @@
         "catagory": "역사"
     },
     {
-        "name": "中왕이 \"러·우크라 대화 추진 지지…中, 역사 옳은 편에 서 있어\"",
-        "description": "또 “러시아와 각 관련국이 대규모 인도주의적 위기 발생을 막기 위한 노력을 지지한다”면서 “장기적으로 (유럽은) 우크라이나 위기로부터 \n교훈을 얻어야...",
-        "link": "https://www.fnnews.com/news/202203310937347253",
-        "date": "12시간 전",
-        "image_path": "https://image.fnnews.com/resource/media/image/2022/03/31/202203310937301562_l.jpg",
+        "name": "[인터뷰] 왜 '골리앗' 푸틴과 싸우냐고? “지금 안 싸우면 또 지배당 ...",
+        "description": "우크라이나는 역사적으로 러시아에 당한 게 많다. 외국에서는 우크라이나 역사를 잘 모르고 그냥 소비에트 연방 소속이다가 연방이 붕괴하면서 \n1991년...",
+        "link": "https://www.peoplepower21.org/1874271",
+        "date": "8시간 전",
+        "image_path": "https://live.staticflickr.com/65535/51951754139_31849f91a1_z.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "[황장원의 클래식 포레스트] 우크라이나 사태가 클래식 음악계에 미친 여파 ‘러시아 보이콧’의 딜레마에 빠진 사람들",
+        "description": "아마도 21세기에 벌어진 가장 충격적인 참화 가운데 하나로 역사에 기록될 러시아의 우크라이나 침공은 클래식 음악계에도 커다란 파장을 \n일으키고...",
+        "link": "https://www.mk.co.kr/news/culture/view/2022/03/292263/",
+        "date": "10시간 전",
+        "image_path": "https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_292263_16487118224993776.jpg",
         "catagory": "역사"
     },
     {
@@ -120,19 +128,19 @@
         "catagory": "역사"
     },
     {
-        "name": "“푸틴의 우크라이나 침공, 러시아 vs 미국+EU 신냉전 배제 못 해” - 조선비즈",
-        "description": "전쟁과 경제는 긴밀한 상호 작용을 하기 때문이다. 인류 역사를 돌아보면, 전쟁은 항상 경제에 크고 작은 영향을 미쳤다. 전쟁은 물자 \n부족과 인플레이션...",
-        "link": "https://biz.chosun.com/international/international_general/2022/03/31/WKXHRNKTEVDLVHRXVH6UDS33MY/",
-        "date": "15시간 전",
-        "image_path": "https://biz.chosun.com/resizer/UtAFazbl0YqTPKdKZCpvafvns1k=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/6CA5XZZU5ZBV7DXD4UUL2KOCIE.jpg",
-        "catagory": "역사"
-    },
-    {
         "name": "[기고] 러시아·폴란드 지배받은 우크라이나 역사…독립 후 동서 ...",
         "description": "우크라이나를 둘러싼 신냉전이 열전으로 비화했다. 러시아는 군사행동을 더 강화할 것인가? 미래를 예측하기 위해서는 역사적 사실을 정확하게 \n파악...",
         "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20220304.22008000936",
         "date": "1개월 전",
-        "image_path": "http://db.kookje.co.kr/news2000/photo/2022/0304/L20220304.22008000936i1.jpg?20",
+        "image_path": "http://db.kookje.co.kr/news2000/photo/2022/0304/L20220304.22008000936i1.jpg?56",
+        "catagory": "역사"
+    },
+    {
+        "name": "中왕이 \"러·우크라 대화 추진 지지…中, 역사 옳은 편에 서 있어\"",
+        "description": "또 “러시아와 각 관련국이 대규모 인도주의적 위기 발생을 막기 위한 노력을 지지한다”면서 “장기적으로 (유럽은) 우크라이나 위기로부터 \n교훈을 얻어야...",
+        "link": "https://www.fnnews.com/news/202203310937347253",
+        "date": "17시간 전",
+        "image_path": "https://image.fnnews.com/resource/media/image/2022/03/31/202203310937301562_l.jpg",
         "catagory": "역사"
     },
     {
@@ -144,27 +152,11 @@
         "catagory": "역사"
     },
     {
-        "name": "러, 우크라 정체성 지우기?…문화유산·박물관 수십곳 파괴",
-        "description": "이에 대해 러시아가 우크라이나인들의 역사와 정체성 지우기에 나섰다는 해석이 나옵니다. 정다미 기자입니다. [기자]. 우크라이나 제 \n2도시 하르키우의...",
-        "link": "https://www.yna.co.kr/view/MYH20220330016400038",
-        "date": "1일 전",
-        "image_path": "https://img1.yna.co.kr/mpic/YH/2022/03/30/MYH20220330016400038.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "[인터뷰] 왜 '골리앗' 푸틴과 싸우냐고? “지금 안 싸우면 또 지배당 ...",
-        "description": "우크라이나는 역사적으로 러시아에 당한 게 많다. 외국에서는 우크라이나 역사를 잘 모르고 그냥 소비에트 연방 소속이다가 연방이 붕괴하면서 \n1991년...",
-        "link": "https://www.peoplepower21.org/1874271",
-        "date": "2시간 전",
-        "image_path": "https://live.staticflickr.com/65535/51951754139_31849f91a1_z.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "기독교적 관점에서 본 러시아의 우크라이나 침공",
-        "description": "2021년 11월 '기독교 평화론의 역사'를 설명한 책 <우리에게 평화를 주소서>를 집필한 바 있는 이상규 교수가 우크라이나 전쟁과 \n관련한 특별기고를...",
-        "link": "https://www.christiantoday.co.kr/news/346568",
-        "date": "12시간 전",
-        "image_path": "https://images.christiantoday.co.kr/data/images/full/344609/image.jpg",
+        "name": "“푸틴의 우크라이나 침공, 러시아 vs 미국+EU 신냉전 배제 못 해” - 조선비즈",
+        "description": "전쟁과 경제는 긴밀한 상호 작용을 하기 때문이다. 인류 역사를 돌아보면, 전쟁은 항상 경제에 크고 작은 영향을 미쳤다. 전쟁은 물자 \n부족과 인플레이션...",
+        "link": "https://biz.chosun.com/international/international_general/2022/03/31/WKXHRNKTEVDLVHRXVH6UDS33MY/",
+        "date": "21시간 전",
+        "image_path": "https://biz.chosun.com/resizer/UtAFazbl0YqTPKdKZCpvafvns1k=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/6CA5XZZU5ZBV7DXD4UUL2KOCIE.jpg",
         "catagory": "역사"
     },
     {
@@ -172,7 +164,15 @@
         "description": "러시아 정부가 청소년을 대상으로 우크라이나 역사를 왜곡하고 전쟁을 정당화하는 내용의 교육과 영상 시청을 의무화했다.",
         "link": "https://m.hankookilbo.com/News/Read/A2022030310500002929",
         "date": "1개월 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/03/70e4e54c-0c74-4d6b-8408-7622e5dd1d06.jpg?t=20220331124530",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/03/70e4e54c-0c74-4d6b-8408-7622e5dd1d06.jpg?t=20220331182909",
+        "catagory": "역사"
+    },
+    {
+        "name": "러, 우크라 정체성 지우기?…문화유산·박물관 수십곳 파괴",
+        "description": "이에 대해 러시아가 우크라이나인들의 역사와 정체성 지우기에 나섰다는 해석이 나옵니다. 정다미 기자입니다. [기자]. 우크라이나 제 \n2도시 하르키우의...",
+        "link": "https://www.yna.co.kr/view/MYH20220330016400038",
+        "date": "1일 전",
+        "image_path": "https://img1.yna.co.kr/mpic/YH/2022/03/30/MYH20220330016400038.jpg",
         "catagory": "역사"
     },
     {
@@ -184,19 +184,27 @@
         "catagory": "역사"
     },
     {
-        "name": "러, 우크라 정체성 지우기?…문화유산·박물관 39곳 파괴 - 서울경제",
-        "description": "우크라이나에는 유네스코 세계문화유산이 7곳 있으며 1954년 체결된 헤이그협약은 역사적 기념물과 문화유산을 목표로 공격하는 행위를 \n국제법상 전쟁범죄...",
-        "link": "https://www.sedaily.com/NewsVIew/263LVG1CP2",
-        "date": "2일 전",
-        "image_path": "https://newsimg.sedaily.com/2022/03/29/263LVG1CP2_1.jpg",
+        "name": "기독교적 관점에서 본 러시아의 우크라이나 침공",
+        "description": "2021년 11월 '기독교 평화론의 역사'를 설명한 책 <우리에게 평화를 주소서>를 집필한 바 있는 이상규 교수가 우크라이나 전쟁과 \n관련한 특별기고를...",
+        "link": "https://www.christiantoday.co.kr/news/346568",
+        "date": "18시간 전",
+        "image_path": "https://images.christiantoday.co.kr/data/images/full/344609/image.jpg",
         "catagory": "역사"
     },
     {
         "name": "[임지현의 역린] 대통령의 역사관",
         "description": "우크라이나 역사학계 일각에서는 홀로코스트의 공범자적 과거에 대한 반성의 기운이 일고 있는데, 정작 유대계 대통령 젤렌스키의 역사관은 \n아쉽다.",
         "link": "https://m.khan.co.kr/opinion/column/article/202203260300035",
-        "date": "5일 전",
+        "date": "6일 전",
         "image_path": "https://img.khan.co.kr/news/2022/03/26/2022032601003272500297551.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "러, 우크라 정체성 지우기?…문화유산·박물관 39곳 파괴 - 서울경제",
+        "description": "우크라이나에는 유네스코 세계문화유산이 7곳 있으며 1954년 체결된 헤이그협약은 역사적 기념물과 문화유산을 목표로 공격하는 행위를 \n국제법상 전쟁범죄...",
+        "link": "https://www.sedaily.com/NewsVIew/263LVG1CP2",
+        "date": "2일 전",
+        "image_path": "https://newsimg.sedaily.com/2022/03/29/263LVG1CP2_1.jpg",
         "catagory": "역사"
     },
     {
@@ -212,7 +220,7 @@
         "description": "우크라이나 전역에 러시아군의 무차별 폭격이 이어지며 문화재도 소실 위험에 처했다. 박물관과 미술관 직원들은 소장품을 지키기 위해 \n동분서주하고...",
         "link": "https://m.hankookilbo.com/News/Read/A2022030711130005788",
         "date": "3주 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/07/24463e8a-f056-47bd-8310-26c1157ce320.jpg?t=20220331124538",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/07/24463e8a-f056-47bd-8310-26c1157ce320.jpg?t=20220331182923",
         "catagory": "역사"
     },
     {
@@ -221,14 +229,6 @@
         "link": "https://www.yna.co.kr/view/AKR20220329058400009?section=international/all&site=hot_news",
         "date": "2일 전",
         "image_path": "https://img9.yna.co.kr/photo/yna/YH/2022/03/22/PYH2022032218750034000_P4.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "러시아학교 다니는 우크라이나 어린이",
-        "description": "러시아학교 선택한 한국 태생 우크라이나 다문화가정 아이 ... 러시아어 공용어와 관련된 역사는 1996년으로 거슬러 올라간다. \n우크라이나는 이미...",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002822466&PAGE_CD=N0002&CMPT_CD=M0112",
-        "date": "11시간 전",
-        "image_path": "http://ojsfile.ohmynews.com/CT_T_IMG/2022/0331/IE002964331_LT.jpg",
         "catagory": "역사"
     },
     {
