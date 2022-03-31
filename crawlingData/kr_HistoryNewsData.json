@@ -3,8 +3,16 @@
         "name": "[자작나무 숲] 우크라이나의 검은 튤립 - 조선일보",
         "description": "푸틴의 러시아가 포기하지 않는 역사적 정체성의 본질이기도 하다. 무엇이 민족과 민족 사이를 획정하는가? 언어, 종교, 혈통, 역사, \n이념의 동시성인가?",
         "link": "https://www.chosun.com/opinion/specialist_column/2022/03/31/M5E5HQI2PVBTDIEKJQIG3K33XM/",
-        "date": "7시간 전",
+        "date": "12시간 전",
         "image_path": "https://images.chosun.com/resizer/J1CDx0U9fQ4OJ9dN-wziMQ1mTdo=/640x336/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RG5WYTR3BJD4BH2UBIKHYBM4HQ.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "[긴급 인터뷰] 허승철 전 駐우크라이나 대사가 말하는 ‘우크라이나와 러시아’",
+        "description": "블라디미르 푸틴 러시아 대통령은 대(對)국민 연설에서 이렇게 주장했다. - 우크라이나는 단순한 이웃 국가가 아니다. 우리(러시아)와 \n분리할 수 없는 역사, 문화, 정신의...",
+        "link": "https://monthly.chosun.com/client/news/viw.asp?ctcd=E&nNewsNumb=202204100043",
+        "date": "6시간 전",
+        "image_path": "http://monthly.chosun.com/upload/2204/2204_358.jpg",
         "catagory": "역사"
     },
     {
@@ -24,19 +32,19 @@
         "catagory": "역사"
     },
     {
-        "name": "우크라이나 전쟁과 억압의 역사",
-        "description": "우크라이나는 제국주의 열강이 자신들의 이익을 위해 이용하며 억압해 온 역사로 점철돼 있다. 이제는 러시아가 침공해 더 많은 영토를 \n점령하고 있다...",
-        "link": "https://wspaper.org/article/27427",
-        "date": "1개월 전",
-        "image_path": "https://wspaper.org/photos/2022/03/023f5cdd60c787c1ec4c738917cc0e69-1200x630.jpg",
-        "catagory": "역사"
-    },
-    {
         "name": "[제1403호]우크라이나와 러시아의 질긴 악연 : 세계일반 : 세계 ...",
         "description": "“자연으로부터 축복받은 땅, 역사로부터 저주받은 땅.” 우크라이나를 한마디로 일컫는 표현이다. '유럽의 곡창'으로 불릴 만큼 비옥한 \n토양,...",
         "link": "https://h21.hani.co.kr/arti/world/world_general/51689.html",
         "date": "3주 전",
         "image_path": "https://flexible.img.hani.co.kr/flexible/normal/600/579/imgdb/original/2022/0306/2916465774963855.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "우크라이나 전쟁과 억압의 역사",
+        "description": "우크라이나는 제국주의 열강이 자신들의 이익을 위해 이용하며 억압해 온 역사로 점철돼 있다. 이제는 러시아가 침공해 더 많은 영토를 \n점령하고 있다...",
+        "link": "https://wspaper.org/article/27427",
+        "date": "1개월 전",
+        "image_path": "https://wspaper.org/photos/2022/03/023f5cdd60c787c1ec4c738917cc0e69-1200x630.jpg",
         "catagory": "역사"
     },
     {
@@ -56,14 +64,6 @@
         "catagory": "역사"
     },
     {
-        "name": "'역사의 종말' 후쿠야마 “러시아 우크라이나 침략 대실패로 끝날 것”",
-        "description": "저서 '역사의 종말'로 유명한 프랜시스 후쿠야마 미 스탠퍼드대 교수(시니어펠로)가 러시아의 우크라이나 침공이 대실패로 끝날 가능성이 \n매우 높다고...",
-        "link": "https://www.hankookilbo.com/News/Read/A2022030110510005140",
-        "date": "1개월 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/01/d976b9c1-4aee-4be3-bf54-ba49c1cc377e.jpg?t=20220331014412",
-        "catagory": "역사"
-    },
-    {
         "name": "유럽 최후의 대국, 우크라이나의 역사 - 구로카와 유지 [북적북적]",
         "description": "우크라이나 역사는 그동안 주로 '러시아/소련' 역사의 일부로 다뤄져 왔기 때문에 대중적으로 읽을 만한 우크라이나 역사책도 선택지가 \n많지...",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006665181",
@@ -75,16 +75,8 @@
         "name": "中왕이 \"러·우크라 대화 추진 지지…中, 역사 옳은 편에 서 있어\"",
         "description": "또 “러시아와 각 관련국이 대규모 인도주의적 위기 발생을 막기 위한 노력을 지지한다”면서 “장기적으로 (유럽은) 우크라이나 위기로부터 \n교훈을 얻어야...",
         "link": "https://www.fnnews.com/news/202203310937347253",
-        "date": "1시간 전",
+        "date": "5시간 전",
         "image_path": "https://image.fnnews.com/resource/media/image/2022/03/31/202203310937301562_l.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "러, 우크라 정체성 지우기?…문화유산·박물관 수십곳 파괴",
-        "description": "이에 대해 러시아가 우크라이나인들의 역사와 정체성 지우기에 나섰다는 해석이 나옵니다. 정다미 기자입니다. [기자]. 우크라이나 제 \n2도시 하르키우의...",
-        "link": "https://www.yna.co.kr/view/MYH20220330016400038",
-        "date": "17시간 전",
-        "image_path": "https://img1.yna.co.kr/mpic/YH/2022/03/30/MYH20220330016400038.jpg",
         "catagory": "역사"
     },
     {
@@ -99,7 +91,7 @@
         "name": "“푸틴의 우크라이나 침공, 러시아 vs 미국+EU 신냉전 배제 못 해” - 조선비즈",
         "description": "전쟁과 경제는 긴밀한 상호 작용을 하기 때문이다. 인류 역사를 돌아보면, 전쟁은 항상 경제에 크고 작은 영향을 미쳤다. 전쟁은 물자 \n부족과 인플레이션...",
         "link": "https://biz.chosun.com/international/international_general/2022/03/31/WKXHRNKTEVDLVHRXVH6UDS33MY/",
-        "date": "4시간 전",
+        "date": "9시간 전",
         "image_path": "https://biz.chosun.com/resizer/UtAFazbl0YqTPKdKZCpvafvns1k=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/6CA5XZZU5ZBV7DXD4UUL2KOCIE.jpg",
         "catagory": "역사"
     },
@@ -120,11 +112,11 @@
         "catagory": "역사"
     },
     {
-        "name": "\"러, 고의로 우크라 문화유산 39곳 파괴…정체성 지우려 해\"",
-        "description": "러시아가 우크라이나역사의 흔적을 지우기 위해 고의로 교회, 박물관, 유적지 등을 훼손한다는 것이다. 28일(현지시간) 미국 NBC 방송 \n등 외신에 따르면...",
-        "link": "https://www.fnnews.com/news/202203291619592946",
-        "date": "1일 전",
-        "image_path": "https://image.fnnews.com/resource/media/image/2022/03/29/202203291619462871_l.jpg",
+        "name": "러, 우크라 정체성 지우기?…문화유산·박물관 수십곳 파괴",
+        "description": "이에 대해 러시아가 우크라이나인들의 역사와 정체성 지우기에 나섰다는 해석이 나옵니다. 정다미 기자입니다. [기자]. 우크라이나 제 \n2도시 하르키우의...",
+        "link": "https://www.yna.co.kr/view/MYH20220330016400038",
+        "date": "22시간 전",
+        "image_path": "https://img1.yna.co.kr/mpic/YH/2022/03/30/MYH20220330016400038.jpg",
         "catagory": "역사"
     },
     {
@@ -133,6 +125,22 @@
         "link": "https://www.mk.co.kr/news/culture/view/2022/03/237545/",
         "date": "2주 전",
         "image_path": "https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_237545_16473113324975322.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "기독교적 관점에서 본 러시아의 우크라이나 침공",
+        "description": "2021년 11월 '기독교 평화론의 역사'를 설명한 책 <우리에게 평화를 주소서>를 집필한 바 있는 이상규 교수가 우크라이나 전쟁과 \n관련한 특별기고를...",
+        "link": "https://www.christiantoday.co.kr/news/346568",
+        "date": "6시간 전",
+        "image_path": "https://images.christiantoday.co.kr/data/images/full/344609/image.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "\"러, 고의로 우크라 문화유산 39곳 파괴…정체성 지우려 해\"",
+        "description": "러시아가 우크라이나역사의 흔적을 지우기 위해 고의로 교회, 박물관, 유적지 등을 훼손한다는 것이다. 28일(현지시간) 미국 NBC 방송 \n등 외신에 따르면...",
+        "link": "https://www.fnnews.com/news/202203291619592946",
+        "date": "1일 전",
+        "image_path": "https://image.fnnews.com/resource/media/image/2022/03/29/202203291619462871_l.jpg",
         "catagory": "역사"
     },
     {
@@ -148,7 +156,15 @@
         "description": "우크라이나를 둘러싼 신냉전이 열전으로 비화했다. 러시아는 군사행동을 더 강화할 것인가? 미래를 예측하기 위해서는 역사적 사실을 정확하게 \n파악...",
         "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20220304.22008000936",
         "date": "4주 전",
-        "image_path": "http://db.kookje.co.kr/news2000/photo/2022/0304/L20220304.22008000936i1.jpg?29",
+        "image_path": "http://db.kookje.co.kr/news2000/photo/2022/0304/L20220304.22008000936i1.jpg?4",
+        "catagory": "역사"
+    },
+    {
+        "name": "\"우크라 침공은 학살 막는 평화 작전\"...역사왜곡 세뇌 교육 나선 ...",
+        "description": "러시아 정부가 청소년을 대상으로 우크라이나 역사를 왜곡하고 전쟁을 정당화하는 내용의 교육과 영상 시청을 의무화했다.",
+        "link": "https://m.hankookilbo.com/News/Read/A2022030310500002929",
+        "date": "4주 전",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/03/70e4e54c-0c74-4d6b-8408-7622e5dd1d06.jpg?t=20220331060722",
         "catagory": "역사"
     },
     {
@@ -163,48 +179,16 @@
         "name": "“우크라이나는 푸틴의 아프가니스탄”…푸틴 정권 몰락의 신호탄 ...",
         "description": "교착 지속에 80년대 아프간전 비교 시각 전쟁 동기, 주변 상황, 국제 동향 비슷 '10년 수렁' 아프간전 소련 몰락 재촉 '자멸의 \n역사 반복 가능성'...",
         "link": "https://www.hani.co.kr/arti/international/america/1036500.html",
-        "date": "2일 전",
+        "date": "3일 전",
         "image_path": "https://flexible.img.hani.co.kr/flexible/normal/777/534/imgdb/original/2022/0328/20220328501712.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "\"우크라 침공은 학살 막는 평화 작전\"...역사왜곡 세뇌 교육 나선 ...",
-        "description": "러시아 정부가 청소년을 대상으로 우크라이나 역사를 왜곡하고 전쟁을 정당화하는 내용의 교육과 영상 시청을 의무화했다.",
-        "link": "https://m.hankookilbo.com/News/Read/A2022030310500002929",
-        "date": "4주 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/03/70e4e54c-0c74-4d6b-8408-7622e5dd1d06.jpg?t=20220331014437",
         "catagory": "역사"
     },
     {
         "name": "러시아학교 다니는 우크라이나 어린이",
         "description": "러시아학교 선택한 한국 태생 우크라이나 다문화가정 아이 ... 러시아어 공용어와 관련된 역사는 1996년으로 거슬러 올라간다. \n우크라이나는 이미...",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002822466&PAGE_CD=N0002&CMPT_CD=M0112",
-        "date": "11분 전",
+        "date": "4시간 전",
         "image_path": "http://ojsfile.ohmynews.com/CT_T_IMG/2022/0331/IE002964331_LT.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "기독교적 관점에서 본 러시아의 우크라이나 침공",
-        "description": "2021년 11월 '기독교 평화론의 역사'를 설명한 책 <우리에게 평화를 주소서>를 집필한 바 있는 이상규 교수가 우크라이나 전쟁과 \n관련한 특별기고를...",
-        "link": "https://www.christiantoday.co.kr/news/346568",
-        "date": "1시간 전",
-        "image_path": "https://images.christiantoday.co.kr/data/images/full/344609/image.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "[권희진의 세계는] 우크라이나 침공, 러시아는 다시 '늪'으로 들어갔나?",
-        "description": "이 전쟁은 역사의 흐름을 바꿨습니다. 89년 5월, 바르샤바 조약기구의 중추국인 헝가리가 오스트리아와의 국경을 열어줘서 동독인 수백 \n명이 서독으로...",
-        "link": "https://imnews.imbc.com/news/2022/world/article/6354651_35680.html",
-        "date": "23시간 전",
-        "image_path": "https://image.imnews.imbc.com/news/2022/world/article/__icsFiles/afieldfile/2022/03/30/R220330-5.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "[우크라 침공] 러, 우크라 정체성 지우기?…문화유산·박물관 39 ...",
-        "description": "우크라이나 정부와 국민은 역사문화 유산 파괴를 막기 위해 중요한 유물들을 안전한 곳으로 옮기거나 유네스코 세계문화유산 시설물 위에 보호 \n장치를...",
-        "link": "https://www.yna.co.kr/view/AKR20220329058400009?section=international/all&site=hot_news",
-        "date": "2일 전",
-        "image_path": "https://img9.yna.co.kr/photo/yna/YH/2022/03/22/PYH2022032218750034000_P4.jpg",
         "catagory": "역사"
     },
     {
@@ -216,14 +200,6 @@
         "catagory": "역사"
     },
     {
-        "name": "중동에서 유럽으로 번진 '끝없는 전쟁'",
-        "description": "첫째 우크라이나는 (러시아에서 봤을 때) '유럽의 입구'라는 점, 둘째, 역사와 문화를 공유하는 '형제 국가'를 상대한 전쟁이라는 점을 \n따져 봤을 때...",
-        "link": "https://www.pressian.com/pages/articles/2022033009555782820",
-        "date": "1일 전",
-        "image_path": "https://www.pressian.com/_resources/10/2022/03/30/2022033009555099373_l.jpg",
-        "catagory": "역사"
-    },
-    {
         "name": "‘죽음의 숙녀’ 스나이퍼까지… 오랜 전통의 저격수 강국 우크라이나 - 조선일보",
         "description": "우크라이나 저격수가 러시아군 고위 장성을 사살한 것으로 알려지면서 2차대전 때 최강의 여성 저격수를 배출했던 우크라이나의 저격수 역사와 \n무기...",
         "link": "https://www.chosun.com/politics/politics_general/2022/03/05/NTKJUPDSL5CKTK2RFJGGUMDH24/",
@@ -232,11 +208,35 @@
         "catagory": "역사"
     },
     {
-        "name": "새전북신문",
-        "description": "이후 수백 년의 세월이 흐르면서 루스인은 러시아인, 우크라이나인, ... 러시아-우크라이나 전쟁을 지켜보면서 우크라이나의 역사와 오버랩 \n되는 우리...",
-        "link": "http://www.sjbnews.com/news/news.php?number=740669",
-        "date": "16시간 전",
-        "image_path": "http://sjbnews.com/news/data_file/thum_li_news_740669_0.jpg",
+        "name": "[권희진의 세계는] 우크라이나 침공, 러시아는 다시 '늪'으로 들어갔나?",
+        "description": "소련의 아프가니스탄 침공도 지금 러시아에 우크라이나가 그렇듯 아프가니스탄에 대한 영향력을 잃어가고 ... 이 전쟁은 역사의 흐름을 \n바꿨습니다.",
+        "link": "https://imnews.imbc.com/news/2022/world/article/6354651_35680.html",
+        "date": "1일 전",
+        "image_path": "https://image.imnews.imbc.com/news/2022/world/article/__icsFiles/afieldfile/2022/03/30/R220330-5.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "우크라 역사 지우는 러시아...파괴 위험에 문화재 숨기는 박물관",
+        "description": "우크라이나 전역에 러시아군의 무차별 폭격이 이어지며 문화재도 소실 위험에 처했다. 박물관과 미술관 직원들은 소장품을 지키기 위해 \n동분서주하고...",
+        "link": "https://m.hankookilbo.com/News/Read/A2022030711130005788",
+        "date": "3주 전",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/07/24463e8a-f056-47bd-8310-26c1157ce320.jpg?t=20220331062821",
+        "catagory": "역사"
+    },
+    {
+        "name": "우크라이나: 예술 작품을 지키기 위한 노력",
+        "description": "책 '국경: 우크라이나 역사기행'의 작가 안나 레이드가 말했듯이, 르비브와 오데사, 키예프, 체르니히우를 폭격하면 중세 교회와 \n수도원,...",
+        "link": "https://www.bbc.com/korean/international-60636079",
+        "date": "3주 전",
+        "image_path": "https://ichef.bbci.co.uk/news/1024/branded_korean/0AE5/production/_123498720_gettyimages-1288026175.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "중동에서 유럽으로 번진 '끝없는 전쟁'",
+        "description": "첫째 우크라이나는 (러시아에서 봤을 때) '유럽의 입구'라는 점, 둘째, 역사와 문화를 공유하는 '형제 국가'를 상대한 전쟁이라는 점을 \n따져 봤을 때...",
+        "link": "https://www.pressian.com/pages/articles/2022033009555782820",
+        "date": "1일 전",
+        "image_path": "https://www.pressian.com/_resources/10/2022/03/30/2022033009555099373_l.jpg",
         "catagory": "역사"
     }
 ]
