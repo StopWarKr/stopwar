@@ -16,18 +16,10 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "[곽재원의 4차 산업혁명] 우크라이나 사태와 '실시간 경제' 혁명",
-        "description": "이런 상황에서 지금 가장 난감해하는 사람들은 세계경제의 현실을 진단하고 향후를 전망하려는 관측통(이코노미스트)들이다. 신종 코로나 \n바이러스의 팬...",
-        "link": "https://www.etoday.co.kr/news/view/2111588",
-        "date": "4주 전",
-        "image_path": "https://img.etoday.co.kr/pto_db/2022/03/20220306181451_1725272_210_268.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "우크라이나 참상 생중계하는 위성사진",
         "description": "한 달 가까이 지속되고 있는 러시아와 우크라이나 전쟁에서 위성 기술의 활약이 ... 실시간으로 전체 상황을 들여다볼 수 있다면 군대 \n이동이나 증강,...",
         "link": "https://weekly.donga.com/Main/3/all/11/3272350/1",
-        "date": "3일 전",
+        "date": "4일 전",
         "image_path": "https://dimg.donga.com/a/600/0/90/5/ugc/CDB/WEEKLY/Article/62/3d/54/6c/623d546c0addd2738250.jpg",
         "catagory": "지역 라이브 상황"
     },
@@ -48,11 +40,19 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "우크라이나 전장에서 빛난 위성 인터넷 '스타링크'",
-        "description": "우크라이나에서 스타링크 서비스를 요청한 이유는 통신 인프라 시설의 파괴로 전쟁에서 민간인이 위급 상황에 제때 대처하는 것이 어려워졌기 \n때문...",
-        "link": "https://m.hankookilbo.com/News/Read/A2022032810110000333",
-        "date": "5일 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/28/cdc31bdb-faf9-4109-a1a5-48ef932202a6.png?t=20220402183301",
+        "name": "“美, 유럽에 최첨단 감시·정찰기 띄워 우크라에 정보 제공” - 조선일보",
+        "description": "더 인터셉트'와 인터뷰한 전직 중앙정보국(CIA) 관계자는 “미국이 통상 전장의 미군에게 제공되는 실시간 정보는 (우크라이나에) \n제공하지 않고 있다”...",
+        "link": "https://www.chosun.com/international/us/2022/03/20/MN3JFMFYHJHDZFTDHR2BJGP2QM/",
+        "date": "2주 전",
+        "image_path": "https://images.chosun.com/resizer/CMeRJ5b4BnNKnf1SP3j0VAaOEEw=/1200x630/filters:focal(570x30:580x40)/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NUYTRWPTJZCONKNZWN62L4W6SY.png",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "[곽재원의 4차 산업혁명] 우크라이나 사태와 '실시간 경제' 혁명",
+        "description": "이런 상황에서 지금 가장 난감해하는 사람들은 세계경제의 현실을 진단하고 향후를 전망하려는 관측통(이코노미스트)들이다. 신종 코로나 \n바이러스의 팬...",
+        "link": "https://www.etoday.co.kr/news/view/2111588",
+        "date": "4주 전",
+        "image_path": "https://img.etoday.co.kr/pto_db/2022/03/20220306181451_1725272_210_268.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -64,27 +64,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "“美, 유럽에 최첨단 감시·정찰기 띄워 우크라에 정보 제공” - 조선일보",
-        "description": "더 인터셉트'와 인터뷰한 전직 중앙정보국(CIA) 관계자는 “미국이 통상 전장의 미군에게 제공되는 실시간 정보는 (우크라이나에) \n제공하지 않고 있다”...",
-        "link": "https://www.chosun.com/international/us/2022/03/20/MN3JFMFYHJHDZFTDHR2BJGP2QM/",
-        "date": "2주 전",
-        "image_path": "https://images.chosun.com/resizer/CMeRJ5b4BnNKnf1SP3j0VAaOEEw=/1200x630/filters:focal(570x30:580x40)/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NUYTRWPTJZCONKNZWN62L4W6SY.png",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "“Pray For Ukraine”...전 세계의 평화의 빛Peace Light",
         "description": "이러한 상징 때문에 평화로운 순간을 떠올려보게 되는 우크라이나 국기가 ... 이는 러시아 군이 현지 교통상황 및 실시간 정보를 알 수 \n없도록 해...",
         "link": "https://www.mk.co.kr/news/business/view/2022/03/248638/",
         "date": "2주 전",
         "image_path": "https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_248638_16475529024977879.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "“러 군용기 21대 격추” 우크라이나의 버팀목 된 MiG-29 ‘키이우의 유령’",
-        "description": "그런데 MiG-29 초기형의 N019 레이더는 적 전투기를 마주한 상황에서 최대 70㎞, ... 러시아 군용기의 움직임을 우크라이나 \n측에 실시간으로 알렸다.",
-        "link": "https://www.donga.com/news/Inter/article/all/20220313/112303654/1",
-        "date": "3주 전",
-        "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/03/13/112303623.2.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -96,11 +80,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "KBS 시청자위원들 ‘지상파 우크라이나 생중계’ 일침",
-        "description": "KBS 유튜브 채널의 실시간 댓글창에 달리는 성희롱 댓글 등에 적극적 대응 ... 그런 비판이 잇따르고 있다는 사실을 알게 되었고 \n상황을 인지한 뒤에...",
-        "link": "http://www.mediatoday.co.kr/news/articleView.html?idxno=303177",
-        "date": "5일 전",
-        "image_path": "https://cdn.mediatoday.co.kr/news/thumbnail/202203/303177_409085_343_v150.jpg",
+        "name": "“러 군용기 21대 격추” 우크라이나의 버팀목 된 MiG-29 ‘키이우의 유령’",
+        "description": "그런데 MiG-29 초기형의 N019 레이더는 적 전투기를 마주한 상황에서 최대 70㎞, ... 러시아 군용기의 움직임을 우크라이나 \n측에 실시간으로 알렸다.",
+        "link": "https://www.donga.com/news/Inter/article/all/20220313/112303654/1",
+        "date": "3주 전",
+        "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/03/13/112303623.2.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -109,6 +93,14 @@
         "link": "https://www.chosun.com/international/2022/03/06/SGCJ2UX565ELDO7QGHMKVQLFQE/",
         "date": "4주 전",
         "image_path": "https://images.chosun.com/resizer/MGw4c1yDckju1KOkicrJp4Umok0=/539x282/filters:focal(263x393:273x403)/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LW4LHHSTWY7WJUYNIMRU6HWNIQ.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "KBS 시청자위원들 ‘지상파 우크라이나 생중계’ 일침",
+        "description": "KBS 유튜브 채널의 실시간 댓글창에 달리는 성희롱 댓글 등에 적극적 대응 ... 그런 비판이 잇따르고 있다는 사실을 알게 되었고 \n상황을 인지한 뒤에...",
+        "link": "http://www.mediatoday.co.kr/news/articleView.html?idxno=303177",
+        "date": "5일 전",
+        "image_path": "https://cdn.mediatoday.co.kr/news/thumbnail/202203/303177_409085_343_v150.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -133,6 +125,14 @@
         "link": "https://www.pressian.com/pages/articles/2022030411373503934",
         "date": "1개월 전",
         "image_path": "https://www.pressian.com/_resources/10/2022/03/05/2022030411370011489_l.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "“러시아와 싸우겠다”…우크라이나로 향하는 미 퇴역군인들",
+        "description": "우크라이나를 침공한 러시아에 분노해 미국의 퇴역군인 수천명이 참전을 ... 우크라이나에서 벌어지는 상황을 실시간 영상으로 시청하게 된 \n미국인이...",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20220306500119",
+        "date": "4주 전",
+        "image_path": "https://img.seoul.co.kr/img/upload/2022/03/06/SSI_20220306192804.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -173,14 +173,6 @@
         "link": "https://www.sedaily.com/NewsVIew/263EGU7NHQ",
         "date": "3주 전",
         "image_path": "https://newsimg.sedaily.com/2022/03/13/263EGU7NHQ_1.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "\"도와달라\" 푸틴 요청에 시진핑 답할 줄이야…지원 의향 보도 나왔다 [러, 우크라 침공]",
-        "description": "지난달 24일(현지시간) 우크라이나를 침공한 러시아에 대해 중국이 ... 또 다른 당국자는 로이터에 \"이는 실제 상황으로 중대한 영향을 \n미칠 수...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/03/236370/",
-        "date": "2주 전",
-        "image_path": "https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_236370_16472998054974984.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -232,11 +224,19 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "[심층분석1] 우크라이나의 가장 유력한 무기 SNS 심리전",
-        "description": "실시간으로 어디서 교전이 벌어지고 있는지 유추할 수 있는 대목이다. 뿐만 아니라 언론에서 전투 상황을 보도하는 화면은 기자들이 촬영한 \n것이...",
-        "link": "https://www.futurekorea.co.kr/news/articleView.html?idxno=146470",
-        "date": "4일 전",
-        "image_path": "http://www.futurekorea.co.kr/news/thumbnail/202203/146470_151514_1411_v150.jpg",
+        "name": "우크라이나 전쟁의 이면: 서방과 러시아의 허위 정보전",
+        "description": "볼로디미르 젤렌스키 우크라이나 대통령도 소셜 미디어를 이용해 전 세계에 실시간으로 전쟁 상황을 알리고 있다. 반대로 거짓과 잘못된 \n정보가...",
+        "link": "https://www.technologyreview.kr/%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98-%EC%A0%84%EC%9F%81%EC%9D%98-%EC%9D%B4%EB%A9%B4-%EC%84%9C%EB%B0%A9%EA%B3%BC-%EB%9F%AC%EC%8B%9C%EC%95%84%EC%9D%98-%ED%97%88%EC%9C%84-%EC%A0%95%EB%B3%B4/",
+        "date": "3주 전",
+        "image_path": "https://www.technologyreview.kr/wp-content/uploads/2022/03/러시-1.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "러시아‐우크라이나 전쟁, 그 연원을 거슬러 올라가면",
+        "description": "SNS를 통해 반인권적인 공격 행위를 실시간으로 목격한 세계 시민은 러시아를 ... 한 교수는 전쟁이 발발한 최근의 상황에 대해 \n“20세기가 2022년에...",
+        "link": "http://www.snunews.com/news/articleView.html?idxno=30391",
+        "date": "4주 전",
+        "image_path": "http://www.snunews.com/image/logo/snslogo_20210820093322.jpg",
         "catagory": "지역 라이브 상황"
     }
 ]
