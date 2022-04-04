@@ -35,7 +35,7 @@
         "name": "“러시아, 공세 종말점 도달”… 우크라가 이기고 있다는 근거 보니 - 조선일보",
         "description": "우크라이나 침공을 지휘하는 러시아군 장성은 대략 20명. ... 정보 당국은 러시아군의 작전∙배치 상황, 의도를 계속 감시해서 \n실시간으로 우크라이나...",
         "link": "https://www.chosun.com/international/europe/2022/03/23/7LIXZS6BGJDA3AM6V46Y5KPGYE/",
-        "date": "1주 전",
+        "date": "2주 전",
         "image_path": "https://images.chosun.com/resizer/B0kjmkiquWydXmInvEp6BKt4dM0=/916x480/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UXF2HOL7YJDTNL4MYLHQMEH73E.webp",
         "catagory": "지역 라이브 상황"
     },
@@ -59,24 +59,8 @@
         "name": "[곽재원의 4차 산업혁명] 우크라이나 사태와 '실시간 경제' 혁명",
         "description": "이런 상황에서 지금 가장 난감해하는 사람들은 세계경제의 현실을 진단하고 향후를 전망하려는 관측통(이코노미스트)들이다. 신종 코로나 \n바이러스의 팬...",
         "link": "https://www.etoday.co.kr/news/view/2111588",
-        "date": "4주 전",
+        "date": "1개월 전",
         "image_path": "https://img.etoday.co.kr/pto_db/2022/03/20220306181451_1725272_210_268.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "[특파원 칼럼] 우크라 사태와 국제질서 요동",
-        "description": "미디어를 통해 우크라이나 시민에 대한 러시아군의 공격이 실시간으로 전달되는 상황에서 '루소포비아'(러시아 혐오)는 계속 확산될 것이다.",
-        "link": "https://m.khan.co.kr/opinion/column/article/202203090300035",
-        "date": "3주 전",
-        "image_path": "https://img.khan.co.kr/news/2022/03/09/2022030901001114200096531.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "우크라이나 전장에서 빛난 위성 인터넷 '스타링크'",
-        "description": "우크라이나에서 스타링크 서비스를 요청한 이유는 통신 인프라 시설의 파괴로 전쟁에서 민간인이 위급 상황에 제때 대처하는 것이 어려워졌기 \n때문...",
-        "link": "https://m.hankookilbo.com/News/Read/A2022032810110000333",
-        "date": "6일 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/28/cdc31bdb-faf9-4109-a1a5-48ef932202a6.png?t=20220404063556",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -88,6 +72,14 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "우크라이나 전장에서 빛난 위성 인터넷 '스타링크'",
+        "description": "우크라이나에서 스타링크 서비스를 요청한 이유는 통신 인프라 시설의 파괴로 전쟁에서 민간인이 위급 상황에 제때 대처하는 것이 어려워졌기 \n때문...",
+        "link": "https://m.hankookilbo.com/News/Read/A2022032810110000333",
+        "date": "1주 전",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/28/cdc31bdb-faf9-4109-a1a5-48ef932202a6.png?t=20220404184013",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "“Pray For Ukraine”...전 세계의 평화의 빛Peace Light",
         "description": "이러한 상징 때문에 평화로운 순간을 떠올려보게 되는 우크라이나 국기가 ... 이는 러시아 군이 현지 교통상황 및 실시간 정보를 알 수 \n없도록 해...",
         "link": "https://www.mk.co.kr/news/business/view/2022/03/248638/",
@@ -96,11 +88,27 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "[특파원 칼럼] 우크라 사태와 국제질서 요동",
+        "description": "미디어를 통해 우크라이나 시민에 대한 러시아군의 공격이 실시간으로 전달되는 상황에서 '루소포비아'(러시아 혐오)는 계속 확산될 것이다.",
+        "link": "https://m.khan.co.kr/opinion/column/article/202203090300035",
+        "date": "4주 전",
+        "image_path": "https://img.khan.co.kr/news/2022/03/09/2022030901001114200096531.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "[톺뉴스] 틱톡으로 들여다보는 우크라이나 전쟁",
         "description": "틱톡으로 들여다보는 우크라이나의 실시간 상황과 전쟁에 반대하는 목소리, 톺뉴스에서 톺아봤습니다. 유현민 기자 박상곤 인턴기자 손수빈 \n크리에이터 [...",
         "link": "https://www.mk.co.kr/news/society/view/2022/03/208862/",
         "date": "1개월 전",
         "image_path": "https://file.mk.co.kr/meet/yonhap/2022/03/06/image_readtop_2022_208862_0_090112.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "KBS 시청자위원들 ‘지상파 우크라이나 생중계’ 일침",
+        "description": "KBS 유튜브 채널의 실시간 댓글창에 달리는 성희롱 댓글 등에 적극적 대응 ... 그런 비판이 잇따르고 있다는 사실을 알게 되었고 \n상황을 인지한 뒤에...",
+        "link": "http://www.mediatoday.co.kr/news/articleView.html?idxno=303177",
+        "date": "1주 전",
+        "image_path": "https://cdn.mediatoday.co.kr/news/thumbnail/202203/303177_409085_343_v150.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -120,27 +128,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "KBS 시청자위원들 ‘지상파 우크라이나 생중계’ 일침",
-        "description": "KBS 유튜브 채널의 실시간 댓글창에 달리는 성희롱 댓글 등에 적극적 대응 ... 그런 비판이 잇따르고 있다는 사실을 알게 되었고 \n상황을 인지한 뒤에...",
-        "link": "http://www.mediatoday.co.kr/news/articleView.html?idxno=303177",
-        "date": "1주 전",
-        "image_path": "https://cdn.mediatoday.co.kr/news/thumbnail/202203/303177_409085_343_v150.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "[오늘과 내일/윤완준]尹, 젤렌스키에게서 배우라",
-        "description": "젤렌스키 대통령은 어려운 상황을 솔직하게 인정하면서도 우크라이나 국민들의 ... 17개국 의회에서 이어가고 있는 화상 연설도 실시간으로 \n올라온다.",
-        "link": "https://www.donga.com/news/Opinion/article/all/20220403/112675391/1",
-        "date": "12시간 전",
-        "image_path": "https://dimg.donga.com/a/160/0/90/5/wps/NEWS/IMAGE/2022/04/03/112675390.1.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "“러시아와 싸우겠다”…우크라이나로 향하는 미 퇴역군인들",
-        "description": "우크라이나를 침공한 러시아에 분노해 미국의 퇴역군인 수천명이 참전을 ... 우크라이나에서 벌어지는 상황을 실시간 영상으로 시청하게 된 \n미국인이...",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20220306500119",
-        "date": "1개월 전",
-        "image_path": "https://img.seoul.co.kr/img/upload/2022/03/06/SSI_20220306192804.jpg",
+        "name": "우크라이나 전쟁의 이면: 서방과 러시아의 허위 정보전",
+        "description": "볼로디미르 젤렌스키 우크라이나 대통령도 소셜 미디어를 이용해 전 세계에 실시간으로 전쟁 상황을 알리고 있다. 반대로 거짓과 잘못된 \n정보가...",
+        "link": "https://www.technologyreview.kr/%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98-%EC%A0%84%EC%9F%81%EC%9D%98-%EC%9D%B4%EB%A9%B4-%EC%84%9C%EB%B0%A9%EA%B3%BC-%EB%9F%AC%EC%8B%9C%EC%95%84%EC%9D%98-%ED%97%88%EC%9C%84-%EC%A0%95%EB%B3%B4/",
+        "date": "3주 전",
+        "image_path": "https://www.technologyreview.kr/wp-content/uploads/2022/03/러시-1.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -152,43 +144,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "러시아는 왜 여론전에서 우크라에 완패했나[특파원칼럼/문병기]",
-        "description": "전 세계가 우크라이나인들의 눈을 통해 전쟁의 참상을 함께 겪고 있는 상황에서 블라디미르 푸틴 러시아 대통령이 TV 연설에 나서 러시아의 \n안보 위협...",
-        "link": "https://www.donga.com/news/Opinion/article/all/20220307/112194914/1",
-        "date": "4주 전",
-        "image_path": "https://dimg.donga.com/a/160/0/90/5/wps/NEWS/IMAGE/2022/03/07/112194911.1.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "러-우크라이나 전쟁을 보는 우리의 자세는?",
         "description": "실시간으로 신문, 방송, SNS를 통해 전해지는 우크라이나 상황은 보고도 믿기지 않는다. 러시아 푸틴 대통령은 친러 반정부군이 장악하고 \n있는 우크라이나...",
         "link": "https://www.gunchinews.com/news/articleView.html?idxno=63144",
         "date": "3주 전",
         "image_path": "http://www.gunchinews.com/news/thumbnail/202203/63144_65754_935_v150.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "머스크의 `이것` 덕분에…우크라 전쟁 참상 SNS 타고 전세계로 [위클리 기사단]",
-        "description": "우크라이나 수도 키이우(키예프)의 건물이 폭발하고 민간인 거주 시설에 떨어지는 러시아군의 포탄 세례가 인터넷을 통해 전 세계로 실시간 \n퍼져...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/03/232887/",
-        "date": "3주 전",
-        "image_path": "https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_232887_16472175454973652.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "'우크라에 전재산 드려요'…8살 소녀가 전한 손때 묻은 동전들 - 서울경제",
-        "description": "우크라이나에서의 전쟁 상황을 실시간으로 전하는 '우크라이나와 함께' SNS 계정에는 지난 12일 한 아일랜드 소녀의 사연을 소개됐다.",
-        "link": "https://www.sedaily.com/NewsVIew/263EGU7NHQ",
-        "date": "3주 전",
-        "image_path": "https://newsimg.sedaily.com/2022/03/13/263EGU7NHQ_1.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "“평화는 힘이 받쳐줘야 한다”…송민순 前장관의 '우크라' 진단",
-        "description": "긴박한 우크라이나의 전시 상황이 전 세계에 실시간으로 중계되고 있다. 우리에게도 우크라이나 전쟁은 더 이상 지구 반대편 상황에만 \n머무르지...",
-        "link": "https://www.sisajournal.com/news/articleView.html?idxno=234278",
-        "date": "1개월 전",
-        "image_path": "http://www.sisajournal.com/news/thumbnail/202203/234278_144484_1652_v150.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -200,11 +160,51 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "“평화는 힘이 받쳐줘야 한다”…송민순 前장관의 '우크라' 진단",
+        "description": "긴박한 우크라이나의 전시 상황이 전 세계에 실시간으로 중계되고 있다. 우리에게도 우크라이나 전쟁은 더 이상 지구 반대편 상황에만 \n머무르지...",
+        "link": "https://www.sisajournal.com/news/articleView.html?idxno=234278",
+        "date": "1개월 전",
+        "image_path": "http://www.sisajournal.com/news/thumbnail/202203/234278_144484_1652_v150.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "“우크라 여론전 도와달라” 백악관, 틱톡 스타들 불러 전황 브리핑 - 조선일보",
         "description": "이날 백악관은 틱톡 스타들에게 우크라이나의 전쟁 상황, ... 는 러시아군의 움직임을 추적할 수 있는 실시간 위성 이미지를 우크라이나에 \n제공하고...",
         "link": "https://www.chosun.com/international/international_general/2022/03/15/R4R7IHUW6VH2BP6CPXQS5MTMW4/",
         "date": "3주 전",
         "image_path": "https://images.chosun.com/resizer/GOgpnrDverQU8LltfUs30rX7zAA=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/777IOXNTEJLZJHQ5GZOYEGEY5E.JPG",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "러시아는 왜 여론전에서 우크라에 완패했나[특파원칼럼/문병기]",
+        "description": "전 세계가 우크라이나인들의 눈을 통해 전쟁의 참상을 함께 겪고 있는 상황에서 블라디미르 푸틴 러시아 대통령이 TV 연설에 나서 러시아의 \n안보 위협...",
+        "link": "https://www.donga.com/news/Opinion/article/all/20220307/112194914/1",
+        "date": "1개월 전",
+        "image_path": "https://dimg.donga.com/a/160/0/90/5/wps/NEWS/IMAGE/2022/03/07/112194911.1.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "머스크의 `이것` 덕분에…우크라 전쟁 참상 SNS 타고 전세계로 [위클리 기사단]",
+        "description": "우크라이나 수도 키이우(키예프)의 건물이 폭발하고 민간인 거주 시설에 떨어지는 러시아군의 포탄 세례가 인터넷을 통해 전 세계로 실시간 \n퍼져...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/03/232887/",
+        "date": "3주 전",
+        "image_path": "https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_232887_16472175454973652.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "[오늘과 내일/윤완준]尹, 젤렌스키에게서 배우라",
+        "description": "젤렌스키 대통령은 어려운 상황을 솔직하게 인정하면서도 우크라이나 국민들의 ... 17개국 의회에서 이어가고 있는 화상 연설도 실시간으로 \n올라온다.",
+        "link": "https://www.donga.com/news/Opinion/article/all/20220403/112675391/1",
+        "date": "1일 전",
+        "image_path": "https://dimg.donga.com/a/160/0/90/5/wps/NEWS/IMAGE/2022/04/03/112675390.1.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "'우크라에 전재산 드려요'…8살 소녀가 전한 손때 묻은 동전들 - 서울경제",
+        "description": "우크라이나에서의 전쟁 상황을 실시간으로 전하는 '우크라이나와 함께' SNS 계정에는 지난 12일 한 아일랜드 소녀의 사연을 소개됐다.",
+        "link": "https://www.sedaily.com/NewsVIew/263EGU7NHQ",
+        "date": "3주 전",
+        "image_path": "https://newsimg.sedaily.com/2022/03/13/263EGU7NHQ_1.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -216,27 +216,27 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "[시시비비]러시아의 군사작전 실패로부터 얻은 교훈",
-        "description": "이번 러시아의 우크라이나 침공에서도 육·해·공 모든 면에서 절대적인 ... 및 무기체계 손실을 입고 있는 상황은 참으로 이해하기 어려울 \n정도다.",
-        "link": "https://cm.asiae.co.kr/article/2022040406493772464",
-        "date": "4시간 전",
-        "image_path": "https://cphoto.asiae.co.kr/listimglink/6/2021123107593082268_1640905170.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "우크라이나 전쟁의 이면: 서방과 러시아의 허위 정보전",
-        "description": "볼로디미르 젤렌스키 우크라이나 대통령도 소셜 미디어를 이용해 전 세계에 실시간으로 전쟁 상황을 알리고 있다. 반대로 거짓과 잘못된 \n정보가...",
-        "link": "https://www.technologyreview.kr/%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98-%EC%A0%84%EC%9F%81%EC%9D%98-%EC%9D%B4%EB%A9%B4-%EC%84%9C%EB%B0%A9%EA%B3%BC-%EB%9F%AC%EC%8B%9C%EC%95%84%EC%9D%98-%ED%97%88%EC%9C%84-%EC%A0%95%EB%B3%B4/",
-        "date": "3주 전",
-        "image_path": "https://www.technologyreview.kr/wp-content/uploads/2022/03/러시-1.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "D-데이 훤히 내다보고, 틱톡으로 여론 모으고…초연결시대의 전쟁",
         "description": "러시아의 우크라이나 침공은 스마트폰과 소셜미디어가 보편화한 시대에서 ... 구글은 구글지도에 우크라이나 현지 교통 상황을 실시간으로 \n보여주는...",
         "link": "https://www.hani.co.kr/arti/economy/it/1033791.html",
-        "date": "4주 전",
+        "date": "1개월 전",
         "image_path": "https://flexible.img.hani.co.kr/flexible/normal/970/546/imgdb/original/2022/0306/20220306502548.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "올레나 쉐겔 교수 “우크라이나 전쟁은 되돌릴 수 없는 상처”",
+        "description": "국내 언론에 볼로디미르 젤렌스키 우크라이나 대통령보다 더 자주 등장한다는 ... 일부 유튜브 채널을 통해 전쟁 상황이 실시간으로 \n중계되고 있다.",
+        "link": "https://woman.donga.com/Home/3/all/12/3265870/1",
+        "date": "2주 전",
+        "image_path": "https://dimg.donga.com/a/600/0/90/5/ugc/CDB/WOMAN/Article/62/39/7c/5d/62397c5d2190d2738250.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "러시아의 우크라이나 침공… 전쟁의 한복판에서 우크라이나 ...",
+        "description": "현재 전세계는 긴장 속에서 우크라이나의 상황을 주시 중이다. ... 전황이 실시간으로 중계될 뿐 아니라 치열한 전투 현장부터 화마가 \n할퀴고 간 상흔...",
+        "link": "http://m.cine21.com/news/view/?mag_id=99843",
+        "date": "1주 전",
+        "image_path": "http://image.cine21.com/resize/cine21/person/2022/0322/10_26_17__623925b9b7be9[S800,800].jpg",
         "catagory": "지역 라이브 상황"
     }
 ]
