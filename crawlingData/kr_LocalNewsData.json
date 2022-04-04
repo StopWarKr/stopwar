@@ -48,14 +48,6 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "우크라이나를 비추는 머스크의 ‘별’ [김성모 기자의 신비월드]",
-        "description": "'악마가 되지 말자'가 모토인 구글은 우크라이나의 실시간 교통 상황과 혼잡도 등을 알 수 있는 구글맵 기능을 일시 차단했다. 러시아군이 \n구글맵을 활용...",
-        "link": "https://www.donga.com/news/Inter/article/all/20220305/112171186/1",
-        "date": "1개월 전",
-        "image_path": "https://dimg.donga.com/a/500/0/90/5/wps/NEWS/IMAGE/2022/03/05/112136018.3.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "우크라 항전도, 포격에 숨진 소녀도… 소셜미디어, 전쟁을 공유하다 - 조선일보",
         "description": "우크라이나의 상황이 심각해질 경우 애플의 구동체계인 iOS에 대한 제재도 ... 큰 성과는 우크라이나의 항전 의지가 전 세계에 \n실시간으로 공유되고...",
         "link": "https://www.chosun.com/international/2022/03/06/SGCJ2UX565ELDO7QGHMKVQLFQE/",
@@ -84,7 +76,7 @@
         "description": "우크라이나에서 스타링크 서비스를 요청한 이유는 통신 인프라 시설의 파괴로 전쟁에서 민간인이 위급 상황에 제때 대처하는 것이 어려워졌기 \n때문...",
         "link": "https://m.hankookilbo.com/News/Read/A2022032810110000333",
         "date": "6일 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/28/cdc31bdb-faf9-4109-a1a5-48ef932202a6.png?t=20220404020446",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/28/cdc31bdb-faf9-4109-a1a5-48ef932202a6.png?t=20220404063556",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -104,14 +96,6 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "[오늘과 내일/윤완준]尹, 젤렌스키에게서 배우라",
-        "description": "젤렌스키 대통령은 어려운 상황을 솔직하게 인정하면서도 우크라이나 국민들의 ... 17개국 의회에서 이어가고 있는 화상 연설도 실시간으로 \n올라온다.",
-        "link": "https://www.donga.com/news/Opinion/article/all/20220403/112675391/1",
-        "date": "8시간 전",
-        "image_path": "https://dimg.donga.com/a/160/0/90/5/wps/NEWS/IMAGE/2022/04/03/112675390.1.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "[톺뉴스] 틱톡으로 들여다보는 우크라이나 전쟁",
         "description": "틱톡으로 들여다보는 우크라이나의 실시간 상황과 전쟁에 반대하는 목소리, 톺뉴스에서 톺아봤습니다. 유현민 기자 박상곤 인턴기자 손수빈 \n크리에이터 [...",
         "link": "https://www.mk.co.kr/news/society/view/2022/03/208862/",
@@ -128,11 +112,27 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "[우크라 침공] 일주일새 러 장군 3명 전사…\"진군 답답해 앞장섰을 것\"",
+        "description": "장성들은 통상 후방에서 전황을 실시간으로 보고받으면서 예하 부대를 ... 뉴욕타임스(NYT)도 당시 상황을 전하면서 \"러시아군은 \n우크라이나 군의...",
+        "link": "https://m.mk.co.kr/news/world/view/2022/03/230736/",
+        "date": "3주 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/03/12/image_readtop_2022_230736_0_183911.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "KBS 시청자위원들 ‘지상파 우크라이나 생중계’ 일침",
         "description": "KBS 유튜브 채널의 실시간 댓글창에 달리는 성희롱 댓글 등에 적극적 대응 ... 그런 비판이 잇따르고 있다는 사실을 알게 되었고 \n상황을 인지한 뒤에...",
         "link": "http://www.mediatoday.co.kr/news/articleView.html?idxno=303177",
-        "date": "6일 전",
+        "date": "1주 전",
         "image_path": "https://cdn.mediatoday.co.kr/news/thumbnail/202203/303177_409085_343_v150.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "[오늘과 내일/윤완준]尹, 젤렌스키에게서 배우라",
+        "description": "젤렌스키 대통령은 어려운 상황을 솔직하게 인정하면서도 우크라이나 국민들의 ... 17개국 의회에서 이어가고 있는 화상 연설도 실시간으로 \n올라온다.",
+        "link": "https://www.donga.com/news/Opinion/article/all/20220403/112675391/1",
+        "date": "12시간 전",
+        "image_path": "https://dimg.donga.com/a/160/0/90/5/wps/NEWS/IMAGE/2022/04/03/112675390.1.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -141,14 +141,6 @@
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20220306500119",
         "date": "1개월 전",
         "image_path": "https://img.seoul.co.kr/img/upload/2022/03/06/SSI_20220306192804.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "[우크라 침공] 일주일새 러 장군 3명 전사…\"진군 답답해 앞장섰을 것\"",
-        "description": "장성들은 통상 후방에서 전황을 실시간으로 보고받으면서 예하 부대를 ... 뉴욕타임스(NYT)도 당시 상황을 전하면서 \"러시아군은 \n우크라이나 군의...",
-        "link": "https://m.mk.co.kr/news/world/view/2022/03/230736/",
-        "date": "3주 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/03/12/image_readtop_2022_230736_0_183911.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -192,6 +184,14 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "“평화는 힘이 받쳐줘야 한다”…송민순 前장관의 '우크라' 진단",
+        "description": "긴박한 우크라이나의 전시 상황이 전 세계에 실시간으로 중계되고 있다. 우리에게도 우크라이나 전쟁은 더 이상 지구 반대편 상황에만 \n머무르지...",
+        "link": "https://www.sisajournal.com/news/articleView.html?idxno=234278",
+        "date": "1개월 전",
+        "image_path": "http://www.sisajournal.com/news/thumbnail/202203/234278_144484_1652_v150.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "'계륵'이 된 미국의 우크라이나 전투기 지원 계획",
         "description": "푸틴 대통령은 우크라이나 공군에게 전투기나 비행장을 제공하는 행위를 러시아에 대한 전쟁 행위로 간주하겠다고 경고한 상황이다. 미군은 \n이런 상황...",
         "link": "https://m.khan.co.kr/article/202203101404011",
@@ -216,19 +216,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "“평화는 힘이 받쳐줘야 한다”…송민순 前장관의 '우크라' 진단",
-        "description": "긴박한 우크라이나의 전시 상황이 전 세계에 실시간으로 중계되고 있다. 우리에게도 우크라이나 전쟁은 더 이상 지구 반대편 상황에만 \n머무르지...",
-        "link": "https://www.sisajournal.com/news/articleView.html?idxno=234278",
-        "date": "1개월 전",
-        "image_path": "http://www.sisajournal.com/news/thumbnail/202203/234278_144484_1652_v150.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "D-데이 훤히 내다보고, 틱톡으로 여론 모으고…초연결시대의 전쟁",
-        "description": "러시아의 우크라이나 침공은 스마트폰과 소셜미디어가 보편화한 시대에서 ... 구글은 구글지도에 우크라이나 현지 교통 상황을 실시간으로 \n보여주는...",
-        "link": "https://www.hani.co.kr/arti/economy/it/1033791.html",
-        "date": "4주 전",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/970/546/imgdb/original/2022/0306/20220306502548.jpg",
+        "name": "[시시비비]러시아의 군사작전 실패로부터 얻은 교훈",
+        "description": "이번 러시아의 우크라이나 침공에서도 육·해·공 모든 면에서 절대적인 ... 및 무기체계 손실을 입고 있는 상황은 참으로 이해하기 어려울 \n정도다.",
+        "link": "https://cm.asiae.co.kr/article/2022040406493772464",
+        "date": "4시간 전",
+        "image_path": "https://cphoto.asiae.co.kr/listimglink/6/2021123107593082268_1640905170.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -237,6 +229,14 @@
         "link": "https://www.technologyreview.kr/%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98-%EC%A0%84%EC%9F%81%EC%9D%98-%EC%9D%B4%EB%A9%B4-%EC%84%9C%EB%B0%A9%EA%B3%BC-%EB%9F%AC%EC%8B%9C%EC%95%84%EC%9D%98-%ED%97%88%EC%9C%84-%EC%A0%95%EB%B3%B4/",
         "date": "3주 전",
         "image_path": "https://www.technologyreview.kr/wp-content/uploads/2022/03/러시-1.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "D-데이 훤히 내다보고, 틱톡으로 여론 모으고…초연결시대의 전쟁",
+        "description": "러시아의 우크라이나 침공은 스마트폰과 소셜미디어가 보편화한 시대에서 ... 구글은 구글지도에 우크라이나 현지 교통 상황을 실시간으로 \n보여주는...",
+        "link": "https://www.hani.co.kr/arti/economy/it/1033791.html",
+        "date": "4주 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/970/546/imgdb/original/2022/0306/20220306502548.jpg",
         "catagory": "지역 라이브 상황"
     }
 ]
