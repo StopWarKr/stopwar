@@ -1,13 +1,5 @@
 ﻿[
     {
-        "name": "“적들에게 죽음을” 우크라 여성들, 전투 투입 자원 - 조선일보",
-        "description": "러시아의 우크라이나 침공 사태가 열흘 넘게 지속되고 있다. 우크라이나 현지에서는 자신의 도시와 고향을 지키려는 주민들의 저항이 이어지고 \n있다.",
-        "link": "https://www.chosun.com/international/international_general/2022/03/08/BQQUW64AI5E6TCF24PDQGMTKAA/",
-        "date": "1개월 전",
-        "image_path": "https://images.chosun.com/resizer/WyXWx5l9pPcRveaSXasTuLp0PgE=/718x376/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SQ6CQVA4LVEGHMRDKVD5Q5TSTE.png",
-        "catagory": "교전 최신 상황"
-    },
-    {
         "name": "우크라이나 사태: 러시아 침공 11일째 상황",
         "description": "현지 주민들은 수도 근처 지역인 부차, 호스토멜, 이르핀에서 러시아군과 격렬한 전투가 벌어졌으며 포격이 쉴 새 없이 쏟아졌다고 말했다. \n민간인들이...",
         "link": "https://www.bbc.com/korean/news-60643146",
@@ -24,35 +16,11 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "“러시아군 3주 만에 7000명 사망”…사기 저하가 전투에 영향 줄까",
-        "description": "우크라이나 전쟁에서 러시아 병력 손실이 커지면서 군 사기 저하가 러시아의 문제가 됐다는 분석이 나왔다. 미 정보당국은 지난달 24일 \n우크라이나 침공...",
-        "link": "https://www.hani.co.kr/arti/international/international_general/1035227.html",
-        "date": "3주 전",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2022/0317/20220317502344.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
         "name": "정부, 우크라이나에 의약품·전투식량 등 군수물자 지원",
         "description": "정부는 러시아 침공에 맞서 싸우고 있는 우크라이나에 전투식량, 의약품, 방탄헬멧 등 무기가 아닌 군수물자를 지원하기로 결정했다.",
         "link": "https://www.hani.co.kr/arti/politics/defense/1034894.html",
         "date": "3주 전",
         "image_path": "https://flexible.img.hani.co.kr/flexible/normal/970/647/imgdb/original/2022/0315/20220315501867.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "동부 병력 집결 나선 러, 전세 역전할까…전문가들 \"쉽지 않을 듯\"",
-        "description": "우크라이나는 러시아군 사기 저하로 일부 병력이 전투를 거부하고 있다고 보고 있다. 우크라이나 총참모부는 지난 3일 \"캅카스 \n남오세티야에서 러시아군 2...",
-        "link": "https://www.fnnews.com/news/202204051048457942",
-        "date": "16시간 전",
-        "image_path": "https://image.fnnews.com/resource/media/image/2022/04/05/202204051048298502_l.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "“전투에 참가하겠다”…우크라이나로 돌아가는 여성들",
-        "description": "16일 폴란드 남동부 프셰미실 중앙역의 5번 승강장. 지난달 24일 러시아의 우크라이나 침공 후 두 딸을 데리고 고국을 떠났던 \n우크라이나 여성 타티...",
-        "link": "https://www.donga.com/news/Inter/article/all/20220317/112386256/1",
-        "date": "3주 전",
-        "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/03/17/112384932.6.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -64,11 +32,27 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "러시아군, 오데사 등 우크라이나 남부 집중 공격",
-        "description": "군 당국은 하르키우 인근 도시인 이줌에서 가장 격렬한 전투가 벌어지고 있다며 우크라이나 공군이 러시아 폭격기 한 대를 격추시키고 \n조종사를 체포...",
-        "link": "https://www.hani.co.kr/arti/international/international_general/1037385.html",
-        "date": "1일 전",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/486/imgdb/original/2022/0404/20220404500962.jpg",
+        "name": "“러시아군 3주 만에 7000명 사망”…사기 저하가 전투에 영향 줄까",
+        "description": "우크라이나 전쟁에서 러시아 병력 손실이 커지면서 군 사기 저하가 러시아의 문제가 됐다는 분석이 나왔다. 미 정보당국은 지난달 24일 \n우크라이나 침공...",
+        "link": "https://www.hani.co.kr/arti/international/international_general/1035227.html",
+        "date": "3주 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/640/427/imgdb/original/2022/0317/20220317502344.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "“전투에 참가하겠다”…우크라이나로 돌아가는 여성들",
+        "description": "16일 폴란드 남동부 프셰미실 중앙역의 5번 승강장. 지난달 24일 러시아의 우크라이나 침공 후 두 딸을 데리고 고국을 떠났던 \n우크라이나 여성 타티...",
+        "link": "https://www.donga.com/news/Inter/article/all/20220317/112386256/1",
+        "date": "3주 전",
+        "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/03/17/112384932.6.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "“적들에게 죽음을” 우크라 여성들, 전투 투입 자원 - 조선일보",
+        "description": "러시아의 우크라이나 침공 사태가 열흘 넘게 지속되고 있다. 우크라이나 현지에서는 자신의 도시와 고향을 지키려는 주민들의 저항이 이어지고 \n있다.",
+        "link": "https://www.chosun.com/international/international_general/2022/03/08/BQQUW64AI5E6TCF24PDQGMTKAA/",
+        "date": "1개월 전",
+        "image_path": "https://images.chosun.com/resizer/WyXWx5l9pPcRveaSXasTuLp0PgE=/718x376/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SQ6CQVA4LVEGHMRDKVD5Q5TSTE.png",
         "catagory": "교전 최신 상황"
     },
     {
@@ -80,11 +64,19 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "뉴시스",
-        "description": "우크라이나군은 최신 무장과 공중지원, 중화기로 무장한 러시아군과 오래도록 전투를 벌여왔다. 우크라이나군이 얼마나 더 버틸 수 있는지가 \n관건이다.",
-        "link": "https://mobile.newsis.com/view.html?ar_id=NISX20220405_0001820743",
-        "date": "17시간 전",
-        "image_path": "https://image.newsis.com/2022/03/28/NISI20220328_0018639826_web.jpg",
+        "name": "러시아군, 오데사 등 우크라이나 남부 집중 공격",
+        "description": "군 당국은 하르키우 인근 도시인 이줌에서 가장 격렬한 전투가 벌어지고 있다며 우크라이나 공군이 러시아 폭격기 한 대를 격추시키고 \n조종사를 체포...",
+        "link": "https://www.hani.co.kr/arti/international/international_general/1037385.html",
+        "date": "2일 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/486/imgdb/original/2022/0404/20220404500962.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "동부 병력 집결 나선 러, 전세 역전할까…전문가들 \"쉽지 않을 듯\"",
+        "description": "우크라이나는 러시아군 사기 저하로 일부 병력이 전투를 거부하고 있다고 보고 있다. 우크라이나 총참모부는 지난 3일 \"캅카스 \n남오세티야에서 러시아군 2...",
+        "link": "https://www.fnnews.com/news/202204051048457942",
+        "date": "23시간 전",
+        "image_path": "https://image.fnnews.com/resource/media/image/2022/04/05/202204051048298502_l.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -96,6 +88,22 @@
         "catagory": "교전 최신 상황"
     },
     {
+        "name": "[속보]“러, 군에게 유통기한 20년 넘은 전투식량 보급”",
+        "description": "지난달 우크라이나 정부군이 동부 루간스크 인근 마을에서 생포한 루간스크인민공화국(LPR) 소속 군인들을 억류하고 있다. AFP 연합뉴스.",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20220309500100",
+        "date": "4주 전",
+        "image_path": "https://img.seoul.co.kr/img/upload/2022/03/09/SSI_20220309150341.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "식량 부족에 교전 회피… 재평가받는 러軍",
+        "description": "우크라이나 진입 러시아 군인 일부에게 지급된 전투식량 유효기간이 2002년이었고, 전투를 피하기 위해 항복하는 병사도 나오고 있다. \n지휘부는 위험은...",
+        "link": "https://m.segye.com/view/20220309511212",
+        "date": "4주 전",
+        "image_path": "http://mimg.segye.com/content/image/2022/03/09/20220309512159.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
         "name": "우크라이나 전쟁: 미 외신기자 피격 사망…러시아 침공 18일째 상황",
         "description": "러시아 침공 18일째 상황. 2022년 3월 14일. 우크라이나 서부 야보리우의 군사 훈련 기지가 러시아군 순항 미사일의 집중 공격. \n사진 출처, Reuters. 사진 설명,.",
         "link": "https://www.bbc.com/korean/news-60732812",
@@ -104,11 +112,19 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "“총으로 위협 후 성폭행”…속속 드러나는 '추악한 전쟁범죄'",
-        "description": "교전 상황서 보호 엄두 못 내. “사회 전반 깊은 고통 초래”. 우크라이나의 러시아군 점령 지역에서 전시 강간 피해 사례들이 보고되는 \n등 광범위한...",
-        "link": "https://www.khan.co.kr/world/europe-russia/article/202204042139005",
+        "name": "승리 필요한 푸틴…러군, 남동부 집중 배치 우크라전 2단계로 전환",
+        "description": "우크라이나군 전력의 상당 부분이 이들 반군들과 교전에 묶여 있다. 싱크탱크 CNA의 러시아연구 책임자 마이클 ... 그러나 상황은 \n정반대로 전개됐다.",
+        "link": "https://www.donga.com/news/Inter/article/all/20220405/112698616/1",
         "date": "1일 전",
-        "image_path": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
+        "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/04/05/112698559.2.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "“총으로 위협 후 성폭행”…속속 드러나는 ‘추악한 전쟁범죄’",
+        "description": "교전 상황서 보호 엄두 못 내. “사회 전반 깊은 고통 초래”. 우크라이나의 러시아군 점령 지역에서 전시 강간 피해 사례들이 보고되는 \n등 광범위한...",
+        "link": "https://m.khan.co.kr/article/202204042139005",
+        "date": "1일 전",
+        "image_path": "//img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -128,11 +144,11 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "[우크라 침공] 러시아, 돈바스에 화력 집중하는 이유는",
-        "description": "NYT에 따르면 우크라이나는 친러 분리주의 반군과 러시아군과의 전투를 위해 돈바스에 전체 군대의 3분의 1 이상을 배치한 것으로 \n추정된다. 러시아군이...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/03/290686/",
-        "date": "5일 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/03/31/image_readtop_2022_290686_0_144111.jpg",
+        "name": "“러시아, 공세 종말점 도달”… 우크라가 이기고 있다는 근거 보니 - 조선일보",
+        "description": "그러다가 “러시아군이 초기 실수를 만회하고 점검하느라 공격을 멈췄고, 재결집하고 있다”고 했다. 이후엔 “전투 \n교리(doctrine)대로 했으면 저렇게...",
+        "link": "https://www.chosun.com/international/europe/2022/03/23/7LIXZS6BGJDA3AM6V46Y5KPGYE/",
+        "date": "2주 전",
+        "image_path": "https://images.chosun.com/resizer/B0kjmkiquWydXmInvEp6BKt4dM0=/916x480/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UXF2HOL7YJDTNL4MYLHQMEH73E.webp",
         "catagory": "교전 최신 상황"
     },
     {
@@ -144,11 +160,11 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "[우크라 침공] \"집단학살은 진군지체 때마다 나온 '푸틴 교과서'\"",
-        "description": "대신 러시아군은 곳곳에서 우크라이나군과 치열한 교전을 이어가며 민간 ... 안에 남겨진 주민들은 외부 보급로가 막힌 상황에서 밖으로 \n빠져나가지...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/04/300480/",
-        "date": "1일 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/04/image_readtop_2022_300480_0_111211.jpg",
+        "name": "[우크라 침공] 러시아, 돈바스에 화력 집중하는 이유는",
+        "description": "NYT에 따르면 우크라이나는 친러 분리주의 반군과 러시아군과의 전투를 위해 돈바스에 전체 군대의 3분의 1 이상을 배치한 것으로 \n추정된다. 러시아군이...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/03/290686/",
+        "date": "5일 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/03/31/image_readtop_2022_290686_0_144111.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -165,14 +181,6 @@
         "link": "https://www.chosun.com/international/2022/03/20/7EHHHRYQHFBSFCIXP3ODF4F7YA/",
         "date": "2주 전",
         "image_path": "https://images.chosun.com/resizer/7hOhPPlBUuAhUktIGGGSTDSWyRA=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6Z2UEH4N5PCJO5HNDN66PEW4A.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "[이해영 칼럼] 서방 언론은 허구였다!, 러시아 뜻대로 끝나가는 전쟁",
-        "description": "전투중 우크라이나군 총 260,200명 중 사상자 3만명, ... 지금까지의 협상상황과 앞서 말한 전황을 교차대조해 보면 교전이 가일층 \n격렬해 지는 이유...",
-        "link": "https://firenzedt.com/21536",
-        "date": "1일 전",
-        "image_path": "https://cdn.firenzedt.com/wp-content/uploads/2022/04/shutterstock_2039898137-scaled-e1649077586186.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -200,11 +208,11 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "러軍 통화 감청했더니…\"전투식량 질려, 개 잡아먹었다\"",
-        "description": "[이데일리 이선영 기자] 러시아의 우크라이나 침공이 1개월 이상 지속되고 있는 가운데 부실한 전투식량에 질린 러시아군 병사가 개를 \n잡아먹었다는...",
-        "link": "https://www.edaily.co.kr/news/read?newsId=01403846632291856&mediaCodeNo=257",
-        "date": "4일 전",
-        "image_path": "https://image.edaily.co.kr/images/Photo/files/NP/S/2022/04/PS22040100164.jpg",
+        "name": "[우크라 침공] \"집단학살은 진군지체 때마다 나온 '푸틴 교과서'\"",
+        "description": "대신 러시아군은 곳곳에서 우크라이나군과 치열한 교전을 이어가며 민간 ... 안에 남겨진 주민들은 외부 보급로가 막힌 상황에서 밖으로 \n빠져나가지...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/04/300480/",
+        "date": "2일 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/04/image_readtop_2022_300480_0_111211.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -224,19 +232,11 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "“러시아, 공세 종말점 도달”… 우크라가 이기고 있다는 근거 보니 - 조선일보",
-        "description": "그러다가 “러시아군이 초기 실수를 만회하고 점검하느라 공격을 멈췄고, 재결집하고 있다”고 했다. 이후엔 “전투 \n교리(doctrine)대로 했으면 저렇게...",
-        "link": "https://www.chosun.com/international/europe/2022/03/23/7LIXZS6BGJDA3AM6V46Y5KPGYE/",
-        "date": "2주 전",
-        "image_path": "https://images.chosun.com/resizer/B0kjmkiquWydXmInvEp6BKt4dM0=/916x480/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UXF2HOL7YJDTNL4MYLHQMEH73E.webp",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "푸틴 발 핵공포, '검은 목요일' 만드나 [정인설의 워싱턴나우]",
-        "description": "우크라이나의 상황은 일시적 휴전, 불안한 휴전, 말로만 휴전입니다. ... 우크라이나군이 안전을 염려해 원전 주변에서 교전을 포기했기 \n때문에...",
-        "link": "https://www.hankyung.com/finance/article/202203077883i",
-        "date": "1개월 전",
-        "image_path": "https://img.hankyung.com/photo/202203/01.29187329.1.jpg",
+        "name": "[이해영 칼럼] 서방 언론은 허구였다! 러시아 뜻대로 끝나가는 전쟁",
+        "description": "전투중 우크라이나군 총 260,200명 중 사상자 3만명, ... 지금까지의 협상상황과 앞서 말한 전황을 교차대조해 보면 교전이 가일층 \n격렬해 지는 이유...",
+        "link": "https://firenzedt.com/21536",
+        "date": "1일 전",
+        "image_path": "https://cdn.firenzedt.com/wp-content/uploads/2022/04/shutterstock_2039898137-scaled-e1649077586186.jpg",
         "catagory": "교전 최신 상황"
     }
 ]
