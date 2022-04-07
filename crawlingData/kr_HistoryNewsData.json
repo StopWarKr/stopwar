@@ -11,8 +11,16 @@
         "name": "'코미디언 출신' 우크라이나 대통령 주연 드라마'국민의 일꾼 ...",
         "description": "[OSEN=최나영 기자] 볼로디미르 젤렌스키(이하 젤렌스키) 우크라이나 ... 이에 평범한 고등학교 역사 선생님이었던 골로보로드코가 \n기존 정치권의...",
         "link": "https://news.koreadaily.com/2022/04/07/sports/broadcast/20220407015609177.html",
-        "date": "19시간 전",
+        "date": "1일 전",
         "image_path": "https://news.koreadaily.com/data/photo/2022/04/07/202204071741771536_624ea6d5db85e.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "러시아와 우크라이나 전쟁, 푸틴은 왜 우크라이나를 원하는가",
+        "description": "지난 2월 초, 미국의 바이든 대통령은 “푸틴이 2월16일 우크라이나를 침공 ... 우선 러시아의 현재를 파악하기 위해서는 러시아와 \n우크라이나 역사와...",
+        "link": "https://www.mk.co.kr/news/culture/view/2022/03/237545/",
+        "date": "3주 전",
+        "image_path": "https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_237545_16473113324975322.jpg",
         "catagory": "역사"
     },
     {
@@ -29,14 +37,6 @@
         "link": "https://news.koreadaily.com/2022/04/05/society/opinion/20220405082230095.html",
         "date": "3일 전",
         "image_path": "https://news.koreadaily.com/data/photo/2022/04/06/5f6bb171-f3af-47d1-8b47-1a7f36f67f74.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "러시아와 우크라이나 전쟁, 푸틴은 왜 우크라이나를 원하는가",
-        "description": "지난 2월 초, 미국의 바이든 대통령은 “푸틴이 2월16일 우크라이나를 침공 ... 우선 러시아의 현재를 파악하기 위해서는 러시아와 \n우크라이나 역사와...",
-        "link": "https://www.mk.co.kr/news/culture/view/2022/03/237545/",
-        "date": "3주 전",
-        "image_path": "https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_237545_16473113324975322.jpg",
         "catagory": "역사"
     },
     {
@@ -64,27 +64,11 @@
         "catagory": "역사"
     },
     {
-        "name": "푸틴의 야망은 더 커졌다 : 칼럼 : 사설.칼럼 : 뉴스",
-        "description": "... 사회에서는 사라진 줄 알았는데 우크라이나를 침공한 블라디미르 푸틴 러시아 대통령의 '최종 해결책'으로 또다시 역사의 전면에 \n등장하고 있다.",
-        "link": "https://www.hani.co.kr/arti/opinion/column/1037945.html",
-        "date": "6시간 전",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/800/575/imgdb/original/2022/0407/20220407502243.jpg",
-        "catagory": "역사"
-    },
-    {
         "name": "우크라이나의 진정한 독립을 위해! : 왜냐면 : 사설.칼럼 : 뉴스",
         "description": "그 이유는 바로 다윗과 골리앗의 싸움에서 다윗과 같은 우크라이나가 세계인들에게 감동을 주고 ... 우크라이나 역사는 한국 역사와 많이 \n비슷합니다.",
         "link": "https://www.hani.co.kr/arti/opinion/because/1036585.html",
         "date": "1주 전",
         "image_path": "https://img.hani.co.kr/section-image/12/facebook_icon_200.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "[긴급 인터뷰] 허승철 전 駐우크라이나 대사가 말하는 ‘우크라이나와 러시아’",
-        "description": "블라디미르 푸틴 러시아 대통령은 대(對)국민 연설에서 이렇게 주장했다. - 우크라이나는 단순한 이웃 국가가 아니다. 우리(러시아)와 \n분리할 수 없는 역사, 문화, 정신의...",
-        "link": "https://monthly.chosun.com/client/news/viw.asp?ctcd=E&nNewsNumb=202204100043",
-        "date": "1주 전",
-        "image_path": "http://monthly.chosun.com/upload/2204/2204_358.jpg",
         "catagory": "역사"
     },
     {
@@ -96,10 +80,26 @@
         "catagory": "역사"
     },
     {
+        "name": "[긴급 인터뷰] 허승철 전 駐우크라이나 대사가 말하는 ‘우크라이나와 러시아’",
+        "description": "블라디미르 푸틴 러시아 대통령은 대(對)국민 연설에서 이렇게 주장했다. - 우크라이나는 단순한 이웃 국가가 아니다. 우리(러시아)와 \n분리할 수 없는 역사, 문화, 정신의...",
+        "link": "https://monthly.chosun.com/client/news/viw.asp?ctcd=E&nNewsNumb=202204100043",
+        "date": "1주 전",
+        "image_path": "http://monthly.chosun.com/upload/2204/2204_358.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "푸틴의 야망은 더 커졌다 : 칼럼 : 사설.칼럼 : 뉴스",
+        "description": "... 사회에서는 사라진 줄 알았는데 우크라이나를 침공한 블라디미르 푸틴 러시아 대통령의 '최종 해결책'으로 또다시 역사의 전면에 \n등장하고 있다.",
+        "link": "https://www.hani.co.kr/arti/opinion/column/1037945.html",
+        "date": "12시간 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/800/575/imgdb/original/2022/0407/20220407502243.jpg",
+        "catagory": "역사"
+    },
+    {
         "name": "교황 “우크라 부차 학살, 끔찍한 잔학행위... 유엔 무력함 목격” - 조선일보",
         "description": "... 새 역사를 마련하려는 시도가 있었지만 안타깝게도 강대국들이 경쟁하는 옛 역사가 계속되고 있다”고 지적했다. 그러면서 “우크라이나 \n전쟁에서...",
         "link": "https://www.chosun.com/international/international_general/2022/04/07/X4MCKB7OBRB3PA65L34YYA45ZY/",
-        "date": "8시간 전",
+        "date": "14시간 전",
         "image_path": "https://images.chosun.com/resizer/DWe6g-fT0A5UhoLboN8es_WVeh8=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZ24XAJFVJL33I7RNMTU6HZRA4.jpg",
         "catagory": "역사"
     },
@@ -152,67 +152,11 @@
         "catagory": "역사"
     },
     {
-        "name": "“부차학살 주범은 러 64여단 중령”… 우크라 시민단체, 이름·사진 공개 - 조선일보",
-        "description": "우크라이나로 파병되기 전인 지난해 11월에는 러시아 정교회 신부로부터 강복을 받기도 했다. 더타임스는 당시 중령이 예배에 참석해 \n“역사는 우리가...",
-        "link": "https://www.chosun.com/international/international_general/2022/04/06/7UKH5GL4NBCPJBPWDR7FUO46S4/",
-        "date": "1일 전",
-        "image_path": "https://images.chosun.com/resizer/TxvcccqXdvF7xtNzjAkB84mTBP4=/450x236/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WZW6KPP3XZFYNLERDES4ZUZ3RQ.PNG",
-        "catagory": "역사"
-    },
-    {
         "name": "[성공예감 김방희입니다] 주말 방송 - 별책부록 「유럽 최후의 ...",
         "description": "우크라이나 주재 일본 대사를 역임했던 구로카와 유지가 쓴 「유럽 최후의 대국, 우크라이나의 역사」 [ 다음 주 주제 ] 봄은 조금씩 \n오고 있는데,...",
         "link": "https://www.youtube.com/watch?v=EwS7cvHXMfE",
         "date": "3주 전",
         "image_path": "https://i.ytimg.com/vi/EwS7cvHXMfE/hqdefault.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "이광재 '우크라 출신 고려인 난민 위해 군 전용기 보내야'",
-        "description": "그러면서 \"고려인의 역사는 대한민국의 아픈 역사다. ... 이 의원은 우크라이나 출신 고려인 동포들을 위한 군 전용기와 의료 지원 등이 \n필요하다고...",
-        "link": "https://cm.asiae.co.kr/article/2022040615245245715",
-        "date": "15시간 전",
-        "image_path": "https://cphoto.asiae.co.kr/listimglink/6/2022040614494418743_1649224184.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "“비슷한 역사와 환경의 한국-이스라엘, 함께 기도하자”",
-        "description": "우크라이나도 조속히 국가 주권이 존중되고 침략이 중단되어 평화가 항구적 정착 단계에 이르도록 하나님께서 인도해 주시길 바란다”며 \n“양국간 우호 증진...",
-        "link": "https://www.christiantoday.co.kr/news/346710",
-        "date": "8시간 전",
-        "image_path": "https://images.christiantoday.co.kr/data/images/full/345483/60.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "\"푸틴의 오판, 미국의 아프간 철수 의미를 잘못 해석했다\"",
-        "description": "예상을 뛰어넘은 러시아의 우크라이나 침공, 또한 모두의 예상을 ... 힘의 상관관계란 개념은 군사 및 전략적 사고에서 오랜 역사를 갖고 \n있다.",
-        "link": "https://www.pressian.com/pages/articles/2022040715024938954",
-        "date": "6시간 전",
-        "image_path": "https://www.pressian.com/_resources/10/2022/04/07/2022040715022681030_l.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "[서재정 칼럼] 우크라이나, 미국의 꽃놀이패? : 칼럼 : 사설.칼럼 ...",
-        "description": "오랜 역사를 가지고 있는 우크라이나 서부 친서방 세력의 반대 시위에 불길이 붙었다. 경찰의 폭력적 진압이 불을 키웠다. 정부의 폭력에 \n분노한...",
-        "link": "https://www.hani.co.kr/arti/opinion/column/1035552.html",
-        "date": "2주 전",
-        "image_path": "https://img.hani.co.kr/section-image/12/facebook_icon_200.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "인도는 왜 새 친구 미국 버리고 옛 친구 러시아한테 갔나",
-        "description": "인도는 러시아의 우크라이나 침공 전후로 국제 무대에서 벌어진 외교전 ... 미국의 한국전 참전(이른바 혈맹) 등이 한국인의 역사 정서에 \n뿌리박혀...",
-        "link": "https://www.hani.co.kr/arti/international/international_general/1037713.html",
-        "date": "1일 전",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/970/662/imgdb/original/2022/0322/20220322503502.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "“우크라이나는 푸틴의 아프가니스탄”…푸틴 정권 몰락의 신호탄 ...",
-        "description": "교착 지속에 80년대 아프간전 비교 시각 전쟁 동기, 주변 상황, 국제 동향 비슷 '10년 수렁' 아프간전 소련 몰락 재촉 '자멸의 \n역사 반복 가능성'...",
-        "link": "https://www.hani.co.kr/arti/international/america/1036500.html",
-        "date": "1주 전",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/777/534/imgdb/original/2022/0328/20220328501712.jpg",
         "catagory": "역사"
     },
     {
@@ -224,6 +168,30 @@
         "catagory": "역사"
     },
     {
+        "name": "교황 “우크라 부차 학살, 끔찍한 잔학 행위” - 조선일보",
+        "description": "프란치스코 교황이 6일(현지 시각) 우크라이나 부차 민간인 학살 정황과 ... 평화의 새 역사를 마련하려는 시도가 있었지만 안타깝게도 \n강대국들이...",
+        "link": "https://www.chosun.com/international/international_general/2022/04/08/XBDXDMNKFZB33LBH6EZ65MUB2U/",
+        "date": "26분 전",
+        "image_path": "https://images.chosun.com/resizer/Yd6iFCL8d83NACjfVpT4UALpj2c=/220x115/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ATKX45SKZ5DZHJOFGQMLFEYE3U.JPG",
+        "catagory": "역사"
+    },
+    {
+        "name": "[서재정 칼럼] 우크라이나, 미국의 꽃놀이패? : 칼럼 : 사설.칼럼 ...",
+        "description": "오랜 역사를 가지고 있는 우크라이나 서부 친서방 세력의 반대 시위에 불길이 붙었다. 경찰의 폭력적 진압이 불을 키웠다. 정부의 폭력에 \n분노한...",
+        "link": "https://www.hani.co.kr/arti/opinion/column/1035552.html",
+        "date": "2주 전",
+        "image_path": "https://img.hani.co.kr/section-image/12/facebook_icon_200.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "“우크라이나는 푸틴의 아프가니스탄”…푸틴 정권 몰락의 신호탄 ...",
+        "description": "교착 지속에 80년대 아프간전 비교 시각 전쟁 동기, 주변 상황, 국제 동향 비슷 '10년 수렁' 아프간전 소련 몰락 재촉 '자멸의 \n역사 반복 가능성'...",
+        "link": "https://www.hani.co.kr/arti/international/america/1036500.html",
+        "date": "1주 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/777/534/imgdb/original/2022/0328/20220328501712.jpg",
+        "catagory": "역사"
+    },
+    {
         "name": "머스크의 '이것' 덕분에…우크라 전쟁 참상 SNS 타고 전세계로 [위클리 기사단]",
         "description": "인류 역사 시작 이후 지금까지 벌어진 전쟁에서 통용됐던 한 마디입니다. ... 최근 이어지고 있는 러시아의 우크라이나 침공 사례가 \n대표적입니다.",
         "link": "https://www.mk.co.kr/premium/special-report/view/2022/03/31638/",
@@ -232,11 +200,43 @@
         "catagory": "역사"
     },
     {
-        "name": "이광재, 우크라이나 출신 고려인 난민 수용 촉구 “軍수송기 보내자” - 조선비즈",
-        "description": "또 이 위원장은 정부에 “군 전용기를 보내 고려인들이 대한민국 품으로 하루속히 올 수 있게 조치가 이뤄지길 희망한다”며 “고려인의 \n역사는 대한민국...",
-        "link": "https://biz.chosun.com/policy/politics/2022/04/06/IZYCMK5PXVB7PLJPDBVECPZYJM/",
+        "name": "80년 만에 재등장한 美 '무기대여법'… 타깃은 러시아",
+        "description": "대다수 독자가 중·고교 역사 수업 시간에서 들어봤을 이 용어가 제2차 세계 ... 러시아와 전쟁 중인 우크라이나가 무기를 비롯한 전쟁 \n물자를 미국...",
+        "link": "https://www.msn.com/ko-kr/news/world/80%EB%85%84-%EB%A7%8C%EC%97%90-%EC%9E%AC%EB%93%B1%EC%9E%A5%ED%95%9C-%E7%BE%8E-%EB%AC%B4%EA%B8%B0%EB%8C%80%EC%97%AC%EB%B2%95-%ED%83%80%EA%B9%83%EC%9D%80-%EB%9F%AC%EC%8B%9C%EC%95%84/ar-AAVXRO9",
+        "date": "5시간 전",
+        "image_path": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAVYfAJ.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "인도는 왜 새 친구 버리고 옛 친구한테 갔나",
+        "description": "인도는 러시아의 우크라이나 침공 전후로 국제 무대에서 벌어진 외교전 ... 미국의 한국전 참전(이른바 혈맹) 등이 한국인의 역사 정서에 \n뿌리박혀...",
+        "link": "https://www.hani.co.kr/arti/international/international_general/1037713.html",
         "date": "1일 전",
-        "image_path": "https://biz.chosun.com/resizer/3yUc900j-zJ6vapj-Q7DnyyjJ7I=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/UBJZYBAIGRLXXNDO24VIQDDDII.jpg",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/970/662/imgdb/original/2022/0322/20220322503502.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "“비슷한 역사와 환경의 한국-이스라엘, 함께 기도하자”",
+        "description": "우크라이나도 조속히 국가 주권이 존중되고 침략이 중단되어 평화가 항구적 정착 단계에 이르도록 하나님께서 인도해 주시길 바란다”며 \n“양국간 우호 증진...",
+        "link": "https://www.christiantoday.co.kr/news/346710",
+        "date": "14시간 전",
+        "image_path": "https://images.christiantoday.co.kr/data/images/full/345483/60.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "\"푸틴의 오판, 미국의 아프간 철수 의미를 잘못 해석했다\"",
+        "description": "예상을 뛰어넘은 러시아의 우크라이나 침공, 또한 모두의 예상을 ... 힘의 상관관계란 개념은 군사 및 전략적 사고에서 오랜 역사를 갖고 \n있다.",
+        "link": "https://www.pressian.com/pages/articles/2022040715024938954",
+        "date": "12시간 전",
+        "image_path": "https://www.pressian.com/_resources/10/2022/04/07/2022040715022681030_l.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "이광재 '우크라 출신 고려인 난민 위해 군 전용기 보내야'",
+        "description": "그러면서 \"고려인의 역사는 대한민국의 아픈 역사다. ... 이 의원은 우크라이나 출신 고려인 동포들을 위한 군 전용기와 의료 지원 등이 \n필요하다고...",
+        "link": "https://cm.asiae.co.kr/article/2022040615245245715",
+        "date": "20시간 전",
+        "image_path": "https://cphoto.asiae.co.kr/listimglink/6/2022040614494418743_1649224184.jpg",
         "catagory": "역사"
     }
 ]
