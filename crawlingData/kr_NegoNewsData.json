@@ -4,7 +4,7 @@
         "description": "인테르팍스 통신 등에 따르면 라브로프 장관은 이날 자국 기자들에게 평화 협상 진행 상황에 관해 설명하며 \"어제 우크라이나가 지난달 \n이스탄불 회담...",
         "link": "https://news.koreadaily.com/2022/04/07/society/international/20220407071550648.html",
         "date": "2일 전",
-        "image_path": "https://news.koreadaily.com/resources/images/logo/sns-logo.png",
+        "image_path": "No Image",
         "catagory": "협상 진행 과정"
     },
     {
@@ -24,19 +24,19 @@
         "catagory": "협상 진행 과정"
     },
     {
-        "name": "러시아 \"우크라이나 무기 공급, 협상에 부정적\"",
-        "description": "한편 페스코프 대변인은 푸틴 대통령이 오는 11월 인도네시아가 주최하는 주요 20개국(G20) 정상회의에 참석할지 여부는 향후 상황 \n진전을 보고 결정할...",
-        "link": "https://www.voakorea.com/a/6519161.html",
-        "date": "22시간 전",
-        "image_path": "https://gdb.voanews.com/ce90855b-b511-432e-9cbc-7d034c7c3a0f_w1200_r1.jpg",
-        "catagory": "협상 진행 과정"
-    },
-    {
         "name": "[우크라 침공] 전선 교착속 협상진척 상황은…영토문제 최대난관",
         "description": "전쟁이 장기화할 우려가 제기되는 상황에서도 더 이상의 참화를 막기 위한 협상은 절박하게 진행되는 형국이다. 볼로디미르 젤렌스키 \n우크라이나 대통령은...",
         "link": "https://m.mk.co.kr/news/world/view/2022/03/257001/",
         "date": "2주 전",
         "image_path": "https://file.mk.co.kr/meet/yonhap/2022/03/21/image_readtop_2022_257001_0_154712.jpg",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "러시아 \"우크라이나 무기 공급, 협상에 부정적\"",
+        "description": "한편 페스코프 대변인은 푸틴 대통령이 오는 11월 인도네시아가 주최하는 주요 20개국(G20) 정상회의에 참석할지 여부는 향후 상황 \n진전을 보고 결정할...",
+        "link": "https://www.voakorea.com/a/6519161.html",
+        "date": "1일 전",
+        "image_path": "https://gdb.voanews.com/ce90855b-b511-432e-9cbc-7d034c7c3a0f_w1200_r1.jpg",
         "catagory": "협상 진행 과정"
     },
     {
@@ -56,19 +56,11 @@
         "catagory": "협상 진행 과정"
     },
     {
-        "name": "“자전거 탄 사람 총으로 쐈다”… 獨 정보기관, 러군 학살증거 감청 ...",
-        "description": "젤렌스키 대통령은 “보로댠카 마을의 상황이 러시아군의 민간인 학살로 비난 ... 하지만 러시아와 우크라이나가 진행 중인 평화협상은 부차 \n학살 이후...",
-        "link": "https://www.hankookilbo.com/News/Read/A2022040811030005963",
-        "date": "2시간 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/04/08/ec48d975-722f-463a-9c72-9cc4b4af0308.jpg?t=20220408103126",
-        "catagory": "협상 진행 과정"
-    },
-    {
         "name": "우크라 “키이우 수도권 탈환” 선언… 동·남부 최대 격전지 예고",
         "description": "러시아군이 돈바스 지역을 모두 점령하기 위해 우크라이나와의 평화협상 진행 상황을 지켜보며 화력을 쏟아 부을 것으로 관측되고 있다.",
         "link": "https://www.hankookilbo.com/News/Read/A2022040311430002626",
         "date": "5일 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/04/03/7329d00a-4462-417c-9534-862b225819d1.jpg?t=20220408125052",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/04/03/7329d00a-4462-417c-9534-862b225819d1.jpg?t=20220408185834",
         "catagory": "협상 진행 과정"
     },
     {
@@ -85,6 +77,14 @@
         "link": "https://www.voakorea.com/a/6485829.html",
         "date": "3주 전",
         "image_path": "https://gdb.voanews.com/01bd0000-0aff-0242-9053-08d9fafe7850_w1200_r1.jpeg",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "“자전거 탄 사람 총으로 쐈다”… 獨 정보기관, 러군 학살증거 감청 ...",
+        "description": "젤렌스키 대통령은 “보로댠카 마을의 상황이 러시아군의 민간인 학살로 비난 ... 하지만 러시아와 우크라이나가 진행 중인 평화협상은 부차 \n학살 이후...",
+        "link": "https://www.hankookilbo.com/News/Read/A2022040811030005963",
+        "date": "8시간 전",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/04/08/ec48d975-722f-463a-9c72-9cc4b4af0308.jpg?t=20220408183058",
         "catagory": "협상 진행 과정"
     },
     {
@@ -107,16 +107,16 @@
         "name": "우크라이나-러시아 6차 회담 개시, '영토 정리' 쟁점...러시아군, 체르노빌 원전서 철수",
         "description": "우크라이나와 러시아 정전협상 대표단은 지난달 29일 터키 이스탄불에서 진행한 5차 회담에서 일부 진전을 이룬 바 있습니다. 우크라이나는 \n제3국이...",
         "link": "https://www.voakorea.com/a/6510979.html",
-        "date": "6일 전",
+        "date": "1주 전",
         "image_path": "https://gdb.voanews.com/02870000-0aff-0242-b2df-08da140fe7c5_cx0_cy17_cw0_w1200_r1.jpeg",
         "catagory": "협상 진행 과정"
     },
     {
-        "name": "[우크라 침공] 부차 학살 탓 평화협상 된서리 맞나",
-        "description": "(서울=연합뉴스) 현윤경 기자 = 러시아와 우크라이나 사이의 평화협상이 ... 이런 상황에서 러시아 군대가 철수한 수도 키이우 외곽 \n도시에서 두 손...",
-        "link": "https://news.koreadaily.com/2022/04/04/society/international/20220404174651793.html",
-        "date": "4일 전",
-        "image_path": "https://news.koreadaily.com/resources/images/logo/sns-logo.png",
+        "name": "[우크라 침공] 러 \"평화협상, 최고위급 회의에 보고할 수준은 아냐\"(종합)",
+        "description": "러시아는 우크라이나와 진행 중인 평화협상 상황이 최고위급 회의에 보고할 정도까지 진전되진 않았다고 3일(현지시간) 밝혔다.",
+        "link": "https://www.mk.co.kr/news/world/view/2022/04/298917/",
+        "date": "5일 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/03/image_readtop_2022_298917_0_161911.jpg",
         "catagory": "협상 진행 과정"
     },
     {
@@ -131,8 +131,24 @@
         "name": "러 “우크라, 5차 협상 번복”…'러시아군 포로 총격' 영상 논란",
         "description": "협상이 어려운 상황이다 보니 일단 돈바스 장악에 집중할 가능성이 높아 보입니다. 실제 공습도 연일 이어지고 있습니다. 우크라이나 측은 \n러시아군이...",
         "link": "https://news.kbs.co.kr/news/view.do?ncd=5435918",
-        "date": "34분 전",
+        "date": "6시간 전",
         "image_path": "http://news.kbs.co.kr/data/news/2022/04/08/20220408_bpTAzb.jpg",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "러 \"평화협상, 최고위급 회의에 보고할 수준 아냐\"",
+        "description": "러시아는 우크라이나와 진행 중인 평화협상 상황이 최고위급 회의에 보고할 정도까지 진전되진 않았다고 평가했습니다.",
+        "link": "https://www.yna.co.kr/view/MYH20220404004000038",
+        "date": "4일 전",
+        "image_path": "https://img0.yna.co.kr/mpic/YH/2022/04/04/MYH20220404004000038.jpg",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "[우크라 침공] 부차 학살 탓 평화협상 된서리 맞나",
+        "description": "(서울=연합뉴스) 현윤경 기자 = 러시아와 우크라이나 사이의 평화협상이 ... 이런 상황에서 러시아 군대가 철수한 수도 키이우 외곽 \n도시에서 두 손...",
+        "link": "https://news.koreadaily.com/2022/04/04/society/international/20220404174651793.html",
+        "date": "4일 전",
+        "image_path": "No Image",
         "catagory": "협상 진행 과정"
     },
     {
@@ -176,14 +192,6 @@
         "catagory": "협상 진행 과정"
     },
     {
-        "name": "뉴욕증시· 비트코인 휘청 우크라 휴전협상 결렬+ 러시아 디폴트",
-        "description": "그러면서 우크라이나가 평화 협상을 지연·악화시키고 있다고 비난했다. ... 공격에 이르기까지 우크라이나 국민한테 피해를 줄 수 있는 \n여러 상황에...",
-        "link": "https://www.g-enews.com/article/Securities/2022/04/202204062155495774a01bf698f_1",
-        "date": "21시간 전",
-        "image_path": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20220407215345043324a01bf698f591072193.jpg",
-        "catagory": "협상 진행 과정"
-    },
-    {
         "name": "[우크라 침공] '서방·러시아 간 줄타기' 터키, 평화중재 잰걸음",
         "description": "러시아의 우크라이나 침공으로 촉발된 전쟁을 끝내려는 협상이 진행되고 ... 푸틴 대통령이 통화한 후 터키 대통령실은 \"현 상황을 \n평화적인 방법으로...",
         "link": "https://www.mk.co.kr/news/world/view/2022/03/246933/",
@@ -192,19 +200,19 @@
         "catagory": "협상 진행 과정"
     },
     {
-        "name": "러·우 평화협상 진전…바이든 “말이 아닌 행동으로 파단하겠다”",
-        "description": "우크라이나는 안보 보장을 전재로 중립국화 요구를 받아들일 수 있다고 밝혔고, 러시아는 “협상이 건설적으로 진행됐다”며 신뢰 강화 \n차원에서...",
-        "link": "https://m.khan.co.kr/world/world-general/article/202203300829001",
-        "date": "1주 전",
-        "image_path": "https://img.khan.co.kr/news/2022/03/30/2022033001003930800350561.jpg",
-        "catagory": "협상 진행 과정"
-    },
-    {
         "name": "WP “우크라 종전 가능성 희박…美, 러와 직접 협상해야”",
         "description": "러시아의 우크라이나 침공 사태가 뚜렷한 결론 없이 장기화될 가능성이 ... 그러나 전쟁이 3주째로 접어들면서 바이든 행정부는 이 상황을 \n어떻게...",
         "link": "https://www.donga.com/news/Inter/article/all/20220311/112286234/1",
         "date": "1개월 전",
         "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/03/11/112286176.2.jpg",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "러·우 평화협상 진전…바이든 “말이 아닌 행동으로 파단하겠다”",
+        "description": "우크라이나는 안보 보장을 전재로 중립국화 요구를 받아들일 수 있다고 밝혔고, 러시아는 “협상이 건설적으로 진행됐다”며 신뢰 강화 \n차원에서...",
+        "link": "https://m.khan.co.kr/world/world-general/article/202203300829001",
+        "date": "1주 전",
+        "image_path": "https://img.khan.co.kr/news/2022/03/30/2022033001003930800350561.jpg",
         "catagory": "협상 진행 과정"
     },
     {
@@ -229,14 +237,6 @@
         "link": "https://www.yna.co.kr/view/MYH20220324002300038",
         "date": "2주 전",
         "image_path": "https://img1.yna.co.kr/mpic/YH/2022/03/24/MYH20220324002300038.jpg",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "러시아군 민간인 학살, 부차 이어 모티진에서도 확인",
-        "description": "안톤 헤라시첸코 우크라이나 내무부 고문은 <로이터> 통신에 “러시아 ... 될 것”이라며 “여기서 벌어진 일을 본 상황에서 (러시아와) \n평화협상을 진행...",
-        "link": "https://www.hani.co.kr/arti/international/europe/1037666.html",
-        "date": "3일 전",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/559/imgdb/original/2022/0405/20220405503204.jpg",
         "catagory": "협상 진행 과정"
     }
 ]
