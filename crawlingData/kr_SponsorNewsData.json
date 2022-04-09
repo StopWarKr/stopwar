@@ -1,17 +1,9 @@
 ﻿[
     {
-        "name": "\"먹어서 우크라 총알 보낸다\"…돈쭐 나는 '애국노 기업' 정체",
-        "description": "러시아와 장기전을 치르고 있는 우크라이나를 향한 시민들의 이색 후원이 이어지고 있다. 식품·비디오게임 등 우크라이나 기업이 만든 제품을 \n구매한 뒤...",
-        "link": "https://news.koreadaily.com/2022/04/08/society/generalsociety/20220408014050211.html",
-        "date": "1일 전",
-        "image_path": "https://news.koreadaily.com/data/photo/2022/04/08/686ea0e0-dfc2-4c69-8ebd-4d2654b7ca51.jpg",
-        "catagory": "후원"
-    },
-    {
         "name": "조이플선교회 \"우크라이나 난민 돕기\"에 2만여 달러 기탁",
         "description": "조이플선교회(대표 장현자 목사)가 지난 3월 한 달 동안, 전쟁으로 큰 피해를 입은 우크라이나 난민들을 돕기 위해 진행한 \"이웃사랑 \n우크라이나 후원...",
         "link": "https://kr.christianitydaily.com/articles/112762/20220407/%EC%A1%B0%EC%9D%B4%ED%94%8C%EC%84%A0%EA%B5%90%ED%9A%8C-%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98-%EB%82%9C%EB%AF%BC-%EB%8F%95%EA%B8%B0-%EC%97%90-2%EB%A7%8C%EC%97%AC-%EB%8B%AC%EB%9F%AC-%EA%B8%B0%ED%83%81.htm",
-        "date": "1일 전",
+        "date": "2일 전",
         "image_path": "https://kr.christianitydaily.com/data/images/full/124624/image.jpg",
         "catagory": "후원"
     },
@@ -21,6 +13,14 @@
         "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=123680",
         "date": "2주 전",
         "image_path": "http://www.wikileaks-kr.org/news/thumbnail/202203/123680_106651_5444_v150.jpg",
+        "catagory": "후원"
+    },
+    {
+        "name": "\"먹어서 우크라 총알 보낸다\"…돈쭐 나는 '애국노 기업' 정체",
+        "description": "러시아와 장기전을 치르고 있는 우크라이나를 향한 시민들의 이색 후원이 이어지고 있다. 식품·비디오게임 등 우크라이나 기업이 만든 제품을 \n구매한 뒤...",
+        "link": "https://news.koreadaily.com/2022/04/08/society/generalsociety/20220408014050211.html",
+        "date": "2일 전",
+        "image_path": "https://news.koreadaily.com/data/photo/2022/04/08/686ea0e0-dfc2-4c69-8ebd-4d2654b7ca51.jpg",
         "catagory": "후원"
     },
     {
@@ -72,19 +72,19 @@
         "catagory": "후원"
     },
     {
-        "name": "“우크라이나 전쟁 난민 구호 사역을 위한 긴급 지원이 필요 ...",
-        "description": "우크라이나에서 사역하던 4가정의 한인선교사들이 오는 5월 1일부터 폴란드 ... (메시지 난에 방대식을 써 주시고 처음 후원하실 경우 \n이름과 주소를...",
-        "link": "https://www.manna24.com/single-post/2022/04/01/call-for-emergency-aid-for-refugees-in-the-war-in-ukraine/",
-        "date": "1주 전",
-        "image_path": "https://www.manna24.com/wp-content/uploads/2022/04/우크라이나-국기들--scaled.jpg",
-        "catagory": "후원"
-    },
-    {
         "name": "1만 원에 게임이 500개… 우크라이나 '후원 번들' 주요작 살펴보기",
         "description": "우크라이나 '후원 번들' 주요작 살펴보기 ... 인디게임 플랫폼 itch.io가 우크라이나 지원을 위해 최소 10달러로 총 992개 \n품목을 구매할 수 있는...",
         "link": "https://m.thisisgame.com/webzine/news/nboard/4/?n=144623",
         "date": "1개월 전",
         "image_path": "//file.thisisgame.com/upload/nboard/news/2022/03/10/20220310162756_7035.png",
+        "catagory": "후원"
+    },
+    {
+        "name": "“우크라이나 전쟁 난민 구호 사역을 위한 긴급 지원이 필요 ...",
+        "description": "우크라이나에서 사역하던 4가정의 한인선교사들이 오는 5월 1일부터 폴란드 ... (메시지 난에 방대식을 써 주시고 처음 후원하실 경우 \n이름과 주소를...",
+        "link": "https://www.manna24.com/single-post/2022/04/01/call-for-emergency-aid-for-refugees-in-the-war-in-ukraine/",
+        "date": "1주 전",
+        "image_path": "https://www.manna24.com/wp-content/uploads/2022/04/우크라이나-국기들--scaled.jpg",
         "catagory": "후원"
     },
     {
@@ -104,19 +104,19 @@
         "catagory": "후원"
     },
     {
-        "name": "한적, 우크라 3차 긴급지원…담요·위생키트 등 구호품 해상운송",
-        "description": "한적은 5월 31일까지 우크라이나를 돕기 위한 대국민 모금 캠페인을 하고 있다. 한적을 통한 우크라이나 후원은 대한적십자사 홈페이지를 \n통해 가능하다.",
-        "link": "https://www.yna.co.kr/view/AKR20220407092400052",
-        "date": "2일 전",
-        "image_path": "https://img4.yna.co.kr/etc/inner/KR/2022/04/07/AKR20220407092400052_01_i_P4.jpg",
-        "catagory": "후원"
-    },
-    {
         "name": "기독교헤럴드 모바일 사이트, 서울신대 학생회, 우크라이나전쟁 ...",
         "description": "CTS기독교TV(대표 류영모·이철·배광식 목사)는 지난 3월 23일 서울신학대학교 학생회가 자체적으로 진행한 우크라이나전쟁 \n난민후원캠페인 인터뷰...",
         "link": "http://m.cherald.co.kr/news/articleView.html?idxno=21861",
         "date": "1주 전",
         "image_path": "http://www.cherald.co.kr/news/photo/202203/21861_21318_4540.png",
+        "catagory": "후원"
+    },
+    {
+        "name": "한적, 우크라 3차 긴급지원…담요·위생키트 등 구호품 해상운송",
+        "description": "한적은 5월 31일까지 우크라이나를 돕기 위한 대국민 모금 캠페인을 하고 있다. 한적을 통한 우크라이나 후원은 대한적십자사 홈페이지를 \n통해 가능하다.",
+        "link": "https://www.yna.co.kr/view/AKR20220407092400052",
+        "date": "2일 전",
+        "image_path": "https://img4.yna.co.kr/etc/inner/KR/2022/04/07/AKR20220407092400052_01_i_P4.jpg",
         "catagory": "후원"
     },
     {
@@ -144,6 +144,14 @@
         "catagory": "후원"
     },
     {
+        "name": "서울신학대 총학생회 우크라이나 난민을 위한 후원 캠페인 진행",
+        "description": "SNS와 학교 홈페이지 홍보를 통해 25일까지 모인 후원금을 우크라이나 대사관에 직접 방문하여 전달할 계획이다. 또한 학생들의 자발적 \n모금활동을 격려...",
+        "link": "https://www.veritas-a.com/news/articleView.html?idxno=408755",
+        "date": "1개월 전",
+        "image_path": "http://www.veritas-a.com/news/thumbnail/202203/408755_313121_2236_v150.jpg",
+        "catagory": "후원"
+    },
+    {
         "name": "\"'야전병원'된 우크라이나 의사 돕자\" 게시글에 의료계 지원 쇄도",
         "description": "의료계 각 단체가 지원 방법을 모색하는 가운데 개인적 인연에서 출발한 대규모 의약품·의료용품 후원이 주목받고 있다. 시작은 \n나음피부과의원 구본철...",
         "link": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=2020819",
@@ -160,27 +168,19 @@
         "catagory": "후원"
     },
     {
-        "name": "서울신학대 총학생회 우크라이나 난민을 위한 후원 캠페인 진행",
-        "description": "SNS와 학교 홈페이지 홍보를 통해 25일까지 모인 후원금을 우크라이나 대사관에 직접 방문하여 전달할 계획이다. 또한 학생들의 자발적 \n모금활동을 격려...",
-        "link": "https://www.veritas-a.com/news/articleView.html?idxno=408755",
-        "date": "1개월 전",
-        "image_path": "http://www.veritas-a.com/news/thumbnail/202203/408755_313121_2236_v150.jpg",
-        "catagory": "후원"
-    },
-    {
-        "name": "이대부속 유치원 봉사회, 강원 산불·우크라이나 지원에 3200만원 기부",
-        "description": "이싹회는 지난 2020년 5월에도 코로나19 재난취약계층을 지원하기 위해 성금 3000만원을 후원하는 등 인도주의 봉사활동에 지속적으로 \n참여하고 있는...",
-        "link": "https://www.mk.co.kr/news/society/view/2022/04/310236/",
-        "date": "3일 전",
-        "image_path": "https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_310236_16492261225000594.jpg",
-        "catagory": "후원"
-    },
-    {
         "name": "[단독] \"우크라이나를 위해\"…기부 빙자 '피싱' 주의보",
         "description": "하지만 유엔난민기구 한국지부 관계자는 \"해당 링크는 우리 기구 URL이 아니다\"라고 선을 그었다. 유엔난민기구 우크라이나 긴급 구호 \n활동 후원은 유엔...",
         "link": "https://m.inews24.com/v/1461341",
         "date": "3주 전",
         "image_path": "https://img-lb.inews24.com/v1/facebookexternalhit/face/626x352/05056b8c4e0466.jpg",
+        "catagory": "후원"
+    },
+    {
+        "name": "의협신문",
+        "description": "전쟁 속 고통받는 우크라이나 국민을 위한 의료계의 성금이 답지하고 있는 가운데, 대전광역시의사회가 국내에 유학중인 우크라이나 장교를 \n후원해 온...",
+        "link": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=143631",
+        "date": "1개월 전",
+        "image_path": "http://www.doctorsnews.co.kr/news/thumbnail/202203/143631_103020_949_v150.jpg",
         "catagory": "후원"
     },
     {
@@ -208,11 +208,11 @@
         "catagory": "후원"
     },
     {
-        "name": "우크라이나 고려인 난민들, 광주 시민의 힘으로 고국 땅 밟는다",
-        "description": "우크라이나 전쟁으로 난민이 된 고려인 동포들이 전쟁의 화마를 피해 한국 ... 천주교 광주대교구는 항공권 15장을, 광주YMCA는 \n250만 원을 후원했다.",
-        "link": "https://www.donga.com/news/Society/article/all/20220406/112733667/1",
-        "date": "2일 전",
-        "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/04/06/112733660.1.jpg",
+        "name": "광주 고려인마을 안착 우크라 전쟁난민 80명 넘어서",
+        "description": "폴란드 62명, 루마니아 57명 등 우크라이나 인접국에서 지금도 125명이 항공권 발급을 기다리는 중이다. 고려인마을은 자체 모금 \n운동과 지역사회 후원을...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/04/316530/",
+        "date": "1일 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/08/image_readtop_2022_316530_0_104011.jpg",
         "catagory": "후원"
     },
     {
