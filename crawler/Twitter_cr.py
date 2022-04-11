@@ -54,8 +54,8 @@ def do_crawling(_my_driver, _count):
         json_data.append({ 'description': ukraine_text, 'date' : dates,'description_ko': korea_text ,"catagory": "트위터",} )
 
         createJson("Twitter", json_data)
-        print("-" * 100)
-    print("\n\n\n\n\n")
+        #print("-" * 100)
+    #print("\n\n\n\n\n")
 
 
 def get_driver():
