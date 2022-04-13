@@ -98,9 +98,11 @@ header {
   color: #767676;
   text-align: center;
 }
-.lang-cont.on {
+
+.select-lang.on .lang-cont {
   display: flex;
 }
+
 .lang-cont .lang-items {
   width: 100%;
   padding: 4px 0;
@@ -123,6 +125,7 @@ header {
   width: 128rem;
   max-width: 100%;
   margin: 0 auto;
+  z-index: -10;
 }
 
 /* main category : start --------------------------------*/
