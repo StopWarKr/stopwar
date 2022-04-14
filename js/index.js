@@ -80,21 +80,38 @@ btnMore.addEventListener('click', (e) => {
   renderTen(data);
 });
 
-// 구글 번역 API
-//setTimeout(() => {
-//  const googleSelectBox = document.querySelector('.goog-te-menu-value > span');
-
-//  googleSelectBox.textContent = '한국어';
-//}, 1000);
 
 //구글 번역 custom selection menu
 const langSelect = document.querySelector('.lang-btn');
 const langText = langSelect.querySelector('.lang-txt');
 const langOptions = document.querySelectorAll('.lang-items');
 
+// 구글 번역기 돌리기
+const handleTranslate = (ev) => {
+  let el = ev.target;
+
+  while (el.nodeName == 'FONT' || el.nodeName == 'SPAN') {
+    el = el.parentElement;
+  }
+
+  console.log(el.dataset,"dataset")
+  const selectLang = el.dataset.lang;
+  console.log(el,"eg")
+  console.log(selectLang,"lang??")
+  const gtcombo = document.querySelector('.goog-te-combo');
+
+  if (gtcombo != null) {
+    gtcombo.value = selectLang;
+    gtcombo.dispatchEvent(new Event('change'));
+  }
+  return false;
+};
+
+
 // 선택 옵션 박스 텍스트 표시
 const handleSelect = (item) => {
   openLangSelect();
+  handleTranslate(item);
   langText.textContent = item.target.textContent;
 };
 
