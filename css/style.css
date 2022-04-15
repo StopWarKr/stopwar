@@ -139,16 +139,23 @@ header {
 .ko-kr{
   background: url("/image/KR.png") no-repeat;
   background-size: 100% 100%;
+  margin-right:15px;
 }
 
 .en {
   background: url("/image/US.png") no-repeat;
   background-size: 100% 100%;
+  margin-right:15px;
 }
 
 .uk{
   background: url("/image/UK.png") no-repeat;
   background-size: 20px;
+}
+
+.uk-title-wrapper{
+  display: flex;
+  flex-direction: column;
 }
 
 /* header: end --------------------------------*/
