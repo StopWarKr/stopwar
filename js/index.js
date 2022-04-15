@@ -93,11 +93,11 @@ const handleTranslate = (ev) => {
   while (el.nodeName == 'FONT' || el.nodeName == 'SPAN') {
     el = el.parentElement;
   }
+  if (el.nodeName ==="DIV") {
+    el= el.parentElement;
+  }
 
-  console.log(el.dataset,"dataset")
   const selectLang = el.dataset.lang;
-  console.log(el,"eg")
-  console.log(selectLang,"lang??")
   const gtcombo = document.querySelector('.goog-te-combo');
 
   if (gtcombo != null) {
@@ -106,7 +106,6 @@ const handleTranslate = (ev) => {
   }
   return false;
 };
-
 
 // 선택 옵션 박스 텍스트 표시
 const handleSelect = (item) => {
