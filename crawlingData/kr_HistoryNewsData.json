@@ -16,10 +16,18 @@
         "catagory": "역사"
     },
     {
+        "name": "우크라이나에 언제쯤 가도 될까요?",
+        "description": "는 우크라이나를 비롯해 저자가 다녀온 동유럽 국가들의 인상깊은 여행지들을 ... 우크라이나의 슬픈 역사와 반복되는 시민혁명, 유럽이 \n되고자 하는...",
+        "link": "https://www.mk.co.kr/news/culture/view/2022/04/348884/",
+        "date": "5시간 전",
+        "image_path": "https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_348884_16503529015014526.jpg",
+        "catagory": "역사"
+    },
+    {
         "name": "[기고] 'G3 체제' 서막 알린 우크라이나 전쟁",
         "description": "훗날 역사는 이번 전쟁을 푸틴 대통령의 치명적인 정치적 오판으로 기록할 것이다. 어디서부터 잘못된 것일까. 2014년 러시아의 크림 \n강제 병합과 돈바스...",
         "link": "https://news.koreadaily.com/2022/04/18/society/opinion/20220418195156297.html",
-        "date": "19시간 전",
+        "date": "1일 전",
         "image_path": "https://news.koreadaily.com/resources/images/logo/sns-logo.png",
         "catagory": "역사"
     },
@@ -48,14 +56,6 @@
         "catagory": "역사"
     },
     {
-        "name": "[유로 스코프] 우크라이나 중립화 해법 ‘동상이몽’… 전쟁의 출구가 안 보인다 - 조선일보",
-        "description": "우크라 “나토 회원 준하는 무장 중립국”, 러 “비무장 완충 국가” 자국의 힘 없이 주변국 선의에 기댄 중립은 역사에 유례없어",
-        "link": "https://www.chosun.com/opinion/specialist_column/2022/04/18/QHBBTDWVLBFGTJN77AQ32UZ6BQ/",
-        "date": "1일 전",
-        "image_path": "https://images.chosun.com/resizer/L-t2RLqUEaylRd9Sja9kDXBLcmI=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2U7Z67CA4RFY7L2RMEFARYDY6A.png",
-        "catagory": "역사"
-    },
-    {
         "name": "[GMS선교행전] 종교적 유대감으로 뭉친 우크라이나",
         "description": "우크라이나의 역사는 올레그(879∼912)가 882년 루시 공국을 키이우에 세우면서 시작되었다. 당시 유럽의 3대 도시가 런던과 파리, \n키이우였을 만큼...",
         "link": "http://www.kidok.com/news/articleView.html?idxno=215091",
@@ -64,19 +64,27 @@
         "catagory": "역사"
     },
     {
+        "name": "[유로 스코프] 우크라이나 중립화 해법 ‘동상이몽’… 전쟁의 출구가 안 보인다 - 조선일보",
+        "description": "우크라 “나토 회원 준하는 무장 중립국”, 러 “비무장 완충 국가” 자국의 힘 없이 주변국 선의에 기댄 중립은 역사에 유례없어",
+        "link": "https://www.chosun.com/opinion/specialist_column/2022/04/18/QHBBTDWVLBFGTJN77AQ32UZ6BQ/",
+        "date": "1일 전",
+        "image_path": "https://images.chosun.com/resizer/L-t2RLqUEaylRd9Sja9kDXBLcmI=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2U7Z67CA4RFY7L2RMEFARYDY6A.png",
+        "catagory": "역사"
+    },
+    {
+        "name": "목숨 걸고 우크라이나 탈출한 고려인 알미라",
+        "description": "알미라 씨는 3월 21일, 우크라이나 전쟁을 피해 며느리, 손주 3명을 데리고 한국으로 들어왔다 ... 이들이 세계 곳곳을 이주한 \n역사는 아주 오래됐다.",
+        "link": "http://www.danbinews.com/news/articleView.html?idxno=20196",
+        "date": "4분 전",
+        "image_path": "https://cdn.danbinews.com/news/thumbnail/202204/20196_30135_918_v150.jpg",
+        "catagory": "역사"
+    },
+    {
         "name": "우크라이나 현지 선교사 증언 \"민간인 피해 커, 난민구호사역 ...",
         "description": "윤 선교사는 우크라이나 크림반도와 키이우 등에서 31년간 선교를 하며 ... 러시아와 우크라이나 대립 갈등의 이유는 오랜 역사와 자국의 \n이익을 위한...",
         "link": "https://www.manna24.com/single-post/2022/04/14/ksm-testimony-of-ukrainian-missionaries/",
         "date": "4일 전",
         "image_path": "https://www.manna24.com/wp-content/uploads/2022/04/윤선교사.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "[자작나무 숲] 우크라이나의 검은 튤립 - 조선일보",
-        "description": "푸틴의 러시아가 포기하지 않는 역사적 정체성의 본질이기도 하다. 무엇이 민족과 민족 사이를 획정하는가? 언어, 종교, 혈통, 역사, \n이념의 동시성인가?",
-        "link": "https://www.chosun.com/opinion/specialist_column/2022/03/31/M5E5HQI2PVBTDIEKJQIG3K33XM/",
-        "date": "2주 전",
-        "image_path": "https://images.chosun.com/resizer/J1CDx0U9fQ4OJ9dN-wziMQ1mTdo=/640x336/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RG5WYTR3BJD4BH2UBIKHYBM4HQ.jpg",
         "catagory": "역사"
     },
     {
@@ -96,51 +104,11 @@
         "catagory": "역사"
     },
     {
-        "name": "[마이더스] 러시아의 우크라이나 침공… 서방의 각성과 한반도",
-        "description": "우크라이나의 역사는 전체 유럽의 역사와 마찬가지로 복잡다단하다. 우크라이나의 국가 정체성을 인정하지 않는 푸틴은 우크라이나 수도 \n키이우의...",
-        "link": "https://m.yna.co.kr/view/AKR20220330170200980",
-        "date": "2주 전",
-        "image_path": "https://img8.yna.co.kr/photo/cms/2022/03/04/58/PCM20220304000258990_P4.jpg",
-        "catagory": "역사"
-    },
-    {
         "name": "[긴급 인터뷰] 허승철 전 駐우크라이나 대사가 말하는 ‘우크라이나와 러시아’",
         "description": "우리(러시아)와 분리할 수 없는 역사, 문화, 정신의 일부이다. - 독립국가로서의 우크라이나는 레닌과 볼셰비키가 만든 것이다. 이들은 \n역사적으로 러시아의 일부였던 것을...",
         "link": "http://m.monthly.chosun.com/client/news/viw.asp?ctcd=E&nNewsNumb=202204100043",
         "date": "3주 전",
         "image_path": "http://monthly.chosun.com/upload/2204/2204_358.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "'역사의 종언'과 '펠로폰네소스 전쟁사' - 미주 한국일보",
-        "description": "그 당연한 귀결이 이번 우크라이나 침략 전쟁이다. 후쿠야마가 태어나기 훨씬 전 이미 그의 주장을 반박한 사람이 있다. 아테네의 \n장군이었던 투키디데스...",
-        "link": "http://www.koreatimes.com/article/20220411/1410580",
-        "date": "1주 전",
-        "image_path": "http://image.koreatimes.com/photos/LosAngeles/tag_img.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "우크라이나 전쟁과 애국심, 그리고 보훈의 길",
-        "description": "... 이를 위해 러시아가 우크라이나에서 가장 먼저 찾아내 학살하는 사람들은 민족운동가와 역사, 언어를 가르치는 교사들이라고 고발하고 \n있다.",
-        "link": "https://www.pressian.com/pages/articles/2022041720544398068",
-        "date": "1일 전",
-        "image_path": "https://www.pressian.com/_resources/10/2022/04/18/2022041720543845126_l.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "[임지현의 역린] 대통령의 역사관",
-        "description": "우크라이나 역사학계 일각에서는 홀로코스트의 공범자적 과거에 대한 반성의 기운이 일고 있는데, 정작 유대계 대통령 젤렌스키의 역사관은 \n아쉽다.",
-        "link": "https://m.khan.co.kr/opinion/column/article/202203260300035",
-        "date": "3주 전",
-        "image_path": "https://img.khan.co.kr/news/2022/03/26/2022032601003272500297551.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "“한국도 1950년대 전쟁 겪었지만 이겨내…러 맞설 수 있도록 군사장비 도와달라”",
-        "description": "볼로디미르 젤렌스키 우크라이나 대통령은 11일 한국 국회에서 한 연설 ... 이어 “러시아는 가장 먼저 우크라이나 역사·언어 선생님부터 \n찾아내 학살...",
-        "link": "https://m.khan.co.kr/world/world-general/article/202204112115025",
-        "date": "1주 전",
-        "image_path": "https://img.khan.co.kr/news/2022/04/11/2022041201001315900115361.jpg",
         "catagory": "역사"
     },
     {
@@ -152,35 +120,27 @@
         "catagory": "역사"
     },
     {
-        "name": "[전쟁과 경영] 러시아의 남진과 부동항",
-        "description": "[아시아경제 이현우 기자] 러시아군이 개전 53일 만에 우크라이나 남부 ... 정책의 주요 목표가 흑해의 부동항 장악에 있었다는 \n역사로부터 비롯된다.",
-        "link": "https://cm.asiae.co.kr/article/2022041814530910712",
+        "name": "[임지현의 역린] 대통령의 역사관",
+        "description": "우크라이나 역사학계 일각에서는 홀로코스트의 공범자적 과거에 대한 반성의 기운이 일고 있는데, 정작 유대계 대통령 젤렌스키의 역사관은 \n아쉽다.",
+        "link": "https://m.khan.co.kr/opinion/column/article/202203260300035",
+        "date": "3주 전",
+        "image_path": "https://img.khan.co.kr/news/2022/03/26/2022032601003272500297551.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "30년 사이 두 번이나…러시아 공격받은 우크라 여성의 사연",
+        "description": "역사는 반복된다'는 말이 악몽같은 현실이 된 한 여성의 사연이 전해졌다. ... 옛 소련권 국가였던 조지아는 우크라이나와 마찬가지로 \n러시아와의...",
+        "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20220419601015&section=international&type=&page=",
         "date": "4시간 전",
-        "image_path": "https://cphoto.asiae.co.kr/listimglink/6/2022041814492633447_1650260965.jpg",
+        "image_path": "https://imgnn.seoul.co.kr/img/upload/2022/04/19/SSI_20220419172046.jpg",
         "catagory": "역사"
     },
     {
-        "name": "[서재정 칼럼] 우크라이나, 미국의 꽃놀이패? : 칼럼 : 사설.칼럼 ...",
-        "description": "오랜 역사를 가지고 있는 우크라이나 서부 친서방 세력의 반대 시위에 불길이 붙었다. 경찰의 폭력적 진압이 불을 키웠다. 정부의 폭력에 \n분노한...",
-        "link": "https://www.hani.co.kr/arti/opinion/column/1035552.html",
-        "date": "1개월 전",
-        "image_path": "https://img.hani.co.kr/section-image/12/facebook_icon_200.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "'우크라이나와 함께 합니다' - 미주 한국일보",
-        "description": "전란의 격동기. 그 한국 역사의 뒤안길에서 스러져간 안추원(安秋元)이란 사람이다. 1637년 병자호란이 발생했다. 수 백...",
-        "link": "http://www.koreatimes.com/article/1409353",
-        "date": "2주 전",
-        "image_path": "http://image.koreatimes.com/photos/LosAngeles/tag_img.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "러시아 주장대로, 우크라이나는 정말 나치집단인가",
-        "description": "지난 1일자 <조선일보>에 따르면, 러시아·유럽 극우 진영 전문가인 안톤 셰호프초프는 \"아조우 연대는 역사적으로 신나치 집단의 지도부가 \n구성한 민병대...",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002823055",
+        "name": "“한국도 1950년대 전쟁 겪었지만 이겨내…러 맞설 수 있도록 군사장비 도와달라”",
+        "description": "볼로디미르 젤렌스키 우크라이나 대통령은 11일 한국 국회에서 한 연설 ... 이어 “러시아는 가장 먼저 우크라이나 역사·언어 선생님부터 \n찾아내 학살...",
+        "link": "https://m.khan.co.kr/world/world-general/article/202204112115025",
         "date": "1주 전",
-        "image_path": "http://ojsfile.ohmynews.com/CT_T_IMG/2022/0408/IE002969032_LT.jpg",
+        "image_path": "https://img.khan.co.kr/news/2022/04/11/2022041201001315900115361.jpg",
         "catagory": "역사"
     },
     {
@@ -192,19 +152,51 @@
         "catagory": "역사"
     },
     {
-        "name": "[우크라 침공] 돈바스 탱크전 벌어질 듯…21세기 전쟁에도 탱크 필수",
-        "description": "군사 역사에서 보면 잘 조직되고 결사 방어하는 경우 이기기가 쉽지 않다. 또 우크라이나군은 가족과 고국을 위해 싸우지만 러시아군은 집에 \n가고...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/04/342568/",
-        "date": "1일 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/18/image_readtop_2022_342568_0_134411.jpg",
+        "name": "우크라이나 전쟁과 애국심, 그리고 보훈의 길",
+        "description": "... 이를 위해 러시아가 우크라이나에서 가장 먼저 찾아내 학살하는 사람들은 민족운동가와 역사, 언어를 가르치는 교사들이라고 고발하고 \n있다.",
+        "link": "https://www.pressian.com/pages/articles/2022041720544398068",
+        "date": "2일 전",
+        "image_path": "https://www.pressian.com/_resources/10/2022/04/18/2022041720543845126_l.jpg",
         "catagory": "역사"
     },
     {
-        "name": "[로컬라이프] 성남시 '우크라이나 코자크와 러시아 문학' 특강 열어",
-        "description": "우크라이나 일대 코자크 족을 전사 집단으로 묘사한 니콜라이 고골(1809~1852년)의 역사 소설 '타라스 불바', 러시아의 캅카스 \n전쟁 이야기를 쓴 레프...",
-        "link": "https://locallife.news/news/view/1065572455711553",
-        "date": "6시간 전",
-        "image_path": "http://locallife.news/news/data/20220419/p1065572455711553_973_thum.jpg",
+        "name": "[신간] '역알못'도 빠져든다…유튜브 '두선생의 역사공장', 한권 ...",
+        "description": "중동에서 분쟁이 끊이지 않는 이유는 무엇일까. 러시아와 우크라이나 사이의 갈등은 어디서부터 시작된 걸까. 미국의 알래스카와 하와이는 \n어떻게 서로...",
+        "link": "https://www.inews24.com/view/1471956",
+        "date": "3시간 전",
+        "image_path": "https://img-lb.inews24.com/v1/facebookexternalhit/face/626x352/310f0b53e45447.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "러시아 주장대로, 우크라이나는 정말 나치집단인가",
+        "description": "지난 1일자 <조선일보>에 따르면, 러시아·유럽 극우 진영 전문가인 안톤 셰호프초프는 \"아조우 연대는 역사적으로 신나치 집단의 지도부가 \n구성한 민병대...",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002823055",
+        "date": "1주 전",
+        "image_path": "http://ojsfile.ohmynews.com/CT_T_IMG/2022/0408/IE002969032_LT.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "[전쟁과 경영] 러시아의 남진과 부동항",
+        "description": "[아시아경제 이현우 기자] 러시아군이 개전 53일 만에 우크라이나 남부 ... 정책의 주요 목표가 흑해의 부동항 장악에 있었다는 \n역사로부터 비롯된다.",
+        "link": "https://cm.asiae.co.kr/article/2022041814530910712",
+        "date": "11시간 전",
+        "image_path": "https://cphoto.asiae.co.kr/listimglink/6/2022041814492633447_1650260965.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "한국교육신문",
+        "description": "6.25 전쟁을 겪은 대한민국은 지금의 우크라이나 전쟁이 결코 남의 일 같지 않다 ... 허리가 잘린 한반도는 아직도 그대로 남아 \n역사는 당시의 교훈을...",
+        "link": "https://www.hangyo.com/news/article.html?no=96054",
+        "date": "8시간 전",
+        "image_path": "https://www.hangyo.com/data/design/logo/default_image_share_20161101002915.png",
+        "catagory": "역사"
+    },
+    {
+        "name": "[우크라 침공] 돈바스 탱크전 벌어질 듯…21세기 전쟁에도 탱크 필수",
+        "description": "군사 역사에서 보면 잘 조직되고 결사 방어하는 경우 이기기가 쉽지 않다. 또 우크라이나군은 가족과 고국을 위해 싸우지만 러시아군은 집에 \n가고...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/04/342568/",
+        "date": "2일 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/18/image_readtop_2022_342568_0_134411.jpg",
         "catagory": "역사"
     },
     {
@@ -224,19 +216,27 @@
         "catagory": "역사"
     },
     {
-        "name": "한국교육신문",
-        "description": "6.25 전쟁을 겪은 대한민국은 지금의 우크라이나 전쟁이 결코 남의 일 같지 않다 ... 허리가 잘린 한반도는 아직도 그대로 남아 \n역사는 당시의 교훈을...",
-        "link": "https://www.hangyo.com/news/article.html?no=96054",
-        "date": "2시간 전",
-        "image_path": "https://www.hangyo.com/data/design/logo/default_image_share_20161101002915.png",
-        "catagory": "역사"
-    },
-    {
         "name": "크림반도의 전설, 마산드라 와이너리",
         "description": "얼마 전 우크라이나의 와이너리들이 와인병을 이용해 화염병(molotov ... 역사를 잠깐만 들여다보아도 온통 '땅 주인'이 바뀌었다는 \n이야기 일색이다.",
         "link": "https://m.hankookilbo.com/News/Read/A2022032710360005080",
         "date": "3주 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/27/4a2ff8c4-9013-4b8d-ab58-553900b7e218.jpg?t=20220419063024",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/27/4a2ff8c4-9013-4b8d-ab58-553900b7e218.jpg?t=20220419125007",
+        "catagory": "역사"
+    },
+    {
+        "name": "올레나 쉐겔 교수 “우크라이나 전쟁은 되돌릴 수 없는 상처”",
+        "description": "한국에 우크라이나 전쟁의 참상을 전하고자 숨 돌릴 틈 없이 지내는 그가 ... 2000년대 이후 우크라이나의 역사는 러시아에 대항해 \n민주주의라는 우리...",
+        "link": "https://woman.donga.com/Home/3/all/12/3265870/1",
+        "date": "4주 전",
+        "image_path": "https://dimg.donga.com/a/600/0/90/5/ugc/CDB/WOMAN/Article/62/39/7c/5d/62397c5d2190d2738250.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "영산대, 웹툰학과 전시회 '우크라이나&평화전' 선보여",
+        "description": "웹툰학과 최승춘 교수는 표현물로써 웹툰(만화)의 역사와 만평에 대해 교육했다. 최 교수는 소년한국일보, 부산일보 등 시사만화작가를 거쳐 \n현재...",
+        "link": "https://www.msn.com/ko-kr/news/national/%EC%98%81%EC%82%B0%EB%8C%80-%EC%9B%B9%ED%88%B0%ED%95%99%EA%B3%BC-%EC%A0%84%EC%8B%9C%ED%9A%8C-%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98-%ED%8F%89%ED%99%94%EC%A0%84-%EC%84%A0%EB%B3%B4%EC%97%AC/ar-AAWlCX2",
+        "date": "12시간 전",
+        "image_path": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAWlHJF.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
         "catagory": "역사"
     }
 ]
