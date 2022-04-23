@@ -1,21 +1,5 @@
 ﻿[
     {
-        "name": "중국 3월 무역 성장률 코로나19 방역 규제·우크라이나 전쟁으로 ...",
-        "description": "러시아와 우크라이나의 전쟁으로 인한 글로벌 수요 억제로 중국 3월의 수출입 성장률이 둔화할 것이라고 로이터통신이 13일(현지 시간) \n보도했다.",
-        "link": "http://m.g-enews.com/article/Global-Biz/2022/04/202204131507283973c4c1a19e2e_1",
-        "date": "1주 전",
-        "image_path": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2022041315090600196c4c1a19e2e1242186818.jpg",
-        "catagory": "규제"
-    },
-    {
-        "name": "러시아-우크라이나 사태, '의료기기 중소기업' 타격",
-        "description": "러시아와 우크라이나는 글로벌 제약기업들이 다국적 임상시험을 많이 진행하는 국가다. 러시아는 다른 유럽국 대비 상대적으로 임상시험 규제가 \n덜...",
-        "link": "http://www.doctorstimes.com/news/articleView.html?idxno=218515",
-        "date": "2일 전",
-        "image_path": "http://www.doctorstimes.com/news/thumbnail/202204/218515_59768_4250_v150.jpg",
-        "catagory": "규제"
-    },
-    {
         "name": "오바마 IT기업, 잘못된 정보확산으로 민주주의 훼손…규제필요",
         "description": "오바마 전 대통령은 러시아의 우크라이나 침공이나 세계 각지의 독재자 출현 등을 예로 언급했다. 온라인상에서 사용자와 정보가 양극화되면서 \n생긴...",
         "link": "https://radiokorea.com/news/article.php?uid=386631",
@@ -28,39 +12,39 @@
         "description": "조 바이든 대통령은 러시아군이 우크라이나 동부를 점령하기 위한 군사 작전을 ... 그는 바이든 행정부가 이 규제를 시행하고 있음에도 \n불구하고,...",
         "link": "http://www.newsandpost.com/data/read.php?id=news&category=1&no=10374",
         "date": "1일 전",
-        "image_path": "http://newsandpost.com/data/data/news/20220421_news_image_(9).jpg",
+        "image_path": "No Image",
+        "catagory": "규제"
+    },
+    {
+        "name": "[우크라 침공] IAEA \"체르노빌 원전 직통선 복구\"",
+        "description": "국제원자력기구(IAEA)는 19일(현지시간) 우크라이나가 원전 규제당국인 국가원자력규제사찰단(SNRIU)과 체르노빌 원전간 직통선 \n복구를 알려왔다고...",
+        "link": "https://m.mk.co.kr/news/world/view/2022/04/352885/",
+        "date": "3일 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/20/image_readtop_2022_352885_0_155812.jpg",
         "catagory": "규제"
     },
     {
         "name": "자율규제 종식…EU, IT공룡 잡는 '과징금 수조원' 법률 초읽기",
         "description": "특히, 우크라이나 전쟁과 팬데믹을 거치면서 인터넷 기업들이 국가 안보나 건강 위기 기간에 재빨리 대응할 수 있도록 강제하는 방안도 \n검토하고 있다...",
         "link": "https://www.mk.co.kr/news/world/view/2022/04/362052/",
-        "date": "12시간 전",
+        "date": "17시간 전",
         "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/23/image_readtop_2022_362052_0_093511.jpg",
-        "catagory": "규제"
-    },
-    {
-        "name": "[우크라 침공] IAEA \"체르노빌 원전 직통선 복구\"",
-        "description": "국제원자력기구(IAEA)는 19일(현지시간) 우크라이나가 원전 규제당국인 국가원자력규제사찰단(SNRIU)과 체르노빌 원전간 직통선 \n복구를 알려왔다고...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/04/352885/",
-        "date": "3일 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/20/image_readtop_2022_352885_0_155812.jpg",
-        "catagory": "규제"
-    },
-    {
-        "name": "인니, 28일부터 식용팜유 수출중단…글로벌 인플레 심화 우려",
-        "description": "러시아의 우크라이나 침공으로 식용유인 해바라기씨유 수출이 타격을 받은 ... 를 해결하기 위해 지난 1월 팜유 수출을 규제했다가 지난달 \n철폐했다.",
-        "link": "https://www.mk.co.kr/news/world/view/2022/04/362042/",
-        "date": "12시간 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/23/image_readtop_2022_362042_0_093211.jpg",
         "catagory": "규제"
     },
     {
         "name": "우크라이나 피란민 미국 입국 간소화...미 연준 의장, 5월 0.5%P 금리 인상 시사",
         "description": "미국 정부가 우크라이나인들을 대상으로 한 새로운 입국 프로그램을 발표 ... 규제 당국은 각 시설에서 개인당 최대 1온스, 약 \n28그램의 마리화나를...",
         "link": "https://www.voakorea.com/a/us-to-streamline-admittance-of-ukrainian-refugees/6540834.html",
-        "date": "21시간 전",
+        "date": "1일 전",
         "image_path": "https://gdb.voanews.com/03cc0000-0aff-0242-cef0-08da23add907_w1200_r1.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "인니, 28일부터 식용팜유 수출중단…글로벌 인플레 심화 우려",
+        "description": "러시아의 우크라이나 침공으로 식용유인 해바라기씨유 수출이 타격을 받은 ... 를 해결하기 위해 지난 1월 팜유 수출을 규제했다가 지난달 \n철폐했다.",
+        "link": "https://www.mk.co.kr/news/world/view/2022/04/362042/",
+        "date": "17시간 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/23/image_readtop_2022_362042_0_093211.jpg",
         "catagory": "규제"
     },
     {
@@ -69,14 +53,6 @@
         "link": "https://www.hankyung.com/finance/article/2022042134831",
         "date": "2일 전",
         "image_path": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
-        "catagory": "규제"
-    },
-    {
-        "name": "이주의 주식시장은? 러시아-우크라이나 전쟁 여파, 사료·곡물주 다시 급등... 철강주도 강세, 쌍용차 인수전 다시 이슈, 일동제약 주가 \n요동,",
-        "description": "이에 대해 시오노기제약은 “해당 비임상 시험은 의약품 개발에 있어 규제상 요구되는 안전성 시험의 하나”라며 “사람을 대상으로 한 임상 \n전 투여량과...",
-        "link": "http://www.ggilbo.com/news/articleView.html?idxno=908611",
-        "date": "12시간 전",
-        "image_path": "http://cdn.ggilbo.com/news/photo/202204/908611_739675_2337.png",
         "catagory": "규제"
     },
     {
@@ -96,11 +72,11 @@
         "catagory": "규제"
     },
     {
-        "name": "[암호화폐] 4월 23일: 비트코인 4만달러 밑으로 하락, 우크라이나 ...",
-        "description": "우크라이나 중앙은행이 방금 법정화폐로 암호화폐 구매를 금지했다. ... 를 포함한 국경을 넘나드는 '현금 대 현금 거래'에 대한 규제를 \n강화했다.",
-        "link": "http://www.goodmorningvietnam.co.kr/news/article.html?no=52032",
-        "date": "6시간 전",
-        "image_path": "http://www.goodmorningvietnam.co.kr/data/photos/20220416/art_16506953059711_08b6fb.png",
+        "name": "이주의 주식시장은? 러시아-우크라이나 전쟁 여파, 사료·곡물주 다시 급등... 철강주도 강세, 쌍용차 인수전 다시 이슈, 일동제약 주가 \n요동,",
+        "description": "이에 대해 시오노기제약은 “해당 비임상 시험은 의약품 개발에 있어 규제상 요구되는 안전성 시험의 하나”라며 “사람을 대상으로 한 임상 \n전 투여량과...",
+        "link": "http://www.ggilbo.com/news/articleView.html?idxno=908611",
+        "date": "18시간 전",
+        "image_path": "http://cdn.ggilbo.com/news/photo/202204/908611_739675_2337.png",
         "catagory": "규제"
     },
     {
@@ -112,6 +88,14 @@
         "catagory": "규제"
     },
     {
+        "name": "[암호화폐] 4월 23일: 비트코인 4만달러 밑으로 하락, 우크라이나 ...",
+        "description": "우크라이나 중앙은행이 방금 법정화폐로 암호화폐 구매를 금지했다. ... 를 포함한 국경을 넘나드는 '현금 대 현금 거래'에 대한 규제를 \n강화했다.",
+        "link": "http://www.goodmorningvietnam.co.kr/news/article.html?no=52032",
+        "date": "11시간 전",
+        "image_path": "http://www.goodmorningvietnam.co.kr/data/photos/20220416/art_16506953059711_08b6fb.png",
+        "catagory": "규제"
+    },
+    {
         "name": "[게시판] 박주봉 중기 옴부즈만, 경남 수출기업과 규제개선 간담회",
         "description": "이번 간담회는 코로나19와 우크라이나 전쟁 등으로 경영에 어려움을 겪는 수출 중소기업 관계자들의 목소리를 듣기 위해 마련됐다.",
         "link": "https://www.mk.co.kr/news/economy/view/2022/04/355702/",
@@ -120,35 +104,11 @@
         "catagory": "규제"
     },
     {
-        "name": "유럽 탄소배출권 가격 8% 급등하자 함께 웃은 '탄소배출 ETF'",
-        "description": "각국 정부가 환경규제를 강화하자 유럽 탄소배출권 ETF는 올해 2월 말까지 9%대의 높은 수익률을 보였으나, 우크라이나 사태로 세계적 \n경기 둔화가...",
-        "link": "https://www.hankyung.com/finance/article/202204213352i",
-        "date": "2일 전",
-        "image_path": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
-        "catagory": "규제"
-    },
-    {
-        "name": "\"日, 우크라이나 위기 이용해 군사력 확대\" - 中 관변 매체",
-        "description": "중국 관변 매체 글로벌타임스는 특히 미중 관계가 악화함에 따라 일본은 핵 문제에서 추가적인 규제 완화도 기대하고 있다며 경계심을 \n드러냈습니다.",
-        "link": "https://www.ytn.co.kr/_ln/0104_202204221136230652",
-        "date": "1일 전",
-        "image_path": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg",
-        "catagory": "규제"
-    },
-    {
         "name": "위기가 증명한 코인의 힘… 디지털 金으로 변신 시도",
         "description": "우크라이나와 러시아 간 전쟁 발발 이후 비트코인으로 대변되는 가상자산 ... 는 우크라이나 침공을 강행한 대가로 미국과 유럽이 주도하는 \n각종 규제...",
         "link": "https://www.mk.co.kr/news/economy/view/2022/04/312635/",
         "date": "2주 전",
         "image_path": "https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_312635_16492956445001662.jpg",
-        "catagory": "규제"
-    },
-    {
-        "name": "[천지일보 이슈종합] 검수완박 중재안 합의·TSMC 파운드리 ...",
-        "description": "러시아와 교전 중인 우크라이나에 의용군으로 참전한 우리 국민 중 사망자가 ... 부동산 규제완화 기대감에 서울 내 아파트 매수심리가 \n대선 이후 7주...",
-        "link": "http://www.newscj.com/news/articleView.html?idxno=973047",
-        "date": "16시간 전",
-        "image_path": "https://cdn.newscj.com/news/photo/202204/newscj_천지일보_2022_4_23_55551_1042278.jpg",
         "catagory": "규제"
     },
     {
@@ -176,27 +136,11 @@
         "catagory": "규제"
     },
     {
-        "name": "젤렌스키 \"러, 화학 무기 사용할 수도 있어...러시아산 천연가스 ...",
-        "description": "러시아산 천연가스부터 규제해야\" ... 우크라이나 남부 지역 도시 마리우폴에서 화학 무기 사용됐다는 정황 포착돼 진위 여부 조사 \n중이나,...",
-        "link": "https://m.joseilbo.com/news/view.htm?newsid=451530",
-        "date": "1주 전",
-        "image_path": "http://www.joseilbo.com/gisa_img/",
-        "catagory": "규제"
-    },
-    {
-        "name": "중국 규제완화에도 주택가격 하락 지속…3월 0.07%↓",
-        "description": "여기에 최근 우한 사태 때보다 더 심각해진 중국 코로나19 확산, 우크라이나 전쟁 등 안팎의 커다란 악재가 더해지자 경기 충격을 \n완화하기 위해 경기...",
-        "link": "https://www.mk.co.kr/news/economy/view/2022/04/338478/",
-        "date": "1주 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/15/image_readtop_2022_338478_0_141111.jpg",
-        "catagory": "규제"
-    },
-    {
-        "name": "전쟁 피해 미국 향한 우크라 어린이들, 국경 못 넘어",
-        "description": "[이데일리 이현정 인턴기자] 전쟁을 피해 미국으로 향한 우크라이나 어린이 ... 와 '부모가 아닌 보호자'의 동반 입국을 규제하는 \n조항이 수록됐다.",
-        "link": "https://www.edaily.co.kr/news/read?newsId=03145526632298088&mediaCodeNo=257",
-        "date": "3일 전",
-        "image_path": "https://image.edaily.co.kr/images/Photo/files/NP/S/2022/04/PS22042000876.jpg",
+        "name": "[천지일보 이슈종합] 검수완박 중재안 합의·TSMC 파운드리 ...",
+        "description": "러시아와 교전 중인 우크라이나에 의용군으로 참전한 우리 국민 중 사망자가 ... 부동산 규제완화 기대감에 서울 내 아파트 매수심리가 \n대선 이후 7주...",
+        "link": "http://www.newscj.com/news/articleView.html?idxno=973047",
+        "date": "22시간 전",
+        "image_path": "https://cdn.newscj.com/news/photo/202204/newscj_천지일보_2022_4_23_55551_1042278.jpg",
         "catagory": "규제"
     },
     {
@@ -208,35 +152,91 @@
         "catagory": "규제"
     },
     {
-        "name": "규제로 방어하는 러시아 루블화…장기 전망은 '먹구름'(러시아 ...",
-        "description": "현재 루블화의 가치는 달러당 99루블로 지난달 24일 우크라이나 침공 직전보다 17% 하락했다. 다만 지난 7일 루블화가 달러당 \n151루블까지 하락했다는 점...",
-        "link": "http://www.topstarnews.net/news/articleView.html?idxno=14680819",
-        "date": "3주 전",
-        "image_path": "https://cdn.topstarnews.net/news/photo/202203/14680819_776302_2843.jpg",
+        "name": "전쟁 피해 미국 향한 우크라 어린이들, 국경 못 넘어",
+        "description": "[이데일리 이현정 인턴기자] 전쟁을 피해 미국으로 향한 우크라이나 어린이 ... 와 '부모가 아닌 보호자'의 동반 입국을 규제하는 \n조항이 수록됐다.",
+        "link": "https://www.edaily.co.kr/news/read?newsId=03145526632298088&mediaCodeNo=257",
+        "date": "3일 전",
+        "image_path": "https://image.edaily.co.kr/images/Photo/files/NP/S/2022/04/PS22042000876.jpg",
         "catagory": "규제"
     },
     {
         "name": "''구글·메타 '겨냥 EU 디지털 서비스법 승인…韓 입법 가속화되나",
         "description": "러시아의 우크라이나 침공과 관련한 가짜 정보가 인터넷 상에서 범람하자 이에 ... EU의 이같은 대형 플랫폼 사업자에 대한 규제는 \n미국과 캐나다,...",
         "link": "https://www.inews24.com/view/1473413",
-        "date": "9시간 전",
+        "date": "14시간 전",
         "image_path": "https://img-lb.inews24.com/v1/facebookexternalhit/face/626x352/975c959fb26823.jpg",
         "catagory": "규제"
     },
     {
-        "name": "추경하면서 물가잡겠다·규제풀며 부동산 안정…산적한 난제",
-        "description": "우크라이나 사태가 전 세계 경제에 악영향을 미치면서 새롭게 출범하는 윤석열 정부가 시작부터 곤혹스러운 상황을 맞게 됐다.",
-        "link": "https://m.mk.co.kr/news/economy/view/2022/04/319979/",
+        "name": "물가.집값.가계대출..빨간불. 윤석열 정부 공약이행 '난감'",
+        "description": "다음달 출범하는 윤석열 정부의 '50조 추경'과 '부동산세제·대출규제 완화' ... 대선 이후 한달만에 미국의 빠른 금리인상, 러시아의 \n우크라이나 침공...",
+        "link": "https://m.khan.co.kr/article/202204031927001",
+        "date": "3주 전",
+        "image_path": "https://img.khan.co.kr/news/2022/04/03/2022040301000234200017111.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "[우크라 침공] 규제로 방어하는 러시아 루블화…장기 전망은 '먹구름'",
+        "description": "월스트리트저널(WSJ)은 28일(현지시간) 우크라이나 침공 후 러시아 정부가 루블화 방어를 위해 다양한 규제를 동원해 일단 추가 폭락 \n상황은 발생하지...",
+        "link": "https://www.yna.co.kr/view/AKR20220328169700072",
+        "date": "3주 전",
+        "image_path": "https://img2.yna.co.kr/photo/etc/ta/2022/03/24/PTA20220324010401009_P4.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "\"우크라 사태로 카플레이션 심화…저렴한 자동차 사라진다\"",
+        "description": "러시아의 우크라이나 침공 사태로 자동차 가격이 상승하는 '카 ... 우선 전략과 환경 규제 강화로 저렴한 자동차가 사라지고 있다는 \n분석이 나왔다.",
+        "link": "https://www.mk.co.kr/news/economy/view/2022/04/322100/",
         "date": "2주 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/10/image_readtop_2022_319979_0_060011.jpg",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/11/image_readtop_2022_322100_0_060111.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "미국 '대러 제재 구멍' 암호화폐 업체 등 추가 제재",
+        "description": "... 이 될 수 있기 때문에 각국 규제 당국이 경계할 필요가 있다고 밝혔다. ... 바이든 대통령은 우크라이나에 대한 8억달러(약 \n9882억원)어치의 추가...",
+        "link": "https://www.hani.co.kr/arti/international/america/1039810.html",
+        "date": "2일 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/787/524/imgdb/original/2022/0421/20220421501127.jpg",
         "catagory": "규제"
     },
     {
         "name": "유럽연합, IT공룡 잡는 '디지털서비스법' 내년 시행",
         "description": "이런 법들은 유럽이 전 세계적으로 테크 기업에 대한 규제에 기준을 어떻게 ... 특히, 우크라이나 전쟁과 팬데믹을 거치면서 인터넷 \n기업들이 국가...",
         "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=66238",
-        "date": "11시간 전",
+        "date": "17시간 전",
         "image_path": "http://www.opinionnews.co.kr/news/thumbnail/202204/66238_49338_5936_v150.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "오병권 권한대행, 21일 우크라이나 사태 관련 5차 민관TF 점검회의 개최",
+        "description": "에너지경제연구원 이상열 박사는 “도에서는 차량 5부제 같은 규제적 수요 절감 정책보다는 대중교통 이용 도민에게 소득공제 등 인센티브를 \n부여하는...",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=209255",
+        "date": "4일 전",
+        "image_path": "https://cdn.straightnews.co.kr/news/thumbnail/202204/209255_108671_847_v150.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "[우크라 침공] 노벨평화상 수상자 이끄는 러시아 독립언론 발행 중단",
+        "description": "노벨 평화상 수상자가 이끄는 러시아 독립언론이 규제 당국의 경고에 ... 인 드미트리 무라토프는 28일(현지시간) \"우크라이나에서 \n러시아의 군사행동...",
+        "link": "https://m.mk.co.kr/news/world/view/2022/03/280694/",
+        "date": "4주 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/03/28/image_readtop_2022_280694_0_222611.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "\"우크라이나 사태로 러시아 발 그래픽카드가 4월 중 입고될 예정\" 국내 유통사 관계자 확보 / 오목교 전자상가 [EP.82]",
+        "description": "현재 회항 중인 그래픽카드 물량들은 국내 규제(KC마크 등)에 맞춰 중국 및 대만 생산 공장에서 재포장과 검수 과정이 필요한 것으로 \n알려졌습니다.",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006694050",
+        "date": "3주 전",
+        "image_path": "https://img.sbs.co.kr/newimg/news/20220329/201650907_1280.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "'에너지 공기업 구조개혁' 필요하다",
+        "description": "전기료 규제 대신 흑자경영 허용 관료주의 막고 규제 철폐해야\" ... 우크라이나 사태 등으로 국제 에너지 가격이 급등함에 따라 올해 \n사상 최대 20...",
+        "link": "https://www.hankyung.com/opinion/article/2022042264191",
+        "date": "1일 전",
+        "image_path": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
         "catagory": "규제"
     }
 ]
