@@ -49,7 +49,6 @@ header {
   border-collapse: collapse;
   text-align: center;
   font-size: 14px;
-  line-height: 20px;
 }
 
 .lang-btn {
@@ -98,9 +97,12 @@ header {
   color: #767676;
   text-align: center;
 }
-.lang-cont.on {
+
+.select-lang.on .lang-cont {
   display: flex;
+  z-index: 10;
 }
+
 .lang-cont .lang-items {
   width: 100%;
   padding: 4px 0;
@@ -113,6 +115,49 @@ header {
 .sponsor-info-btn {
   display: none;
 }
+
+.lang-cont > li{
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.lang-items{
+  display: flex;
+  gap:5px;
+  align-items: center;
+}
+
+
+.flag{
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+  vertical-align: text-bottom;
+}
+
+.ko-kr{
+  background: url("/image/KR.png") no-repeat;
+  background-size: 100% 100%;
+  margin-right:15px;
+}
+
+.en {
+  background: url("/image/US.png") no-repeat;
+  background-size: 100% 100%;
+  margin-right:15px;
+}
+
+.uk{
+  background: url("/image/UK.png") no-repeat;
+  background-size: 20px;
+}
+
+.uk-title-wrapper{
+  display: flex;
+  flex-direction: column;
+}
+
 /* header: end --------------------------------*/
 
 /* main ----------------------------------------*/
@@ -433,6 +478,7 @@ footer {
 
 /* 구글 번역 API */
 .hd_lang {
+  display: none;
   font-size: 14px;
   min-width: 120px;
   height: 40px;
