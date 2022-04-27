@@ -1,25 +1,41 @@
 ﻿[
     {
-        "name": "푸틴, 방러 유엔 총장과 회담…\"우크라 협상 타결 여전히 기대\"",
-        "description": "그러면서 \"하지만 협상은 계속되고 있고 현재 온라인 형식으로 진행되고 ... 푸틴 대통령은 또 \"(우크라이나 남부 도시) 마리우폴 \n상황이 복잡하고...",
-        "link": "https://news.koreadaily.com/2022/04/26/society/international/20220426113944696.html",
+        "name": "푸틴·유엔총장 회담…\"협상타결 기대\" vs \"인도적 상황 개선을 ...",
+        "description": "이 자리에서 푸틴 대통령은 군사작전이 진행 중이지만 사태를 종식하기 위한 협상에 여전히 기대를 걸고 있다고 밝혔고, 구테흐스 사무총장은 \n우크라이나...",
+        "link": "https://news.koreadaily.com/2022/04/26/society/international/20220426130650688.html",
         "date": "1일 전",
         "image_path": "https://news.koreadaily.com/resources/images/logo/sns-logo.png",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "푸틴·유엔총장 회담…\"협상타결 기대\" vs \"인도적 상황 개선을\"",
+        "description": "안토니우 구테흐스 유엔 사무총장이 블라디미르 푸틴 러시아 대통령과 만나 우크라이나 사태에 대해 논의했습니다.",
+        "link": "https://www.yna.co.kr/view/MYH20220427001600038",
+        "date": "3시간 전",
+        "image_path": "https://img3.yna.co.kr/mpic/YH/2022/04/27/MYH20220427001600038.jpg",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "푸틴, '6m 거리두기' 유엔총장 면담…\"다 우크라 때문\"만 반복",
+        "description": "러시아와 우크라이나 협상 대표단이 지난달 말 터키 이스탄불 5차 평화협상에서 '중대한 ... 푸틴 대통령은 마리우폴 상황에 대해서도 \n언급했다.",
+        "link": "https://news.mt.co.kr/mtview.php?no=2022042707153571583",
+        "date": "3시간 전",
+        "image_path": "https://thumb.mt.co.kr/21/2022/04/2022042707153571583_1.jpg",
         "catagory": "협상 진행 과정"
     },
     {
         "name": "'장기화 수렁' 빠진 전쟁, 멀어지는 평화협상…우크라이나 전쟁 ...",
         "description": "러시아의 침공으로 시작된 우크라이나 전쟁 두달을 하루 앞두고 23일(현지 ... 위신의 추락을 각오해야 하는 상황에 이르면 '전술핵'을 \n쓰는 모험에...",
         "link": "https://www.hani.co.kr/arti/international/international_general/1040234.html",
-        "date": "1일 전",
+        "date": "2일 전",
         "image_path": "https://flexible.img.hani.co.kr/flexible/normal/970/742/imgdb/original/2022/0424/20220424501972.jpg",
         "catagory": "협상 진행 과정"
     },
     {
-        "name": "러 외무장관 \"우크라이나 사태는 조약 체결로 끝날 것\"",
-        "description": "라브로프 장관은 선의는 무한정한 것이 아니며, 선의에 응하지 않으면 협상 진행에 도움이 되지 않을 가능성이 크다고 피력했다.",
-        "link": "https://korean.cri.cn/2022/04/26/ARTIeaPGbL3bpoHkiJYm7ECC220426.shtml",
-        "date": "16시간 전",
+        "name": "러 외무장관, 협상을 통한 우크라 위기 해결 의향 밝혀",
+        "description": "라브로프 장관은 회담 후 가진 공동기자회견에서 우크라이나의 현 상황은 미국과 동맹국들이 나토를 제한 없이 확대하고 일방적인 세계 정책을 \n펴온 탓이...",
+        "link": "https://korean.cri.cn/2022/04/27/ARTILa6ei1tfXTPCt0c5SDu4220427.shtml",
+        "date": "42분 전",
         "image_path": "No Image",
         "catagory": "협상 진행 과정"
     },
@@ -27,15 +43,23 @@
         "name": "푸틴, 평화협상 포기하고 영토 확장 전략으로?",
         "description": "블라디미르 푸틴 러시아 대통령이 우크라이나 전쟁에서 평화협상을 포기 ... 구단주 등 중재자들은 푸틴에게 협상의 교착 상황을 타개하기 \n위해 젤...",
         "link": "https://www.hani.co.kr/arti/international/international_general/1040215.html",
-        "date": "1일 전",
+        "date": "2일 전",
         "image_path": "https://flexible.img.hani.co.kr/flexible/normal/537/721/imgdb/original/2022/0425/20220425500210.jpg",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "러 외무장관 \"우크라이나 사태는 조약 체결로 끝날 것\"",
+        "description": "라브로프 장관은 선의는 무한정한 것이 아니며, 선의에 응하지 않으면 협상 진행에 도움이 되지 않을 가능성이 크다고 피력했다.",
+        "link": "https://korean.cri.cn/2022/04/26/ARTIeaPGbL3bpoHkiJYm7ECC220426.shtml",
+        "date": "1일 전",
+        "image_path": "No Image",
         "catagory": "협상 진행 과정"
     },
     {
         "name": "러시아-우크라이나 전쟁: 최근 전개 상황 < 전쟁/난민 < 국제 ...",
         "description": "하지만 그것이 상호적이지 않다면, 그것은 협상 과정에 도움이 되지 않는다\"라고 말했다. - 美 외교관 복귀 토니 블링컨 미 국무장관은 \n러시아의 침공이...",
         "link": "https://www.gukjenews.com/news/articleView.html?idxno=2455487",
-        "date": "15시간 전",
+        "date": "23시간 전",
         "image_path": "https://cdn.gukjenews.com/news/thumbnail/202204/2455487_2450716_625_v150.jpg",
         "catagory": "협상 진행 과정"
     },
@@ -48,38 +72,6 @@
         "catagory": "협상 진행 과정"
     },
     {
-        "name": "[문정인의 '포스트 코로나- 문명과 삶'#4] 우크라이나 전쟁 ...",
-        "description": "러시아- 우크라이나 전쟁 대담의 후반부에서 문정인 교수는 러시아의 ... 사태를 전쟁이 아닌 협상으로 어떻게 끝낼 것인가에 관해 현재 \n진행 상황 등...",
-        "link": "https://firenzedt.com/21902",
-        "date": "2일 전",
-        "image_path": "https://cdn.firenzedt.com/wp-content/uploads/2022/04/KakaoTalk_Photo_2022-04-24-16-36-23-004-e1650786009522.png",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "美, 국무∙국방 키이우 기차이동 분단위 추적…러는 일행 떠나자 ...",
-        "description": "토니 블링컨 미 국무장관과 로이드 J 오스틴 국방장관의 우크라이나 수도 키이우 방문 일정은 철저한 비밀 속에 진행됐다.",
-        "link": "https://www.chosun.com/international/europe/2022/04/26/KH45LCNSXZDXPA6MOGJIE3HFKM/",
-        "date": "15시간 전",
-        "image_path": "https://images.chosun.com/resizer/fm57z0N9BFULwd8dnfLUvp9H2vk=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QHZANJ5BHNIX5C2KZYB4T6KIUY.jpg",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "푸틴 “젤렌스키 대통령과 직접 회담 가능성?···협상 일관성 안보여”",
-        "description": "이날 크렘린궁 보도문에 따르면 푸틴 대통령은 이 통화에서 러시아군이 장악한 우크라이나 남부 도시 마리우폴 상황에 관해 설명하면서 \n“마리우폴 해방 뒤...",
-        "link": "https://m.khan.co.kr/world/europe-russia/article/202204230823001",
-        "date": "3일 전",
-        "image_path": "https://img.khan.co.kr/news/2022/04/23/2022042301002876000258151.jpg",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "우크라이나, 마리우폴 제철소 철수 위한 협상 제안",
-        "description": "러시아는 우크라이나의 협상 제안에 대해 즉각적인 반응을 내놓지 않았다고 ... 루한스크 전체가 지속적인 폭격으로 심각한 상황에 \n놓였다”고 전했다.",
-        "link": "https://www.hani.co.kr/arti/international/international_general/1039820.html",
-        "date": "5일 전",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/485/imgdb/original/2022/0421/20220421501431.jpg",
-        "catagory": "협상 진행 과정"
-    },
-    {
         "name": "러 외무 \"우크라, 이스탄불 협상 합의 번복…새 협정안 제안\"",
         "description": "인테르팍스 통신 등에 따르면 라브로프 장관은 이날 자국 기자들에게 평화 협상 진행 상황에 관해 설명하며 \"어제 우크라이나가 지난달 \n이스탄불 회담...",
         "link": "https://m.mk.co.kr/news/world/view/2022/04/315595/",
@@ -88,11 +80,43 @@
         "catagory": "협상 진행 과정"
     },
     {
-        "name": "\"숙식 무료·월급 365만원\" 韓에 러 모병 광고 등장",
-        "description": "그럼에도 라브로프 장관은 우크라이나 전쟁이 결국에는 협상으로 해결될 것이라고 자신하며 \"협상 체결 당시 전쟁 상황이 모든 미래를 \n결정하게 될...",
-        "link": "https://zdnet.co.kr/view/?no=20220426153013",
-        "date": "12시간 전",
-        "image_path": "https://image.zdnet.co.kr/2022/04/26/23e1f99ed1a0a341e7938ede386b1066.jpg",
+        "name": "푸틴 “젤렌스키 대통령과 직접 회담 가능성?···협상 일관성 안보여”",
+        "description": "이날 크렘린궁 보도문에 따르면 푸틴 대통령은 이 통화에서 러시아군이 장악한 우크라이나 남부 도시 마리우폴 상황에 관해 설명하면서 \n“마리우폴 해방 뒤...",
+        "link": "https://m.khan.co.kr/world/europe-russia/article/202204230823001",
+        "date": "4일 전",
+        "image_path": "https://img.khan.co.kr/news/2022/04/23/2022042301002876000258151.jpg",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "우크라이나, 마리우폴 제철소 철수 위한 협상 제안",
+        "description": "러시아는 우크라이나의 협상 제안에 대해 즉각적인 반응을 내놓지 않았다고 ... 루한스크 전체가 지속적인 폭격으로 심각한 상황에 \n놓였다”고 전했다.",
+        "link": "https://www.hani.co.kr/arti/international/international_general/1039820.html",
+        "date": "6일 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/485/imgdb/original/2022/0421/20220421501431.jpg",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "우크라, 마리우폴 대피 '무조건 협상' 제안… 美 \"부차보다 상황 ...",
+        "description": "우크라이나 정부가 남동부 항구도시 마리우폴에 남은 자국군과 민간인 대피를 위한 '조건 없는 협상'을 러시아 측에 제안했다. 이 곳에서 \n우크라이나...",
+        "link": "https://www.hankookilbo.com/News/Read/A2022042108260001679",
+        "date": "6일 전",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/04/21/0d420fe6-711c-4a25-a957-8ab0bca7e5ba.jpg?t=20220427021524",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "\"마리우폴 마지막날 임박\"…우크라, 특별협상 제안",
+        "description": "러시아군의 최후 공격을 앞두고 마리우폴 상황이 부차 학살보다 더 심각할 ... 우크라이나 정부는 마리우폴에서 특별 협상을 진행하자고 \n러시아 측에...",
+        "link": "https://www.yna.co.kr/view/MYH20220421011100038",
+        "date": "5일 전",
+        "image_path": "https://img7.yna.co.kr/mpic/YH/2022/04/21/MYH20220421011100038.jpg",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "美, 국무∙국방 키이우 기차이동 분단위 추적…러는 일행 떠나자 ...",
+        "description": "토니 블링컨 미 국무장관과 로이드 J 오스틴 국방장관의 우크라이나 수도 키이우 방문 일정은 철저한 비밀 속에 진행됐다.",
+        "link": "https://www.chosun.com/international/europe/2022/04/26/KH45LCNSXZDXPA6MOGJIE3HFKM/",
+        "date": "22시간 전",
+        "image_path": "https://images.chosun.com/resizer/fm57z0N9BFULwd8dnfLUvp9H2vk=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QHZANJ5BHNIX5C2KZYB4T6KIUY.jpg",
         "catagory": "협상 진행 과정"
     },
     {
@@ -104,35 +128,19 @@
         "catagory": "협상 진행 과정"
     },
     {
-        "name": "“러시아-우크라이나 사태로 국내 보건산업 영향 불가피”",
-        "description": "진흥원은 “러시아와 우크라이나간 협상이 진행되는 와중에도 지속적인 공격도 ... 또 “기업 차원에서 수출 대상국 경기 상황, 원·부자재 \n수급 상황과...",
-        "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=2022355",
-        "date": "15시간 전",
-        "image_path": "https://cdn.docdocdoc.co.kr/news/thumbnail/202204/2022355_2026796_3349_v150.jpg",
+        "name": "美 \"우크라 중립화·NATO 불가입 반대 안 해\"",
+        "description": "폴 의원은 NATO 가입 문제가 러시아와 우크라이나 평화협상에서 핵심 사안 ... 아울러 우크라이나 위기 상황에서 일본이 주목할 만한 \n행보를 보였다는...",
+        "link": "https://www.fnnews.com/news/202204270904315436",
+        "date": "1시간 전",
+        "image_path": "https://image.fnnews.com/resource/media/image/2022/04/27/202204270016557409_l.jpg",
         "catagory": "협상 진행 과정"
     },
     {
-        "name": "우크라 “키이우 수도권 탈환” 선언… 동·남부 최대 격전지 예고",
-        "description": "러시아군이 돈바스 지역을 모두 점령하기 위해 우크라이나와의 평화협상 진행 상황을 지켜보며 화력을 쏟아 부을 것으로 관측되고 있다.",
-        "link": "https://www.hankookilbo.com/News/Read/A2022040311430002626",
-        "date": "3주 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/04/03/7329d00a-4462-417c-9534-862b225819d1.jpg?t=20220426184251",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "유엔 총장 \"아조우스탈에 자원 총동원 준비\"...러시아, '핵전쟁·3차대전 위험' 경고",
-        "description": "이에 대해 라브로프 러시아 외무장관의 반응은 즉각 알려지지 않았습니다. 다만 라브로프 장관은 이날 회동 모두 발언에서, 우크라이나 \n상황이 \"수많은...",
-        "link": "https://www.voakorea.com/a/6545563.html",
-        "date": "3시간 전",
-        "image_path": "https://gdb.voanews.com/09770000-0a00-0242-428a-08da176349b8_w1200_r1.jpg",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "푸틴·젤렌스키 회동 추진... “외무장관 협상서 평화협정 체결할수도” - 조선일보",
-        "description": "러시아 측은 협상이 끝난 뒤 “건설적으로 진행됐다”고 말했다. 우크라이나 측은 이날 협상에서 “러시아에 새로운 안보 보장 시스템을 \n제안했다”고 밝혔다.",
-        "link": "https://www.chosun.com/international/europe/2022/03/29/ZHBX2JJUFVFEPOU4LSDBAMELZE/",
-        "date": "1개월 전",
-        "image_path": "https://images.chosun.com/resizer/0HIhJyUKXXILpdLkqMecN8K69xo=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CSZ6XXHEDBM5LBT3P26FSABXVI.jpg",
+        "name": "\"숙식 무료·월급 365만원\" 韓에 러 모병 광고 등장",
+        "description": "그럼에도 라브로프 장관은 우크라이나 전쟁이 결국에는 협상으로 해결될 것이라고 자신하며 \"협상 체결 당시 전쟁 상황이 모든 미래를 \n결정하게 될...",
+        "link": "https://zdnet.co.kr/view/?no=20220426153013",
+        "date": "19시간 전",
+        "image_path": "https://image.zdnet.co.kr/2022/04/26/23e1f99ed1a0a341e7938ede386b1066.jpg",
         "catagory": "협상 진행 과정"
     },
     {
@@ -144,11 +152,19 @@
         "catagory": "협상 진행 과정"
     },
     {
-        "name": "[우크라 침공] 영국총리 \"악어 같은 푸틴 탓 평화협상 어려울 듯\"",
-        "description": "그는 \"악어에게 다리를 물린 상황에서 악어와 협상하는 게 우크라이나가 처한 어려움\"이라며 \"우리는 우크라이나에 무기를 계속 공급하면서 \n그대로...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/04/355728/",
-        "date": "5일 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/21/image_readtop_2022_355728_0_120511.jpg",
+        "name": "푸틴·젤렌스키 회동 추진... “외무장관 협상서 평화협정 체결할수도” - 조선일보",
+        "description": "러시아 측은 협상이 끝난 뒤 “건설적으로 진행됐다”고 말했다. 우크라이나 측은 이날 협상에서 “러시아에 새로운 안보 보장 시스템을 \n제안했다”고 밝혔다.",
+        "link": "https://www.chosun.com/international/europe/2022/03/29/ZHBX2JJUFVFEPOU4LSDBAMELZE/",
+        "date": "1개월 전",
+        "image_path": "https://images.chosun.com/resizer/0HIhJyUKXXILpdLkqMecN8K69xo=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CSZ6XXHEDBM5LBT3P26FSABXVI.jpg",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "우크라 “키이우 수도권 탈환” 선언… 동·남부 최대 격전지 예고",
+        "description": "러시아군이 돈바스 지역을 모두 점령하기 위해 우크라이나와의 평화협상 진행 상황을 지켜보며 화력을 쏟아 부을 것으로 관측되고 있다.",
+        "link": "https://m.hankookilbo.com/News/Read/A2022040311430002626?rPrev=A2022040409500004215",
+        "date": "3주 전",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/04/03/7329d00a-4462-417c-9534-862b225819d1.jpg?t=20220427021540",
         "catagory": "협상 진행 과정"
     },
     {
@@ -157,6 +173,22 @@
         "link": "https://www.hani.co.kr/arti/politics/politics_general/1036739.html",
         "date": "1개월 전",
         "image_path": "https://flexible.img.hani.co.kr/flexible/normal/580/367/imgdb/original/2022/0329/20220329503336.jpg",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "“러시아-우크라이나 사태로 국내 보건산업 영향 불가피”",
+        "description": "진흥원은 “러시아와 우크라이나간 협상이 진행되는 와중에도 지속적인 공격도 ... 또 “기업 차원에서 수출 대상국 경기 상황, 원·부자재 \n수급 상황과...",
+        "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=2022355",
+        "date": "23시간 전",
+        "image_path": "https://cdn.docdocdoc.co.kr/news/thumbnail/202204/2022355_2026796_3349_v150.jpg",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "英 총리 “푸틴은 악어…평화협상 매우 어려울 것”",
+        "description": "... 하며 “어떻게 평화협상을 진행할지 알기가 매우 어렵다”고 내다봤다. ... 며 “악어에게 다리를 물린 상황에서 악어와 협상하는 \n게 우크라이나가...",
+        "link": "https://www.sisajournal.com/news/articleView.html?idxno=237178",
+        "date": "5일 전",
+        "image_path": "http://www.sisajournal.com/news/thumbnail/202204/237178_147927_1112_v150.jpg",
         "catagory": "협상 진행 과정"
     },
     {
@@ -176,19 +208,19 @@
         "catagory": "협상 진행 과정"
     },
     {
+        "name": "푸틴, “평화협상 막다른 골목에 이르러…계속 싸우겠다”",
+        "description": "이에 대해 우크라이나도 러시아와의 평화협상이 “극도로 어려운 상황”이라고 밝혔다. 미하일로 포돌랴크 우크라이나 대통령실 보좌관은 이날 \n서면 논평을...",
+        "link": "https://www.hani.co.kr/arti/international/europe/1038674.html",
+        "date": "2주 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/545/336/imgdb/original/2022/0413/20220413500175.jpg",
+        "catagory": "협상 진행 과정"
+    },
+    {
         "name": "우크라이나, 러시아의 마리우폴 최후통첩 거부 ‘필사의 저항’",
         "description": "그는 이어 “마리우폴 상황은 러시아와 진행 중인 협상에 있어 '레드라인'이 될 수도 있다”고 말했다. 마리우폴이 함락되면 러시아와의 \n협상은 없다는...",
         "link": "https://m.khan.co.kr/article/202204180841001",
         "date": "1주 전",
         "image_path": "https://img.khan.co.kr/news/2022/04/18/2022041801002134600189951.jpg",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "터키-우크라이나 정상 통화-Xinhua",
-        "description": "... 에르도안 대통령과 러시아-우크라 협상 진전 및 우크라이나-터키 및 기타 국가와의 안전보장에 관한 조율 업무의 진전 상황을 \n논의했다고 말했다.",
-        "link": "http://kr.xinhuanet.com/20220426/f0633fbe6a704a17a646ad7305ae7e28/c.html",
-        "date": "18시간 전",
-        "image_path": "No Image",
         "catagory": "협상 진행 과정"
     },
     {
@@ -205,38 +237,6 @@
         "link": "https://mobile.newsis.com/view.html?ar_id=NISX20220415_0001835817",
         "date": "1주 전",
         "image_path": "https://image.newsis.com/2022/04/14/NISI20220414_0018698213_web.jpg",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "젤렌스키 \"美 국무장관, 국방장관과 키이우에서 만날 것\"",
-        "description": "볼로디미르 젤렌스키 우크라이나 대통령이 미 국무장관, 국방장관과 ... 상황에 관해서도 그는 \"(자국 군인이 전사하면) 그 어떤 협상도 \n진행하지...",
-        "link": "https://www.pressian.com/pages/articles/2022042413335181339",
-        "date": "2일 전",
-        "image_path": "https://www.pressian.com/_resources/10/2022/04/24/2022042413314309504_l.jpg",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "푸틴의 기만술이든 시간벌기든, 한계 상황 온 건 분명",
-        "description": "러시아군은 우크라이나에서 전쟁을 계속 이어갈 수 있을까. 러시아가 3월29일 터키 이스탄불에서 열린 우크라이나 협상단과의 5차 \n평화협상을 마친 뒤...",
-        "link": "https://www.sisajournal.com/news/articleView.html?idxno=235818",
-        "date": "3주 전",
-        "image_path": "http://www.sisajournal.com/news/thumbnail/202204/235818_146370_1643_v150.jpg",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "[우크라 침공] 영국 \"우크라에 평화협상 조기타결 압박 안 될 말\"",
-        "description": "그는 \"우리는 그런 회담이 이뤄지기 전 우크라이나가 군사적으로 가능한 가장 강력한 위치를 점할 필요가 있다고 생각한다\"고 말했다. \n그렇지 못한 상황...",
-        "link": "https://m.mk.co.kr/news/world/view/2022/04/295844/",
-        "date": "3주 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/01/image_readtop_2022_295844_0_161312.jpg",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "[우크라 침공] 푸틴부터 만난다고?…유엔 수장 중재 행보에 눈총",
-        "description": "안토니우 구테흐스 유엔 사무총장이 우크라이나 종전을 중재하려 ... 그러면서 \"푸틴 대통령이 이런 협상에는 관심이 없어 보인다\"며 \n\"러시아가 이런...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/04/367067/",
-        "date": "1일 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/25/image_readtop_2022_367067_0_160911.jpg",
         "catagory": "협상 진행 과정"
     }
 ]
