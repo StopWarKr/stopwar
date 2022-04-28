@@ -1,5 +1,13 @@
 ﻿[
     {
+        "name": "정든 고향을 빼앗긴 우크라이나 역사 선생님",
+        "description": "그는 연설에서 러시아군이 우크라이나의 민족, 문화, 언어를 없애고 있다고 말했다. 특히 역사·언어 교사를 찾아내 학살하고 있다고 \n말했다. 죽음의 위험...",
+        "link": "http://www.danbinews.com/news/articleView.html?idxno=20123",
+        "date": "2주 전",
+        "image_path": "https://cdn.danbinews.com/news/thumbnail/202204/20123_30092_1933_v150.jpg",
+        "catagory": "역사"
+    },
+    {
         "name": "러시아·우크라이나 전쟁 뒷이야기 파헤친다…\"역사적 대사건\" - 조선비즈",
         "description": "26일 오후 8시40분 방송되는 tvN '벌거벗은 세계사'에서는 상명대학교 역사콘텐츠학과 류한수 교수가 출연해 러시아의 우크라이나 \n침공과 관련된...",
         "link": "https://biz.chosun.com/entertainment/tv/2022/04/26/33GC5I7WFZXJOSJM4CVBNK6HHE/",
@@ -8,35 +16,27 @@
         "catagory": "역사"
     },
     {
-        "name": "'벌거벗은 세계사' 러시아의 우크라이나 침공 다룬다…나나·일리야 함께",
-        "description": "이날 상명대학교 역사콘텐츠학과 류한수 교수는 \"'벌거벗은 세계사'에서도 배울 필요가 있는 역사적 대사건\"이라고 말한다. 류 교수는 두 \n나라의 관계와...",
-        "link": "http://daily.hankooki.com/news/articleView.html?idxno=817240",
-        "date": "2일 전",
-        "image_path": "https://cdn.daily.hankooki.com/news/thumbnail/202204/817240_1087968_1627_v150.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "러시아 우크라이나 침공·전쟁은 왜 일어났을까?",
-        "description": "류한수 교수는 '벌거벗은 세계사'를 통해 제1차 세계대전, 스탈린 등의 역사를 강의한 역사학자로, 강의 외에도 연구, 칼럼 기고 등을 \n통해 활발하게 활동...",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2456020",
-        "date": "2일 전",
-        "image_path": "https://cdn.gukjenews.com/news/thumbnail/202204/2456020_2451262_3425_v150.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "\"러시아에서 '전쟁' 금기어, 최대 15년 징역형\"",
-        "description": "러시아-우크라이나 전쟁을 바라보는 전 세계 각 국가들의 동상이몽은 무엇일까. 4월 26일 방송된 tvN <벌거벗은 세계사>에서는 류한수 \n상명대학교 역사...",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002830032",
-        "date": "1일 전",
-        "image_path": "http://ojsfile.ohmynews.com/CRI_T_IMG/2022/0427/A0002830032_T.jpg",
-        "catagory": "역사"
-    },
-    {
         "name": "2차대전 패전국 獨·日에 군비 증강 '기회'된 우크라 전쟁",
         "description": "2차 세계대전 패전국인 독일과 일본이 우크라이나 전쟁을 계기로 ... 은 전후 세계 질서를 위협하는 것으로 유럽 역사의 전환점이 \n됐다\"고 말했다.",
         "link": "https://www.mk.co.kr/news/world/view/2022/04/379138/",
-        "date": "5시간 전",
+        "date": "11시간 전",
         "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/28/image_readtop_2022_379138_0_161011.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "젤렌스키, 한국 국회 연설 “러시아, 우크라 역사·언어 선생님부터 찾아내 학살”",
+        "description": "볼로디미르 젤렌스키 우크라이나 대통령은 11일 한국 국회 연설을 하고 “대한민국도 1950년대 전쟁을 겪으며 수많은 사람들이 목숨을 \n잃었지만 결국...",
+        "link": "https://m.khan.co.kr/politics/assembly/article/202204111729011",
+        "date": "2주 전",
+        "image_path": "https://img.khan.co.kr/news/2022/04/11/2022041101001316500113601.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "역사란 끊임없이 해석을 가하는 미완성의 영역이다[장동석의 ...",
+        "description": "역사는 러시아의 우크라이나 침공을 어떻게 기록하고 기억할지 도무지 알 수 없는 형국이다. 곽차섭 부산대 사학과 교수의 '역사, \n라프로쉬망을...",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20220429016004",
+        "date": "1시간 전",
+        "image_path": "https://img.seoul.co.kr/img/upload/2022/04/28/SSI_20220428231330.jpg",
         "catagory": "역사"
     },
     {
@@ -51,16 +51,8 @@
         "name": "美 첫 여성 국무장관 올브라이트 영면…바이든 \"그가 곧 역사\"",
         "description": "힐러리 클린턴 전 국무장관은 고인이 임종을 얼마 남겨 두지 않고 우크라이나를 침공한 블라디미르 푸틴 러시아 대통령에 대해 \"우크라이나 \n침공은 그의...",
         "link": "https://www.mk.co.kr/news/world/view/2022/04/376352/",
-        "date": "17시간 전",
+        "date": "23시간 전",
         "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/28/image_readtop_2022_376352_0_085711.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "젤렌스키, 한국 국회 연설 “러시아, 우크라 역사·언어 선생님부터 찾아내 학살”",
-        "description": "볼로디미르 젤렌스키 우크라이나 대통령은 11일 한국 국회 연설을 하고 “대한민국도 1950년대 전쟁을 겪으며 수많은 사람들이 목숨을 \n잃었지만 결국...",
-        "link": "https://m.khan.co.kr/politics/assembly/article/202204111729011",
-        "date": "2주 전",
-        "image_path": "https://img.khan.co.kr/news/2022/04/11/2022041101001316500113601.jpg",
         "catagory": "역사"
     },
     {
@@ -80,19 +72,19 @@
         "catagory": "역사"
     },
     {
-        "name": "우크라이나 차관 \"NFT에 큰 관심...역사 기록하는 본연의 목적성 중요\"",
-        "description": "러시아로부터 침공 당해 전쟁 중인 우크라이나가 NFT(대체불가토큰)으로 역사를 기록할 것이라 밝혔다. 26일(현지시간) 크립토뉴스에 \n따르면,...",
-        "link": "https://www.codingworldnews.com/news/articleView.html?idxno=9364",
-        "date": "1일 전",
-        "image_path": "https://cdn.codingworldnews.com/news/thumbnail/202204/9364_10397_3241_v150.jpg",
-        "catagory": "역사"
-    },
-    {
         "name": "[자작나무 숲] 우크라이나의 검은 튤립 - 조선일보",
         "description": "푸틴의 러시아가 포기하지 않는 역사적 정체성의 본질이기도 하다. 무엇이 민족과 민족 사이를 획정하는가? 언어, 종교, 혈통, 역사, \n이념의 동시성인가?",
         "link": "https://www.chosun.com/opinion/specialist_column/2022/03/31/M5E5HQI2PVBTDIEKJQIG3K33XM/",
         "date": "1개월 전",
         "image_path": "https://images.chosun.com/resizer/J1CDx0U9fQ4OJ9dN-wziMQ1mTdo=/640x336/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RG5WYTR3BJD4BH2UBIKHYBM4HQ.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "우크라이나 차관 \"NFT에 큰 관심...역사 기록하는 본연의 목적성 중요\"",
+        "description": "러시아로부터 침공 당해 전쟁 중인 우크라이나가 NFT(대체불가토큰)으로 역사를 기록할 것이라 밝혔다. 26일(현지시간) 크립토뉴스에 \n따르면,...",
+        "link": "https://www.codingworldnews.com/news/articleView.html?idxno=9364",
+        "date": "2일 전",
+        "image_path": "https://cdn.codingworldnews.com/news/thumbnail/202204/9364_10397_3241_v150.jpg",
         "catagory": "역사"
     },
     {
@@ -104,11 +96,19 @@
         "catagory": "역사"
     },
     {
-        "name": "[프리즘] 우크라이나 전쟁의 시사점",
-        "description": "역사적으로 논쟁의 여지가 있다지만, 한 뿌리에서 나와서 중세 이후 모스크바 공국이 강해지며 발전한 러시아와도 앙숙의 역사를 가진 \n우크라이나이다.",
-        "link": "http://m.joongdo.co.kr/view.php?key=20220426010006294",
-        "date": "2일 전",
-        "image_path": "http://dn.joongdo.co.kr/mnt/images/file/2022y/04m/27d/2022042601001850800062941.jpg",
+        "name": "[우크라이나의 창] 푸틴에게",
+        "description": "(블라디미르의 약칭) 당신이 젊은 날부터 우크라이나를 좋아하여 카르파티아 ... 장황하게 역사를 설명하며 우크라이나와 러시아가 한 \n뿌리이고 같은...",
+        "link": "http://www.incheonilbo.com/news/articleView.html?idxno=1141999",
+        "date": "11시간 전",
+        "image_path": "http://www.incheonilbo.com/news/thumbnail/202204/1141999_423588_2557_v150.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "“역사의 물결 바꾼 여성”… 올브라이트 장례식 - 조선일보",
+        "description": "바이든 대통령은 “지난달 러시아의 우크라이나 침공에 대해 논의하기 위해 나토(Nato) 동맹국들과 긴급 회담을 하기 위해 유럽을 \n방문하던 도중...",
+        "link": "https://www.chosun.com/national/people/2022/04/29/4XUFLUOCPVDPRPMAKLWYTTNIBA/",
+        "date": "31분 전",
+        "image_path": "https://images.chosun.com/resizer/2kEp7lTyALDgWQblLPEXdHW8ml4=/700x367/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DIWCIKFR7BBPFNIZ3O5UOZUKCM.jpg",
         "catagory": "역사"
     },
     {
@@ -128,11 +128,27 @@
         "catagory": "역사"
     },
     {
-        "name": "[우크라이나의 창] 푸틴에게",
-        "description": "(블라디미르의 약칭) 당신이 젊은 날부터 우크라이나를 좋아하여 카르파티아 ... 장황하게 역사를 설명하며 우크라이나와 러시아가 한 \n뿌리이고 같은...",
-        "link": "http://www.incheonilbo.com/news/articleView.html?idxno=1141999",
-        "date": "5시간 전",
-        "image_path": "http://www.incheonilbo.com/news/thumbnail/202204/1141999_423588_2557_v150.jpg",
+        "name": "[프리즘] 우크라이나 전쟁의 시사점",
+        "description": "역사적으로 논쟁의 여지가 있다지만, 한 뿌리에서 나와서 중세 이후 모스크바 공국이 강해지며 발전한 러시아와도 앙숙의 역사를 가진 \n우크라이나이다.",
+        "link": "http://m.joongdo.co.kr/view.php?key=20220426010006294",
+        "date": "2일 전",
+        "image_path": "http://dn.joongdo.co.kr/mnt/images/file/2022y/04m/27d/2022042601001850800062941.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "[우크라 침공] 美국무 \"惡에 맞서 행동해야\"…홀로코스트 추모일에 러 비난",
+        "description": "... 대학살) 추모의 날'을 맞아 우크라이나를 침공한 러시아를 비난하면서 ... 현재와 미래 시대가 홀로코스트의 역사와 교훈을 배워 \n불의에 맞서고...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/04/380217/",
+        "date": "1시간 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/29/image_readtop_2022_380217_0_023111.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "[영화로 보는 우크라이나 전쟁](3) <대장 부리바>",
+        "description": "폴란드-카자크 동맹에 균열이 가면서 17세기 이후 유럽 판도를 뒤바꾼 대사건이자 폴란드 역사에 '대홍수'라 불리는 재앙이 찾아온다. 그 \n시작이 바로...",
+        "link": "https://weekly.khan.co.kr/khnm.html?mode=view&artid=202204221511411&code=116",
+        "date": "6일 전",
+        "image_path": "http://img.khan.co.kr/newsmaker/1475/1475_64a.jpg",
         "catagory": "역사"
     },
     {
@@ -144,35 +160,19 @@
         "catagory": "역사"
     },
     {
-        "name": "우크라이나와 한반도 : 칼럼 : 사설.칼럼 : 뉴스",
-        "description": "오늘날 한국 사회의 여론 분열은 최악이다. 불평등한 현실에 좌절하고 미래에 대한 희망을 잃은 사람들은 일상에 압도되어 역사를 돌아볼 \n겨를이 없다.",
-        "link": "https://www.hani.co.kr/arti/opinion/column/1040641.html",
-        "date": "1일 전",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2022/0427/20220427503450.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "러시아·우크라이나 전쟁, 러 공격으로 우크라 유적지 파괴",
-        "description": "가디언은 미국의 고고학자와 역사학자, 기술자들로 구성된 국제 유적 연구진이 위성망을 통해 우크라이나 유적과 유물의 파괴 실태를 조사하고 \n있다고...",
-        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=442187",
-        "date": "2일 전",
-        "image_path": "https://cdn.sisamagazine.co.kr/news/thumbnail/202204/442187_446897_2333_v150.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "[우크라 침공] 침공 두달째 종교·문화유적 191곳 파괴",
-        "description": "역사의 숨결이 깃든 우크라이나 교회와 성당들이 러시아 침공으로 잇달아 파괴되고 있다고 영국 일간 가디언이 24일(현지시간) 보도했다.",
-        "link": "https://www.mk.co.kr/news/world/view/2022/04/366967/",
-        "date": "3일 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/25/image_readtop_2022_366967_0_154811.jpg",
-        "catagory": "역사"
-    },
-    {
         "name": "러시아의 침공으로 위태로운 우크라이나의 찬란한 문화유산",
         "description": "전쟁은 인간의 마음에서 시작되므로 평화의 방어를 구축해야 한다. 서로의 방식과 삶에 대한 무지는 인류의 역사를 통틀어 공통의 원인이 \n되어 왔다.",
         "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002823602",
         "date": "3주 전",
         "image_path": "http://ojsfile.ohmynews.com/CT_T_IMG/2022/0404/IE002966419_LT.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "우크라이나와 한반도 : 칼럼 : 사설.칼럼 : 뉴스",
+        "description": "오늘날 한국 사회의 여론 분열은 최악이다. 불평등한 현실에 좌절하고 미래에 대한 희망을 잃은 사람들은 일상에 압도되어 역사를 돌아볼 \n겨를이 없다.",
+        "link": "https://www.hani.co.kr/arti/opinion/column/1040641.html",
+        "date": "1일 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2022/0427/20220427503450.jpg",
         "catagory": "역사"
     },
     {
@@ -184,43 +184,27 @@
         "catagory": "역사"
     },
     {
-        "name": "마이클 왈저 \"안보가 필요한 것은 동유럽이지 러시아가 아니었다\"...우크라 전쟁, 나토 확장 책임론 비판",
-        "description": "-우크라이나 전쟁은 인류 역사에서 어떤 사건으로 규정될 것인가. “어떻게 종결되느냐에 달려 있다. 만약 러시아가 이긴다면 역사에는 \n스페인 내전처럼...",
-        "link": "https://m.khan.co.kr/article/202204251427001",
-        "date": "3일 전",
-        "image_path": "https://img.khan.co.kr/news/2022/04/25/2022042501003140800282791.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "[이현정의 월드 클래스] 가장 값싼 무기",
-        "description": "그런데도 이 저열한 전쟁범죄는 늘 역사책에서는 다루어지지 않는다. ... 우크라이나 여성과 어린이를 겨냥한 러시아군의 만행이 끝도 없이 \n쏟아지고...",
-        "link": "http://www.busan.com/view/busan/view.php?code=2022042818481855150",
-        "date": "2시간 전",
-        "image_path": "http://www.busan.com/nas/wcms/wcms_data/photos/2022/04/28/2022042818481844055_s.jpg",
-        "catagory": "역사"
-    },
-    {
         "name": "뮤지컬 '광주' 연출가 \"우크라이나 전쟁 보며 광주 역사 반복되는 ...",
-        "description": "뮤지컬 '광주' 연출가 \"우크라이나 전쟁 보며 광주 역사 반복되는 기분 느꼈다\" ... 창작 뮤지컬 '광주'가 15일부터 서울 \n예술의전당 CJ토월극장에서 공연...",
+        "description": "창작 뮤지컬 '광주'가 15일부터 서울 예술의전당 CJ토월극장에서 공연 중입니다. 2019년 광주민주화운동 40주년을 맞아 \n기획됐는데,...",
         "link": "https://news.jtbc.joins.com/html/332/NB12056332.html",
         "date": "1주 전",
         "image_path": "https://photo.jtbc.joins.com/news/jam_photo/202204/21/55d2ee89-cfa3-462a-b647-15b9c73bb1ee.jpg",
         "catagory": "역사"
     },
     {
-        "name": "러시아와 우크라… 탐심이 이길까, 자유의 소망이 이길까?",
-        "description": "2월 24일 러시아의 푸틴 대통령이 우크라이나를 침공했다. 이로 인해 수많은 사람들이 죽었고, ... 다시 한 번 역사 속에서 지켜보고 \n싶다.",
-        "link": "https://www.christiantoday.co.kr/news/347131",
-        "date": "15시간 전",
-        "image_path": "https://images.christiantoday.co.kr/data/images/full/344899/image.jpg",
+        "name": "우크라이나 현지 선교사 증언 \"민간인 피해 커, 난민구호사역 ...",
+        "description": "윤 선교사는 우크라이나 크림반도와 키이우 등에서 31년간 선교를 하며 ... 러시아와 우크라이나 대립 갈등의 이유는 오랜 역사와 자국의 \n이익을 위한...",
+        "link": "https://www.manna24.com/single-post/2022/04/14/ksm-testimony-of-ukrainian-missionaries/",
+        "date": "2주 전",
+        "image_path": "https://www.manna24.com/wp-content/uploads/2022/04/윤선교사.jpg",
         "catagory": "역사"
     },
     {
-        "name": "‘반복된 역사’를 향한 반성과 위로…무대에서 노래하다 - 헤럴드경제 뉴스",
-        "description": "1905년 우크라이나 참상 담아… 5월 8일까지 '지붕 위의 바이올린' 1980년 광주의 아픔 무대로… 5월 1일까지 '광주'…11월엔 \n브로드웨이로...",
-        "link": "http://mbiz.heraldcorp.com/view.php?ud=20220426000264",
-        "date": "2일 전",
-        "image_path": "//res.heraldm.com/content/image/2022/04/26/20220426000252_p.jpg",
+        "name": "마이클 왈저 \"안보가 필요한 것은 동유럽이지 러시아가 아니었다\"...우크라 전쟁, 나토 확장 책임론 비판",
+        "description": "-우크라이나 전쟁은 인류 역사에서 어떤 사건으로 규정될 것인가. “어떻게 종결되느냐에 달려 있다. 만약 러시아가 이긴다면 역사에는 \n스페인 내전처럼...",
+        "link": "https://m.khan.co.kr/article/202204251427001",
+        "date": "3일 전",
+        "image_path": "https://img.khan.co.kr/news/2022/04/25/2022042501003140800282791.jpg",
         "catagory": "역사"
     },
     {
@@ -232,11 +216,27 @@
         "catagory": "역사"
     },
     {
-        "name": "러시아 주장대로, 우크라이나는 정말 나치집단인가",
-        "description": "지난 1일자 <조선일보>에 따르면, 러시아·유럽 극우 진영 전문가인 안톤 셰호프초프는 \"아조우 연대는 역사적으로 신나치 집단의 지도부가 \n구성한 민병대...",
-        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002823055",
+        "name": "‘반복된 역사’를 향한 반성과 위로…무대에서 노래하다 - 헤럴드경제 뉴스",
+        "description": "1905년 우크라이나 참상 담아… 5월 8일까지 '지붕 위의 바이올린' 1980년 광주의 아픔 무대로… 5월 1일까지 '광주'…11월엔 \n브로드웨이로...",
+        "link": "http://mbiz.heraldcorp.com/view.php?ud=20220426000264",
+        "date": "2일 전",
+        "image_path": "//res.heraldm.com/content/image/2022/04/26/20220426000252_p.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "지하 30m ‘철의 요새’… 마리우폴 우크라군 2000명 일주일째 항전 - 조선일보",
+        "description": "24일 우크라이나 마리우폴 아조우스탈 제철소 모습. ... 최대 규모(11㎢)로 연간 400만t의 철강을 생산해 온 아조우스탈의 역사는 \n1933년 시작됐다.",
+        "link": "https://www.chosun.com/international/international_general/2022/04/26/AHGOPUYHBJBE3FWSLTLDT47K2Y/",
+        "date": "3일 전",
+        "image_path": "https://images.chosun.com/resizer/H36K-Ya3dFdLdiFT6H-LDWiVwHU=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/33YUCJTXBJMA7MII7LPXH4ORMI.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "우크라이나 전쟁으로 러시아가 잃은 가장 중요한 것",
+        "description": "러시아의 우크라이나 침공 후 벌써 한 달이 지났다. ... 특히 우크라이나에 이 공유역사는 상처와 트라우마의 기억이기도 하다.",
+        "link": "https://www.pressian.com/pages/articles/2022040609040832180",
         "date": "3주 전",
-        "image_path": "http://ojsfile.ohmynews.com/CT_T_IMG/2022/0408/IE002969032_LT.jpg",
+        "image_path": "https://www.pressian.com/_resources/10/2022/04/06/2022040609024346282_l.jpg",
         "catagory": "역사"
     }
 ]
