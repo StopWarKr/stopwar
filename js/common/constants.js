@@ -10,6 +10,7 @@ const AllCategory = {
   'damage-btn': 'kr_DamageNewsData.json',
   'combat-btn': 'kr_BattleNewsData.json',
   'sponsor-btn': 'kr_SponsorNewsData.json',
+  'twitter-btn': 'Twitter.json',
 };
 
 export { IMG_URL, BASE_URL, AllCategory };

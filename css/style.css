@@ -389,6 +389,14 @@ img {
     16px;
   color: #fff;
 }
+
+.twitter-description {
+  overflow: hidden;
+  margin: 15px 0;
+  font-size: 15px;
+  line-height: 1.6;
+  text-overflow: ellipsis;
+}
 /* main card : end --------------------------------*/
 
 /* aside : start --------------------------------*/
