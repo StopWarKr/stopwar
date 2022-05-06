@@ -1,13 +1,5 @@
 ﻿[
     {
-        "name": "“우크라이나와 연대·지지” 성금 모금 프로젝트 < 교육 < 뉴스 ...",
-        "description": "지난 3~4일 이틀 동안 우크라이나 접경지역 난민 캠프에 머물고 있는 어린이와 청소년을 후원하기 위해 전남대학교 영어영문학과 \n학생회(회장 강민구)...",
-        "link": "https://www.gjdream.com/news/articleView.html?idxno=614459",
-        "date": "15시간 전",
-        "image_path": "https://cdn.gjdream.com/news/thumbnail/202205/614459_214443_723_v150.jpg",
-        "catagory": "후원"
-    },
-    {
         "name": "한국사랑나눔공동체, 우크라이나 국민 위한 후원물품 선적",
         "description": "이날 지구촌보건복지, 한국국제보건의료재단과 11개 제약회사가 의약품을 기증했고, 월비통상에서는 약 43만 달러 상당의 의류를 후원했다. \n이날 모인...",
         "link": "https://www.mk.co.kr/news/society/view/2022/05/388856/",
@@ -24,6 +16,14 @@
         "catagory": "후원"
     },
     {
+        "name": "“우크라이나와 연대·지지” 성금 모금 프로젝트 < 교육 < 뉴스 ...",
+        "description": "지난 3~4일 이틀 동안 우크라이나 접경지역 난민 캠프에 머물고 있는 어린이와 청소년을 후원하기 위해 전남대학교 영어영문학과 \n학생회(회장 강민구)...",
+        "link": "https://www.gjdream.com/news/articleView.html?idxno=614459",
+        "date": "21시간 전",
+        "image_path": "https://cdn.gjdream.com/news/thumbnail/202205/614459_214443_723_v150.jpg",
+        "catagory": "후원"
+    },
+    {
         "name": "8개 제약사, 우크라이나에 30억 상당 의약품 후원 - 조선일보",
         "description": "드미트로 포노마렌코 주한 우크라이나 대사는 “긴급 상황에서 의약품 등을 후원해주신 글로벌생명나눔과 한국제약바이오협회 회원사 여러분께 \n진심으로...",
         "link": "https://www.chosun.com/economy/science/2022/04/11/S47Y2HZMT5F47PDSEEOGX6Q63Y/",
@@ -35,24 +35,24 @@
         "name": "“우크라이나와 연대·지지” 성금 모금 프로젝트",
         "description": "지난 3~4일 이틀 동안 우크라이나 접경지역 난민 캠프에 머물고 있는 어린이와 청소년을 후원하기 위해 전남대학교 영어영문학과 \n학생회(회장 강민구)...",
         "link": "http://www.gjdream.com/news/articleView.html?idxno=614459",
-        "date": "15시간 전",
+        "date": "21시간 전",
         "image_path": "https://cdn.gjdream.com/news/thumbnail/202205/614459_214443_723_v150.jpg",
+        "catagory": "후원"
+    },
+    {
+        "name": "사귐과섬김, 우크라이나 긴급 구호 위한 후원금 전달",
+        "description": "KWMA 박래득 사무총장은 “우크라이나는 유럽 선교의 요충지”라며 “한국교회가 더 관심을 갖고 집중적인 후원과 구호의 손길을 전해주길 \n바란다”고...",
+        "link": "https://www.goodnews1.com/news/articleView.html?idxno=407182",
+        "date": "3주 전",
+        "image_path": "https://cdn.goodnews1.com/news/thumbnail/202204/407182_6007279_1221_v150.jpg",
         "catagory": "후원"
     },
     {
         "name": "한국 '나토 기구' 가입? 中 관변 논객 \"그러다 우크라이나 꼴\"",
         "description": "왼쪽은 나토 회원국 자격인 '후원국'이고 오른쪽은 비회원국인 '기여국'이다. 후시진은 과거 도널드 트럼프 전 미국 대통령의 트위터에 \n적극적으로 대응...",
         "link": "https://www.hankookilbo.com/News/Read/A2022050517540000198",
-        "date": "19시간 전",
+        "date": "1일 전",
         "image_path": "http://image.hankookilbo.com/level/A202/20/50/2cb68998-3366-435e-b69c-f1962987aca9.jpg?t=20220506020038",
-        "catagory": "후원"
-    },
-    {
-        "name": "사귐과섬김, 우크라이나 긴급 구호 위한 후원금 전달",
-        "description": "모인 성금은 국제구호개발NGO 사마리안퍼스와 한국세계선교협의회에 전달돼 우크라이나 구호를 위해 쓰인다. △사귐과 섬김이 우크라이나 긴급 \n후원금 총...",
-        "link": "https://www.goodnews1.com/news/articleView.html?idxno=407182",
-        "date": "3주 전",
-        "image_path": "https://cdn.goodnews1.com/news/thumbnail/202204/407182_6007279_1221_v150.jpg",
         "catagory": "후원"
     },
     {
@@ -72,43 +72,35 @@
         "catagory": "후원"
     },
     {
-        "name": "36세 핀란드 총리, 日서 동북아 외교안보 무대 '데뷔'",
-        "description": "러시아의 우크라이나 침공을 계기로 그간의 중립 노선을 포기하고 ... 폴란드 바르샤바에서 열린 '우크라이나 후원을 위한 국제회의'에 \n참석했다.",
-        "link": "https://www.segye.com/newsView/20220506502501",
-        "date": "7시간 전",
-        "image_path": "https://img.segye.com/content/image/2022/05/06/20220506502499.jpg",
+        "name": "한국에 온 우크라이나 고려인 신올가 씨의 안타까운 사연",
+        "description": "우크라이나 위한 한국교회의 기도와 물질 후원 희망. [데일리굿뉴스] 임명선 선교기자= 지난 2월 24일 러시아가 우크라이나를 침공하면서 \n시작된...",
+        "link": "https://www.goodnews1.com/news/articleView.html?idxno=407994",
+        "date": "2일 전",
+        "image_path": "https://cdn.goodnews1.com/news/thumbnail/202205/407994_6008128_2314_v150.jpg",
         "catagory": "후원"
     },
     {
         "name": "8개 제약사, 우크라이나에 30억 상당 의약품 후원",
-        "description": "드미트로 포노마렌코 우크라이나 대사 “후원해준 협회 회원사에 감사”. 국내 제약사들이 전쟁으로 어려움을 겪고 있는 우크라이나에 항생제 \n등 의약품...",
-        "link": "http://www.mdon.co.kr/mobile/article.html?no=32722",
+        "description": "이번 의약품 전달과 관련해 드미트로 포노마렌코 주한 우크라이나 대사는 “긴급 상황에서 의약품 등을 후원해주신 글로벌생명나눔과 \n한국제약바이오협회...",
+        "link": "http://www.mdon.co.kr/news/article.html?no=32722",
         "date": "3주 전",
         "image_path": "http://www.mdon.co.kr/data/photos/20220415/art_16498975180008_0b83a3.jpg",
         "catagory": "후원"
     },
     {
-        "name": "한국에 온 우크라이나 고려인 신올가 씨의 안타까운 사연",
-        "description": "우크라이나 위한 한국교회의 기도와 물질 후원 희망. [데일리굿뉴스] 임명선 선교기자= 지난 2월 24일 러시아가 우크라이나를 침공하면서 \n시작된...",
-        "link": "https://www.goodnews1.com/news/articleView.html?idxno=407994",
-        "date": "1일 전",
-        "image_path": "https://cdn.goodnews1.com/news/thumbnail/202205/407994_6008128_2314_v150.jpg",
+        "name": "36세 핀란드 총리, 日서 동북아 외교안보 무대 '데뷔'",
+        "description": "러시아의 우크라이나 침공을 계기로 그간의 중립 노선을 포기하고 ... 폴란드 바르샤바에서 열린 '우크라이나 후원을 위한 국제회의'에 \n참석했다.",
+        "link": "https://www.segye.com/newsView/20220506502501",
+        "date": "13시간 전",
+        "image_path": "https://img.segye.com/content/image/2022/05/06/20220506502499.jpg",
         "catagory": "후원"
     },
     {
         "name": "홍천지역 교계 우크라이나 난민 돕기 후원 모금 진행",
         "description": "... 박원재 목사)와 월드비전 홍천지회(지회장, 이민수 홍천중앙교회 목사)및 홍천기부천사 운동본부는 우크라이나전쟁 난민을 돕기위한 \n후원 모금을...",
         "link": "https://www.nocutnews.co.kr/news/5748980",
-        "date": "6일 전",
+        "date": "1주 전",
         "image_path": "https://file2.nocutnews.co.kr/newsroom/image/2022/04/29/202204291631308989_6.jpg",
-        "catagory": "후원"
-    },
-    {
-        "name": "러시아 \"이스라엘이 신나치주의자 지원\"…양국 갈등 고조",
-        "description": "이스라엘은 러시아의 우크라이나 침공 이후 우크라이나를 지원 ... 이란과 이란의 후원을 받는 세력을 공격하면서 은근히 러시아의 눈치를 \n봐왔다.",
-        "link": "https://www.mk.co.kr/news/world/view/2022/05/395635/",
-        "date": "2일 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/04/image_readtop_2022_395635_0_104611.jpg",
         "catagory": "후원"
     },
     {
@@ -120,11 +112,19 @@
         "catagory": "후원"
     },
     {
-        "name": "우크라이나 난민 돕기 나선 '제 1회 제주 기독인 자선 골프 대회' - 헤럴드경제 뉴스",
-        "description": "본 대회는 서귀포중앙교회가 주최, 제주 크리스천 골프 동호회가 주관, 제주 더 시에나 CC 후원으로 좋은 취지에 많은 참가자들의 \n전폭적인 후원 아래...",
-        "link": "http://mbiz.heraldcorp.com/view.php?ud=20220505000043",
-        "date": "1일 전",
-        "image_path": "//res.heraldm.com/content/image/2022/05/05/20220505000056_p.jpg",
+        "name": "러시아 \"이스라엘이 신나치주의자 지원\"…양국 갈등 고조",
+        "description": "이스라엘은 러시아의 우크라이나 침공 이후 우크라이나를 지원 ... 이란과 이란의 후원을 받는 세력을 공격하면서 은근히 러시아의 눈치를 \n봐왔다.",
+        "link": "https://www.mk.co.kr/news/world/view/2022/05/395635/",
+        "date": "2일 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/04/image_readtop_2022_395635_0_104611.jpg",
+        "catagory": "후원"
+    },
+    {
+        "name": "메디힐리, 후원 통해 우크라이나 구호 동참",
+        "description": "후원금은 대한적십자사로 기탁하여 우크라이나 및 인접국 적십자사가 진행하는 긴급구호 활동을 통해 우크라이나 피해민 응급처치, 생존키트 \n배부,...",
+        "link": "https://www.news1.kr/articles/?4662671",
+        "date": "1주 전",
+        "image_path": "https://image.news1.kr/system/photos/2022/4/27/5341099/article.jpg",
         "catagory": "후원"
     },
     {
@@ -136,11 +136,11 @@
         "catagory": "후원"
     },
     {
-        "name": "메디힐리, 후원 통해 우크라이나 구호 동참",
-        "description": "후원금은 대한적십자사로 기탁하여 우크라이나 및 인접국 적십자사가 진행하는 긴급구호 활동을 통해 우크라이나 피해민 응급처치, 생존키트 \n배부,...",
-        "link": "https://www.news1.kr/articles/?4662671",
-        "date": "1주 전",
-        "image_path": "https://image.news1.kr/system/photos/2022/4/27/5341099/article.jpg",
+        "name": "우크라이나 난민 돕기 나선 '제 1회 제주 기독인 자선 골프 대회' - 헤럴드경제 뉴스",
+        "description": "본 대회는 서귀포중앙교회가 주최, 제주 크리스천 골프 동호회가 주관, 제주 더 시에나 CC 후원으로 좋은 취지에 많은 참가자들의 \n전폭적인 후원 아래...",
+        "link": "http://mbiz.heraldcorp.com/view.php?ud=20220505000043",
+        "date": "1일 전",
+        "image_path": "//res.heraldm.com/content/image/2022/05/05/20220505000056_p.jpg",
         "catagory": "후원"
     },
     {
@@ -176,6 +176,14 @@
         "catagory": "후원"
     },
     {
+        "name": "아이젠파마코리아· 글로벌케어 '아이젠스쿨 니제르''우크라이나 ...",
+        "description": "이번에 진행한 니제르 여성 청소년 기숙학교 후원 및 우크라이나 긴급구호 활동 지원 협약 외에도 5년간 총 4억원을 들여 캄보디아 \n바탐방주,...",
+        "link": "http://www.seniormaeil.com/news/articleView.html?idxno=35424",
+        "date": "2주 전",
+        "image_path": "http://www.seniormaeil.com/news/thumbnail/202204/35424_51304_4428_v150.jpg",
+        "catagory": "후원"
+    },
+    {
         "name": "유사나 \"우크라이나 전쟁 난민 지원\" 5만달러 내놨다",
         "description": "... 후원을 통해 꾸준히 전 세계 영양과 도움이 필요한 곳곳에 기부금을 전달하고 있으며 이번 우크라이나 난민 지원금 기부에도 함께 \n동참하게 됐다.",
         "link": "http://www.maeilmarketing.com/news/articleView.html?idxno=7363",
@@ -184,11 +192,11 @@
         "catagory": "후원"
     },
     {
-        "name": "아이젠파마코리아· 글로벌케어 '아이젠스쿨 니제르''우크라이나 ...",
-        "description": "이번에 진행한 니제르 여성 청소년 기숙학교 후원 및 우크라이나 긴급구호 활동 지원 협약 외에도 5년간 총 4억원을 들여 캄보디아 \n바탐방주,...",
-        "link": "http://www.seniormaeil.com/news/articleView.html?idxno=35424",
-        "date": "2주 전",
-        "image_path": "http://www.seniormaeil.com/news/thumbnail/202204/35424_51304_4428_v150.jpg",
+        "name": "뉴시스",
+        "description": "후원은 KBBY가 우크라이나 출판사와 접촉하여 어린이책 인쇄용 파일을 제공받아 책을 보내거나 직접 책을 확보해 어린이들에게 배포하는 \n방식이다.",
+        "link": "https://mobile.newsis.com/view.html?ar_id=NISX20220503_0001858339",
+        "date": "3일 전",
+        "image_path": "https://image.newsis.com/2022/05/03/NISI20220503_0000989278_web.jpg",
         "catagory": "후원"
     },
     {
@@ -216,27 +224,19 @@
         "catagory": "후원"
     },
     {
+        "name": "\"韓의 끝은 우크라이나\"...'中 공산당의 거친입' 또 막말했다",
+        "description": "한국의 가입으로 이 기구 정회원은 총 32개국이 됐다. 나토 회원국으로 이뤄진 후원국이 27개국, 한국과 같은 나토 비회원국이 소속된 \n기여국이 5개국이다...",
+        "link": "https://www.fnnews.com/news/202205052244513770",
+        "date": "16시간 전",
+        "image_path": "https://image.fnnews.com/resource/media/image/2019/08/01/201908011456525116_l.jpg",
+        "catagory": "후원"
+    },
+    {
         "name": "전남대학교 영어영문학과·BK21, 우크라이나 지지 성금 모금",
         "description": "이번 프로젝트는 특히 우크라이나 접경지역 난민 캠프에 머물고 있는 어린이와 청소년을 후원하기 위한 것이다. 팝업 스토어에서는 \n영어영문학과(학과장...",
         "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=443297",
         "date": "3일 전",
         "image_path": "https://cdn.sisamagazine.co.kr/news/thumbnail/202205/443297_448142_181_v150.jpg",
-        "catagory": "후원"
-    },
-    {
-        "name": "“PR 대상의 문제점 직면이 새로운 전략 될 수도”",
-        "description": "러시아 침공을 받은 우크라이나 국적 고려인들의 한국 귀국 주선운동을 주관 ... 이런 우크라이나 난민 후원사업 같은 정부가 나서기 \n어려운 사건을...",
-        "link": "http://www.the-pr.co.kr/news/articleView.html?idxno=48729",
-        "date": "7시간 전",
-        "image_path": "https://www.the-pr.co.kr/news/thumbnail/202205/48729_75639_5035_v150.jpg",
-        "catagory": "후원"
-    },
-    {
-        "name": "\"韓의 끝은 우크라이나\"...'中 공산당의 거친입' 또 막말했다",
-        "description": "한국의 가입으로 이 기구 정회원은 총 32개국이 됐다. 나토 회원국으로 이뤄진 후원국이 27개국, 한국과 같은 나토 비회원국이 소속된 \n기여국이 5개국이다...",
-        "link": "https://www.fnnews.com/news/202205052244513770",
-        "date": "10시간 전",
-        "image_path": "https://image.fnnews.com/resource/media/image/2019/08/01/201908011456525116_l.jpg",
         "catagory": "후원"
     }
 ]
