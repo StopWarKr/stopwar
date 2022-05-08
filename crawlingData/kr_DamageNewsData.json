@@ -4,7 +4,23 @@
         "description": "러시아의 우크라이나 침공이 유럽의 인구 구조를 변화시킬 수 있다는 전망 ... 전쟁이 얼마나 더 지속되는지, 또 우크라이나의 피해 \n규모가 어느 정도...",
         "link": "https://www.hankookilbo.com/News/Read/A2022050109090000953",
         "date": "1주 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/05/01/83db12e6-ad24-47d6-ad11-7ea5ac975a54.jpg?t=20220508063522",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/05/01/83db12e6-ad24-47d6-ad11-7ea5ac975a54.jpg?t=20220508124423",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "푸틴, 전승절에 어떤 카드를 뽑을까 ... 우크라이나에선 긴장 고조",
+        "description": "하지만 러시아군의 피해가 커지면서 예비군과 국가 물자를 동원해서라도 ... 우크라이나와 러시아간 평화협상이 중단된 상황에서 우크라이나가 \n러시아...",
+        "link": "https://m.khan.co.kr/world/europe-russia/article/202205081639001",
+        "date": "5시간 전",
+        "image_path": "https://img.khan.co.kr/news/2022/05/08/2022050801000919200083182.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "14세 소녀의 기도… “하나님은 우크라를 떠나지 않으셨습니다”",
+        "description": "우크라이나 난민들을 돕고 있는 체코 프라하 생명나무교회 곽용화 ... 러시아가 공격을 시작하면 저희 도시가 가장 먼저 피해를 입는 \n상황이었습니다.",
+        "link": "https://www.christiantoday.co.kr/news/347418",
+        "date": "4시간 전",
+        "image_path": "https://images.christiantoday.co.kr/data/images/full/346313/image.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -16,14 +32,6 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "[우크라 침공] 우크라 \"아조우스탈서 여성·아이·노인 대피 완료\"(종합)",
-        "description": "우크라이나군이 최후의 항전을 벌이고 있는 남부 항구도시 마리우폴의 ... 상황에서 최소 한 달 이상 햇빛을 보지 못하고 러시아의 공격을 \n피해왔다.",
-        "link": "https://www.mk.co.kr/news/world/view/2022/05/405013/",
-        "date": "2시간 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/08/image_readtop_2022_405013_0_125111.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "돈바스: 러시아가 우크라이나 동쪽을 장악하려는 이유",
         "description": "볼로디미르 젤렌스키 우크라이나 대통령은 \"돈바스 지역에서 전투가 시작 ... 친러 분리주의 세력이 점령한 곳은 상대적으로 피해가 더 \n적은 편이다.",
         "link": "https://www.bbc.com/korean/international-61167603",
@@ -32,19 +40,27 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "[통일논단] 우크라이나 전쟁을 통해 본 러시아산 무기 운영국 ...",
+        "description": "... 된 우크라이나 국영 우크로보론프롬(Ukroboronprom)사가 러시아의 대안이었으나, 전쟁으로 피해를 입어 협의가 불가능한 \n상황으로 알려져 있다.",
+        "link": "http://www.newscj.com/news/articleView.html?idxno=978543",
+        "date": "4시간 전",
+        "image_path": "https://cdn.newscj.com/news/photo/202205/newscj_천지일보_2022_5_8_174348_1048486.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "[우크라 침공] 우크라 \"아조우스탈서 여성·아이·노인 대피 완료\"(종합)",
+        "description": "우크라이나군이 최후의 항전을 벌이고 있는 남부 항구도시 마리우폴의 ... 상황에서 최소 한 달 이상 햇빛을 보지 못하고 러시아의 공격을 \n피해왔다.",
+        "link": "https://www.mk.co.kr/news/world/view/2022/05/405013/",
+        "date": "8시간 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/08/image_readtop_2022_405013_0_125111.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "여야·시민사회, '우크라이나 고려인 동포 지원' 긴급 간담회",
         "description": "여야 국회의원 및 시민사회단체가 우크라이나 전쟁 피해 고려인 동포들의 상황 공유 및 지원 대책을 마련하기 위한 간담회를 가졌다.",
         "link": "https://www.spnews.co.kr/news/articleView.html?idxno=52014",
         "date": "1일 전",
         "image_path": "https://cdn.spnews.co.kr/news/thumbnail/202205/52014_52372_2215_v150.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "[국제이슈+] 러 77주년 '전승절'에 쏠린 시선…우크라 사태 분기점될까",
-        "description": "이번 전승절에서 블라디미르 푸틴 대통령이 우크라이나에 전면전을 선포할지, ... 러시아의 전쟁피해가 예상보다 큰 상황에서 더 이상 \n장기간 전쟁을...",
-        "link": "https://cm.asiae.co.kr/article/2022050812121121925",
-        "date": "3시간 전",
-        "image_path": "https://cphoto.asiae.co.kr/listimglink/6/2022050811452458533_1651977924.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -59,7 +75,7 @@
         "name": "[ET] 전쟁 석 달째, 러시아·우크라이나 경제 상황은?",
         "description": "제재 석 달째를 맞고 있는 러시아 경제의 상황과, 전쟁의 피해를 입고 있는 우크라이나 경제 상황을 모스크바 김준호 특파원 연결해 \n알아봅니다.",
         "link": "https://news.kbs.co.kr/news/view.do?ncd=5456519",
-        "date": "2일 전",
+        "date": "3일 전",
         "image_path": "http://news.kbs.co.kr/data/news/title_image/newsmp4/economy_time/2022/05/05/40_5456519.jpg",
         "catagory": "지역 라이브 상황"
     },
@@ -72,27 +88,19 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "마리우폴 제철소 민간인 추가 대피 작업...항저우 아시안게임 연기",
-        "description": "먼저 우크라이나 남부 마리우폴 상황부터 전해 주시죠. 기자) 네. ... 진행자) 피해 규모가 어느 정도나 된다고 합니까? 기자) 네.",
-        "link": "https://www.voakorea.com/a/6560694.html",
-        "date": "1일 전",
-        "image_path": "https://gdb.voanews.com/031a0000-0aff-0242-4060-08da2ec4c46b_w1200_r1.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "계명대·동산의료원, 우크라이나 전쟁 난민 구호 성금 10만 달러 ...",
-        "description": "현재 상황을 매우 가슴 아프게 생각하며, 우크라이나 재건을 위해 작은 ... DMZ목함지뢰 피해 장병 성금, 미얀마 폐광석 피해민 구호 \n성금 2000만원,...",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1548498",
-        "date": "1시간 전",
-        "image_path": "http://www.shinailbo.co.kr/news/thumbnail/202205/1548498_729104_5852_v150.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "우크라이나: '내 사진 도용해 가짜 후원금 모금'...'스캠' 피해 막을 방법은?",
         "description": "그는 자신의 신상과 사진이 사기 행각에 도용된 사실에 큰 실망감을 나타냈다. \"우크라이나 상황을 돈을 벌기 위해 남용하는 사람들이 \n있다는 게 실망...",
         "link": "https://www.bbc.com/korean/international-61102783",
         "date": "3주 전",
         "image_path": "https://ichef.bbci.co.uk/news/1024/branded_korean/F351/production/_124198226_p0c1sh07.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "마리우폴 제철소 민간인 추가 대피 작업...항저우 아시안게임 연기",
+        "description": "먼저 우크라이나 남부 마리우폴 상황부터 전해 주시죠. 기자) 네. ... 진행자) 피해 규모가 어느 정도나 된다고 합니까? 기자) 네.",
+        "link": "https://www.voakorea.com/a/6560694.html",
+        "date": "1일 전",
+        "image_path": "https://gdb.voanews.com/031a0000-0aff-0242-4060-08da2ec4c46b_w1200_r1.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -109,6 +117,14 @@
         "link": "https://www.pressian.com/pages/articles/2022050311501475213",
         "date": "5일 전",
         "image_path": "https://www.pressian.com/_resources/10/2022/05/03/2022030808045553629_l.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "다리에 총격받고도 운전…주민 4명 생명 구한 우크라 15세소녀 - 조선일보",
+        "description": "우크라이나의 15세 소녀가 러시아군의 포격으로 부상당한 주민들을 차에 태우고 대피한 ... 그는 지난 5일 러시아군의 공격을 피해 성인 \n남성 3명,...",
+        "link": "https://www.chosun.com/international/topic/2022/05/08/UYQVXKGPKBGC5NDD5UIQNBPLTE/",
+        "date": "1시간 전",
+        "image_path": "https://images.chosun.com/resizer/OTsxZrSURX5OlqzB2SUNAaKxMRk=/828x434/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57NN4AU6UNGEPOPB23PWAM4EUI.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -136,22 +152,6 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "[영상] 獨, 우크라에 자주곡사포 7기 공급 - 헤럴드경제 뉴스",
-        "description": "그동안 독일 정부는 우크라이나에 충분한 무기를 공급하지 않고 있다는 ... 빼지 않고 있고 우크라이나 민간인 피해 상황이 커지면서 \n방향을 바꿨다.",
-        "link": "http://mbiz.heraldcorp.com/view.php?ud=20220506000486",
-        "date": "1일 전",
-        "image_path": "//res.heraldm.com/content/image/2022/05/06/20220506000500_p.gif",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "혜민 스님의 우크라이나 전쟁난민 지원 현장기",
-        "description": "결국 러시아 폭격이 시작되고서야 공습을 피해 단 몇 시간 안에 피난길을 ... 이런 상황에서 어떻게 하면 가장 효율적으로 우크라이나 \n난민들을 도울...",
-        "link": "http://www.beopbo.com/news/articleView.html?idxno=309174",
-        "date": "3일 전",
-        "image_path": "http://cdn.beopbo.com/news/thumbnail/202205/309174_77225_3116_v150.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "우크라이나 전쟁발 수출입 리스크 현실화…대금결제 지연 등 피해 급증",
         "description": "구자근 의원은 \"대 러시아 제재가 장기화할 경우 기업 피해 지원과 수입선 다변화를 위한 정부와 국회 차원의 지원대책 마련이 시급한 \n상황\"이라고...",
         "link": "https://www.mk.co.kr/news/economy/view/2022/04/366653/",
@@ -160,11 +160,19 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "계명대, (사)계명1%사랑나누기와 대학교회 통해 우크라이나 ...",
-        "description": "현재 상황을 매우 가슴 아프게 생각하며, 우크라이나 재건을 위해 작은 ... DMZ목함지뢰 피해 장병 성금, 미얀마 폐광석 피해민 구호 \n성금 2천만 원,...",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2462790",
-        "date": "1일 전",
-        "image_path": "https://cdn.gukjenews.com/news/thumbnail/202205/2462790_2458584_3052_v150.jpg",
+        "name": "[영상] 獨, 우크라에 자주곡사포 7기 공급 - 헤럴드경제 뉴스",
+        "description": "그동안 독일 정부는 우크라이나에 충분한 무기를 공급하지 않고 있다는 ... 빼지 않고 있고 우크라이나 민간인 피해 상황이 커지면서 \n방향을 바꿨다.",
+        "link": "http://mbiz.heraldcorp.com/view.php?ud=20220506000486",
+        "date": "2일 전",
+        "image_path": "//res.heraldm.com/content/image/2022/05/06/20220506000500_p.gif",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "혜민 스님의 우크라이나 전쟁난민 지원 현장기",
+        "description": "결국 러시아 폭격이 시작되고서야 공습을 피해 단 몇 시간 안에 피난길을 ... 이런 상황에서 어떻게 하면 가장 효율적으로 우크라이나 \n난민들을 도울...",
+        "link": "http://www.beopbo.com/news/articleView.html?idxno=309174",
+        "date": "4일 전",
+        "image_path": "http://cdn.beopbo.com/news/thumbnail/202205/309174_77225_3116_v150.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -176,10 +184,18 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "계명대, (사)계명1%사랑나누기와 대학교회 통해 우크라이나 ...",
+        "description": "현재 상황을 매우 가슴 아프게 생각하며, 우크라이나 재건을 위해 작은 ... DMZ목함지뢰 피해 장병 성금, 미얀마 폐광석 피해민 구호 \n성금 2천만 원,...",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2462790",
+        "date": "2일 전",
+        "image_path": "https://cdn.gukjenews.com/news/thumbnail/202205/2462790_2458584_3052_v150.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "\"우크라 전쟁 또 다른 패자는 러시아 침공 도운 벨라루스\"",
         "description": "하지만, 올해 2월 러시아의 우크라이나 침공을 도운 그의 결정은 정치적 역풍을 불렀고, 탄압을 피해 국외로 망명한 벨라루스 민주주의 \n세력에 다시...",
         "link": "https://www.mk.co.kr/news/world/view/2022/05/400227/",
-        "date": "2일 전",
+        "date": "3일 전",
         "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/05/image_readtop_2022_400227_0_184111.jpg",
         "catagory": "지역 라이브 상황"
     },
@@ -195,7 +211,7 @@
         "name": "우크라이나 곳곳, 비극과 참상 이면의 기적적인 사건들",
         "description": "지금 CNN을 비롯한 전 세계 뉴스들은 21세기에 어떻게 이런 끔찍한 일이 일어날 수 있냐며, 독재자 푸틴의 사악함에 치를 떨고 있는 \n상황이다. 우크라이나...",
         "link": "https://www.christiantoday.co.kr/news/346647",
-        "date": "4주 전",
+        "date": "1개월 전",
         "image_path": "https://images.christiantoday.co.kr/data/images/full/344792/image.jpg",
         "catagory": "지역 라이브 상황"
     },
@@ -203,24 +219,8 @@
         "name": "\"우크라, 러시아 이기는 게 우려스럽다\"…미 외교위원장, 왜 이런 말 했을까",
         "description": "영국 일간 인디펜던트는 1일(현지시간) 로버트 메넨데스 외교위원장이 이날 폭스뉴스에 출연해 우크라이나군이 침공한 러시아군에 계속 피해를 \n준다면...",
         "link": "https://www.mk.co.kr/news/world/view/2022/05/389511/",
-        "date": "5일 전",
+        "date": "6일 전",
         "image_path": "https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_389511_16514742285029272.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "\"난 네 어머니 또래야\" 말려봤지만…'여자 사냥' 나선 러시아軍",
-        "description": "안나는 이것이 최악의 상황이길 바랐지만, 끝이 아니었다. ... 우크라이나 당국과 ICC는 현재까지 보고된 성범죄 피해에 대한 수사를 \n개시할 것이라고...",
-        "link": "https://news.mt.co.kr/mtview.php?no=2022042613341852574",
-        "date": "1주 전",
-        "image_path": "https://thumb.mt.co.kr/21/2022/04/2022042613341852574_1.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "한국에 온 우크라이나 고려인 신올가 씨의 안타까운 사연",
-        "description": "특히 전쟁을 피해 인근 국가로 피난을 가는 우크라이나인들이 늘고 있다. ... 전쟁에 출전한 남편의 생사조차도 알 수 없는 상황에서 신 \n씨는 지역...",
-        "link": "https://www.goodnews1.com/news/articleView.html?idxno=407994",
-        "date": "3일 전",
-        "image_path": "https://cdn.goodnews1.com/news/thumbnail/202205/407994_6008128_2314_v150.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -232,11 +232,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "유엔 “러, 우크라 강제납치 180여건 증거 확인”",
-        "description": "유엔은 러시아군이 우크라이나에서 민간인 등을 강제 납치한 증거 180여 ... 러시아군 점령지의 민간인 피해 상황은 정확한 집계가 \n어려운 상황이다.",
-        "link": "https://www.donga.com/news/Inter/article/all/20220506/113257398/1",
-        "date": "2일 전",
-        "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/05/06/113257379.2.jpg",
+        "name": "한국에 온 우크라이나 고려인 신올가 씨의 안타까운 사연",
+        "description": "특히 전쟁을 피해 인근 국가로 피난을 가는 우크라이나인들이 늘고 있다. ... 전쟁에 출전한 남편의 생사조차도 알 수 없는 상황에서 신 \n씨는 지역...",
+        "link": "https://www.goodnews1.com/news/articleView.html?idxno=407994",
+        "date": "4일 전",
+        "image_path": "https://cdn.goodnews1.com/news/thumbnail/202205/407994_6008128_2314_v150.jpg",
         "catagory": "지역 라이브 상황"
     }
 ]
