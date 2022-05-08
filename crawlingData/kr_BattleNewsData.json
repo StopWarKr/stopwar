@@ -3,7 +3,7 @@
         "name": "뉴시스",
         "description": "우크라이나군과 러시아군이 전투를 이어가는 동안 하르키우 외곽에는 신원이 밝혀지지 않은 시신들이 즐비해 흡사 야외 영안실 같은 느낌을 \n주는 것으로...",
         "link": "https://mobile.newsis.com/view.html?ar_id=NISX20220507_0001862413",
-        "date": "16시간 전",
+        "date": "20시간 전",
         "image_path": "https://image.newsis.com/2022/05/03/NISI20220503_0018761411_web.jpg",
         "catagory": "교전 최신 상황"
     },
@@ -27,7 +27,7 @@
         "name": "\"이근 목숨걸고 전쟁중\" 주장…53초짜리 실제교전 영상에 '시끌 ...",
         "description": "우크라이나 실제 전투 영상에 이근씨로 추정되는 인물이 등장했다는 주장이 나왔다. 4일 온라인 커뮤니티 '디시인사이드'에 '이근 실제 \n교전 영상 뜸'...",
         "link": "https://news.mt.co.kr/mtview.php?no=2022050414425683572",
-        "date": "3일 전",
+        "date": "4일 전",
         "image_path": "https://thumb.mt.co.kr/21/2022/05/2022050414425683572_1.jpg",
         "catagory": "교전 최신 상황"
     },
@@ -56,18 +56,10 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "[줌인] “2차 세계대전급” 최대 결전 앞둔 러시아-우크라이나 - 조선비즈",
-        "description": "러시아와 우크라이나가 지난 주말 우크라이나 동부 지역에 병력과 무기를 집중적으로 이동시키며 곧 전쟁 발발 이후 최대 규모의 전투가 \n벌어질 전망이다.",
-        "link": "https://biz.chosun.com/international/international_general/2022/04/11/IIXWGQ4XKBFYVLFXD7KNBDIRZE/",
-        "date": "4주 전",
-        "image_path": "https://biz.chosun.com/resizer/l-F2zyUOup-82_jqHSB7Uf5ItYE=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/6KJ7AN2TCVOQ7H2EGA6JWZ4OBE.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
         "name": "이근 실전투입 영상?… 교전 근황에 다시 불붙은 의용군 논쟁 [넷 ...",
         "description": "우크라이나 전쟁 등 전 세계 전쟁·전투 관련 영상이 올라오는 웹사이트 'FUNKER530'에는 전날 약 53초 길이의 우크라이나 전투 \n영상이 게재됐다.",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20220504500083",
-        "date": "3일 전",
+        "date": "4일 전",
         "image_path": "https://img.seoul.co.kr/img/upload/2022/05/04/SSI_20220504130649.jpg",
         "catagory": "교전 최신 상황"
     },
@@ -85,6 +77,30 @@
         "link": "https://imnews.imbc.com/news/2022/world/article/6358654_35680.html",
         "date": "3주 전",
         "image_path": "https://image.imnews.imbc.com/news/2022/world/article/__icsFiles/afieldfile/2022/04/12/joo220412_20.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "[줌인] “2차 세계대전급” 최대 결전 앞둔 러시아-우크라이나 - 조선비즈",
+        "description": "러시아와 우크라이나가 지난 주말 우크라이나 동부 지역에 병력과 무기를 집중적으로 이동시키며 곧 전쟁 발발 이후 최대 규모의 전투가 \n벌어질 전망이다.",
+        "link": "https://biz.chosun.com/international/international_general/2022/04/11/IIXWGQ4XKBFYVLFXD7KNBDIRZE/",
+        "date": "4주 전",
+        "image_path": "https://biz.chosun.com/resizer/l-F2zyUOup-82_jqHSB7Uf5ItYE=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/6KJ7AN2TCVOQ7H2EGA6JWZ4OBE.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "러시아-우크라, 대규모 전투 임박…2차 세계대전 떠오를 것",
+        "description": "러시아와 우크라이나가 대규모 전투를 앞두고 있다. 러시아군이 우크라이나 동부에 대한 대대적인 공세를 준비하며, 탱크, 장갑차, 비행기 \n등 전력을...",
+        "link": "https://www.ajunews.com/view/20220411105058439",
+        "date": "4주 전",
+        "image_path": "https://image.ajunews.com/content/image/2022/04/11/20220411142557115074.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "[우크라 침공] 전열 재정비한 러시아와 '돈바스 결전' 임박",
+        "description": "우크라이나도 러시아군에서 탈환한 북부 지역에 있던 부대를 돈바스 전투를 위해 이 지역으로 이동하고 있다. 전투가 언제 본격화할지는 \n러시아 결정에...",
+        "link": "https://m.mk.co.kr/news/world/view/2022/04/323327/",
+        "date": "4주 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/11/image_readtop_2022_323327_0_161212.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -123,7 +139,7 @@
         "name": "우크라이나 '국제의용군' 3명 사망…누가, 무슨 활동하나",
         "description": "러시아군의 침략에 맞서 우크라이나를 돕기 위해 참전한 외국인 세명이 최근 ... 우크라이나 전투 환경은 전사와 부상이 속출하는 등 매우 \n가혹하다.",
         "link": "https://www.hani.co.kr/arti/international/europe/1041210.html",
-        "date": "5일 전",
+        "date": "6일 전",
         "image_path": "https://flexible.img.hani.co.kr/flexible/normal/544/363/imgdb/original/2022/0502/20220502501996.jpg",
         "catagory": "교전 최신 상황"
     },
@@ -155,7 +171,7 @@
         "name": "러 \"우크라 돈바스 점령 확대 중…마리우폴 장악\"",
         "description": "특히 돈바스 지역에 속한 남부 항구도시 마리우폴의 아조우스탈 제철소에서는 최후의 전투가 벌어지는 것으로 전해졌는데요. 제철소에 있는 \n우크라이나군...",
         "link": "https://www.yna.co.kr/view/MYH20220505007000038",
-        "date": "2일 전",
+        "date": "3일 전",
         "image_path": "https://img5.yna.co.kr/mpic/YH/2022/05/05/MYH20220505007000038.jpg",
         "catagory": "교전 최신 상황"
     },
@@ -221,22 +237,6 @@
         "link": "https://www.hani.co.kr/arti/international/international_general/1038517.html",
         "date": "3주 전",
         "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/486/imgdb/original/2022/0412/20220412501110.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "[숨] 냉전과 전쟁 고아",
-        "description": "이에 국제여맹은 북한의 실태에 대한 현지조사를 수행하고, 그 결과 보고서를 통해서 신의주 등 전투가 벌어지지 않은 북한 내 여러 \n지역에서도 미 공군의...",
-        "link": "https://m.khan.co.kr/opinion/column/article/202205070300045",
-        "date": "1일 전",
-        "image_path": "https://img.khan.co.kr/news/2022/05/07/2022050701000795400074221.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "美국무 “우크라 전쟁 연말까지 갈수도” - 조선일보",
-        "description": "우크라이나군은 그러나 이를 거부하고 계속 전투 중이다. 볼로디미르 젤렌스키 우크라이나 대통령은 이날 “러시아가 만약 마리우폴에서 저항 \n중인...",
-        "link": "https://www.chosun.com/international/international_general/2022/04/17/STFZXWKAXVD65CTWFWM7VROQZY/",
-        "date": "3주 전",
-        "image_path": "https://images.chosun.com/resizer/1sRzcjuXR3VTDsblnHvozKIChbM=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UX76DJZ26ZPLJAWZURGQ6XGC6E.jpg",
         "catagory": "교전 최신 상황"
     }
 ]
