@@ -11,8 +11,16 @@
         "name": "\"이근 목숨걸고 전쟁중\" 주장…53초짜리 실제교전 영상에 '시끌 ...",
         "description": "우크라이나 실제 전투 영상에 이근씨로 추정되는 인물이 등장했다는 주장이 나왔다. 4일 온라인 커뮤니티 '디시인사이드'에 '이근 실제 \n교전 영상 뜸'...",
         "link": "https://news.mt.co.kr/mtview.php?no=2022050414425683572",
-        "date": "4일 전",
+        "date": "5일 전",
         "image_path": "https://thumb.mt.co.kr/21/2022/05/2022050414425683572_1.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "러시아군, 학교 폭격…대피 중이던 민간인 60여명 숨졌다",
+        "description": "빌로호리우카는 러시아군과 우크라이나군이 교전을 벌이는 전선에서 11㎞ 정도 ... 고 폭격 상황을 전했다고 미국 <시엔엔>(CNN) \n방송이 보도했다.",
+        "link": "https://m.hani.co.kr/arti/international/international_general/1042063.html",
+        "date": "2시간 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/487/imgdb/original/2022/0509/20220509501537.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -56,18 +64,18 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "영 \"우크라 돈바스 지역서 향후 2∼3주간 전투 격화 예상\"",
-        "description": "영국 국방부는 현지시간 12일 우크라이나 전쟁 정보 업데이트를 통해 이같이 관측하면서 러시아군이 도네츠크와 루한스크 인근 지역을 주요 \n공격 대상으로...",
-        "link": "https://imnews.imbc.com/news/2022/world/article/6358654_35680.html",
-        "date": "4주 전",
-        "image_path": "https://image.imnews.imbc.com/news/2022/world/article/__icsFiles/afieldfile/2022/04/12/joo220412_20.jpg",
+        "name": "바이든 \"전쟁 중대 국면\" 13억 달러 우크라이나 추가 지원 발표...푸틴, 마리우폴 전투 '승리' 선언",
+        "description": "푸틴 러시아 대통령은 이날(21일) 우크라이나 전쟁 최대 격전지로 꼽히는 마리우폴 전투에서 승리를 선언했습니다. 푸틴 대통령은 이날 \n세르게이 쇼이구...",
+        "link": "https://www.voakorea.com/a/6538940.html",
+        "date": "2주 전",
+        "image_path": "https://gdb.voanews.com/03cc0000-0aff-0242-c330-08da23a4c8cf_w1200_r1.jpg",
         "catagory": "교전 최신 상황"
     },
     {
         "name": "이근 실전투입 영상?… 교전 근황에 다시 불붙은 의용군 논쟁 [넷 ...",
         "description": "우크라이나 전쟁 등 전 세계 전쟁·전투 관련 영상이 올라오는 웹사이트 'FUNKER530'에는 전날 약 53초 길이의 우크라이나 전투 \n영상이 게재됐다.",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20220504500083",
-        "date": "4일 전",
+        "date": "5일 전",
         "image_path": "https://img.seoul.co.kr/img/upload/2022/05/04/SSI_20220504130649.jpg",
         "catagory": "교전 최신 상황"
     },
@@ -104,27 +112,19 @@
         "catagory": "교전 최신 상황"
     },
     {
+        "name": "영 \"우크라 돈바스 지역서 향후 2∼3주간 전투 격화 예상\"",
+        "description": "영국 국방부는 현지시간 12일 우크라이나 전쟁 정보 업데이트를 통해 이같이 관측하면서 러시아군이 도네츠크와 루한스크 인근 지역을 주요 \n공격 대상으로...",
+        "link": "https://imnews.imbc.com/news/2022/world/article/6358654_35680.html",
+        "date": "4주 전",
+        "image_path": "https://image.imnews.imbc.com/news/2022/world/article/__icsFiles/afieldfile/2022/04/12/joo220412_20.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
         "name": "2라운드 접어든 전쟁…러시아군, 우크라 동부서 전투 돌입",
         "description": "우크라이나 수도 키이우 함락을 포기하고 한발 물러선 러시아군이 본격적으로 우크라이나 동부 돈바스 지역 공략에 나섰다. 우크라이나 최정예 \n병력...",
         "link": "https://m.mk.co.kr/news/world/view/2022/04/346419/",
         "date": "3주 전",
         "image_path": "https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_346419_16503266025013988.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "우크라 동부 돈바스 전쟁 양상, 이전과 다르게 러에 유리…왜?",
-        "description": "러시아가 우크라이나 동부 공세를 강화하겠다고 예고한 가운데, 돈바스 ... 펼쳐져 있어 소규모 교전이나 매복형 전투보다는 중장갑과 \n기동력 전투에...",
-        "link": "https://www.donga.com/news/Inter/article/all/20220418/112946276/1",
-        "date": "3주 전",
-        "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/04/18/112946235.2.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "돈바스 전투 시작...전쟁 승패 가를 변수",
-        "description": "러시아의 우크라이나 침공의 이유이자 이번 전쟁의 판세를 좌우할 돈바스 지역에서의 전투가 시작됐습니다. 러시아는 이 지역을 점령하기 위해 \n대규모...",
-        "link": "https://www.ytn.co.kr/_ln/0104_202204191255071206",
-        "date": "3주 전",
-        "image_path": "https://image.ytn.co.kr/general/jpg/2022/0419/202204191255071206_t.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -144,19 +144,27 @@
         "catagory": "교전 최신 상황"
     },
     {
+        "name": "\"다리 총맞고도 운전대 놓지 않았다\"…`무면허` 15세 소녀, 주민 4명 구출",
+        "description": "우크라이나의 15세 소녀가 러시아군의 포격으로 부상을 당한 주민들을 차에 ... 체르니셴코는 \"면허증이 없지만 긴급 상황이기 때문에 \n운전을 할 수...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/05/406732/",
+        "date": "5시간 전",
+        "image_path": "https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_406732_16520580925035982.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "러군, 키이우 참패에 우크라 7번 고속도로 인근 주민들 큰 역할",
+        "description": "브로바리 전투에서 러시아탱크를 대전차무기로 공격한 전직 우크라이나 의원 테탸나 초르노볼은 주민들이 제공한 고속도로 정보가 포격에 큰 \n역할을...",
+        "link": "https://www.fnnews.com/news/202205091150037983",
+        "date": "3시간 전",
+        "image_path": "https://image.fnnews.com/resource/media/image/2022/05/09/202205091149582530_l.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
         "name": "[우크라 침공] 러 돈바스 전력집중에 서방 무기지원 박차",
         "description": "미국은 21일(현지시간) 우크라이나 동부에서의 우크라이나군 전투능력을 ... 에서 교전 중인 우크라이나군 소속 이반 스쿠라토우스키 \n중위는 \"상황이...",
         "link": "https://www.mk.co.kr/news/world/view/2022/04/369380/",
         "date": "2주 전",
         "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/26/image_readtop_2022_369380_0_111611.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "뉴시스",
-        "description": "전투기들이 우크라이나 침공에 대한 지지를 상징하는 \"Z\"자 대형으로 비행하고 우크라이나 전투에 참여한 공수부대가 장갑차를 타고 붉은 \n광장을 행진...",
-        "link": "https://mobile.newsis.com/view.html?ar_id=NISX20220509_0001863252",
-        "date": "1시간 전",
-        "image_path": "https://image.newsis.com/2022/05/07/NISI20220507_0018777096_web.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -168,19 +176,35 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "뉴시스",
-        "description": "[서울=뉴시스]박선민 인턴 기자 = 우크라이나 국제의용군으로 참전한 해군특수전전단(UDT/SEAL) 대위 출신 이근씨의 실전 전투로 \n추정되는 영상이...",
-        "link": "https://mobile.newsis.com/view.html?ar_id=NISX20220504_0001859779",
-        "date": "4일 전",
-        "image_path": "https://image.newsis.com/2022/05/04/NISI20220504_0000990085_web.jpg",
+        "name": "\"우크라에 '카메라맨' 데려온 이근, 제 정신이냐\"…의용군 분노",
+        "description": "FUNKER530은 우크라이나 전쟁을 포함해 세계 전쟁·전투 관련 영상을 업로드하는 사이트다. 한편 이근과 함께 출국했던 로건은 지난달 \n18일 자신의 인스타...",
+        "link": "https://www.edaily.co.kr/news/read?newsId=02614166632327280&mediaCodeNo=257",
+        "date": "52분 전",
+        "image_path": "https://image.edaily.co.kr/images/Photo/files/NP/S/2022/05/PS22050900720.jpg",
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "'이근 추정' 53초 전투 영상 확산…“헬멧·패치 등 일치”",
-        "description": "우크라이나 국제의용군으로 참전 중인 이근씨의 실제 전투 영상이 나왔다는 주장이 나왔다. 3일 전 세계 전투 영상이 올라오는 웹사이트 \n'FUNKER530'...",
-        "link": "https://www.etoday.co.kr/news/view/2130756",
-        "date": "4일 전",
-        "image_path": "https://img.etoday.co.kr/pto_db/2022/05/600/20220504173439_1748604_964_432.jpg",
+        "name": "뉴시스",
+        "description": "전투기들이 우크라이나 침공에 대한 지지를 상징하는 \"Z\"자 대형으로 비행하고 우크라이나 전투에 참여한 공수부대가 장갑차를 타고 붉은 \n광장을 행진...",
+        "link": "https://mobile.newsis.com/view.html?ar_id=NISX20220509_0001863252",
+        "date": "5시간 전",
+        "image_path": "https://image.newsis.com/2022/05/07/NISI20220507_0018777096_web.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "우크라 15세 소녀, 총 맞은 다리로 운전…주민 4명 목숨 구해",
+        "description": "[서울=뉴시스]송재민 인턴 기자 = 우크라이나에서 15세 소녀가 다리에 총을 맞은 상태에서 주민들을 태운 차를 운전해 교전 지역을 \n탈출했다고 8...",
+        "link": "https://www.fnnews.com/news/202205091151472761",
+        "date": "3시간 전",
+        "image_path": "https://image.fnnews.com/resource/media/image/2022/05/09/202205091151442046_l.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "우크라이나 '국제의용군' 3명 사망…누가, 무슨 활동하나",
+        "description": "러시아군의 침략에 맞서 우크라이나를 돕기 위해 참전한 외국인 세명이 최근 ... 우크라이나 전투 환경은 전사와 부상이 속출하는 등 매우 \n가혹하다.",
+        "link": "https://www.hani.co.kr/arti/international/europe/1041210.html",
+        "date": "1주 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/544/363/imgdb/original/2022/0502/20220502501996.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -189,14 +213,6 @@
         "link": "https://www.voakorea.com/a/6535815.html",
         "date": "3주 전",
         "image_path": "https://gdb.voanews.com/03a80000-0aff-0242-e632-08da2195b70a_w1200_r1.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "우크라이나 '국제의용군' 3명 사망…누가, 무슨 활동하나",
-        "description": "러시아군의 침략에 맞서 우크라이나를 돕기 위해 참전한 외국인 세명이 최근 ... 우크라이나 전투 환경은 전사와 부상이 속출하는 등 매우 \n가혹하다.",
-        "link": "https://www.hani.co.kr/arti/international/europe/1041210.html",
-        "date": "6일 전",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/544/363/imgdb/original/2022/0502/20220502501996.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -221,22 +237,6 @@
         "link": "https://imnews.imbc.com/replay/2022/nwtoday/article/6358052_35752.html",
         "date": "4주 전",
         "image_path": "https://image.imnews.imbc.com/replay/2022/nwtoday/article/__icsFiles/afieldfile/2022/04/11/today_20220411_060723_1_4_Large.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "(영상) “이근 목숨 걸었다”… 실제 교전 영상 속 낯익은 한 사람",
-        "description": "3일 전 세계 전쟁·전투 관련 영상을 공유하는 'FUNKER530'에서는 우크라이나의 실제 교전 장면이 담긴 53초 분량의 영상이 \n게재됐다. 영상의 하단에는 “...",
-        "link": "https://www.edaily.co.kr/news/read?newsId=03253766632325640&mediaCodeNo=257",
-        "date": "4일 전",
-        "image_path": "https://image.edaily.co.kr/images/Photo/files/NP/S/2022/05/PS22050401034.gif",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "러 \"우크라 돈바스 점령 확대 중…마리우폴 장악\"",
-        "description": "특히 돈바스 지역에 속한 남부 항구도시 마리우폴의 아조우스탈 제철소에서는 최후의 전투가 벌어지는 것으로 전해졌는데요. 제철소에 있는 \n우크라이나군...",
-        "link": "https://www.yna.co.kr/view/MYH20220505007000038",
-        "date": "3일 전",
-        "image_path": "https://img5.yna.co.kr/mpic/YH/2022/05/05/MYH20220505007000038.jpg",
         "catagory": "교전 최신 상황"
     }
 ]
