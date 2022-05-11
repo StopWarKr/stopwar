@@ -11,8 +11,24 @@
         "name": "푸틴 '이제 그만' 시점은…\"미, 푸틴 출구 연구중\"",
         "description": "우크라이나 전쟁이 80일 가까이 이어지고 있지만 승자는 없고 피해는 커지는 상황이 계속되고 있습니다. 푸틴 대통령이 승리 선언 기회를 \n놓쳤다는 분석...",
         "link": "https://www.yna.co.kr/view/MYH20220511014600641",
-        "date": "4시간 전",
+        "date": "10시간 전",
         "image_path": "https://img5.yna.co.kr/mpic/YH/2022/05/11/MYH20220511014600641.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라, 이미 일자리 3분의 1 사라져..\"전쟁 장기화로 피해 눈덩이\"",
+        "description": "당장 520만명의 우크라이나 난민이 쏟아져 들어간 폴란드, 헝가리, 몰도바, 루마니아, 슬로바키아의 경제 상황도 압박이 가중되고 있다고 \nILO는 지적했다.",
+        "link": "https://m.newspim.com/news/view/20220512000005",
+        "date": "2시간 전",
+        "image_path": "http://img.newspim.com/news/2022/03/15/2203150835068010_w.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라이나, 유럽행 가스관 한곳 중단...WHO \"중국 '제로 코로나' 지속 불가\"",
+        "description": "GTSOU 측은 러시아군의 기술적 방해로 노보프스코우 압축 시설에 대한 운영과 기술 통제를 제대로 할 수 없는 상황이라고 밝혔습니다. \n이 회사는 또...",
+        "link": "https://www.voakorea.com/a/6566896.html",
+        "date": "4시간 전",
+        "image_path": "https://gdb.voanews.com/5c7f34c8-e8db-430a-96f8-7a71997237c8_w1200_r1.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -24,35 +40,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "[초점] \"푸틴, 우크라이나 전력 오판\"…'후계자 낙점설' 솔솔",
-        "description": "손쉽게 우크라이나를 제압할 수 있을 것이라는 푸틴 대통령의 안이한 판단으로 군사적 피해를 최소화하는 방향으로 정말 타격 위주의 작전을 \n펼치려...",
-        "link": "https://www.g-enews.com/article/Global-Biz/2022/05/2022051112032922379a1f309431_1",
-        "date": "8시간 전",
-        "image_path": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20220511120411002839a1f3094311109215171.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "돈바스: 러시아가 우크라이나 동쪽을 장악하려는 이유",
         "description": "볼로디미르 젤렌스키 우크라이나 대통령은 \"돈바스 지역에서 전투가 시작 ... 친러 분리주의 세력이 점령한 곳은 상대적으로 피해가 더 \n적은 편이다.",
         "link": "https://www.bbc.com/korean/international-61167603",
         "date": "3주 전",
         "image_path": "https://ichef.bbci.co.uk/news/1024/branded_korean/1213/production/_123972640_volno.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "[우크라 침공] \"약해진 러시아, 美 '중국 견제' 인태전략에 도움\"",
-        "description": "우선 러시아의 단기전 승리로 끝날 것처럼 보였던 전쟁이 우크라이나의 저항에 막혀 러시아가 고전하고 있다는 점이 꼽힌다. 특히 러시아는 \n인명 피해와...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/05/414247/",
-        "date": "14시간 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/11/image_readtop_2022_414247_0_073011.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "우크라이나: 러시아군은 키이우의 “전쟁범죄에 대해 심판받아야 ...",
-        "description": "우크라이나: 러시아군은 키이우의 “전쟁범죄에 대해 심판받아야”. 2022.05.11 ... 보로디안카의 공습으로 발생한 막대한 피해 \n상황을 360도 인터랙티브 화면으로 직접...",
-        "link": "https://amnesty.or.kr/45284/",
-        "date": "12시간 전",
-        "image_path": "No Image",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -64,22 +56,6 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "네덜란드 외무장관도 우크라 방문…\"군사·인도·재정 지원 계속\"",
-        "description": "[서울=뉴시스]이지예 기자 = 보프커 훅스트라 네덜란드 외무장관도 10일(현지시간) 우크라이나를 방문해 러시아의 침공으로 인한 피해 \n상황을 둘러...",
-        "link": "https://www.fnnews.com/news/202205102149234447",
-        "date": "1일 전",
-        "image_path": "https://image.fnnews.com/resource/media/image/2022/05/10/202205102149224790_l.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "러시아 극초음속 미사일 발사, EU 정상회의 의장 긴급 대피...바이든 '무기대여법' 서명",
-        "description": "지역 당국은 10일 현재 인명 피해 상황을 파악하고 있는 가운데, 사상자가 상당수 나온 것으로 알려졌습니다. 러시아군이 우크라이나에서 \n극초음속...",
-        "link": "https://www.voakorea.com/a/6565034.html",
-        "date": "22시간 전",
-        "image_path": "https://gdb.voanews.com/03180000-0aff-0242-6ddb-08da32a9ded1_w1200_r1.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "건설장비株, 우크라 재건 기대감에 '들썩'",
         "description": "추후 상황이 안정되면 제5차 한-우크라이나 무역경제 협력위원회를 개최해 경제 ... 우크라이나가 입은 피해 규모는 \n600억달러(74조2000억원)에 이를...",
         "link": "https://www.econovill.com/news/articleView.html?idxno=573929",
@@ -88,11 +64,35 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "[우크라 침공] 유엔 \"민간인 사망자, 공식 집계보다 수천명 더 많아\"(종합)",
-        "description": "러시아가 우크라이나 침공 이후 사망한 민간인 숫자가 실제 알려진 것보다 수천 명 ... 현재 제대로 기능하는 의료시설은 그리 많지 않은 \n상황이다.",
-        "link": "https://www.mk.co.kr/news/world/view/2022/05/414057/",
-        "date": "22시간 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/11/image_readtop_2022_414057_0_111312.jpg",
+        "name": "우크라이나: 러시아군은 키이우의 “전쟁범죄에 대해 심판받아야 ...",
+        "description": "우크라이나: 러시아군은 키이우의 “전쟁범죄에 대해 심판받아야”. 2022.05.11 ... 보로디안카의 공습으로 발생한 막대한 피해 \n상황을 360도 인터랙티브 화면으로 직접...",
+        "link": "https://amnesty.or.kr/45284/",
+        "date": "17시간 전",
+        "image_path": "No Image",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "[우크라 침공] \"약해진 러시아, 美 '중국 견제' 인태전략에 도움\"",
+        "description": "우선 러시아의 단기전 승리로 끝날 것처럼 보였던 전쟁이 우크라이나의 저항에 막혀 러시아가 고전하고 있다는 점이 꼽힌다. 특히 러시아는 \n인명 피해와...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/05/414247/",
+        "date": "20시간 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/11/image_readtop_2022_414247_0_073011.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "네덜란드 외무장관도 우크라 방문…\"군사·인도·재정 지원 계속\"",
+        "description": "[서울=뉴시스]이지예 기자 = 보프커 훅스트라 네덜란드 외무장관도 10일(현지시간) 우크라이나를 방문해 러시아의 침공으로 인한 피해 \n상황을 둘러...",
+        "link": "https://www.fnnews.com/news/202205102149234447",
+        "date": "1일 전",
+        "image_path": "https://image.fnnews.com/resource/media/image/2022/05/10/202205102149224790_l.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "[우크라이나 르비우에서 온 편지(3)]지하에서 겨우 살아남았지만···내가 살던 터전이 사라졌다",
+        "description": "<편집자주>올렉산드르 구젠코에게서 우크라이나 현지 소식을 담은 세번째 편지가 왔습니다. ... 도시 주민들은 새로운 상황에 빠르게 \n적응했다.",
+        "link": "https://m.khan.co.kr/world/world-general/article/202205111532001",
+        "date": "12시간 전",
+        "image_path": "https://img.khan.co.kr/news/2022/05/11/2022051101001395600126732.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -104,19 +104,27 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "우크라이나 전쟁: 가족들에게 부담을 줄 것을 두려워하는 노인 ...",
-        "description": "영국에 기반을 둔 자선단체인 에이지 인터내셔널(Age International)에 따르면 분쟁은 노년층에게 막대한 피해를 입혔다. \n우크라이나 인구 4명 중 1명은 60세 이상이며...",
-        "link": "https://histimes.com/%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98-%EC%A0%84%EC%9F%81-%EA%B0%80%EC%A1%B1%EB%93%A4%EC%97%90%EA%B2%8C-%EB%B6%80%EB%8B%B4%EC%9D%84-%EC%A4%84-%EA%B2%83%EC%9D%84-%EB%91%90%EB%A0%A4%EC%9B%8C/",
-        "date": "2시간 전",
-        "image_path": "https://histimes.com/wp-content/uploads/2022/05/SEI_103193431-1200x630-pl-ukraine-appeal.jpg",
+        "name": "러시아 극초음속 미사일 발사, EU 정상회의 의장 긴급 대피...바이든 '무기대여법' 서명",
+        "description": "지역 당국은 10일 현재 인명 피해 상황을 파악하고 있는 가운데, 사상자가 상당수 나온 것으로 알려졌습니다. 러시아군이 우크라이나에서 \n극초음속...",
+        "link": "https://www.voakorea.com/a/6565034.html",
+        "date": "1일 전",
+        "image_path": "https://gdb.voanews.com/03180000-0aff-0242-6ddb-08da32a9ded1_w1200_r1.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "[우크라이나 르비우에서 온 편지(3)]지하에서 겨우 살아남았지만···내가 살던 터전이 사라졌다",
-        "description": "<편집자주>올렉산드르 구젠코에게서 우크라이나 현지 소식을 담은 세번째 편지가 왔습니다. ... 도시 주민들은 새로운 상황에 빠르게 \n적응했다.",
-        "link": "https://m.khan.co.kr/world/world-general/article/202205111532001",
-        "date": "6시간 전",
-        "image_path": "https://img.khan.co.kr/news/2022/05/11/2022051101001395600126732.jpg",
+        "name": "[우크라 침공] 유엔 \"민간인 사망자, 공식 집계보다 수천명 더 많아\"(종합)",
+        "description": "러시아가 우크라이나 침공 이후 사망한 민간인 숫자가 실제 알려진 것보다 수천 명 ... 현재 제대로 기능하는 의료시설은 그리 많지 않은 \n상황이다.",
+        "link": "https://www.mk.co.kr/news/world/view/2022/05/414057/",
+        "date": "1일 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/11/image_readtop_2022_414057_0_111312.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라이나 전쟁: 가족들에게 부담을 줄 것을 두려워하는 노인 ...",
+        "description": "Galina는 동부 우크라이나의 전쟁 지역에서 탈출한 손주들에게 작별 인사를 해야 했습니다. ... International)에 따르면 \n분쟁은 노년층에게 막대한 피해를 입혔다.",
+        "link": "https://histimes.com/%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98-%EC%A0%84%EC%9F%81-%EA%B0%80%EC%A1%B1%EB%93%A4%EC%97%90%EA%B2%8C-%EB%B6%80%EB%8B%B4%EC%9D%84-%EC%A4%84-%EA%B2%83%EC%9D%84-%EB%91%90%EB%A0%A4%EC%9B%8C/",
+        "date": "2시간 전",
+        "image_path": "https://histimes.com/wp-content/uploads/2022/05/SEI_103193431-1200x630-pl-ukraine-appeal.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -128,19 +136,19 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "우크라, 러 가스 유럽 실어나르는 ‘소흐라니브카’ 가스관 잠근다",
-        "description": "GTSOU 측이 가스 수송 중단 사유로 밝힌 불가항력이란, 우크라이나 동부 돈바스 친러 분리주의 지역을 점령한 러시아군이 가스관을 \n통제하는 상황을...",
-        "link": "https://www.donga.com/news/Inter/article/all/20220511/113343891/1",
-        "date": "8시간 전",
-        "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/05/11/113336296.2.jpg",
+        "name": "[ET] 전쟁 석 달째, 러시아·우크라이나 경제 상황은?",
+        "description": "지난 2월 러시아의 우크라이나 침공 이후 서방은 러시아에 대해 ... 제재 석 달째를 맞고 있는 러시아 경제의 상황과, 전쟁의 피해를 \n입고 있는...",
+        "link": "https://news.kbs.co.kr/news/view.do?ncd=5456519",
+        "date": "6일 전",
+        "image_path": "http://news.kbs.co.kr/data/news/title_image/newsmp4/economy_time/2022/05/05/40_5456519.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "우크라 전쟁에 힘 빠진 러…美 '중국견제'에 도움?",
-        "description": "... 러시아는 우크라이나 전쟁으로 인한 피해들로 지출되는 비용과 서방의 각종 제재로 수년간 힘든 상황에 부닥칠 것이라며 전쟁 후 몇 \n년간 큰 힘을...",
-        "link": "https://m.dailian.co.kr/news/view/1112687",
-        "date": "6시간 전",
-        "image_path": "http://cdnimage.dailian.co.kr/news/202205/news_1652272880_1112687_m_1.jpeg",
+        "name": "우크라, 러 가스 유럽 실어나르는 ‘소흐라니브카’ 가스관 잠근다",
+        "description": "로이터 통신에 따르면 10일(현지시간) 우크라이나 가스 시스템사업자(GTSOU)는 기업이 통제할 수 없는 상황에서 발동하는 조항인 \n'불가항력'을 선언,...",
+        "link": "https://www.donga.com/news/Inter/article/all/20220511/113343891/1",
+        "date": "14시간 전",
+        "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/05/11/113336296.2.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -160,22 +168,6 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "[ET] 전쟁 석 달째, 러시아·우크라이나 경제 상황은?",
-        "description": "지난 2월 러시아의 우크라이나 침공 이후 서방은 러시아에 대해 ... 제재 석 달째를 맞고 있는 러시아 경제의 상황과, 전쟁의 피해를 \n입고 있는...",
-        "link": "https://news.kbs.co.kr/news/view.do?ncd=5456519",
-        "date": "6일 전",
-        "image_path": "http://news.kbs.co.kr/data/news/title_image/newsmp4/economy_time/2022/05/05/40_5456519.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "[초점] 디에스 폭스바겐 CEO \"우크라 사태 대화로 끝내자\" 발언 ...",
-        "description": "디에스 CEO는 특히 “우크라이나 사태의 여파로 국제교역이 지속적으로 불안해지면 독일을 비롯한 유로존이 가장 큰 피해를 보는 것은 \n물론이고 전세계...",
-        "link": "https://www.g-enews.com/article/Global-Biz/2022/05/2022051011442755329a1f309431_1",
-        "date": "1일 전",
-        "image_path": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20220510114507076129a1f3094311109215171.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "\"아직 전쟁 한창인데\"…우크라이나 재건 테마株 '들썩'",
         "description": "전쟁이 언제 끝날지 정확히 알 수 없는 상황에서 새로운 테마주가 고개 ... 우크라이나가 기간 시설, 건물 등에 입은 물리적 피해는 \n600억달러(약 74...",
         "link": "https://www.hankyung.com/finance/article/2022050438656",
@@ -184,19 +176,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "[필동정담] 경협의 포로가 된 나라",
-        "description": "우크라이나 전쟁 초기부터 독일을 보면서 종종 드는 생각이다. ... 독일은 경제협력을 확대한 탓에 러시아 눈치를 보는 상황이다.",
-        "link": "https://www.mk.co.kr/opinion/columnists/view/2022/05/417466/",
-        "date": "4시간 전",
-        "image_path": "https://file.mk.co.kr/news/facebook_mknews.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "尹대통령 “北 핵실험 재개 이야기 나와…안보상황 만만찮다”",
-        "description": "우크라이나 사태로 인한 원자재 가격 상승 등에 대해서도 “국제 원자재가가 ... 윤 대통령은 “코로나로 피해를 입은 소상공인·자영업자에 \n대한 신속한...",
-        "link": "https://www.donga.com/news/Politics/article/all/20220511/113342802/1",
-        "date": "9시간 전",
-        "image_path": "https://dimg.donga.com/a/560/0/90/5/wps/NEWS/IMAGE/2022/05/11/113341619.2.jpg",
+        "name": "우크라 전쟁에 힘 빠진 러…美 '중국견제'에 도움?",
+        "description": "... 러시아는 우크라이나 전쟁으로 인한 피해들로 지출되는 비용과 서방의 각종 제재로 수년간 힘든 상황에 부닥칠 것이라며 전쟁 후 몇 \n년간 큰 힘을...",
+        "link": "https://m.dailian.co.kr/news/view/1112687",
+        "date": "12시간 전",
+        "image_path": "http://cdnimage.dailian.co.kr/news/202205/news_1652272880_1112687_m_1.jpeg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -208,11 +192,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "우크라이나 전쟁의 이면",
-        "description": "[기고] 우크라이나 상황이 한반도에 일어난다면 ... 러시아-우크라이나 전쟁이 미국-러시아 전쟁으로 이어지고 나토-러시아 전쟁으로 \n확대되고 있다.",
-        "link": "https://www.pressian.com/pages/articles/2022050311501475213",
-        "date": "1주 전",
-        "image_path": "https://www.pressian.com/_resources/10/2022/05/03/2022030808045553629_l.jpg",
+        "name": "[초점] 디에스 폭스바겐 CEO \"우크라 사태 대화로 끝내자\" 발언 ...",
+        "description": "디에스 CEO는 특히 “우크라이나 사태의 여파로 국제교역이 지속적으로 불안해지면 독일을 비롯한 유로존이 가장 큰 피해를 보는 것은 \n물론이고 전세계...",
+        "link": "https://www.g-enews.com/article/Global-Biz/2022/05/2022051011442755329a1f309431_1",
+        "date": "1일 전",
+        "image_path": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20220510114507076129a1f3094311109215171.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -224,11 +208,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "KH건설, 우크라이나 지원 동참...난민 캠프 기부금 전달",
-        "description": "강정식 KH건설 대표는 “전쟁 상황에서 삶의 터전을 잃어버린 우크라이나 난민들과 어린이들이 겪을 어려움을 고려해 인도적 차원에서 기부에 \n나서게...",
-        "link": "https://www.etoday.co.kr/news/view/2132749",
-        "date": "4시간 전",
-        "image_path": "https://img.etoday.co.kr/pto_db/2022/05/20220511165151_1751155_595_445.jpg",
+        "name": "[필동정담] 경협의 포로가 된 나라",
+        "description": "우크라이나 전쟁 초기부터 독일을 보면서 종종 드는 생각이다. ... 독일은 경제협력을 확대한 탓에 러시아 눈치를 보는 상황이다.",
+        "link": "https://www.mk.co.kr/opinion/columnists/view/2022/05/417466/",
+        "date": "9시간 전",
+        "image_path": "https://file.mk.co.kr/news/facebook_mknews.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -237,6 +221,22 @@
         "link": "https://www.spnews.co.kr/news/articleView.html?idxno=52014",
         "date": "4일 전",
         "image_path": "https://cdn.spnews.co.kr/news/thumbnail/202205/52014_52372_2215_v150.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라이나 전쟁발 수출입 리스크 현실화…대금결제 지연 등 피해 급증",
+        "description": "구자근 의원은 \"대 러시아 제재가 장기화할 경우 기업 피해 지원과 수입선 다변화를 위한 정부와 국회 차원의 지원대책 마련이 시급한 \n상황\"이라고...",
+        "link": "https://www.mk.co.kr/news/economy/view/2022/04/366653/",
+        "date": "2주 전",
+        "image_path": "https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_366653_16508666645021023.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "충남중기청, 우크라이나사태 관련 피해 중소기업 지원 방안 공동 모색",
+        "description": "[금강일보 김인수 기자] 충남지방중소벤처기업청(청장 신성식, 이하 충남중기청)은 우크라이나사태 관련 충남지역 중소기업의 피해 현황 공동 \n파악 및...",
+        "link": "http://www.ggilbo.com/news/articleView.html?idxno=909500",
+        "date": "2주 전",
+        "image_path": "http://www.ggilbo.com/image/logo/snslogo_20200915105312.png",
         "catagory": "지역 라이브 상황"
     }
 ]
