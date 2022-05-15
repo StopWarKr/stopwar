@@ -3,7 +3,7 @@
         "name": "“관에 눕고 싶지 않다”... 러軍, 전투명령 거부 가능한 이유는 - 조선일보",
         "description": "이 중 한 명이었던 '드미트리'라는 가명의 러시아 군인은 가디언에 “2월말 벨라루스를 통해 우크라이나 전투에 투입됐으며, 나는 \n관(棺)에 뉘지 않고...",
         "link": "https://www.chosun.com/international/europe/2022/05/13/BV6P6GP6SVGQBP7J74BMYJSPBY/",
-        "date": "1일 전",
+        "date": "2일 전",
         "image_path": "https://images.chosun.com/resizer/pe0yT1UxeFozSXg4TFyW-GSS6c0=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4E2YJLWEEJP6XO3M7MZXXBKC5E.JPG",
         "catagory": "교전 최신 상황"
     },
@@ -19,7 +19,7 @@
         "name": "“집에 돌아가고 싶어요”…‘사기 저하’ 러군, 전투 거부 속출",
         "description": "러시아의 우크라이나 침공이 78일째 이어지는 가운데, 사기가 저하된 러시아 군인들이 전투를 거부하는 사례가 속출하고 있다.",
         "link": "https://www.donga.com/news/Inter/article/all/20220513/113386909/1",
-        "date": "1일 전",
+        "date": "2일 전",
         "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/05/13/113386826.2.jpg",
         "catagory": "교전 최신 상황"
     },
@@ -32,18 +32,10 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "우크라 전쟁 어떻게 할겁니까? 푸틴에 묻고 싶네요 [뉴스 쉽게 보기]",
-        "description": "현재 우크라이나 동부와 남부 지역에선 일진일퇴의 전투가 벌어지는 중이에요. 이건 전쟁이 아니라는 러시아. 이런데도 러시아는 우크라이나 \n침공이 전쟁...",
-        "link": "https://www.mk.co.kr/news/business/view/2022/05/425826/",
-        "date": "1일 전",
-        "image_path": "https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_425826_16524873935041393.jpeg",
-        "catagory": "교전 최신 상황"
-    },
-    {
         "name": "[우크라 침공] 대도시→초원으로 전장 이동…돈바스 전투 향방은",
         "description": "우크라이나 북부에서의 패퇴를 설욕하려는 러시아군과 승기를 굳히려는 우크라이나군 간의 대규모 전투가 시시각각 다가오고 있다.",
         "link": "https://m.mk.co.kr/news/world/view/2022/04/341096/",
-        "date": "4주 전",
+        "date": "1개월 전",
         "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/18/image_readtop_2022_341096_0_115411.jpg",
         "catagory": "교전 최신 상황"
     },
@@ -56,6 +48,14 @@
         "catagory": "교전 최신 상황"
     },
     {
+        "name": "우크라 전쟁 어떻게 할겁니까? 푸틴에 묻고 싶네요 [뉴스 쉽게 보기]",
+        "description": "현재 우크라이나 동부와 남부 지역에선 일진일퇴의 전투가 벌어지는 중이에요. 이건 전쟁이 아니라는 러시아. 이런데도 러시아는 우크라이나 \n침공이 전쟁...",
+        "link": "https://www.mk.co.kr/news/business/view/2022/05/425826/",
+        "date": "1일 전",
+        "image_path": "https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_425826_16524873935041393.jpeg",
+        "catagory": "교전 최신 상황"
+    },
+    {
         "name": "이근 추정 우크라 교전 영상 확산…근거는?",
         "description": "이 영상에는 \"우크라이나 전역에서 우크라이나 군인들이 러시아군을 상대로 벌인 전투 작전을 공개한다\"며 \"영상의 위치는 보안상의 이유로 \n공개하지...",
         "link": "https://www.mk.co.kr/star/hot-issues/view/2022/05/398675/",
@@ -64,43 +64,19 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "뉴시스",
-        "description": "우크라이나군과 러시아군이 전투를 이어가는 동안 하르키우 외곽에는 신원이 밝혀지지 않은 시신들이 즐비해 흡사 야외 영안실 같은 느낌을 \n주는 것으로...",
-        "link": "https://mobile.newsis.com/view.html?ar_id=NISX20220507_0001862413",
-        "date": "1주 전",
-        "image_path": "https://image.newsis.com/2022/05/03/NISI20220503_0018761411_web.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
         "name": "젤렌스키 \"돈바스 전투 시작\"...미국, 위성 요격미사일 시험 중단",
         "description": "진행자) 지구촌 오늘 첫 소식입니다. 우크라이나 동부 돈바스에서 대규모 전투가 시작됐다고요? 기자) 그렇습니다. 볼로디미르 젤렌스키 \n우크라이나...",
         "link": "https://www.voakorea.com/a/6535815.html",
-        "date": "3주 전",
-        "image_path": "https://gdb.voanews.com/03a80000-0aff-0242-e632-08da2195b70a_w1200_r1.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "러시아 최후통첩에 반발… 마리우폴 ‘마지막 전투’ 임박",
-        "description": "러시아군이 집중포격을 이어온 우크라이나 남부 항구도시 마리우폴에 최후통첩을 보냈지만 포위된 이 도시의 우크라이나군은 항전의지를 밝혀 \n'최후의...",
-        "link": "https://www.donga.com/news/Inter/article/all/20220418/112945983/1",
         "date": "4주 전",
-        "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/04/18/112945886.2.jpg",
+        "image_path": "https://gdb.voanews.com/03a80000-0aff-0242-e632-08da2195b70a_w1200_r1.jpg",
         "catagory": "교전 최신 상황"
     },
     {
         "name": "美국무 “우크라 전쟁 연말까지 갈수도” - 조선일보",
         "description": "우크라이나군은 그러나 이를 거부하고 계속 전투 중이다. 볼로디미르 젤렌스키 우크라이나 대통령은 이날 “러시아가 만약 마리우폴에서 저항 \n중인...",
         "link": "https://www.chosun.com/international/international_general/2022/04/17/STFZXWKAXVD65CTWFWM7VROQZY/",
-        "date": "4주 전",
+        "date": "1개월 전",
         "image_path": "https://images.chosun.com/resizer/1sRzcjuXR3VTDsblnHvozKIChbM=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UX76DJZ26ZPLJAWZURGQ6XGC6E.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "'아조우스탈 결사항전' 우크라군, 중상자 사진 공개하며 'SOS'",
-        "description": "공개된 사진 가운데에는 전투 과정에서 팔과 다리를 잃은 부대원들의 모습이 다수 담겼다. 가디언은 아조우 연대가 이런 '참혹한 이미지'와 \n함께 도움을...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/05/417693/",
-        "date": "3일 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/12/image_readtop_2022_417693_0_120511.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -112,32 +88,48 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "이근 실전투입 영상?… 교전 근황에 다시 불붙은 의용군 논쟁 [넷 ...",
-        "description": "우크라이나 전쟁 등 전 세계 전쟁·전투 관련 영상이 올라오는 웹사이트 'FUNKER530'에는 전날 약 53초 길이의 우크라이나 전투 \n영상이 게재됐다.",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20220504500083",
-        "date": "1주 전",
-        "image_path": "https://img.seoul.co.kr/img/upload/2022/05/04/SSI_20220504130649.jpg",
+        "name": "제철소 요새 삼아… 우크라군 3000명 최후항전 벌인다 - 조선일보",
+        "description": "러시아군이 “항복하면 살려주겠다”며 최후통첩을 했지만 우크라이나군은 이를 거부하며 최후 결전 태세에 돌입, 대규모 전투가 예상된다. \n러시아군이 화학...",
+        "link": "https://www.chosun.com/international/international_general/2022/04/18/OT2TZJP27NGCLHIJRCRCB4TDWM/",
+        "date": "4주 전",
+        "image_path": "https://images.chosun.com/resizer/_hzKMIEf8KCUakr2m81cd3sw7Sg=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PMAUG4MTBFPUREM3W3GWZJD6EE.jpg",
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "전쟁범죄 첫 재판 열린다…자전거 탄 민간인 사살 러시아 하사 `1호`",
-        "description": "쉬시마린은 개전 초기인 지난 2월 28일 교전 지역이었던 우크라이나 ... 다만 로마노프의 경우 소재가 확인되지 않은 상황이라 피고인이 \n출석하지...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/05/424186/",
-        "date": "2일 전",
-        "image_path": "https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_424186_16524325785041601.jpg",
+        "name": "'아조우스탈 결사항전' 우크라군, 중상자 사진 공개하며 'SOS'",
+        "description": "공개된 사진 가운데에는 전투 과정에서 팔과 다리를 잃은 부대원들의 모습이 다수 담겼다. 가디언은 아조우 연대가 이런 '참혹한 이미지'와 \n함께 도움을...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/05/417693/",
+        "date": "4일 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/12/image_readtop_2022_417693_0_120511.jpg",
         "catagory": "교전 최신 상황"
     },
     {
         "name": "[우크라 침공] 러 돈바스 전력집중에 서방 무기지원 박차",
         "description": "미국은 21일(현지시간) 우크라이나 동부에서의 우크라이나군 전투능력을 ... 에서 교전 중인 우크라이나군 소속 이반 스쿠라토우스키 \n중위는 \"상황이...",
         "link": "https://www.mk.co.kr/news/world/view/2022/04/369380/",
-        "date": "2주 전",
+        "date": "3주 전",
         "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/26/image_readtop_2022_369380_0_111611.jpg",
         "catagory": "교전 최신 상황"
     },
     {
+        "name": "우크라군·러군 동부 지역 치열한 교전 벌이며 시간 싸움",
+        "description": "우크라이나군과 러시아군이 전투를 이어가는 동안 하르키우 외곽에는 신원이 밝혀지지 않은 시신들이 즐비해 흡사 야외 영안실 같은 느낌을 \n주는 것으로...",
+        "link": "https://newsis.com/view/?id=NISX20220507_0001862413",
+        "date": "1주 전",
+        "image_path": "http://image.newsis.com/2022/05/03/NISI20220503_0018761411_web.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "우크라 전쟁범죄 첫 재판…자전거 탄 60대 사살 러 하사 - 서울경제",
+        "description": "당시 우크라이나 전투기의 공격을 피해 전투 차량으로 달아나던 쉬시마린은 동료 군인 4명과 함께 자전거를 탄 채 휴대전화 통화를 하며 \n집으로 향하던...",
+        "link": "https://www.sedaily.com/NewsView/265Z9HCFT9",
+        "date": "14시간 전",
+        "image_path": "https://newsimg.sedaily.com/2022/05/15/265Z9HCFT9_1.jpeg",
+        "catagory": "교전 최신 상황"
+    },
+    {
         "name": "[뉴데일리TV] 붕괴 직전 러시아군대…\"재래전으로 우크라이나 ...",
-        "description": "그러나 우크라이나군과의 교전으로 중대한 전력이 소모되면서 투입된 전술부대의 25%가 전투불능 상태에 빠졌다. 보고서에 따르면 러시아 \n공수부대(VDV)가...",
+        "description": "영국 정보기관은 현재 우크라이나에 투입된 러시아 전술 부대의 25% 이상이 전력 소모로 전투불능 상태에 있다고 분석했다. 이런 가운데 \n러시아 군 참모...",
         "link": "https://www.newdaily.co.kr/site/data/html/2022/05/04/2022050400244.html",
         "date": "1주 전",
         "image_path": "https://image.newdaily.co.kr/site/data/img/2022/05/04/2022050400244_0.png",
@@ -176,35 +168,11 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "우크라군·러군 동부 지역 치열한 교전 벌이며 시간 싸움",
-        "description": "우크라이나군과 러시아군이 전투를 이어가는 동안 하르키우 외곽에는 신원이 밝혀지지 않은 시신들이 즐비해 흡사 야외 영안실 같은 느낌을 \n주는 것으로...",
-        "link": "https://www.fnnews.com/news/202205071818342438",
-        "date": "1주 전",
-        "image_path": "https://image.fnnews.com/resource/media/image/2022/05/07/202205071818307349_l.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "우크라 침공 79일…동부 돈바스 교착상태 이어져",
-        "description": "기사내용 요약. \"우크라, 강 건너려던 러군 저지…다리 3개 폭파\" 이지움·슬로비얀스크서 전투 집중 \"진전은 없어 아조우스탈 제철소 \n포격 계속…",
-        "link": "https://www.fnnews.com/news/202205140534236724",
-        "date": "1일 전",
-        "image_path": "https://image.fnnews.com/resource/media/image/2022/05/14/202205140534183781_l.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
         "name": "우크라 마리우폴 제철소 전투 계속… “최근 러 공격 격퇴”",
         "description": "[천지일보=이솜 기자] 우크라이나 남부 마리우폴의 마지막 항거지로 알려진 아조우스탈 제철소에서 우크라이나군이 러시아군을 격퇴했다고 \n5일(현지...",
         "link": "http://www.newscj.com/news/articleView.html?idxno=977851",
         "date": "1주 전",
         "image_path": "https://cdn.newscj.com/news/photo/202205/newscj_천지일보_2022_5_5_22018_1047760.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "[단독] 우크라 의용군 J씨 \"최전선 전투중…전투식량으로 식사\"",
-        "description": "\"바로 옆 건물이 포격에 무너지는 경험 2번 했다\". JTBC 취재진은 현재 우크라이나 최전선에서 전투활동에 참여하고 있는 한국인 \n의용군 J씨와 이번달...",
-        "link": "https://mnews.jtbc.joins.com/News/Article.aspx?news_id=NB12056292",
-        "date": "3주 전",
-        "image_path": "https://photo.jtbc.joins.com/news/jam_photo/202204/21/48a74f4f-948f-4d8f-8784-ed3f8159d49b.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -216,11 +184,19 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "러시아와 병합 움직임 헤르손, 폐허로 변해",
-        "description": "우크라이나군과 러시아군의 교전은 이날도 마리우폴 등 동남부 지역과 하르 ... 가 아는 한 제철소 안에 민간인은 없다”며 내부 상황을 \n정확하게 파악...",
-        "link": "https://www.hani.co.kr/arti/international/international_general/1042553.html",
-        "date": "3일 전",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/486/imgdb/original/2022/0512/20220512501717.jpg",
+        "name": "우크라 침공 79일…동부 돈바스 교착상태 이어져",
+        "description": "기사내용 요약. \"우크라, 강 건너려던 러군 저지…다리 3개 폭파\" 이지움·슬로비얀스크서 전투 집중 \"진전은 없어 아조우스탈 제철소 \n포격 계속…",
+        "link": "https://www.fnnews.com/news/202205140534236724",
+        "date": "1일 전",
+        "image_path": "https://image.fnnews.com/resource/media/image/2022/05/14/202205140534183781_l.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "우크라이나, 러시아 가스관 한곳 운영 중단…유럽 가스 공급 차질",
+        "description": "우크라이나 가스관 운영 기업이 11일(현지시각)부터 주요 교전 지역인 루한 ... 가스프롬은 지금까지처럼 계속 운영을 하지 못할 \n불가항력적인 상황이...",
+        "link": "https://www.hani.co.kr/arti/international/international_general/1042412.html",
+        "date": "4일 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/468/imgdb/original/2022/0511/20220511502189.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -232,11 +208,35 @@
         "catagory": "교전 최신 상황"
     },
     {
+        "name": "러시아와 병합 움직임 헤르손, 폐허로 변해",
+        "description": "우크라이나군과 러시아군의 교전은 이날도 마리우폴 등 동남부 지역과 하르 ... 가 아는 한 제철소 안에 민간인은 없다”며 내부 상황을 \n정확하게 파악...",
+        "link": "https://www.hani.co.kr/arti/international/international_general/1042553.html",
+        "date": "3일 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/486/imgdb/original/2022/0512/20220512501717.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "우크라군·러군 동부 지역 치열한 교전 벌이며 시간 싸움(러시아 ...",
+        "description": "우크라이나군과 러시아군이 전투를 이어가는 동안 하르키우 외곽에는 신원이 밝혀지지 않은 시신들이 즐비해 흡사 야외 영안실 같은 느낌을 \n주는 것으로...",
+        "link": "https://www.topstarnews.net/14690348",
+        "date": "1주 전",
+        "image_path": "https://www.topstarnews.net/news/photo/202205/14690348_791584_2046.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
         "name": "러, 우크라군 반격에 동부 보급로 위협받아…돈바스 장악 차질",
         "description": "우크라이나군이 북동부 하르키우 지역에서 러시아군에 대한 반격에 성공 ... 러시아와 국경을 맞대고 있는 이 지역은 최대 교전 지역인 \n동부 돈바스...",
         "link": "https://www.hani.co.kr/arti/international/international_general/1042375.html",
         "date": "4일 전",
         "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/486/imgdb/original/2022/0511/20220511501188.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "우크라 2900만원 로켓포, 63억짜리 러시아 탱크 박살",
+        "description": "우크라이나 국방부가 이날 공개한 드론 영상을 보면 러시아군의 T-90M 최신모델 탱크가 지난주 하리키우 북쪽 스타리 살티우 전투에서 \n로켓포에 명중돼...",
+        "link": "https://www.donga.com/news/Inter/article/all/20220511/113347732/1",
+        "date": "4일 전",
+        "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/05/11/113347706.2.jpg",
         "catagory": "교전 최신 상황"
     }
 ]
