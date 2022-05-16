@@ -1,18 +1,58 @@
 ﻿[
     {
-        "name": "해상 봉쇄로 수출길 막힌 우크라…\"경제난에 장기전은 힘들 듯\"",
-        "description": "세르히 마르첸코 우크라이나 재무부 장관은 이코노미스트와 인터뷰에서 ... 이런 규제를 완화하지 않는 한 유럽과 전 세계가 9월 이후 \n심각한 식량...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/05/428513/",
-        "date": "7시간 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/15/image_readtop_2022_428513_0_193812.jpg",
+        "name": "'밀의 전쟁'…인도 수출 막자 가격 출렁, 밥상물가 비상걸렸다",
+        "description": "러시아-우크라이나 전쟁에 이어 인도 수출 규제로 밀값 들썩여 전쟁에 더해 전세계 가뭄 현상에 4년만에 밀 수확량 급감, 밥상물가 또 \n오를라.",
+        "link": "https://www.nocutnews.co.kr/news/5756830",
+        "date": "4시간 전",
+        "image_path": "https://file2.nocutnews.co.kr/newsroom/image/2022/05/16/202205161703064706_0.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "인도 밀 수출 금지령에 G7 비판…이집트는 예외 적용 요구",
+        "description": "우크라이나의 작년 밀 수출량은 2천만t으로 세계 6위였다. ... 장관은 G7 농업 장관 회의 뒤 기자회견에서 \"만약 모두가 수출 \n규제를 하거나 시장을...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/05/427017/",
+        "date": "1일 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/15/image_readtop_2022_427017_0_102611.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "러, 곡물 봉쇄·인도, 수출 금지… 식량전쟁 불붙나",
+        "description": "곡물 2500만t이 러시아의 봉쇄로 우크라이나 항구에 발이 묶인 상태에서 ... 후 기자회견에서 “만약 모두가 수출 규제를 하거나 \n시장을 닫기 시작하면...",
+        "link": "http://news.kmib.co.kr/article/view.asp?arcid=0924245623&code=11141100&sid1=i",
+        "date": "17시간 전",
+        "image_path": "https://image.kmib.co.kr/online_image/2022/0516/2022051523560697756_1652626566_0924245623.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "美의회, 내주 초 51조원 우크라 추가지원예산 승인할 듯",
+        "description": "그는 미 상원이 16일 월요일에 우크라이나 추가지원예산 승인절차를 진전시켜서 수요일 ... 대외원조 제한 등 각종 규제를 부과할 수 \n있게 됩니다.",
+        "link": "https://imnews.imbc.com/news/2022/world/article/6368861_35680.html",
+        "date": "15시간 전",
+        "image_path": "https://image.imnews.imbc.com/news/2022/world/article/__icsFiles/afieldfile/2022/05/16/k220516-15.jpg",
         "catagory": "규제"
     },
     {
         "name": "美상원 대표단 키이우 방문…러 \"매우, 매우 위험\" 반발(종합)",
         "description": "미국 상원 의원단이 14일(현지시간) 우크라이나 수도 키이우를 깜짝 방문 ... 국가에 대한 방산 수출 금지, 대외원조 제한 등 규제를 \n부과할 수 있다.",
         "link": "https://www.mk.co.kr/news/world/view/2022/05/427119/",
-        "date": "15시간 전",
+        "date": "1일 전",
         "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/15/image_readtop_2022_427119_0_114912.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "美 의회, 51조 원 우크라 추가지원예산 곧 승인할 듯",
+        "description": "우크라이나를 전격 방문했던 미국 공화당의 미치 매코널 상원 원내대표는 현지 시각 15일 ... 대외원조 제한 등 각종 규제를 부과할 수 \n있게 됩니다.",
+        "link": "https://www.ytn.co.kr/_ln/0104_202205160543086131",
+        "date": "16시간 전",
+        "image_path": "https://www.ytn.co.kr/img/comm/ytn_sns_default.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "해상 봉쇄로 수출길 막힌 우크라…\"경제난에 장기전은 힘들 듯\"",
+        "description": "세르히 마르첸코 우크라이나 재무부 장관은 이코노미스트와 인터뷰에서 ... 이런 규제를 완화하지 않는 한 유럽과 전 세계가 9월 이후 \n심각한 식량...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/05/428513/",
+        "date": "1일 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/15/image_readtop_2022_428513_0_193812.jpg",
         "catagory": "규제"
     },
     {
@@ -24,26 +64,34 @@
         "catagory": "규제"
     },
     {
+        "name": "우크라전쟁, 中봉쇄에도 세계 전기차 판매 얼마나 늘었나보니",
+        "description": "우크라이나 침공과 중국의 제로 코로나 봉쇄 정책에도 불구하고 글로벌 ... 소비자 수요와 환경규제에 맞추기 위한 유럽 자동차 업체들의 \n신모델 출시...",
+        "link": "https://www.mk.co.kr/news/business/view/2022/05/429561/",
+        "date": "11시간 전",
+        "image_path": "https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_429561_16526641625043598.jpg",
+        "catagory": "규제"
+    },
+    {
         "name": "역사의 흐름 바꾼 우크라이나전",
         "description": "군사 분쟁이 치열한 국가에 대한 무기 이전 규제를 단계적으로 완화하고 우크라이나에 중화기를 지원하기로 했다. 세 번째로 전쟁은 유럽이 \n러시아 에너지...",
         "link": "https://www.hankyung.com/opinion/article/2022051346401",
-        "date": "2일 전",
+        "date": "3일 전",
         "image_path": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
         "catagory": "규제"
     },
     {
-        "name": "인도 밀 수출 금지령에 G7 비판…이집트는 예외 적용 요구",
-        "description": "우크라이나의 작년 밀 수출량은 2천만t으로 세계 6위였다. ... 장관은 G7 농업 장관 회의 뒤 기자회견에서 \"만약 모두가 수출 \n규제를 하거나 시장을...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/05/427017/",
-        "date": "17시간 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/15/image_readtop_2022_427017_0_102611.jpg",
+        "name": "테샛 공부합시다 러시아 디폴트 위험…국제 금융시장의 향방은 ...",
+        "description": "최근 러시아가 우크라이나와의 전쟁으로 국제사회의 제재를 받게 ... 규제 샌드박스=어린이들이 안전하게 놀 수 있는 모래놀이터에서 착안한 \n용어다.",
+        "link": "https://sgsg.hankyung.com/article/2022051332091",
+        "date": "3일 전",
+        "image_path": "https://static.hankyung.com/img/sgsg/og-img-sgsg.jpg",
         "catagory": "규제"
     },
     {
         "name": "“한국이 우크라이나 꼴 난다” ...환구시보의 입이 거친 이유 - 조선일보",
         "description": "이미 강대해진 중국이 러시아가 우크라이나 다루듯 한국을 손 봐 줄 ... 미국은 현재 대중 경계심을 잔뜩 높이며 산업 기술 등 각종 \n규제를 강화하는...",
         "link": "https://www.chosun.com/opinion/column/2022/05/11/KZ7LHUSM7RF7HBUVJKJUHZDMGQ/",
-        "date": "4일 전",
+        "date": "5일 전",
         "image_path": "https://images.chosun.com/resizer/zDB1PBBPIYp1HKfjQtVbimbMnhg=/600x315/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6PDTD7GAVI2FYNUDBTSIXJQ3Z4.jpg",
         "catagory": "규제"
     },
@@ -51,7 +99,7 @@
         "name": "우크라 사태로 러시아 조업 '빨간불'… “명태, 금태 될라”",
         "description": "우크라이나 사태 등 국제정세 악화가 장기화됨에 따라 원양 명태 조업에도 ... 정부는 일단 조업에 대한 규제는 없는 상황이라 러시아 \n정부와 협상을...",
         "link": "http://www.busan.com/view/busan/view.php?code=2022051518482094919",
-        "date": "8시간 전",
+        "date": "1일 전",
         "image_path": "http://www.busan.com/nas/wcms/wcms_data/photos/2022/05/15/2022051518482028676_l.jpg",
         "catagory": "규제"
     },
@@ -59,31 +107,39 @@
         "name": "G7, 우크라 곡물 육로 수출 고심…\"글로벌 식량위기\" 경고",
         "description": "주요7개국, G7이 러시아의 봉쇄로 막힌 뱃길 대신 육로로 우크라이나 곡물을 수출하는 방안을 논의하는 등 곡물 수출길을 다시 열기 위해 \n고심하고...",
         "link": "https://imnews.imbc.com/news/2022/world/article/6368513_35680.html",
-        "date": "1일 전",
+        "date": "2일 전",
         "image_path": "https://image.imnews.imbc.com/news/2022/world/article/__icsFiles/afieldfile/2022/05/14/h220513_08.jpg",
         "catagory": "규제"
     },
     {
-        "name": "[필동정담] 핵을 가진 악당",
-        "description": "우크라이나를 침공한 뒤 석 달이 다 돼가도록 목적을 달성하지 못한 ... 총을 든 악당을 막기 위해선 총기를 규제할 게 아니라 선량한 \n시민들이 총기...",
-        "link": "https://www.mk.co.kr/opinion/columnists/view/2022/05/424939/",
-        "date": "2일 전",
-        "image_path": "https://file.mk.co.kr/news/facebook_mknews.jpg",
+        "name": "에너지 가격이 하락할 것인가? Ogfem이 3개월마다 가격 상한 ...",
+        "description": "월요일 아침에 에너지 규제 기관은 1년에 1월과 7월에 두 개의 새로운 ... 브릴리 총리는 오늘 아침 러시아의 우크라이나 전쟁으로 \n휘발유 가격이...",
+        "link": "https://histimes.com/%EC%97%90%EB%84%88%EC%A7%80-%EA%B0%80%EA%B2%A9%EC%9D%B4-%ED%95%98%EB%9D%BD%ED%95%A0-%EA%B2%83%EC%9D%B8%EA%B0%80-ogfem%EC%9D%B4-3%EA%B0%9C%EC%9B%94%EB%A7%88%EB%8B%A4-%EA%B0%80%EA%B2%A9-%EC%83%81/",
+        "date": "1시간 전",
+        "image_path": "https://histimes.com/wp-content/uploads/2022/05/SEI_104271690-1024x683.jpg",
         "catagory": "규제"
     },
     {
-        "name": "러시아 푸틴, 우크라에 공식 선전포고하면 발생할 일",
-        "description": "현재까지 러시아 정부는 우크라이나에서 '특별 군사 작전'을 펼치고 있다고 ... 징집, 군 복무 등 여러 관련 법에 따라 규제되며, \n시민들의 생활,...",
-        "link": "https://www.bbc.com/korean/international-61305855",
-        "date": "1주 전",
-        "image_path": "https://ichef.bbci.co.uk/news/1024/branded_korean/17ED0/production/_124600089_26a7a0a6-379e-49f8-8eda-de22638bdfb9.jpg",
+        "name": "[루나사태 해부]③ 초유의 릴레이 붕괴…美 달러 위협 본보기 되나",
+        "description": "루나 사태를 계기로 미국 정부가 스테이블 코인에 대한 규제에 속도를 낼 전망 ... 미국 달러 패권의 위력은 최근 우크라이나 전쟁에서 \n알 수 있다.",
+        "link": "http://it.chosun.com/site/data/html_dir/2022/05/16/2022051601536.html",
+        "date": "5시간 전",
+        "image_path": "http://itimg.chosun.com/sitedata/image/202205/16/2022051601533_0.png",
+        "catagory": "규제"
+    },
+    {
+        "name": "中 소비·생산·투자 추락…4월 피해는 '빙산의 일각'(종합)",
+        "description": "... 우크라이나 전쟁, 미·중 통화정책 탈동조화 등이 중국 경제가 직면한 부담 ... 중국 당국은 경기를 살리기 위해 각종 규제를 \n풀며 부동산 시장...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/05/431893/",
+        "date": "5시간 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/16/image_readtop_2022_431893_0_164011.jpg",
         "catagory": "규제"
     },
     {
         "name": "유럽개발은행 \"우크라이나 올해 30% 역성장 전망\"",
         "description": "유럽부흥개발은행(EBRD)이 러시아의 침공을 받은 우크라이나의 올해 경제 ... 에너지 등의 가격이 최근 급격히 오른 데다 코로나19 \n규제 완화로 수요...",
         "link": "https://m.mk.co.kr/news/world/view/2022/05/413218/",
-        "date": "5일 전",
+        "date": "6일 전",
         "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/10/image_readtop_2022_413218_0_171011.jpg",
         "catagory": "규제"
     },
@@ -104,26 +160,50 @@
         "catagory": "규제"
     },
     {
-        "name": "'부적절' 영국 집주인에…우크라 난민 600명 거처 옮겨야",
-        "description": "영국 가디언은 이 프로그램을 이용한 우크라이나 난민 600명이 집주인의 ... 자선단체 '난민 행동'의 한 관계자도 \"정부의 무모하고 \n규제되지 않은...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/05/407049/",
-        "date": "6일 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/09/image_readtop_2022_407049_0_105311.jpg",
+        "name": "[칼럼] '인재육성' '규제혁신' 기업을 다시 뛰게 하자",
+        "description": "러시아-우크라이나 전쟁과 코로나19 등 복합 위기가 우리 경제를 위협하는 상황에서 윤석열 정부가 가장 긴밀히 협력해야 할 국가로는 \n응답자의 60%가...",
+        "link": "http://localsegye.co.kr/news/newsview.php?ncode=1065622723941851",
+        "date": "14시간 전",
+        "image_path": "http://localsegye.co.kr/news/data/20220515/p1065622723941851_422_thum.jpg",
         "catagory": "규제"
     },
     {
-        "name": "미 “군수물자 부족한 러시아, 냉장고·식세기로 군사물품 조달 중”",
-        "description": "러시아가 우크라이나 침공 뒤 대폭 강화된 국제 사회 경제 제재 때문에 ... 이날 상원 청문회에서 러시아 수출 규제의 효과를 묻는 한 \n의원의 질문에...",
-        "link": "https://www.hani.co.kr/arti/international/international_general/1042577.html",
-        "date": "3일 전",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2022/0512/20220512502196.jpg",
+        "name": "한국무협, 뉴욕서 대러시아 전략물자 수출규제 가이드라인 세미나",
+        "description": "러시아와 우크라이나 전쟁이 장기화됨에 따라 수출규제가 당분간 지속될 것이란 전망도 나왔다. 이 팀장은 \"미 상무부 BIS(Burea \nof Industry and...",
+        "link": "https://www.hankyung.com/international/article/202205129503i",
+        "date": "4일 전",
+        "image_path": "https://img.hankyung.com/photo/202205/01.29944181.1.png",
+        "catagory": "규제"
+    },
+    {
+        "name": "[디지털 세상 읽기] 지지부진 빅테크 규제",
+        "description": "우크라이나 전쟁과 임신 중지를 보장하는 판례가 뒤집히는 중대한 이슈가 워싱턴을 휩쓸게 되면서 의원들이 빅테크 규제 논의에 집중하기 \n힘들어...",
+        "link": "https://news.koreadaily.com/2022/05/11/society/opinion/20220511201621164.html",
+        "date": "5일 전",
+        "image_path": "https://news.koreadaily.com/resources/images/logo/sns-logo.png",
+        "catagory": "규제"
+    },
+    {
+        "name": "[먹거리안보②]밥상물가 도미노 인상…'高환율'까지 설상가상",
+        "description": "러시아의 우크라이나 침공으로 가속화된 글로벌 공급망 차질이 1차 에너지 ... 수출 규제를 하지 말자는 정도의 언급은 가능할 것\"이라고 \n주장했다.",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2022/05/16/2022051600068.html",
+        "date": "11시간 전",
+        "image_path": "https://image.newdaily.co.kr/site/data/img/2022/05/16/2022051600068_0.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "'수소산업 경쟁 본격화…한국 정책자원 투입확대 필요'",
+        "description": "[아시아경제 유현석 기자] 러시아-우크라이나 전쟁으로 인해 유럽 각국 ... 가 수소산업 육성에 노력하고 있다\"면서도 \"관련 법들이 \n제정되면서 규제...",
+        "link": "https://cm.asiae.co.kr/article/2022051614041117381",
+        "date": "8시간 전",
+        "image_path": "https://cphoto.asiae.co.kr/listimglink/6/2022051614030368300_1652677383.jpg",
         "catagory": "규제"
     },
     {
         "name": "한국-유럽 자동차협회 '전기차 원자재 공급망 다변화 필요'",
         "description": "유럽의 경우 우크라이나와 러시아, 한국의 경우 중국에 대한 높은 부품 ... 이어 “연비, 온실가스 규제와 전기차 의무 판매제는 중복 \n규제로서 두...",
         "link": "https://cm.asiae.co.kr/article/2022051208531173077",
-        "date": "3일 전",
+        "date": "4일 전",
         "image_path": "https://cphoto.asiae.co.kr/listimglink/6/2022051208522363913_1652313144.jpg",
         "catagory": "규제"
     },
@@ -136,107 +216,27 @@
         "catagory": "규제"
     },
     {
-        "name": "휘발유보다 비싼 경유… 디젤차의 몰락 빨라진다 - 조선일보",
-        "description": "... 을 배출하는 디젤차는 각국 정부의 강력한 환경 규제의 타깃이 돼왔다. ... 러시아의 우크라이나 침공으로 경유 수입의 60%를 \n러시아에 의존하던...",
-        "link": "https://www.chosun.com/economy/auto/2022/05/16/STELIJS2HRAH5MOU2UEPDL7OPY/",
-        "date": "26분 전",
-        "image_path": "/pf/resources/images/meta_default.png?d=789",
+        "name": "정상회담 의제에 '국제 기여'…어떤 내용 논의될까",
+        "description": "그러면서 \"한국의 대러시아 수출 규제와 제재는 단기적으로 윤석열 정부에 경제적 및 외교적 부담이 될 수 있지만, 우크라이나를 지원하고 \n아시아와...",
+        "link": "https://news.kbs.co.kr/news/view.do?ncd=5463697",
+        "date": "5시간 전",
+        "image_path": "http://news.kbs.co.kr/data/fckeditor/new/image/2022/05/16/320071652681411762.jpg",
         "catagory": "규제"
     },
     {
-        "name": "[속보]러시아 우크라이나 전쟁·침공, 美 \"러시아 테러지원국 지정 ...",
-        "description": "테러지원국으로 지정되면 해당 국가에 대한 방산 수출 금지, 대외원조 제한 등 규제를 부과할 수 있다. 러시아의 우크라이나 침공 이후 \n미국과 우방국...",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2457812",
-        "date": "2주 전",
-        "image_path": "https://cdn.gukjenews.com/news/thumbnail/202204/2457812_2453257_3710_v150.jpg",
-        "catagory": "규제"
-    },
-    {
-        "name": "[우크라 침공] IAEA \"체르노빌 원전 직통선 복구\"",
-        "description": "국제원자력기구(IAEA)는 19일(현지시간) 우크라이나가 원전 규제당국인 국가원자력규제사찰단(SNRIU)과 체르노빌 원전간 직통선 \n복구를 알려왔다고...",
-        "link": "https://www.yna.co.kr/view/AKR20220420126300009",
-        "date": "3주 전",
-        "image_path": "https://img3.yna.co.kr/photo/yna/YH/2022/04/08/PYH2022040812480034000_P4.jpg",
-        "catagory": "규제"
-    },
-    {
-        "name": "[열린 광장] 지지부진 빅테크 규제",
-        "description": "아마존과 같은 대형 플랫폼 기업들을 반독점법 위반으로 규제할 수 있다는 ... 우크라이나 전쟁과 임신 중지를 보장하는 판례가 뒤집히는 \n중대한 이슈...",
-        "link": "https://news.koreadaily.com/2022/05/09/society/opinion/20220509182924773.html",
-        "date": "6일 전",
-        "image_path": "https://news.koreadaily.com/resources/images/logo/sns-logo.png",
-        "catagory": "규제"
-    },
-    {
-        "name": "네팔 관광·등산, 코로나 이전 수준 회복",
-        "description": "네팔 당국은 관광산업 회복을 위해 얼마 전 코로나 관련 입국 규제 수준 ... 한편 인도 주재 우크라이나 대사관에서는 네팔 정부에 \n'러시아인 등반을...",
-        "link": "http://san.chosun.com/site/data/html_dir/2022/04/27/2022042701294.html",
-        "date": "3일 전",
-        "image_path": "http://san.chosun.com/site/data/img_dir/2022/04/27/2022042701288_0.jpg",
-        "catagory": "규제"
-    },
-    {
-        "name": "한국-유럽 車협회 \"전기차 전환 속도 조절…공급망 공동 대응\"",
-        "description": "양측은 자동차 부품 조달과 관련해 러시아·우크라이나에 대한 높은 ... ACEA는 \"유럽연합(EU)이 강력한 환경 규제를 추진하고 \n있지만, 규제 도입에...",
-        "link": "https://www.mk.co.kr/news/business/view/2022/05/420067/",
-        "date": "3일 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/12/image_readtop_2022_420067_0_142212.jpg",
-        "catagory": "규제"
-    },
-    {
-        "name": "[2보] 바이든, 42조원 규모 우크라이나 지원 예산 의회에 요청",
-        "description": "이번 조치에는 마피아 소탕을 위해 사용됐던 관련법을 개정, 제재를 피하려는 사람을 규제 대상에 포함해 강도높은 사법단속의 범위에 넣는 \n방안이 포함...",
-        "link": "https://m.mk.co.kr/news/world/view/2022/04/380204/",
-        "date": "2주 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/29/image_readtop_2022_380204_0_150411.jpg",
-        "catagory": "규제"
-    },
-    {
-        "name": "해킹 공세·가짜 뉴스 전파… 러·우크라 사이버전도 '불꽃' [세계는 ...",
-        "description": "“우크라이나인 수천 명과 살해된 아이들 수백 명의 피가 당신 손에 있습니다.” 러시아의 제2차 세계대전 전승절인 지난 9일(이하 \n현지시간) 러시아...",
-        "link": "https://www.msn.com/ko-kr/news/world/%ED%95%B4%ED%82%B9-%EA%B3%B5%EC%84%B8-%EA%B0%80%EC%A7%9C-%EB%89%B4%EC%8A%A4-%EC%A0%84%ED%8C%8C-%EB%9F%AC-%EC%9A%B0%ED%81%AC%EB%9D%BC-%EC%82%AC%EC%9D%B4%EB%B2%84%EC%A0%84%EB%8F%84-%EB%B6%88%EA%BD%83-%EC%84%B8%EA%B3%84%EB%8A%94-%EC%A7%80%EA%B8%88/ar-AAXfCVH",
-        "date": "1일 전",
-        "image_path": "No Image",
-        "catagory": "규제"
-    },
-    {
-        "name": "G7 `러 돈줄` 석유수입 중단…러 \"극초음속 미사일 개발\" 엄포",
-        "description": "블라디미르 푸틴 러시아 대통령은 승전기념일 행사에서 우크라이나 전쟁에 ... 미국 원자력규제위원회는 러시아에 대한 특수 핵물질 수출 \n면허 역시...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/05/408944/",
-        "date": "6일 전",
-        "image_path": "https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_408944_16521055065036913.jpg",
-        "catagory": "규제"
-    },
-    {
-        "name": "[World Now] 팝콘 효과? 英, 후쿠시마산 수입규제 해제",
-        "description": "양국 정상회담에는 러시아의 우크라이나 침공과 아태 지역 안보가 주요 의제로 올랐습니다. 영국 총리실은 회담 후 배포한 성명에서 \"두 \n정상은 러시아의...",
-        "link": "https://imnews.imbc.com/news/2022/world/article/6366138_35680.html",
+        "name": "'부적절' 영국 집주인에…우크라 난민 600명 거처 옮겨야",
+        "description": "영국 가디언은 이 프로그램을 이용한 우크라이나 난민 600명이 집주인의 ... 자선단체 '난민 행동'의 한 관계자도 \"정부의 무모하고 \n규제되지 않은...",
+        "link": "https://m.mk.co.kr/news/world/view/2022/05/407049/",
         "date": "1주 전",
-        "image_path": "https://image.imnews.imbc.com/news/2022/world/article/__icsFiles/afieldfile/2022/05/06/ph220506-14.jpg",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/09/image_readtop_2022_407049_0_105311.jpg",
         "catagory": "규제"
     },
     {
-        "name": "이창양 산업장관 취임…\"실질적 규제혁신으로 산업 성장, 신산업 창출 촉진\"",
-        "description": "또 이 장관은 \"에너지 안보를 튼튼히 하면서, 탄소중립의 실현가능성을 높일 수 있도록 에너지 정책을 과학적 관점에서 재설계하겠다\"며 \n\"이번 우크라이나...",
-        "link": "https://www.fnnews.com/news/202205131000447611",
-        "date": "2일 전",
-        "image_path": "https://image.fnnews.com/resource/media/image/2022/05/13/202205131000400492_l.jpg",
-        "catagory": "규제"
-    },
-    {
-        "name": "글로벌 은행, 규제 강화·실적 부진 '이중고'…골드만삭스, 스팩 ...",
-        "description": "미 증권당국, 스팩 거래 시 소매 투자자 이익 보호 강화 우크라이나 전쟁·경기 우려에 IB 수익도 줄어. 원본보기. △미국 뉴욕 \n월스트리트에서 성조기...",
-        "link": "https://www.etoday.co.kr/news/view/2132148",
-        "date": "5일 전",
-        "image_path": "https://img.etoday.co.kr/pto_db/2022/05/600/20220510141803_1750446_1200_800.jpg",
-        "catagory": "규제"
-    },
-    {
-        "name": "\"우크라 전쟁·인플레 앞이 안보이는 상황…기업인 묶어두면 안돼\"",
-        "description": "우크라이나 전쟁을 비롯해 전 세계적 공급망 불안, 인플레이션 등으로 대내외 ... 박영렬=기업을 규제하는 대신 자유를 주고 이에 대한 \n책임을 지게...",
-        "link": "https://www.mk.co.kr/news/business/view/2022/04/383150/",
-        "date": "2주 전",
-        "image_path": "https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_383150_16512284305027247.jpg",
+        "name": "[기획] 윤석열 정부에 바란다 지방 중소기업에 적극적인 지원을",
+        "description": "... 으로 러시아-우크라이나 전쟁으로 인한 주요 원자재 가격이 폭등하고 있다. ... 여전히 우리 기업들은 각종 규제로 인해 신규 \n투자는 물론 증설에...",
+        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1382282",
+        "date": "4시간 전",
+        "image_path": "No Image",
         "catagory": "규제"
     }
 ]
