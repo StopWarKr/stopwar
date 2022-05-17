@@ -1,5 +1,13 @@
 ﻿[
     {
+        "name": "[스브스夜] '그알' 우크라이나 전쟁…하이브리드 전쟁에서 '시민들의 자발적 기록' 그 의미는?",
+        "description": "하지만 끝을 모르고 계속되는 이 상황에서 우크라이나 국민들은 또 다른 싸움을 벌이고 있다. ... 하지만 우크라이나 전은 실시간으로 \n보고되고 있다.",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006734031",
+        "date": "2주 전",
+        "image_path": "https://img.sbs.co.kr/newimg/news/20220501/201660372_16v9.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "21살 러시아 군인‥전범 재판 출석",
         "description": "우크라이나 연결해 재판 상황 더 자세히 알아보겠습니다. ... 미디어센터 한쪽 벽에는 실시간 전황을 볼 수 있는 커다란 TV가 설치되어 \n있습니다.",
         "link": "https://imnews.imbc.com/replay/2022/nwdesk/article/6368652_35744.html",
@@ -8,11 +16,19 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "[스브스夜] '그알' 우크라이나 전쟁…하이브리드 전쟁에서 '시민들의 자발적 기록' 그 의미는?",
-        "description": "하지만 끝을 모르고 계속되는 이 상황에서 우크라이나 국민들은 또 다른 싸움을 벌이고 있다. ... 하지만 우크라이나 전은 실시간으로 \n보고되고 있다.",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006734031",
+        "name": "\"우크라에 너무 많이 줬나, 우리 쓸 것도 없겠네\"…미국도 놀란 무기의 정체",
+        "description": "미국이 러시아 침공을 받은 우크라이나에 '재블린'을 너무 많이 지원하면서 정작 ... 사실상 실시간 무기 등 전쟁물자 지원을 가능하게 \n할 수 있다.",
+        "link": "https://www.mk.co.kr/news/politics/view/2022/04/383874/",
         "date": "2주 전",
-        "image_path": "https://img.sbs.co.kr/newimg/news/20220501/201660372_16v9.jpg",
+        "image_path": "https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_383874_16512844775027510.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "러시아와 우크라이나 전쟁을 맞아 CSO들이 자문해야 할 것 5가지",
+        "description": "사이버전 능력을 활용해 전쟁이나 지정학적 충돌 상황에서 유리한 고지를 선점 ... 하지만 그 시작은 실시간 자산 목록화 혹은 인벤토리 \n작성이다.",
+        "link": "https://www.boannews.com/media/view.asp?idx=106825&page=1&kind=1",
+        "date": "5시간 전",
+        "image_path": "http://www.boannews.com/media/upFiles2/2022/05/300444223_7065.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -24,14 +40,6 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "여름 코앞인데...전기 만들 석탄이 없다",
-        "description": "17일 발전업계에 따르면, 발전공기업 A사는 최근 이사회를 열고 올 3분기(7~9월) 유연탄 수급 현황을 점검했다. 우크라이나 전쟁 \n영향으로 사내 최대 발전...",
-        "link": "https://www.mk.co.kr/news/economy/view/2022/05/435808/",
-        "date": "4시간 전",
-        "image_path": "https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_435808_16527887995045441.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "우크라이나 전쟁에서 활약하는 해커들",
         "description": "그리고 우크라이나 전쟁은 국가 수준의 체계화된 사이버 공격 부대와 민간의 ... 초기 러시아가 우크라이나를 침공했을 때 실시간에 가까운 \n상황이...",
         "link": "https://www.technologyreview.kr/%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98-%EC%A0%84%EC%9F%81%EC%97%90%EC%84%9C-%ED%99%9C%EC%95%BD%ED%95%98%EB%8A%94-%ED%95%B4%EC%BB%A4%EB%93%A4/",
@@ -40,11 +48,35 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "여름 코앞인데...전기 만들 석탄이 없다",
+        "description": "17일 발전업계에 따르면, 발전공기업 A사는 최근 이사회를 열고 올 3분기(7~9월) 유연탄 수급 현황을 점검했다. 우크라이나 전쟁 \n영향으로 사내 최대 발전...",
+        "link": "https://www.mk.co.kr/news/economy/view/2022/05/435808/",
+        "date": "9시간 전",
+        "image_path": "https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_435808_16527887995045441.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "미국이 우크라 정보 제공에 대해 말 아끼는 이유...“러 최고위 인사 정보, 정확한 좌표 정보 제공 금지\"",
         "description": "미국은 우크라이나 전쟁 발발 후 수십억달러의 무기 이외에도 러시아군에 대한 정보를 실시간으로 제공하고 있다. 러시아 장군들의 잇딴 \n전사와 흑해...",
         "link": "https://m.khan.co.kr/world/world-general/article/202205121629001",
         "date": "5일 전",
         "image_path": "https://img.khan.co.kr/news/2022/05/12/2022051201001522700139771.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "“우크라 ‘모스크바호 격침’, 미국이 좌표 찍어줬다”",
+        "description": "보도에 따르면 미 행정부는 러시아군 야전 사령부 위치 등 러시아군 동향과 관련한 실시간 군사정보를 우크라이나에 은밀하게 제공해왔다. \n미국과...",
+        "link": "https://m.khan.co.kr/world/europe-russia/article/202205062110025",
+        "date": "1주 전",
+        "image_path": "https://img.khan.co.kr/news/2022/05/06/2022050701000813100074581.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "“우크라, 러 모스크바호 격침 때 미국이 좌표 찍어줬다”",
+        "description": "미국은 러시아 함정이 우크라이나에 미사일을 발사하고 러시아군의 상륙을 지원할 가능성이 있는 상황에서 우크라이나의 해안 방어를 돕고자 \n해상...",
+        "link": "https://m.khan.co.kr/world/world-general/article/202205060940001",
+        "date": "1주 전",
+        "image_path": "https://img.khan.co.kr/news/2022/05/06/2022050601000832000073731.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -64,35 +96,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "“우크라, 러 모스크바호 격침 때 미국이 좌표 찍어줬다”",
-        "description": "미국은 러시아 함정이 우크라이나에 미사일을 발사하고 러시아군의 상륙을 지원할 가능성이 있는 상황에서 우크라이나의 해안 방어를 돕고자 \n해상...",
-        "link": "https://m.khan.co.kr/world/world-general/article/202205060940001",
-        "date": "1주 전",
-        "image_path": "https://img.khan.co.kr/news/2022/05/06/2022050601000832000073731.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "\"우크라에 너무 많이 줬나, 우리 쓸 것도 없겠네\"…미국도 놀란 무기의 정체",
-        "description": "미국이 러시아 침공을 받은 우크라이나에 '재블린'을 너무 많이 지원하면서 정작 ... 사실상 실시간 무기 등 전쟁물자 지원을 가능하게 \n할 수 있다.",
-        "link": "https://www.mk.co.kr/news/politics/view/2022/04/383874/",
-        "date": "2주 전",
-        "image_path": "https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_383874_16512844775027510.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "\"이번에도 활약 기대했는데\"…우크라군 쩔쩔매게 한 러시아 무기의 정체",
         "description": "우크라이나 수도 키이우 인근 점령지역에서 철수해 동부지역으로 재배치된 ... 센서를 통해 목표를 인식, 촬영된 영상을 실시간으로 아군에 \n송신한다.",
         "link": "https://www.mk.co.kr/news/world/view/2022/04/357390/",
         "date": "4주 전",
         "image_path": "https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_357390_16505273825017410.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "우크라가 '러시아 별들의 무덤' 된 배경에는 미국이 있었다",
-        "description": "미국 정부는 지금까지 우크라이나에 실시간 군사정보를 은밀하게 제공한 ... 에서 비교할 만한 상황이 없다”고 말했다고 정치전문매체 \n더힐이 전했다.",
-        "link": "http://m.segye.com/newsView/20220506508277",
-        "date": "1주 전",
-        "image_path": "http://mimg.segye.com/content/image/2022/05/06/20220506508389.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -124,15 +132,7 @@
         "description": "러시아의 공격을 받은 우크라이나 현지 상황 영상이 SNS를 통해 퍼지고 있다. ... 우크라이나의 수도 키예프의 상황을 실시간으로 \n보여주는 계정에도...",
         "link": "https://m.hankookilbo.com/News/Read/A2022022502490002078",
         "date": "2022. 2. 25.",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/02/25/9abccb7c-dda3-4583-adf4-2239a0b30236.jpg?t=20220517125511",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "러 병사가 훔친 '에어팟' 때문에 부대 이동 경로 '생중계'",
-        "description": "[이데일리 이현정 인턴기자] 러시아의 한 병사가 우크라이나 가정집에서 ... 을 이용해 러시아 부대의 이동 상황을 실시간으로 중계했다고 \n보도했다.",
-        "link": "https://www.edaily.co.kr/news/read?newsId=03857286632297760&mediaCodeNo=257",
-        "date": "1개월 전",
-        "image_path": "https://image.edaily.co.kr/images/Photo/files/NP/S/2022/04/PS22041901225.jpg",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/02/25/9abccb7c-dda3-4583-adf4-2239a0b30236.jpg?t=20220517183643",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -141,6 +141,14 @@
         "link": "https://m.khan.co.kr/national/national-general/article/202202281551001",
         "date": "2022. 2. 28.",
         "image_path": "https://img.khan.co.kr/news/2022/02/28/2022022801003422900310282.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "러 병사가 훔친 '에어팟' 때문에 부대 이동 경로 '생중계'",
+        "description": "[이데일리 이현정 인턴기자] 러시아의 한 병사가 우크라이나 가정집에서 ... 을 이용해 러시아 부대의 이동 상황을 실시간으로 중계했다고 \n보도했다.",
+        "link": "https://www.edaily.co.kr/news/read?newsId=03857286632297760&mediaCodeNo=257",
+        "date": "1개월 전",
+        "image_path": "https://image.edaily.co.kr/images/Photo/files/NP/S/2022/04/PS22041901225.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -168,22 +176,6 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "[우크라 침공] 구글맵, 우크라 실시간 도로상황 안보여주기로",
-        "description": "이날 구글은 우크라이나에서 실시간 교통상황과 장소 혼잡도 관련 정보를 제공하는 구글맵 도구를 일시적으로 사용하지 못하도록 막았다고 \n밝혔다.",
-        "link": "https://m.yna.co.kr/view/AKR20220228072800009",
-        "date": "2022. 2. 28.",
-        "image_path": "https://img3.yna.co.kr/photo/etc/epa/2008/04/10/PEP20080410084901009_P4.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "`러시아군 악용 소지`…구글맵 ＂실시간 정보 차단＂",
-        "description": "구글의 지도 앱 `구글맵`이 우크라이나 현지 도로 상황을 실시간으로 보여주는 기능을 일시적으로 차단했다. 27일(현지시간) 로이터 통신 \n등에 따르면...",
-        "link": "https://m.wowtv.co.kr/NewsCenter/News/Read?articleId=A202202280182",
-        "date": "2022. 2. 28.",
-        "image_path": "https://img.wowtv.co.kr/wowtv_news/dnrs/20220228/B20220228141549533.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "SCMP “러시아, 우크라이나 상황 중국에 실시간 통보”",
         "description": "러시아가 우크라이나 상황을 중국에 실시간으로 통보하는 방법으로 미러 관계에 중국을 끌어들이고 있다고 홍콩의 \n사우스차이나모닝포스트(SCMP)가 26...",
         "link": "https://www.donga.com/news/Inter/article/all/20220126/111442141/1",
@@ -200,19 +192,19 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "우크라이나 운명의 날...현지 실시간 영상 | 모바일 JTBC뉴스",
-        "description": "러시아가 우크라이나를 침공한 가운데 26일(현지시간) 새벽에도 러시아군 ... JTBC는 우크라이나 현지 상황을 유튜브 실시간으로 \n중계하고 있습니다.",
-        "link": "https://news.jtbc.joins.com/html/650/NB12048650.html",
-        "date": "2022. 2. 26.",
-        "image_path": "https://photo.jtbc.joins.com/news/jam_photo/202202/26/b24bc623-ba1a-4f53-a517-170d29bb03ff.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "“美, 유럽에 최첨단 감시·정찰기 띄워 우크라에 정보 제공” - 조선일보",
         "description": "더 인터셉트'와 인터뷰한 전직 중앙정보국(CIA) 관계자는 “미국이 통상 전장의 미군에게 제공되는 실시간 정보는 (우크라이나에) \n제공하지 않고 있다”...",
         "link": "https://www.chosun.com/international/us/2022/03/20/MN3JFMFYHJHDZFTDHR2BJGP2QM/",
         "date": "2022. 3. 20.",
         "image_path": "https://images.chosun.com/resizer/CMeRJ5b4BnNKnf1SP3j0VAaOEEw=/1200x630/filters:focal(570x30:580x40)/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NUYTRWPTJZCONKNZWN62L4W6SY.png",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라이나 운명의 날...현지 실시간 영상 | 모바일 JTBC뉴스",
+        "description": "러시아가 우크라이나를 침공한 가운데 26일(현지시간) 새벽에도 러시아군 ... JTBC는 우크라이나 현지 상황을 유튜브 실시간으로 \n중계하고 있습니다.",
+        "link": "https://news.jtbc.joins.com/html/650/NB12048650.html",
+        "date": "2022. 2. 26.",
+        "image_path": "https://photo.jtbc.joins.com/news/jam_photo/202202/26/b24bc623-ba1a-4f53-a517-170d29bb03ff.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -237,6 +229,14 @@
         "link": "https://www.chosun.com/international/europe/2022/03/23/7LIXZS6BGJDA3AM6V46Y5KPGYE/",
         "date": "1개월 전",
         "image_path": "https://images.chosun.com/resizer/B0kjmkiquWydXmInvEp6BKt4dM0=/916x480/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UXF2HOL7YJDTNL4MYLHQMEH73E.webp",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "13만명 자원 입대… 우크라 결사항전에 푸틴 속전속결 주춤 - 조선일보",
+        "description": "미국과 북대서양조약기구(NATO)군은 '글로벌 호크' 등 정찰기 수십 대와 군사 위성을 통해 우크라이나군과 러시아군의 움직임과 전투 \n상황을 실시간으로...",
+        "link": "https://www.chosun.com/international/international_general/2022/02/27/UUNPRLYNTVBDPEOHXJXYSKWUBM/",
+        "date": "2022. 2. 27.",
+        "image_path": "https://images.chosun.com/resizer/pHorQpbCbVdTRz36-65r3sJD0ho=/500x262/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QUUOSWKTAFCJROVBE24VOJTJLU.gif",
         "catagory": "지역 라이브 상황"
     }
 ]
