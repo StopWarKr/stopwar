@@ -1,13 +1,5 @@
 ﻿[
     {
-        "name": "코로나 한파도 피한 군수업계…푸틴 도발에 돈 더 번다",
-        "description": "앞서 미국은 우크라이나에 무기 등 군수물자를 사실상 실시간으로 지원할 ... 의 자국 재고가 급감하자 방산업체들에 생산 확대를 독려하는 \n상황이다.",
-        "link": "https://www.mk.co.kr/news/world/view/2022/05/448447/",
-        "date": "9시간 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/21/image_readtop_2022_448447_0_054611.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "[스브스夜] '그알' 우크라이나 전쟁…하이브리드 전쟁에서 '시민들의 자발적 기록' 그 의미는?",
         "description": "하지만 끝을 모르고 계속되는 이 상황에서 우크라이나 국민들은 또 다른 싸움을 벌이고 있다. ... 하지만 우크라이나 전은 실시간으로 \n보고되고 있다.",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006734031",
@@ -16,11 +8,27 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "코로나 한파도 피한 군수업계…푸틴 도발에 돈 더 번다",
+        "description": "앞서 미국은 우크라이나에 무기 등 군수물자를 사실상 실시간으로 지원할 ... 의 자국 재고가 급감하자 방산업체들에 생산 확대를 독려하는 \n상황이다.",
+        "link": "https://www.mk.co.kr/news/world/view/2022/05/448447/",
+        "date": "15시간 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/21/image_readtop_2022_448447_0_054611.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "우크라이나 전쟁: 틱톡 가짜 영상, 수백만 조회수 기록",
         "description": "가짜 실시간 스트리밍. 전쟁 초기부터 가짜 라이브 스트리밍은 틱톡에서 가장 높은 조회수를 기록했다. 방법은 간단하다. 우선 사용자...",
         "link": "https://www.bbc.com/korean/international-61250042",
         "date": "3주 전",
         "image_path": "https://ichef.bbci.co.uk/news/1024/branded_korean/4C3B/production/_124251591_02c9ac70-363f-4325-9ac3-223e4d8eb117.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "[주말판] 러시아-우크라이나 전쟁 계기로 하이브리드전 시대 ...",
+        "description": "[보안뉴스 문정후 기자] 지난 3월 러시아의 우크라이나 침공이 한창 진행 ... 우나스(Vincas Ciziunas)는 “아직까지 \n러시아-우크라이나 전쟁의 상황...",
+        "link": "http://www.boannews.com/media/view.asp?idx=106941",
+        "date": "2시간 전",
+        "image_path": "http://www.boannews.com/media/upFiles2/2022/05/968768666_2164.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -48,14 +56,6 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "21살 러시아 군인‥전범 재판 출석",
-        "description": "우크라이나 연결해 재판 상황 더 자세히 알아보겠습니다. ... 미디어센터 한쪽 벽에는 실시간 전황을 볼 수 있는 커다란 TV가 설치되어 \n있습니다.",
-        "link": "https://imnews.imbc.com/replay/2022/nwdesk/article/6368652_35744.html",
-        "date": "6일 전",
-        "image_path": "https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/05/14/desk_20220514_202204_1_9_Large.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "\"푸틴 이제 큰일 났네\"…우크라, 원하는 무기 마음껏 쓸 수 있다",
         "description": "미국 의회가 우크라이나에 대한 신속한 무기 지원을 위해 81년만에 다시 꺼내든 ... 사실상 실시간 무기 등 전쟁물자 지원을 가능하게 \n할 수 있다.",
         "link": "https://www.mk.co.kr/news/world/view/2022/04/380395/",
@@ -64,10 +64,18 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "21살 러시아 군인‥전범 재판 출석",
+        "description": "우크라이나 연결해 재판 상황 더 자세히 알아보겠습니다. ... 미디어센터 한쪽 벽에는 실시간 전황을 볼 수 있는 커다란 TV가 설치되어 \n있습니다.",
+        "link": "https://imnews.imbc.com/replay/2022/nwdesk/article/6368652_35744.html",
+        "date": "1주 전",
+        "image_path": "https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/05/14/desk_20220514_202204_1_9_Large.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "“푸틴, 9일 우크라에 전면전 선언 가능성”… 전쟁 새 변곡점 될듯",
         "description": "... 있음에도 돈바스에서조차 우크라이나군에 밀리는 상황이 전면전 선언을 ... 우크라이나 내 나치주의자와의 전쟁을 주장했던 푸틴 \n대통령이 전면전...",
         "link": "https://www.donga.com/news/Inter/article/all/20220501/113177181/1",
-        "date": "2주 전",
+        "date": "3주 전",
         "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/05/01/113177171.1.jpg",
         "catagory": "지역 라이브 상황"
     },
@@ -96,18 +104,10 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "\"이번에도 활약 기대했는데\"…우크라군 쩔쩔매게 한 러시아 무기의 정체",
-        "description": "우크라이나 수도 키이우 인근 점령지역에서 철수해 동부지역으로 재배치된 ... 센서를 통해 목표를 인식, 촬영된 영상을 실시간으로 아군에 \n송신한다.",
-        "link": "https://www.mk.co.kr/news/world/view/2022/04/357390/",
-        "date": "1개월 전",
-        "image_path": "https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_357390_16505273825017410.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "우크라-중국-인니발 전방위 악재에 기업 우려…\"모니터링 강화\"(종합)",
         "description": "산업통상자원부는 2일 서울 서초구 코트라에서 '긴급 수출입상황 점검 회의'를 열어 각 사태별 현황을 점검하고 대책을 모색했다. 이날 \n회의는 우크라이나...",
         "link": "https://www.mk.co.kr/news/economy/view/2022/05/388181/",
-        "date": "2주 전",
+        "date": "3주 전",
         "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/02/image_readtop_2022_388181_0_121712.jpg",
         "catagory": "지역 라이브 상황"
     },
@@ -137,18 +137,10 @@
     },
     {
         "name": "\"우크라이나 무사하길\" SNS로 현지 상황 보며 평화 기원하는 ...",
-        "description": "MBC 또한 유튜브 계정을 통해 키예프 현지 CCTV를 생중계하고 있다. 실시간 중계 방송에는 도시의 모습 뿐 아니라 거리에서 시민들이 \n어딘가로 끌려가는...",
+        "description": "러시아의 공격을 받은 우크라이나 현지 상황 영상이 SNS를 통해 퍼지고 있다. ... 우크라이나의 수도 키예프의 상황을 실시간으로 \n보여주는 계정에도...",
         "link": "https://m.hankookilbo.com/News/Read/A2022022502490002078",
         "date": "2022. 2. 25.",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/02/25/9abccb7c-dda3-4583-adf4-2239a0b30236.jpg?t=20220521063624",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "[전문가 칼럼] 메타버스와 우크라이나 전쟁",
-        "description": "MR 혹은 혼성현실(hybrid reality)은 가상 세계와 현실 세계를 합쳐 새로운 환경이나 시각화 등 새로운 정보를 만들어 내는 \n것을 말하는데 특히 실시간...",
-        "link": "https://www.ajunews.com/view/20220331170726082",
-        "date": "3주 전",
-        "image_path": "https://image.ajunews.com/content/image/2022/03/31/20220331171524187271.jpg",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/02/25/9abccb7c-dda3-4583-adf4-2239a0b30236.jpg?t=20220521124429",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -237,6 +229,14 @@
         "link": "https://www.chosun.com/international/international_general/2022/02/27/UUNPRLYNTVBDPEOHXJXYSKWUBM/",
         "date": "2022. 2. 27.",
         "image_path": "https://images.chosun.com/resizer/pHorQpbCbVdTRz36-65r3sJD0ho=/500x262/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QUUOSWKTAFCJROVBE24VOJTJLU.gif",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "비트코인 軍자금, 머스크 스타링크… 이런 전쟁은 없었다 - 조선일보",
+        "description": "지난 24일 러시아군이 우크라이나로 침공하는 과정은 물론 우크라이나 내 움직임까지 구글맵에 실시간으로 공개되고 있다. 새벽 시간대 \n러시아와...",
+        "link": "https://www.chosun.com/economy/tech_it/2022/02/28/OWCUFP6TYFFE7OTHLTYQYDHSXE/",
+        "date": "2022. 2. 28.",
+        "image_path": "https://images.chosun.com/resizer/t0uMTbtNqBkiGRxwcI_k4K-ZbzA=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5H3D3RROBNEJ5D6X5VBMDC3V4A.JPG",
         "catagory": "지역 라이브 상황"
     }
 ]
