@@ -96,19 +96,19 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "우크라, ‘러 자존심’ 모스크바호 격침 때 美가 위치 알려줬다",
-        "description": "우크라이나 정부 당국자는 “미국의 정보는 실시간으로 유입되고 있으며 ... 러시아군은 이런 상황에 대해 필요한 모든 일을 할 것”이라고 \n경고했다.",
-        "link": "https://www.donga.com/news/Inter/article/all/20220506/113264858/1",
-        "date": "2주 전",
-        "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/05/06/113257257.2.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "[실시간 e뉴스] 아랫입술 찢어진 2살 아이, 4시간 방치한 어린이집",
         "description": "우크라이나 정부는 러시아군 공격으로 폐허가 된 우크라이나 도시들의 거리뷰를 제공하는 '가상 전쟁 기억 박물관 사이트'를 만들었습니다. \n부차와 이르핀...",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006755719",
         "date": "3일 전",
         "image_path": "https://img.sbs.co.kr/newimg/news/20220519/201665537_1280.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라-중국-인니발 전방위 악재에 기업 우려…\"모니터링 강화\"(종합)",
+        "description": "산업통상자원부는 2일 서울 서초구 코트라에서 '긴급 수출입상황 점검 회의'를 열어 각 사태별 현황을 점검하고 대책을 모색했다. 이날 \n회의는 우크라이나...",
+        "link": "https://www.mk.co.kr/news/economy/view/2022/05/388181/",
+        "date": "3주 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/02/image_readtop_2022_388181_0_121712.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -132,15 +132,7 @@
         "description": "러시아의 공격을 받은 우크라이나 현지 상황 영상이 SNS를 통해 퍼지고 있다. ... 우크라이나의 수도 키예프의 상황을 실시간으로 \n보여주는 계정에도...",
         "link": "https://m.hankookilbo.com/News/Read/A2022022502490002078",
         "date": "2022. 2. 25.",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/02/25/9abccb7c-dda3-4583-adf4-2239a0b30236.jpg?t=20220522124417",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "[전문가 칼럼] 메타버스와 우크라이나 전쟁",
-        "description": "MR 혹은 혼성현실(hybrid reality)은 가상 세계와 현실 세계를 합쳐 새로운 환경이나 시각화 등 새로운 정보를 만들어 내는 \n것을 말하는데 특히 실시간...",
-        "link": "https://www.ajunews.com/view/20220331170726082",
-        "date": "3주 전",
-        "image_path": "https://image.ajunews.com/content/image/2022/03/31/20220331171524187271.jpg",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/02/25/9abccb7c-dda3-4583-adf4-2239a0b30236.jpg?t=20220522182357",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -232,11 +224,19 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "추경호 “민생 최우선…경유 유가연동보조금 지급 기준가격 인하”",
-        "description": "... 은 우크라이나 사태 등 대외 여건에 주로 기인하고 있으므로 대외 리스크 관리에도 만전을 기해야 한다”며 “실물경제 등 경제 상황 \n전반을 실시간...",
-        "link": "https://m.khan.co.kr/article/202205151701011",
-        "date": "1주 전",
-        "image_path": "https://img.khan.co.kr/news/2022/05/15/2022051501001774000163191.jpg",
+        "name": "비트코인 軍자금, 머스크 스타링크… 이런 전쟁은 없었다 - 조선일보",
+        "description": "지난 24일 러시아군이 우크라이나로 침공하는 과정은 물론 우크라이나 내 움직임까지 구글맵에 실시간으로 공개되고 있다. 새벽 시간대 \n러시아와...",
+        "link": "https://www.chosun.com/economy/tech_it/2022/02/28/OWCUFP6TYFFE7OTHLTYQYDHSXE/",
+        "date": "2022. 2. 28.",
+        "image_path": "https://images.chosun.com/resizer/t0uMTbtNqBkiGRxwcI_k4K-ZbzA=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5H3D3RROBNEJ5D6X5VBMDC3V4A.JPG",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "구글은 지도 가리고, 테슬라는 인터넷 띄우고…우크라이나 돕는 ...",
+        "description": "구글은 구글맵 서비스에서 우크라이나 실시간 도로 상황을 보여주지 않기로 했다. 러시아가 실시간 교통상황 또는 군인들의 밀집도 등의 \n정보를...",
+        "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20220302601012",
+        "date": "2022. 3. 2.",
+        "image_path": "https://imgnn.seoul.co.kr/img/upload/2022/03/02/SSI_20220302150308.jpg",
         "catagory": "지역 라이브 상황"
     }
 ]
