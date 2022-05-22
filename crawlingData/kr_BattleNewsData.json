@@ -8,7 +8,7 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "러시아 국방부 '마리우폴 저항군 항복' 발표...우크라이나 \"북부 전선 국경 도달\"",
+        "name": "러시아 국방부 '마리우폴 저항군 항복' 발표...우크라이나 \"북부 ...",
         "description": "우크라이나군은 이날(17일) 새벽 마리우폴에서의 전투 종료를 선언한 바 있습니다. 아조우스탈 제철소 안에서 항전하던 부상 병력 치료를 \n조건으로 러시아...",
         "link": "https://www.voakorea.com/a/6576651.html",
         "date": "4일 전",
@@ -32,6 +32,14 @@
         "catagory": "교전 최신 상황"
     },
     {
+        "name": "'돈바스 터미네이터 탱크 등장' 러시아 반격 총공세… 우크라 ...",
+        "description": "미하일 포돌랴크 우크라이나 대통령 보좌관은 이날 로이터통신과의 인터뷰에서 “전쟁은 멈추지 않을 것”이라며 “전투를 중단하면 러시아는 \n무기와 병력을...",
+        "link": "https://www.hankookilbo.com/News/Read/A2022052212370002097",
+        "date": "3시간 전",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/05/22/7073e661-7d32-4366-aaf8-dba2fa079bd5.jpg?t=20220522091705",
+        "catagory": "교전 최신 상황"
+    },
+    {
         "name": "이근 실제 교전 영상?…네티즌이 주목한 근거는 - 조선일보",
         "description": "영상 게시자는 “우크라이나의 막강한 대원들이 러시아군을 상대로 벌인 전투작전을 공개한다”며 “영상의 위치는 보안상의 이유로 공개되지 \n않았다. 이 팀...",
         "link": "https://www.chosun.com/international/international_general/2022/05/05/F7PW5UDFGZEXRC4LDRFBTKO4RY/",
@@ -48,22 +56,6 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "한국 언론 최초, 전쟁 중인 우크라이나에 가다 [SDF다이어리]",
-        "description": "실제로 마주한 우크라이나 상황은 어땠나요? ... 체르니우치는 지상군이 들어와서 교전을 벌이고 있는 지역은 아니었기 때문에, 사실 저희 \n취재진이...",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006756375",
-        "date": "7시간 전",
-        "image_path": "https://img.sbs.co.kr/newimg/news/20220519/201665659_1280.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "[단독 인터뷰] 이근 전 대위 \"목숨 걸고 우크라이나에 온 이유는…\"",
-        "description": "전투 모습 사진 공개…직접 밝힌 현재 상황 · Q. 장기화되고 있는 우크라이나 전쟁 상황, 특히 한국 의용군의 상태에 대해 알려달라. \n· Q. · Q.",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006748763",
-        "date": "1주 전",
-        "image_path": "https://img.sbs.co.kr/newimg/news/20220513/201663868_16v9.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
         "name": "우크라이나의 기만과 러시아의 자만이 거함 ‘모스크바’ 격침시켰다",
         "description": "러시아와 우크라이나의 전쟁 판도에 큰 영향을 미친 큰 사건이 3시간 간격을 두고 일어났기 때문이다. 이날 러시아는 이번 전쟁에서 가장 \n치열한 전투가...",
         "link": "https://www.donga.com/news/Inter/article/all/20220423/113038814/1",
@@ -72,10 +64,26 @@
         "catagory": "교전 최신 상황"
     },
     {
+        "name": "한국 언론 최초, 전쟁 중인 우크라이나에 가다 [SDF다이어리]",
+        "description": "실제로 마주한 우크라이나 상황은 어땠나요? ... 체르니우치는 지상군이 들어와서 교전을 벌이고 있는 지역은 아니었기 때문에, 사실 저희 \n취재진이...",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006756375",
+        "date": "14시간 전",
+        "image_path": "https://img.sbs.co.kr/newimg/news/20220519/201665659_1280.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "[단독 인터뷰] 이근 전 대위 \"목숨 걸고 우크라이나에 온 이유는…\"",
+        "description": "(영상은) 나와 우리 팀이 전투 중인 모습이 맞다. 당시 우리는 이르핀(우크라이나 전쟁 초기 격전지 중 하나로 러시아 군이 한동안 \n점령했던 지역)을 해방...",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006748763",
+        "date": "1주 전",
+        "image_path": "https://img.sbs.co.kr/newimg/news/20220513/201663868_16v9.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
         "name": "평화로운 삶을 지키기 위한 전쟁…“한국 여행금지 아쉬워”",
         "description": "러시아군과 우크라이나의 교전이 우크라이나 동남부 지역에서 ... 적이 없어 시내 중심가는 여느 유럽 도시처럼 평온한 상황을 유지하고 \n있습니다.",
         "link": "https://news.kbs.co.kr/news/view.do?ncd=5468294",
-        "date": "17시간 전",
+        "date": "23시간 전",
         "image_path": "http://news.kbs.co.kr/data/news/title_image/newsmp4/world_now/2022/05/21/20_5468294.jpg",
         "catagory": "교전 최신 상황"
     },
@@ -88,18 +96,10 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "하르키우 수복 임박…\"우크라에 키이우 방어 후 최대전과\"",
-        "description": "우크라이나 북동부에 있는 제2 도시 하르키우(하리코프)에서 러시아군의 완전 ... 교전했고 몇시간 동안은 도시를 누가 장악하는지 \n불확실한 상황이...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/05/431612/",
-        "date": "5일 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/16/image_readtop_2022_431612_0_154911.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
         "name": "[우크라 침공] 러 돈바스 전력집중에 서방 무기지원 박차",
         "description": "미국은 21일(현지시간) 우크라이나 동부에서의 우크라이나군 전투능력을 ... 에서 교전 중인 우크라이나군 소속 이반 스쿠라토우스키 \n중위는 \"상황이...",
         "link": "https://www.mk.co.kr/news/world/view/2022/04/369380/",
-        "date": "3주 전",
+        "date": "4주 전",
         "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/26/image_readtop_2022_369380_0_111611.jpg",
         "catagory": "교전 최신 상황"
     },
@@ -108,7 +108,15 @@
         "description": "교전은 계속되고 있지만 우크라이나군의 방어를 뚫지 못했다는 이야기다. ... 못했다며 어려운 상황이지만 민간인 소개가 계속될 것이라고 \n덧붙였다.",
         "link": "https://m.hankookilbo.com/News/Read/A2022050108050003154",
         "date": "3주 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/05/01/94494c92-3c4c-40d9-8857-3f7cd0370f3e.jpg?t=20220522062836",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/05/01/94494c92-3c4c-40d9-8857-3f7cd0370f3e.jpg?t=20220522123854",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "하르키우 수복 임박…\"우크라에 키이우 방어 후 최대전과\"",
+        "description": "우크라이나 북동부에 있는 제2 도시 하르키우(하리코프)에서 러시아군의 완전 ... 교전했고 몇시간 동안은 도시를 누가 장악하는지 \n불확실한 상황이...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/05/431612/",
+        "date": "6일 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/16/image_readtop_2022_431612_0_154911.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -120,19 +128,19 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "세계 식량위기 해결의 관건은 오데사 항구 봉쇄 풀기",
-        "description": "코로나19, 기후변화 등으로 불안한 상황에서 우크라이나 전쟁이 결정타 ... 또 호위대에 상당 규모 나토 해군이 필요할 수도 있는데 \n이는 교전시 군함...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/05/444918/",
-        "date": "2일 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/20/image_readtop_2022_444918_0_211811.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
         "name": "러시아군 돈바스 집중 공세에도…\"24시간 동안 진전 없어\"",
         "description": "우크라이나 군당국은 돈바스 전선에서 치열한 교전이 벌어지고 있다고 ... 이 거의 모든 방향에서 극심한 사격을 가하고 있다\"고 상황을 \n전했다.",
         "link": "https://m.mk.co.kr/news/world/view/2022/04/381595/",
         "date": "3주 전",
         "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/29/image_readtop_2022_381595_0_133511.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "[우크라 침공] 우크라 \"러 야전 사령부 폭격\"…장군 2명 사망 주장",
+        "description": "우크라이나가 교전 중 러시아군 고위 장교들이 모여있던 야전 사령부를 ... 러시아는 침공 이후 전선에서 발생한 불리한 상황은 인정하지 \n않았다.",
+        "link": "https://www.mk.co.kr/news/world/view/2022/04/362730/",
+        "date": "1개월 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/24/image_readtop_2022_362730_0_004711.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -144,19 +152,11 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "[우크라 침공] 우크라 \"러 야전 사령부 폭격\"…장군 2명 사망 주장",
-        "description": "우크라이나가 교전 중 러시아군 고위 장교들이 모여있던 야전 사령부를 ... 러시아는 침공 이후 전선에서 발생한 불리한 상황은 인정하지 \n않았다.",
-        "link": "https://www.mk.co.kr/news/world/view/2022/04/362730/",
-        "date": "4주 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/04/24/image_readtop_2022_362730_0_004711.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "​[우크라 침공] 러시아-우크라이나 평화협상, 교착상태 빠져...교전 계속",
-        "description": "세르게이 라브로프 러시아 외무부 장관 역시 평화협상이 어려운 상황에 ... 함락하려고 시도했으나 성공하지 못하며 교전은 계속되고 있다고 \n전했다.",
-        "link": "https://www.ajunews.com/view/20220501153059556",
-        "date": "3주 전",
-        "image_path": "https://image.ajunews.com/content/image/2022/05/01/20220501153150344123.jpg",
+        "name": "세계 식량위기 해결의 관건은 오데사 항구 봉쇄 풀기",
+        "description": "코로나19, 기후변화 등으로 불안한 상황에서 우크라이나 전쟁이 결정타 ... 또 호위대에 상당 규모 나토 해군이 필요할 수도 있는데 \n이는 교전시 군함...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/05/444918/",
+        "date": "2일 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/20/image_readtop_2022_444918_0_211811.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -168,11 +168,11 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "이근 실전투입 영상?… 교전 근황에 다시 불붙은 의용군 논쟁 [넷 ...",
-        "description": "우크라이나 전쟁 등 전 세계 전쟁·전투 관련 영상이 올라오는 웹사이트 'FUNKER530'에는 전날 약 53초 길이의 우크라이나 전투 \n영상이 게재됐다.",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20220504500083",
-        "date": "2주 전",
-        "image_path": "https://img.seoul.co.kr/img/upload/2022/05/04/SSI_20220504130649.jpg",
+        "name": "​[우크라 침공] 러시아-우크라이나 평화협상, 교착상태 빠져...교전 계속",
+        "description": "세르게이 라브로프 러시아 외무부 장관 역시 평화협상이 어려운 상황에 ... 함락하려고 시도했으나 성공하지 못하며 교전은 계속되고 있다고 \n전했다.",
+        "link": "https://www.ajunews.com/view/20220501153059556",
+        "date": "3주 전",
+        "image_path": "https://image.ajunews.com/content/image/2022/05/01/20220501153150344123.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -184,14 +184,6 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "서울대 교환학생 출신 우크라 한국어 교수, 러軍과 전투 중 전사 ...",
-        "description": "... c우크라이나 대사관 페이스북 갈무리 우크라이나 대학교에서 한국어를 가르치다 러시아의 침공 이후 장교로 자원 입대해 러시아군에 \n맞서 싸우던...",
-        "link": "https://news.nate.com/view/20220520n01293",
-        "date": "2일 전",
-        "image_path": "https://news.nateimg.co.kr/orgImg/dn/2022/05/20/news_1652948724_1115364_m_1.png",
-        "catagory": "교전 최신 상황"
-    },
-    {
         "name": "'아조우스탈 결사항전' 우크라군, 중상자 사진 공개하며 'SOS'",
         "description": "공개된 사진 가운데에는 전투 과정에서 팔과 다리를 잃은 부대원들의 모습이 다수 담겼다. 가디언은 아조우 연대가 이런 '참혹한 이미지'와 \n함께 도움을...",
         "link": "https://www.mk.co.kr/news/world/view/2022/05/417693/",
@@ -200,27 +192,27 @@
         "catagory": "교전 최신 상황"
     },
     {
+        "name": "서울대 교환학생 출신 우크라 한국어 교수, 러軍과 전투 중 전사 ...",
+        "description": "... c우크라이나 대사관 페이스북 갈무리 우크라이나 대학교에서 한국어를 가르치다 러시아의 침공 이후 장교로 자원 입대해 러시아군에 \n맞서 싸우던...",
+        "link": "https://news.nate.com/view/20220520n01293",
+        "date": "2일 전",
+        "image_path": "https://news.nateimg.co.kr/orgImg/dn/2022/05/20/news_1652948724_1115364_m_1.png",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "이근 실전투입 영상?… 교전 근황에 다시 불붙은 의용군 논쟁 [넷 ...",
+        "description": "우크라이나 전쟁 등 전 세계 전쟁·전투 관련 영상이 올라오는 웹사이트 'FUNKER530'에는 전날 약 53초 길이의 우크라이나 전투 \n영상이 게재됐다.",
+        "link": "https://www.seoul.co.kr/news/newsView.php?id=20220504500083",
+        "date": "2주 전",
+        "image_path": "https://img.seoul.co.kr/img/upload/2022/05/04/SSI_20220504130649.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
         "name": "우크라전 83일…\"러, 장기적 군사 점령 준비에 동서부 집중 공격 ...",
         "description": "러시아군은 우크라이나군과의 직접 교전 없이 동부 돈바스 지역과 서부 체르니히우 지역에 공격을 집중하고 있다. 우크라이나는 이런 상황에 \n대해...",
         "link": "https://www.msn.com/ko-kr/news/world/%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%A0%84-83%EC%9D%BC-%EB%9F%AC-%EC%9E%A5%EA%B8%B0%EC%A0%81-%EA%B5%B0%EC%82%AC-%EC%A0%90%EB%A0%B9-%EC%A4%80%EB%B9%84%EC%97%90-%EB%8F%99%EC%84%9C%EB%B6%80-%EC%A7%91%EC%A4%91-%EA%B3%B5%EA%B2%A9-%EC%A2%85%ED%95%A9/ar-AAXoQHk",
         "date": "4일 전",
         "image_path": "No Image",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "뉴시스",
-        "description": "전문가들은 우크라이나 전투가 우크라이나 군인들의 용기와 기민함에 ... 한 뒤 장갑차를 보내 \"정찰 교전\"을 벌이는 방식으로 작전하지만 \n우크라이나...",
-        "link": "https://mobile.newsis.com/view.html?ar_id=NISX20220513_0001870050",
-        "date": "1주 전",
-        "image_path": "https://image.newsis.com/2022/04/22/NISI20220422_0018724292_web.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "푸틴 '6m 탁자' 회담…유엔총장에 \"마리우폴 상황은 우크라 탓\"",
-        "description": "구테흐스 총장은 \"인도주의 통로 개방과 국지적 교전 중단 등이 실질적으로 보장받기 위해 러시아와 우크라이나, 유엔 측이 참여하는 \n'인도주의 접촉...",
-        "link": "https://news.koreadaily.com/2022/04/27/society/international/20220427003920629.html",
-        "date": "3주 전",
-        "image_path": "https://news.koreadaily.com/data/photo/2022/04/27/fba11a93-25da-4157-baa6-baa0b7ba924d.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -237,6 +229,14 @@
         "link": "https://www.hani.co.kr/arti/international/international_general/1042375.html",
         "date": "1주 전",
         "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/486/imgdb/original/2022/0511/20220511501188.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "[우크라이나에서 온 편지(2)]신병훈련 교관이 말했다 “살아남는 게 최우선이야”",
+        "description": "우크라니아 육군이나 국토방위군에 입대하는 사람들은 전투에 임하기 전 최대 18개월 동안 상당히 강도 높은 복무를 거친다.(우크라이나는 \n돈바스 내전...",
+        "link": "https://m.khan.co.kr/world/world-general/article/202205011350001",
+        "date": "3주 전",
+        "image_path": "https://img.khan.co.kr/news/2022/05/01/2022050101000282400024001.jpg",
         "catagory": "교전 최신 상황"
     }
 ]
