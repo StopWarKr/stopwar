@@ -60,7 +60,7 @@
         "description": "우크라이나의 수도 키예프의 상황을 실시간으로 보여주는 계정에도 한때 약 3만 명이 몰렸고, 채팅창에는 전 세계 각국의 언어로 가득 \n찼다. MBC 또한...",
         "link": "https://www.hankookilbo.com/News/Read/A2022022502490002078",
         "date": "2022. 2. 25.",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/02/25/9abccb7c-dda3-4583-adf4-2239a0b30236.jpg?t=20220527021345",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/02/25/9abccb7c-dda3-4583-adf4-2239a0b30236.jpg?t=20220527063828",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -93,14 +93,6 @@
         "link": "https://www.pdjournal.com/news/articleView.html?idxno=73515",
         "date": "2022. 2. 28.",
         "image_path": "http://www.pdjournal.com/news/thumbnail/202202/73515_75404_1657_v150.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "우크라이나 참상 생중계하는 위성사진",
-        "description": "한 달 가까이 지속되고 있는 러시아와 우크라이나 전쟁에서 위성 기술의 활약이 ... 실시간으로 전체 상황을 들여다볼 수 있다면 군대 \n이동이나 증강,...",
-        "link": "https://weekly.donga.com/List/3/06/11/3272350/1",
-        "date": "2022. 3. 30.",
-        "image_path": "https://dimg.donga.com/a/600/0/90/5/ugc/CDB/WEEKLY/Article/62/3d/54/6c/623d546c0addd2738250.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -160,11 +152,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "우크라 현장통신 “창문에서 떨어진 복도에 누워 폭발음을 듣고 ...",
-        "description": "키예프·오데사 현지인이 <한겨레>에 알려온 전쟁 상황 ... “우크라이나 방송사들은 전쟁 상황을 실시간 보도할 뿐 아니라 국민이 공황 \n상태에 빠지지...",
-        "link": "https://www.hani.co.kr/arti/society/society_general/1033046.html",
-        "date": "2022. 3. 1.",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/970/648/imgdb/original/2022/0301/20220301502117.jpg",
+        "name": "우크라이나 부총리, 한국 기업에 위성영상 제공 요청…업체 ...",
+        "description": "페도로프 부총리는 “러시아군과 장비의 움직임을 야간에도 파악하기 위해 실시간으로 제공되는 고해상의 합성개구레이더(SAR) 위성영상이 \n필요하다”며...",
+        "link": "https://m.dongascience.com/news.php?idx=52708",
+        "date": "2022. 3. 3.",
+        "image_path": "https://image.dongascience.com/Photo/2022/03/16462870890774.JPG",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -189,6 +181,14 @@
         "link": "http://www.aitimes.com/news/articleView.html?idxno=143245",
         "date": "2022. 3. 2.",
         "image_path": "https://cdn.aitimes.com/news/thumbnail/202203/143245_148217_457_v150.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "‘일촉즉발’ 우크라 사태에 정부도 긴장…산업계 피해 ‘최소화’ 실시간 대응",
+        "description": "산업통상자원부도 '주요 업종 우크라이나 사태 및 수출상황 점검회의'를 개최하고 비상대응태세를 갖추는 등 실시간 상황 점검에 나섰다.",
+        "link": "https://www.donga.com/news/Economy/article/all/20220223/111991729/1",
+        "date": "2022. 2. 23.",
+        "image_path": "https://dimg.donga.com/a/560/0/90/5/wps/NEWS/IMAGE/2022/02/23/111991696.2.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
