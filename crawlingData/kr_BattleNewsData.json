@@ -11,7 +11,7 @@
         "name": "우크라 “돈바스 전투, 가장 격렬한 국면에 진입” - 조선일보",
         "description": "AFP 통신에 따르면 한나 말랴르 우크라이나 국방부 차관은 26일(현지 시각) 브리핑에서 “교전이 최대로 격렬한 단계에 접어들었다”며 \n“러시아는 여러 방향...",
         "link": "https://www.chosun.com/international/international_general/2022/05/27/PSKAKORTSJGATGQWVP2CQPEP6A/",
-        "date": "16시간 전",
+        "date": "23시간 전",
         "image_path": "https://images.chosun.com/resizer/Y1WxhPwupJMuUEBjjbC8VcuNxPc=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6HRCI6CH7NGW7CGQIPMBPGUAGM.JPG",
         "catagory": "교전 최신 상황"
     },
@@ -21,6 +21,14 @@
         "link": "https://www.mk.co.kr/news/world/view/2022/05/467588/",
         "date": "1일 전",
         "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/27/image_readtop_2022_467588_0_143111.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "우크라, 돈바스 전투 “가장 격렬한 국면 진입” - 미주 한국일보",
+        "description": "우크라이나 동부 돈바스(도네츠크와 루한스크 주를 아우르는 지역) 전선의 전투가 가장 격렬한 국면에 진입했다고 우크라이나 국방부가 밝혔다.",
+        "link": "http://www.koreatimes.com/article/20220526/1417183",
+        "date": "1일 전",
+        "image_path": "http://mimg.koreatimes.com/286/172/article/2022/05/26/20220526145607621.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -40,14 +48,6 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "뉴시스",
-        "description": "올렉시 그로모프 우크라이나 총참모부 군 작전담당 부참모장은 돈바스 전투 상황에 관해 \"러시아가 유리하지만, 우리는 우리가 할 수 있는 \n모든 것을...",
-        "link": "https://mobile.newsis.com/view.html?ar_id=NISX20220527_0001887875",
-        "date": "12시간 전",
-        "image_path": "https://image.newsis.com/2022/05/26/NISI20220526_0001007075_web.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
         "name": "러시아 국방부 '마리우폴 저항군 항복' 발표...우크라이나 \"북부 전선 국경 도달\"",
         "description": "우크라이나군은 이날(17일) 새벽 마리우폴에서의 전투 종료를 선언한 바 있습니다. 아조우스탈 제철소 안에서 항전하던 부상 병력 치료를 \n조건으로 러시아...",
         "link": "https://www.voakorea.com/a/6576651.html",
@@ -56,35 +56,11 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "우크라, “돈바스 전투가 가장 격렬한 국면에 진입”",
-        "description": "AFP 통신에 따르면 한나 말랴르 우크라이나 국방부 차관은 26일(현지 시각) 브리핑에서 “교전이 최대로 격렬한 단계에 접어들었다”며 \n“러시아는 여러...",
-        "link": "https://www.msn.com/ko-kr/news/world/%EC%9A%B0%ED%81%AC%EB%9D%BC-%E2%80%9C%EB%8F%88%EB%B0%94%EC%8A%A4-%EC%A0%84%ED%88%AC%EA%B0%80-%EA%B0%80%EC%9E%A5-%EA%B2%A9%EB%A0%AC%ED%95%9C-%EA%B5%AD%EB%A9%B4%EC%97%90-%EC%A7%84%EC%9E%85%E2%80%9D/ar-AAXM8sa?ocid=NAMDHP",
-        "date": "16시간 전",
-        "image_path": "No Image",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "美 국방부 '러시아, 우크라이나 전쟁에서 탱크 1000대 손실'",
-        "description": "아울러 최근 소규모의 전투가 계속 되고 있는 상황이라고 덧붙였다. 박병희 기자 nut@asiae.co.kr <c경제를 보는 눈, 세계를 \n보는 창 아시아경제(www...",
-        "link": "https://cm.asiae.co.kr/article/world-all/2022052711062762536",
-        "date": "16시간 전",
-        "image_path": "https://cphoto.asiae.co.kr/listimglink/6/2021052815250655453_1622183106.jpeg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "[영상] \"TOS-1A가 급습\"…돈바스 민가 인근 무차별 폭격 모습 공개",
-        "description": "(서울=연합뉴스) 우크라이나 동부 돈바스(도네츠크와 루한스크 주를 아우르는 지역) 전선의 전투가 가장 격렬한 국면에 진입했다고 \n우크라이나 국방부...",
-        "link": "https://www.yna.co.kr/view/MYH20220527013000704",
-        "date": "12시간 전",
-        "image_path": "https://img6.yna.co.kr/mpic/YH/2022/05/27/MYH20220527013000704.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "“한 여자의 삶이 아니라 어떤 한 사람의 운명 이야기” - 미주 한국 ...",
-        "description": "... 받는 친 러시아 분리주의자들과 우크라이나 정부군 간에 치열한 교전이 벌어졌던 곳이다. 우크라이나 영화 \n'클론다이크'(Klondike)는 이 전쟁에서...",
-        "link": "http://www.koreatimes.com/article/20220526/1417219",
-        "date": "11시간 전",
-        "image_path": "http://mimg.koreatimes.com/286/172/article/2022/05/26/20220526182502621.jpg",
+        "name": "뉴시스",
+        "description": "올렉시 그로모프 우크라이나 총참모부 군 작전담당 부참모장은 돈바스 전투 상황에 관해 \"러시아가 유리하지만, 우리는 우리가 할 수 있는 \n모든 것을...",
+        "link": "https://mobile.newsis.com/view.html?ar_id=NISX20220527_0001887875",
+        "date": "20시간 전",
+        "image_path": "https://image.newsis.com/2022/05/26/NISI20220526_0001007075_web.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -96,11 +72,35 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "[우크라 침공] 우크라, 돈바스 전투 ＂가장 격렬한 국면 진입＂",
-        "description": "(이스탄불=연합뉴스) 김승욱 특파원 = 우크라이나 동부 돈바스(도네츠크와 루한스크 주를 아우르는 지역) 전선의 전투가 가장 격렬한 \n국면에 진입...",
-        "link": "https://m.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20220526179200108",
+        "name": "우크라, “돈바스 전투가 가장 격렬한 국면에 진입”",
+        "description": "AFP 통신에 따르면 한나 말랴르 우크라이나 국방부 차관은 26일(현지 시각) 브리핑에서 “교전이 최대로 격렬한 단계에 접어들었다”며 \n“러시아는 여러...",
+        "link": "https://www.msn.com/ko-kr/news/world/%EC%9A%B0%ED%81%AC%EB%9D%BC-%E2%80%9C%EB%8F%88%EB%B0%94%EC%8A%A4-%EC%A0%84%ED%88%AC%EA%B0%80-%EA%B0%80%EC%9E%A5-%EA%B2%A9%EB%A0%AC%ED%95%9C-%EA%B5%AD%EB%A9%B4%EC%97%90-%EC%A7%84%EC%9E%85%E2%80%9D/ar-AAXM8sa?ocid=NAMDHP",
+        "date": "23시간 전",
+        "image_path": "No Image",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "美 국방부 '러시아, 우크라이나 전쟁에서 탱크 1000대 손실'",
+        "description": "아울러 최근 소규모의 전투가 계속 되고 있는 상황이라고 덧붙였다. 박병희 기자 nut@asiae.co.kr <c경제를 보는 눈, 세계를 \n보는 창 아시아경제(www...",
+        "link": "https://cm.asiae.co.kr/article/world-all/2022052711062762536",
         "date": "1일 전",
-        "image_path": "https://img.wowtv.co.kr/YH/2022-05-27/AKR20220526179200108_01_i.jpg",
+        "image_path": "https://cphoto.asiae.co.kr/listimglink/6/2021052815250655453_1622183106.jpeg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "[영상] \"TOS-1A가 급습\"…돈바스 민가 인근 무차별 폭격 모습 공개",
+        "description": "(서울=연합뉴스) 우크라이나 동부 돈바스(도네츠크와 루한스크 주를 아우르는 지역) 전선의 전투가 가장 격렬한 국면에 진입했다고 \n우크라이나 국방부...",
+        "link": "https://www.yna.co.kr/view/MYH20220527013000704",
+        "date": "20시간 전",
+        "image_path": "https://img6.yna.co.kr/mpic/YH/2022/05/27/MYH20220527013000704.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "“한 여자의 삶이 아니라 어떤 한 사람의 운명 이야기” - 미주 한국 ...",
+        "description": "... 받는 친 러시아 분리주의자들과 우크라이나 정부군 간에 치열한 교전이 벌어졌던 곳이다. 우크라이나 영화 \n'클론다이크'(Klondike)는 이 전쟁에서...",
+        "link": "http://www.koreatimes.com/article/20220526/1417219",
+        "date": "19시간 전",
+        "image_path": "http://mimg.koreatimes.com/286/172/article/2022/05/26/20220526182502621.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -109,6 +109,14 @@
         "link": "https://www.chosun.com/international/international_general/2022/05/05/F7PW5UDFGZEXRC4LDRFBTKO4RY/",
         "date": "3주 전",
         "image_path": "https://images.chosun.com/resizer/A6l278oPKMebl_Sm_EWS8PBqjd8=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHWNUZMJCJAFTAUMW4CNQJBUEA.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "[우크라 침공] 우크라, 돈바스 전투 ＂가장 격렬한 국면 진입＂",
+        "description": "(이스탄불=연합뉴스) 김승욱 특파원 = 우크라이나 동부 돈바스(도네츠크와 루한스크 주를 아우르는 지역) 전선의 전투가 가장 격렬한 \n국면에 진입...",
+        "link": "https://m.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20220526179200108",
+        "date": "1일 전",
+        "image_path": "No Image",
         "catagory": "교전 최신 상황"
     },
     {
@@ -124,14 +132,14 @@
         "description": "우크라이나 동부 돈바스(도네츠크와 루한스크 주를 아우르는 지역) 전선의 전투가 가장 격렬한 국면에 진입했다고 우크라이나 국방부가 밝혔다.",
         "link": "https://m.wowtv.co.kr/NewsCenter/News/Read?articleId=A202205260357",
         "date": "1일 전",
-        "image_path": "https://img.wowtv.co.kr/wowtv_news/dnrs/20220526/B20220526230641803.jpg",
+        "image_path": "No Image",
         "catagory": "교전 최신 상황"
     },
     {
         "name": "[포착] 러軍, 돈바스에 '악마의 무기' 진공폭탄 퍼부어…초토화 ...",
         "description": "우크라이나 동부 돈바스(도네츠크·루한스크주) 지역의 전투가 가장 격렬한 국면에 진입한 가운데, 러시아군이 우크라이나군 진지로 열압력탄 \n일명...",
-        "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20220527601012",
-        "date": "11시간 전",
+        "link": "https://m.nownews.seoul.co.kr/news/newsView.php?id=20220527601012&m_sub=msub_nownews_111",
+        "date": "19시간 전",
         "image_path": "https://imgnn.seoul.co.kr/img/upload/2022/05/27/SSI_20220527152119.jpg",
         "catagory": "교전 최신 상황"
     },
@@ -152,14 +160,6 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "美, 러시아 본토 타격 가능한 다연장로켓포 우크라에 지원 검토 ...",
-        "description": "최근 돈바스 전선의 교전이 격화하면서 우크라이나 고위 인사들은 ... 쿨레바 우크라이나 외무장관은 이날 \"사람들의 생각보다 (동부 \n상황이) 더 절박...",
-        "link": "https://www.hankookilbo.com/News/Read/A2022052711020004961",
-        "date": "9시간 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/05/27/c0d1924b-d045-4a77-a8df-88c94468dd22.jpg?t=20220527093104",
-        "catagory": "교전 최신 상황"
-    },
-    {
         "name": "[분석] 러시아군이 우크라이나에서 고전하는 5가지 이유...라브로프 \"정전 협상 매일 접촉\"",
         "description": "이 당국자는 러시아군이 크이우 진격 당시 보급선을 제대로 갖추지 못한 상태에서 속도전을 추구하다보니 전투를 지속할 자원이 고갈됐다고 \n지적했습니다.",
         "link": "https://www.voakorea.com/a/6552339.html",
@@ -168,11 +168,35 @@
         "catagory": "교전 최신 상황"
     },
     {
+        "name": "우크라 전쟁 어떻게 할겁니까? 푸틴에 묻고 싶네요 [뉴스 쉽게 보기]",
+        "description": "현재 우크라이나 동부와 남부 지역에선 일진일퇴의 전투가 벌어지는 중이에요. 이건 전쟁이 아니라는 러시아. 이런데도 러시아는 우크라이나 \n침공이 전쟁...",
+        "link": "https://www.mk.co.kr/news/business/view/2022/05/425826/",
+        "date": "2주 전",
+        "image_path": "https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_425826_16524873935041393.jpeg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "돈바스 교전 격화…우크라 ＂가장 격렬한 국면 진입＂",
+        "description": "우크라이나 동부 돈바스(도네츠크와 루한스크 주를 아우르는 지역) 전선의 전투가 가장 격렬한 국면에 진입했다고 우크라이나 국방부가 밝혔다.",
+        "link": "https://m.wowtv.co.kr/NewsCenter/AMP/Read?articleId=A202205260357",
+        "date": "1일 전",
+        "image_path": "https://img.wowtv.co.kr/wowtv_news/dnrs/20220526/B20220526230641803.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
         "name": "푸틴 “서방의 제재, 러시아를 더 강하게 만들어”",
         "description": "현재 루간스크 우크라이나 통제구역 4만명의 주민은 대피을 원하지 않고 있다. ——러시아 대외정보국은 최근 발표한 성명에서 미국이 \n우크라이나 전투에...",
         "link": "http://www.dspdaily.com/news/view.php?no=18975",
-        "date": "7시간 전",
+        "date": "14시간 전",
         "image_path": "http://www.dspdaily.com/data/news/2205/360x231/9754221158290944ea408b9ca7ce44f9_EyEWQM3jTe9HXoEEV8F4w8rjNDJst.jpeg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "美, 러시아 본토 타격 가능한 다연장로켓포 우크라에 지원 검토 ...",
+        "description": "최근 돈바스 전선의 교전이 격화하면서 우크라이나 고위 인사들은 ... 쿨레바 우크라이나 외무장관은 이날 \"사람들의 생각보다 (동부 \n상황이) 더 절박...",
+        "link": "https://www.hankookilbo.com/News/Read/A2022052711020004961",
+        "date": "16시간 전",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/05/27/c0d1924b-d045-4a77-a8df-88c94468dd22.jpg?t=20220527093104",
         "catagory": "교전 최신 상황"
     },
     {
@@ -188,39 +212,23 @@
         "description": "교전은 계속되고 있지만 우크라이나군의 방어를 뚫지 못했다는 이야기다. ... 못했다며 어려운 상황이지만 민간인 소개가 계속될 것이라고 \n덧붙였다.",
         "link": "https://m.hankookilbo.com/News/Read/A2022050108050003154",
         "date": "4주 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/05/01/94494c92-3c4c-40d9-8857-3f7cd0370f3e.jpg?t=20220527183008",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "미국 주도 경제협력체 'IPEF' 출범...폴란드 대통령 \"우크라이나 미래 스스로 정해야\"",
-        "description": "폴란드 대통령 \"우크라이나 미래 스스로 정해야\" ... 밤 대국민 연설에서 지금 돈바스의 상황이 극도로 어렵다고 토로하면서, 하지만 \n우크라이나군의...",
-        "link": "https://www.voakorea.com/a/6585458.html",
-        "date": "4일 전",
-        "image_path": "https://gdb.voanews.com/03180000-0aff-0242-07da-08da3ca609a4_w1200_r1.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "우크라이나 전쟁: 틱톡 가짜 영상, 수백만 조회수 기록",
-        "description": "한 아파트 주변에서 러시아군과 우크라이나군 사이의 치열한 전투를 보여주는 영상은 770만 조회수를 기록하기도 했다.",
-        "link": "https://www.bbc.com/korean/international-61250042",
-        "date": "1개월 전",
-        "image_path": "https://ichef.bbci.co.uk/news/1024/branded_korean/4C3B/production/_124251591_02c9ac70-363f-4325-9ac3-223e4d8eb117.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "M777 등 강력한 서방무기 우크라 속속 배치…전쟁 판도 바꿀까",
-        "description": "우크라이나군이 수도 키이우와 제2의 도시 하르키우에서 러시아군을 물리치면서 현재 양측의 전투는 우크라이나 동부 돈바스 지역에 집중되고 \n있다.",
-        "link": "https://www.yna.co.kr/view/AKR20220524054100009",
-        "date": "3일 전",
-        "image_path": "https://img0.yna.co.kr/photo/yna/YH/2022/04/29/PYH2022042909760034000_P4.jpg",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/05/01/94494c92-3c4c-40d9-8857-3f7cd0370f3e.jpg?t=20220528015527",
         "catagory": "교전 최신 상황"
     },
     {
         "name": "[단독 인터뷰] 이근 전 대위 \"목숨 걸고 우크라이나에 온 이유는…\"",
-        "description": "전투 모습 사진 공개…직접 밝힌 현재 상황 · Q. 장기화되고 있는 우크라이나 전쟁 상황, 특히 한국 의용군의 상태에 대해 알려달라. \n\"러시아군은 여러 방향...",
+        "description": "(영상은) 나와 우리 팀이 전투 중인 모습이 맞다. 당시 우리는 이르핀(우크라이나 전쟁 초기 격전지 중 하나로 러시아 군이 한동안 \n점령했던 지역)을 해방...",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006748763",
         "date": "2주 전",
         "image_path": "https://img.sbs.co.kr/newimg/news/20220513/201663868_16v9.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "미국 주도 경제협력체 'IPEF' 출범...폴란드 대통령 \"우크라이나 미래 스스로 정해야\"",
+        "description": "러시아 \"정전협상 재개 준비\"...우크라이나 즉각 거부 \"인질잡은 나라와 흥정 불가\" · 텍사스 초등학교서 총기 난사…어린이 19명 \n숨져 · 돈바스 전투 \"가장...",
+        "link": "https://www.voakorea.com/a/6585458.html",
+        "date": "4일 전",
+        "image_path": "https://gdb.voanews.com/03180000-0aff-0242-07da-08da3ca609a4_w1200_r1.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -229,14 +237,6 @@
         "link": "https://www.mk.co.kr/opinion/columnists/view/2022/04/377342/",
         "date": "1개월 전",
         "image_path": "https://file.mk.co.kr/meet/neds/2022/04/image_readtop_2022_377342_16511099935025025.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "[속보] 한국인 우크라이나 의용군 전투 영상 공개 < 이슈/속보 ...",
-        "description": "[속보] 한국인 우크라이나 의용군 전투 영상 공개 ... [내외경제TV] 최재호 기자=6일 동유럽 매체 NEXTA가 우크라이나군의 \n국제의용군에서 활약하고...",
-        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=970937",
-        "date": "3주 전",
-        "image_path": "https://cdn.nbntv.co.kr/news/thumbnail/202205/970937_82621_3329_v150.jpg",
         "catagory": "교전 최신 상황"
     }
 ]
