@@ -1,5 +1,13 @@
 ﻿[
     {
+        "name": "미 해병대 출신 의용군 우크라이나서 전사...미, 80여 년만에 '무기대여법' 재가동",
+        "description": "러시아의 침공에 맞서 우크라이나 편에서 참전했던 미국인 윌리 조셉 캔슬 ... 국무부는 \"해당 보도를 인지하고 있으며, 상황을 자세히 \n모니터링 중\"...",
+        "link": "https://www.voakorea.com/a/6550260.html",
+        "date": "1개월 전",
+        "image_path": "https://gdb.voanews.com/02af0000-0aff-0242-6153-08da2a033058_w1200_r1.jpeg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "미, 우크라에 42조원 추가 지원…‘실시간 무기 공급’ 길도 열어",
         "description": "미국 내 여론이 2차 대전에 관여하는 데 부정적인 상황에서 프랭클린 ... 바이든 대통령이 이 법에 서명하면 우크라이나는 원하는 무기를 \n미국...",
         "link": "https://m.khan.co.kr/world/world-general/article/202204292133025",
@@ -48,11 +56,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "미국이 우크라 정보 제공에 대해 말 아끼는 이유...“러 최고위 인사 정보, 정확한 좌표 정보 제공 금지\"",
-        "description": "미국은 우크라이나 전쟁 발발 후 수십억달러의 무기 이외에도 러시아군에 대한 정보를 실시간으로 제공하고 있다. 러시아 장군들의 잇딴 \n전사와 흑해...",
-        "link": "https://m.khan.co.kr/world/world-general/article/202205121629001",
-        "date": "2주 전",
-        "image_path": "https://img.khan.co.kr/news/2022/05/12/2022051201001522700139771.jpg",
+        "name": "러시아와 우크라이나 전쟁을 맞아 CSO들이 자문해야 할 것 5가지",
+        "description": "[보안뉴스 문가용 기자] 세계는 적어도 지난 수십 년 동안 한 번도 겪어보지 못했던 지정학적 충돌이 물리적으로 발생하는 상황을 겪고 \n있다. 그리고 그...",
+        "link": "http://www.boannews.com/media/view.asp?idx=106825",
+        "date": "1주 전",
+        "image_path": "http://www.boannews.com/media/upFiles2/2022/05/300444223_7065.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -76,7 +84,7 @@
         "description": "러시아의 공격을 받은 우크라이나 현지 상황 영상이 SNS를 통해 퍼지고 있다. ... 우크라이나의 수도 키예프의 상황을 실시간으로 \n보여주는 계정에도...",
         "link": "https://www.hankookilbo.com/News/Read/A2022022502490002078",
         "date": "2022. 2. 25.",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/02/25/9abccb7c-dda3-4583-adf4-2239a0b30236.jpg?t=20220529022922",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/02/25/9abccb7c-dda3-4583-adf4-2239a0b30236.jpg?t=20220529063709",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -85,22 +93,6 @@
         "link": "https://biz.chosun.com/international/international_economy/2022/02/28/WVWZY6TZXNAKPE7763VTNPMTLI/",
         "date": "2022. 2. 28.",
         "image_path": "https://biz.chosun.com/resizer/hlEtKtUn5o2BPs4hEPyyL0e0Wps=/828x434/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/LTWBFK6BNND4NNWNBH2FJAMHEE.jpeg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "[우크라 침공] 구글맵, 우크라 실시간 도로상황 안보여주기로",
-        "description": "(서울=연합뉴스) 김지연 기자 = 구글의 지도 앱인 구글맵이 우크라이나 현지 도로 상황을 실시간으로 보여주는 기능을 일시적으로 \n차단했다고 로이터...",
-        "link": "https://m.yna.co.kr/view/AKR20220228072800009",
-        "date": "2022. 2. 28.",
-        "image_path": "https://img3.yna.co.kr/photo/etc/epa/2008/04/10/PEP20080410084901009_P4.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "러시아군 검색 막으려 우크라이나 현지 ‘실시간 교통 상황’ 기능 막아버린 구글맵",
-        "description": "지난 27일(현지 시간) 로이터 통신은 구글이 우크라이나의 실시간 교통 상황과 혼잡도를 알 수 있는 구글맵 기능을 일시적으로 차단했다고 \n보도했다.",
-        "link": "https://www.insight.co.kr/news/384303",
-        "date": "2022. 2. 28.",
-        "image_path": "https://img.insight.co.kr/static/2022/02/28/1200/img_20220228143320_10304s1l.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -168,19 +160,19 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "러시아의 우크라이나 침공… 전쟁의 한복판에서 우크라이나 ...",
-        "description": "현재 전세계는 긴장 속에서 우크라이나의 상황을 주시 중이다. ... 전황이 실시간으로 중계될 뿐 아니라 치열한 전투 현장부터 화마가 \n할퀴고 간 상흔...",
-        "link": "http://m.cine21.com/news/view/?mag_id=99843",
-        "date": "2022. 3. 27.",
-        "image_path": "http://image.cine21.com/resize/cine21/person/2022/0322/10_26_17__623925b9b7be9[S800,800].jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "정부·산업계, 우크라이나 전쟁에 실물경제 악영향 우려 초긴장",
         "description": "산업부는 공급망 교란으로 원자재 및 에너지 수급 상황에 문제가 생길 가능성에 대비해 수급 상황을 실시간 점검하고 있다. 러시아나 \n우크라이나가...",
         "link": "https://www.hani.co.kr/arti/economy/economy_general/1032459.html",
         "date": "2022. 2. 24.",
         "image_path": "https://flexible.img.hani.co.kr/flexible/normal/640/407/imgdb/original/2022/0224/20220224503354.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "러시아의 우크라이나 침공… 전쟁의 한복판에서 우크라이나 ...",
+        "description": "현재 전세계는 긴장 속에서 우크라이나의 상황을 주시 중이다. ... 전황이 실시간으로 중계될 뿐 아니라 치열한 전투 현장부터 화마가 \n할퀴고 간 상흔...",
+        "link": "http://m.cine21.com/news/view/?mag_id=99843",
+        "date": "2022. 3. 27.",
+        "image_path": "http://image.cine21.com/resize/cine21/person/2022/0322/10_26_17__623925b9b7be9[S800,800].jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -208,19 +200,19 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "[특파원 칼럼] 우크라 사태와 국제질서 요동",
-        "description": "미디어를 통해 우크라이나 시민에 대한 러시아군의 공격이 실시간으로 전달되는 상황에서 '루소포비아'(러시아 혐오)는 계속 확산될 것이다.",
-        "link": "https://m.khan.co.kr/opinion/column/article/202203090300035",
-        "date": "2022. 3. 9.",
-        "image_path": "https://img.khan.co.kr/news/2022/03/09/2022030901001114200096531.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "KBS 시청자위원들 ‘지상파 우크라이나 생중계’ 일침",
         "description": "KBS 유튜브 채널의 실시간 댓글창에 달리는 성희롱 댓글 등에 적극적 대응 ... 그런 비판이 잇따르고 있다는 사실을 알게 되었고 \n상황을 인지한 뒤에...",
         "link": "http://www.mediatoday.co.kr/news/articleView.html?idxno=303177",
         "date": "2022. 3. 28.",
         "image_path": "https://cdn.mediatoday.co.kr/news/thumbnail/202203/303177_409085_343_v150.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "[특파원 칼럼] 우크라 사태와 국제질서 요동",
+        "description": "미디어를 통해 우크라이나 시민에 대한 러시아군의 공격이 실시간으로 전달되는 상황에서 '루소포비아'(러시아 혐오)는 계속 확산될 것이다.",
+        "link": "https://m.khan.co.kr/opinion/column/article/202203090300035",
+        "date": "2022. 3. 9.",
+        "image_path": "https://img.khan.co.kr/news/2022/03/09/2022030901001114200096531.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -237,6 +229,14 @@
         "link": "http://www.aitimes.com/news/articleView.html?idxno=143260",
         "date": "2022. 3. 3.",
         "image_path": "https://cdn.aitimes.com/news/thumbnail/202203/143260_148243_5754_v150.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "'우크라 침공 규탄' 나선 애플, 러시아서 판매 중단",
+        "description": "우크라이나 주민 안전을 위해 애플지도에서 현지 교통상황 및 실시간 사건을 알려주는 기능도 사용할 수 없게 했다. 애플은 “러시아의 \n우크라이나 침공에...",
+        "link": "https://m.hani.co.kr/arti/international/international_general/1033187.html",
+        "date": "2022. 3. 2.",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/640/415/imgdb/original/2022/0302/20220302503147.jpg",
         "catagory": "지역 라이브 상황"
     }
 ]
