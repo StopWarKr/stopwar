@@ -1,9 +1,9 @@
 ﻿[
     {
         "name": "[해외 장애계 뉴스 브리핑] 우크라이나 전쟁 속 방치된 장애아동",
-        "description": "DRI는 “우크라이나 시설 거주 아동들은 가족의 사랑이나 보살핌으로부터 단절된 상태로, 현재 시설 생활의 처참한 상황을 만든 가장 큰 \n요인은 전쟁...",
+        "description": "그뿐만 아니라, 장애아동시설들은 주요 국제기구나 해외단체 등의 원조와 지원에서도 배제되어 있어 자원도 턱없이 부족한 상황에 처해 \n있습니다. DRI는 “...",
         "link": "https://www.beminor.com/news/articleView.html?idxno=23456",
-        "date": "2시간 전",
+        "date": "7시간 전",
         "image_path": "https://cdn.beminor.com/news/thumbnail/202205/23456_46320_4759_v150.jpg",
         "catagory": "지역 라이브 상황"
     },
@@ -13,6 +13,14 @@
         "link": "https://imnews.imbc.com/replay/2022/nwdesk/article/6368652_35744.html",
         "date": "2주 전",
         "image_path": "https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/05/14/desk_20220514_202204_1_9_Large.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "‘우크라 2박3일 취재’ 제한 변경… 2주간 11개주 취재 가능",
+        "description": "향후 우크라이나 안전 상황에 추가 변화가 있는 경우 재조정될 가능성도 있다고 외교부는 밝혔다. 활동 계획서에는 언론인 신상과 함께 방문 \n목적와...",
+        "link": "http://www.mediatoday.co.kr/news/articleView.html?idxno=304222",
+        "date": "4일 전",
+        "image_path": "https://cdn.mediatoday.co.kr/news/thumbnail/202205/304222_412546_2728_v150.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -44,7 +52,7 @@
         "description": "러시아의 공격을 받은 우크라이나 현지 상황 영상이 SNS를 통해 퍼지고 있다. ... 우크라이나의 수도 키예프의 상황을 실시간으로 \n보여주는 계정에도...",
         "link": "https://www.hankookilbo.com/News/Read/A2022022502490002078",
         "date": "2022. 2. 25.",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/02/25/9abccb7c-dda3-4583-adf4-2239a0b30236.jpg?t=20220531130227",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/02/25/9abccb7c-dda3-4583-adf4-2239a0b30236.jpg?t=20220531183440",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -101,14 +109,6 @@
         "link": "https://www.technologyreview.kr/%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98-%EC%A0%84%EC%9F%81%EC%97%90%EC%84%9C-%ED%99%9C%EC%95%BD%ED%95%98%EB%8A%94-%ED%95%B4%EC%BB%A4%EB%93%A4/",
         "date": "1개월 전",
         "image_path": "https://www.technologyreview.kr/wp-content/uploads/2022/04/우크라.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "[우크라 침공] 가짜 전쟁 영상이 판치는 틱톡... 오래된 교전 영상 ...",
-        "description": "오래된 교전 영상 '실시간 상황'처럼 조작 논란 ... 러시아의 우크라이나 침공과 관련해 틱톡에서 가짜 뉴스들이 쏟아지고 있다.",
-        "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=122890",
-        "date": "2022. 3. 1.",
-        "image_path": "http://www.wikileaks-kr.org/news/thumbnail/202202/122890_105630_326_v150.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -188,7 +188,7 @@
         "description": "미국 내 여론이 2차 대전에 관여하는 데 부정적인 상황에서 프랭클린 ... 바이든 대통령이 이 법에 서명하면 우크라이나는 원하는 무기를 \n미국...",
         "link": "https://m.khan.co.kr/world/world-general/article/202204292133025",
         "date": "1개월 전",
-        "image_path": "https://img.khan.co.kr/news/2022/04/29/2022043001003767300343101.jpg",
+        "image_path": "No Image",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -208,11 +208,19 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "[우크라 침공] 가짜 전쟁 영상이 판치는 틱톡... 오래된 교전 영상 ...",
+        "description": "오래된 교전 영상 '실시간 상황'처럼 조작 논란 ... 러시아의 우크라이나 침공과 관련해 틱톡에서 가짜 뉴스들이 쏟아지고 있다.",
+        "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=122890",
+        "date": "2022. 3. 1.",
+        "image_path": "http://www.wikileaks-kr.org/news/thumbnail/202202/122890_105630_326_v150.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "'화약고' 우크라이나… 러시아 17만 병력 집결하는 1월이 최대 고비",
         "description": "미국 정보당국은 최근 우크라이나 위기 상황을 공개하고 러시아에 경고를 ... 미군은 전투에 필요한 실시간 정보뿐 아니라 방공망, \n사이버전 대응을...",
         "link": "https://www.hankookilbo.com/News/Read/A2021122914000000868",
         "date": "2021. 12. 29.",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2021/12/29/6b45a181-d29e-46d2-a651-7cdd3c2fd161.jpg?t=20220531130317",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2021/12/29/6b45a181-d29e-46d2-a651-7cdd3c2fd161.jpg?t=20220531183527",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -229,14 +237,6 @@
         "link": "https://www.voakorea.com/a/6468337.html",
         "date": "2022. 3. 4.",
         "image_path": "https://gdb.voanews.com/01d90000-0aff-0242-ff14-08d9fce2abbd_w1200_r1.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "D-데이 훤히 내다보고, 틱톡으로 여론 모으고…초연결시대의 전쟁",
-        "description": "러시아의 우크라이나 침공은 스마트폰과 소셜미디어가 보편화한 시대에서 ... 구글은 구글지도에 우크라이나 현지 교통 상황을 실시간으로 \n보여주는...",
-        "link": "https://www.hani.co.kr/arti/economy/it/1033791.html",
-        "date": "2022. 3. 7.",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/970/546/imgdb/original/2022/0306/20220306502548.jpg",
         "catagory": "지역 라이브 상황"
     }
 ]
