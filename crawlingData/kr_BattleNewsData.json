@@ -27,7 +27,7 @@
         "name": "우크라이나 전쟁 100일, 돈바스 격전...미 '종교자유보고서' 중·러·북한 등 탄압 지적",
         "description": "또 지금 격렬한 전투가 벌어지고 있는 동부 돈바스 일부 지역도 친러 반군들이 장악하고 있습니다. 젤렌스키 대통령은 지금 돈바스 지역은 \n거의 완전히...",
         "link": "https://www.voakorea.com/a/6601915.html",
-        "date": "3시간 전",
+        "date": "10시간 전",
         "image_path": "https://gdb.voanews.com/096e0000-0a00-0242-7af2-08da456f6fc5_w1200_r1.jpg",
         "catagory": "교전 최신 상황"
     },
@@ -40,11 +40,19 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "\"우크라, 동부 전투에서 '친러 반역자' 색출 병행\"",
-        "description": "이 매체는 우크라이나 국가보안국(SBU)이 제2도시 하르키우에서 벌인 색출 작전에 동행 취재해 러시아 선전에 동참한 남성이 체포되는 \n과정을 전했다.",
-        "link": "https://www.yna.co.kr/view/AKR20220603056500009?section=news&site=popup_newsflash",
-        "date": "16시간 전",
-        "image_path": "https://img6.yna.co.kr/photo/ap/2022/04/30/PAP20220430004001009_P4.jpg",
+        "name": "\"우크라, 돈바스 요충지 세베로도네츠크 반격 실마리\"",
+        "description": "우크라이나 국방부도 병사들이 유럽에서 미국과 영국이 지원을 약속한 첨단 미사일 시스템 운영에 대해 훈련을 받고 있다며 이는 이번 전투를 \n유리하게...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/06/493214/",
+        "date": "2시간 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/06/04/image_readtop_2022_493214_0_084511.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "\"우크라이나 하르키우에서 프랑스 의용군 전투 중 사망\"",
+        "description": "AFP통신 등에 따르면 프랑스 외무부 대변인은 이날 \"프랑스 시민이 우크라이나 전투에서 치명상을 입었다는 슬픈 소식을 접했다\"며 \n\"희생자 가족에게 애도...",
+        "link": "https://www.fnnews.com/news/202206040522036801",
+        "date": "5시간 전",
+        "image_path": "https://image.fnnews.com/resource/media/image/2022/06/04/202206040521575672_l.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -53,14 +61,6 @@
         "link": "https://www.chosun.com/international/europe/2022/05/13/BV6P6GP6SVGQBP7J74BMYJSPBY/",
         "date": "3주 전",
         "image_path": "https://images.chosun.com/resizer/pe0yT1UxeFozSXg4TFyW-GSS6c0=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4E2YJLWEEJP6XO3M7MZXXBKC5E.JPG",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "[이슈현장] 우크라전쟁 100일…젤렌스키 \"국토 1/5 점령당해\"",
-        "description": "<질문 4> 다시, 우크라이나 내부 상황으로 들어와서요. 키이우 점령에 실패한 러시아로서는 현재 교전중인 돈바스를 손에 넣기 위해 \n이곳에 화력을...",
-        "link": "https://m.yna.co.kr/amp/view/MYH20220603013400038",
-        "date": "11시간 전",
-        "image_path": "No Image",
         "catagory": "교전 최신 상황"
     },
     {
@@ -80,6 +80,30 @@
         "catagory": "교전 최신 상황"
     },
     {
+        "name": "\"우크라, 동부 전투에서 '친러 반역자' 색출 병행\"",
+        "description": "이 매체는 우크라이나 국가보안국(SBU)이 제2도시 하르키우에서 벌인 색출 작전에 동행 취재해 러시아 선전에 동참한 남성이 체포되는 \n과정을 전했다.",
+        "link": "https://www.yna.co.kr/view/AKR20220603056500009?section=news&site=popup_newsflash",
+        "date": "23시간 전",
+        "image_path": "https://img6.yna.co.kr/photo/ap/2022/04/30/PAP20220430004001009_P4.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "[이슈현장] 우크라전쟁 100일…젤렌스키 \"국토 1/5 점령당해\"",
+        "description": "<질문 4> 다시, 우크라이나 내부 상황으로 들어와서요. 키이우 점령에 실패한 러시아로서는 현재 교전중인 돈바스를 손에 넣기 위해 \n이곳에 화력을...",
+        "link": "https://m.yna.co.kr/amp/view/MYH20220603013400038",
+        "date": "19시간 전",
+        "image_path": "No Image",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "뉴시스",
+        "description": "AFP통신 등에 따르면 프랑스 외무부 대변인은 이날 \"프랑스 시민이 우크라이나 전투에서 치명상을 입었다는 슬픈 소식을 접했다\"며 \n\"희생자 가족에게 애도...",
+        "link": "https://mobile.newsis.com/view.html?ar_id=NISX20220604_0001896849",
+        "date": "5시간 전",
+        "image_path": "https://image.newsis.com/2022/05/15/NISI20220515_0018803257_web.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
         "name": "돈바스 교전 격화‥\"우크라 운명이 동부에서 지금 결정되는 중\"",
         "description": "우크라이나와 러시아의 현재 동부 전투가 전쟁의 마지막이 될 격전일 수 있다는 관측이 제기 됐습니다. 현지시간 24일 미국 \n뉴욕타임스,...",
         "link": "https://imnews.imbc.com/news/2022/world/article/6372136_35680.html",
@@ -93,14 +117,6 @@
         "link": "http://weekly.chosun.com/news/articleView.html?idxno=20645",
         "date": "3일 전",
         "image_path": "https://cdn.weekly.chosun.com/news/thumbnail/202205/20645_40702_2011_v150.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "\"러시아, 아동에 대한 전쟁을 멈춰라\"",
-        "description": "지난 100일 간 우크라이나에서 발생한 교전을 피해 해외로 탈출한 인구는 ... 세이브더칠드런은 분쟁 상황에서도 아동의 교육받을 권리를 \n지키기 위해...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/06/490999/",
-        "date": "16시간 전",
-        "image_path": "https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_490999_16542217155063999.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -120,35 +136,19 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "우크라 전쟁 100일, 세이브더칠드런 아동 생존 및 교육권 위기 ...",
-        "description": "지난 100일간 우크라이나에서 발생한 교전을 피해 해외로 탈출한 인구는 유엔 ... 교육은 위기 상황 속에서도 아동과 부모 모두에게 \n우선 순위가 높은...",
-        "link": "https://kr.acrofan.com/detail.php?number=258755",
-        "date": "11시간 전",
-        "image_path": "http://kr.acrofan.com/img/noImg.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "이근 실제 교전 영상?…네티즌이 주목한 근거는 - 조선일보",
-        "description": "영상 게시자는 “우크라이나의 막강한 대원들이 러시아군을 상대로 벌인 전투작전을 공개한다”며 “영상의 위치는 보안상의 이유로 공개되지 \n않았다. 이 팀...",
-        "link": "https://www.chosun.com/international/international_general/2022/05/05/F7PW5UDFGZEXRC4LDRFBTKO4RY/",
-        "date": "1개월 전",
-        "image_path": "https://images.chosun.com/resizer/A6l278oPKMebl_Sm_EWS8PBqjd8=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHWNUZMJCJAFTAUMW4CNQJBUEA.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "우크라이나 전쟁 100일...새로운 핵 위기 시대 진입",
-        "description": "볼로디미르 젤렌스키 우크라이나 대통령은 룩셈부르크 의회 화상 연설에서 100일간의 교전이 초래한 피해 상황을 전했다. 그는 “국토의 약 \n5분의 1이...",
-        "link": "https://www.etoday.co.kr/news/view/2140470",
-        "date": "9시간 전",
-        "image_path": "https://img.etoday.co.kr/pto_db/2022/06/20220603173656_1760403_500_334.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
         "name": "“집에 돌아가고 싶어요”…‘사기 저하’ 러군, 전투 거부 속출",
         "description": "러시아의 우크라이나 침공이 78일째 이어지는 가운데, 사기가 저하된 러시아 군인들이 전투를 거부하는 사례가 속출하고 있다.",
         "link": "https://www.donga.com/news/Inter/article/all/20220513/113386909/1",
         "date": "3주 전",
         "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/05/13/113386826.2.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "\"러시아, 아동에 대한 전쟁을 멈춰라\"",
+        "description": "지난 100일 간 우크라이나에서 발생한 교전을 피해 해외로 탈출한 인구는 ... 세이브더칠드런은 분쟁 상황에서도 아동의 교육받을 권리를 \n지키기 위해...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/06/490999/",
+        "date": "23시간 전",
+        "image_path": "https://file.mk.co.kr/meet/neds/2022/06/image_readtop_2022_490999_16542217155063999.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -160,27 +160,11 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "루한스크 핵심 도시 함락 위기…“주민 1만2천명 전쟁터에 갇혀”",
-        "description": "러시아군이 우크라이나 동부 루한스크주의 핵심 도시인 세베로 ... 다른 교전 지역에서는 큰 상황 변화가 없는 가운데 남부 헤르손주와 \n북동부 하르...",
-        "link": "https://www.hani.co.kr/arti/international/international_general/1045262.html",
-        "date": "2일 전",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/502/imgdb/original/2022/0601/20220601500844.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "[우크라 침공] 러, 돈바스 총공세 지속…우크라는 남부 반격",
-        "description": "젤렌스키 \"돈바스 상황 극도로 어려워\"… ... AP는 러시아군이 돈바스 주요 도시에서 거리마다 우크라이나군과 교전을 벌이고 있다며 \n우크라이나의...",
-        "link": "https://news.koreadaily.com/2022/05/30/society/international/20220530190007635.html",
-        "date": "4일 전",
-        "image_path": "https://news.koreadaily.com/resources/images/logo/sns-logo.png",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "우크라 \"러, 동부 요충지 세베로도네츠크 절반 장악\"",
-        "description": "전날에는 세베로도네츠크 중심부로 진격, 우크라이나군과 교전을 벌였다. ... 군에 넘어갔다는 점을 인정하며 상황이 극도로 복잡하다고 \n토로했다.",
-        "link": "https://www.mk.co.kr/news/world/view/2022/05/482040/",
-        "date": "3일 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/31/image_readtop_2022_482040_0_211711.jpg",
+        "name": "우크라 전쟁 100일, 세이브더칠드런 아동 생존 및 교육권 위기 ...",
+        "description": "지난 100일간 우크라이나에서 발생한 교전을 피해 해외로 탈출한 인구는 유엔 ... 교육은 위기 상황 속에서도 아동과 부모 모두에게 \n우선 순위가 높은...",
+        "link": "https://kr.acrofan.com/detail.php?number=258755",
+        "date": "18시간 전",
+        "image_path": "http://kr.acrofan.com/img/noImg.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -189,6 +173,14 @@
         "link": "https://mobile.newsis.com/view.html?ar_id=NISX20220507_0001862413",
         "date": "4주 전",
         "image_path": "https://image.newsis.com/2022/05/03/NISI20220503_0018761411_web.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "루한스크 핵심 도시 함락 위기…“주민 1만2천명 전쟁터에 갇혀”",
+        "description": "러시아군이 우크라이나 동부 루한스크주의 핵심 도시인 세베로 ... 다른 교전 지역에서는 큰 상황 변화가 없는 가운데 남부 헤르손주와 \n북동부 하르...",
+        "link": "https://www.hani.co.kr/arti/international/international_general/1045262.html",
+        "date": "2일 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/502/imgdb/original/2022/0601/20220601500844.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -208,14 +200,6 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "우크라 전쟁 100일‥서방의 무기 지원이 전쟁 끝낼까?",
-        "description": "오늘로 러시아가 우크라이나를 침공한 지 100일이 됐습니다. ... 교전이 치열했던 지역은 아직 조사가 시작되지 못했습니다.",
-        "link": "https://imnews.imbc.com/replay/2022/nwdesk/article/6375374_35744.html",
-        "date": "6시간 전",
-        "image_path": "https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/06/03/desk_20220603_202511_1_18_Large.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
         "name": "[단독 인터뷰] 이근 전 대위 \"목숨 걸고 우크라이나에 온 이유는…\"",
         "description": "전투 모습 사진 공개…직접 밝힌 현재 상황 · Q. 장기화되고 있는 우크라이나 전쟁 상황, 특히 한국 의용군의 상태에 대해 알려달라. \n\"러시아군은 여러 방향...",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006748763",
@@ -224,19 +208,35 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "우크라 100일간의 악전고투에도 돈바스 결국 러에 넘어가나 ...",
-        "description": "30일 돈바스의 세베로도네츠크에서 우크라이나 군과 러시아 군의 치열한 전투로 검은 연기가 솟아오르고 있다. © AFP=뉴스1 © \nNews1 우동명 기자...",
-        "link": "https://moneys.mt.co.kr/news/mwView.php?no=2022060106288096093",
-        "date": "2일 전",
-        "image_path": "https://menu.mt.co.kr/moneyweek/thumb/2022/06/01/00/2022060106288096093_1.jpg/dims/thumbnail/800x600!/optimize/",
-        "catagory": "교전 최신 상황"
-    },
-    {
         "name": "美싱크탱크 \"우크라, 하르키우 전투 승리…러 명백한 후퇴\"",
         "description": "연구소는 또 \"러시아 부대는 지난 며칠간 우크라이나군 반격에 대항하기 위한 방어선 확보를 시도하고 있지 않다\"며 러시아군은 철수해서 \n손실된 병력을...",
         "link": "https://www.news1.kr/articles/?4680715",
         "date": "3주 전",
         "image_path": "https://image.news1.kr/system/photos/2022/5/12/5367522/article.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "美 국방부 '러시아, 우크라이나 전쟁에서 탱크 1000대 손실'",
+        "description": "아울러 최근 소규모의 전투가 계속 되고 있는 상황이라고 덧붙였다. 박병희 기자 nut@asiae.co.kr <c경제를 보는 눈, 세계를 \n보는 창 아시아경제(www...",
+        "link": "https://cm.asiae.co.kr/article/2022052711062762536",
+        "date": "1주 전",
+        "image_path": "https://cphoto.asiae.co.kr/listimglink/6/2021052815250655453_1622183106.jpeg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "[영상] \"TOS-1A가 급습\"…돈바스 민가 인근 무차별 폭격 모습 공개",
+        "description": "(서울=연합뉴스) 우크라이나 동부 돈바스(도네츠크와 루한스크 주를 아우르는 지역) 전선의 전투가 가장 격렬한 국면에 진입했다고 \n우크라이나 국방부...",
+        "link": "https://www.yna.co.kr/view/MYH20220527013000704",
+        "date": "1주 전",
+        "image_path": "https://img6.yna.co.kr/mpic/YH/2022/05/27/MYH20220527013000704.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "우크라 100일간의 악전고투에도 돈바스 결국 러에 넘어가나 ...",
+        "description": "30일 돈바스의 세베로도네츠크에서 우크라이나 군과 러시아 군의 치열한 전투로 검은 연기가 솟아오르고 있다. © AFP=뉴스1 © \nNews1 우동명 기자...",
+        "link": "https://moneys.mt.co.kr/news/mwView.php?no=2022060106288096093",
+        "date": "3일 전",
+        "image_path": "https://menu.mt.co.kr/moneyweek/thumb/2022/06/01/00/2022060106288096093_1.jpg/dims/thumbnail/800x600!/optimize/",
         "catagory": "교전 최신 상황"
     }
 ]
