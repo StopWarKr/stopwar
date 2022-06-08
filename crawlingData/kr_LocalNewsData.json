@@ -1,34 +1,10 @@
 ﻿[
     {
-        "name": "러시아 극초음속 미사일 발사, EU 정상회의 의장 긴급 대피...바이든 '무기대여법' 서명",
-        "description": "지역 당국은 10일 현재 인명 피해 상황을 파악하고 있는 가운데, 사상자가 상당수 나온 것으로 알려졌습니다. 러시아군이 우크라이나에서 \n극초음속...",
-        "link": "https://www.voakorea.com/a/6565034.html",
-        "date": "1개월 전",
-        "image_path": "https://gdb.voanews.com/03180000-0aff-0242-6ddb-08da32a9ded1_w1200_r1.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "21살 러시아 군인‥전범 재판 출석",
         "description": "우크라이나 연결해 재판 상황 더 자세히 알아보겠습니다. ... 미디어센터 한쪽 벽에는 실시간 전황을 볼 수 있는 커다란 TV가 설치되어 \n있습니다.",
         "link": "https://imnews.imbc.com/replay/2022/nwdesk/article/6368652_35744.html",
         "date": "3주 전",
         "image_path": "https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/05/14/desk_20220514_202204_1_9_Large.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "“목숨 건 취재, 돌아온 건 처벌”…'여권법' 문제 없나",
-        "description": "우리 언론인만 우크라이나 입국이 금지된 사이, 해외 언론은 키이우와 르비우 등 주요 도시에 특파원을 파견해 우크라이나 소식을 실시간으로 \n전하고...",
-        "link": "https://news.kbs.co.kr/news/view.do?ncd=5478906",
-        "date": "1일 전",
-        "image_path": "http://news.kbs.co.kr/data/fckeditor/new/image/2022/06/03/330731654242627609.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "경제안보 관건은 '정보력'이다",
-        "description": "러시아가 우크라이나를 침공한 지 3개월이 지났지만, 미국이 우크라이나에 제공하는 실시간 정보로 인해 러시아는 정보전략과 여론전에서도 \n우위를...",
-        "link": "https://www.hankyung.com/opinion/article/2022060740431",
-        "date": "10시간 전",
-        "image_path": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -48,18 +24,10 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "[주말판] 러시아-우크라이나 전쟁 계기로 하이브리드전 시대 ...",
-        "description": "[보안뉴스 문정후 기자] 지난 3월 러시아의 우크라이나 침공이 한창 진행 ... 우나스(Vincas Ciziunas)는 “아직까지 \n러시아-우크라이나 전쟁의 상황...",
-        "link": "http://www.boannews.com/media/view.asp?idx=106941",
-        "date": "2주 전",
-        "image_path": "http://www.boannews.com/media/upFiles2/2022/05/968768666_2164.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "[신근영의 메타버스와 암호화폐 이야기] 비트코인의 미래",
         "description": "정보통신 기술의 발달은 누구나 실시간으로 전 세계 모든 투자정보를 접할 수 ... 그런 이유로 과거와 달리 미 연준의 빅스텝과 \n우크라이나 전쟁,...",
         "link": "https://www.hankyung.com/thepen/lifeist/article/202206033164Q",
-        "date": "16시간 전",
+        "date": "1일 전",
         "image_path": "https://img.hankyung.com/photo/202206/ZK.30223020.1.jpg",
         "catagory": "지역 라이브 상황"
     },
@@ -69,6 +37,14 @@
         "link": "https://www.hani.co.kr/arti/opinion/column/1033374.html",
         "date": "2022. 3. 3.",
         "image_path": "https://flexible.img.hani.co.kr/flexible/normal/851/456/imgdb/child/2022/0304/16463610722411_20211230502501.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "구글까지 우크라 돕는다…\"실시간 도로 상황 비공개 전환\"",
+        "description": "로이터 통신이 27일(현지시간) 구글의 지도 앱인 구글맵이 우크라이나 현지 도로 상황을 실시간으로 보여주는 기능을 일시적으로 차단했다고 \n보도했다...",
+        "link": "https://www.hankyung.com/international/article/2022022841877",
+        "date": "2022. 2. 28.",
+        "image_path": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -216,14 +192,6 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "이슈 | 러시아, 우크라이나 침공",
-        "description": "09:35 볼로디미르 젤렌스키 우크라이나 대통령이 러시아군과 격전이 벌어지고 있는 돈바스 지역을 방문했다. 젤렌스키 대통령은 \n“세베로도네츠크는 어려운 상황”...",
-        "link": "https://www.khan.co.kr/issue/articles/ahb03",
-        "date": "2022. 1. 25.",
-        "image_path": "//img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "우크라이나와 한반도 : 칼럼 : 사설.칼럼 : 뉴스",
         "description": "미국과 유럽 세력이 러시아 세력과 경합하고 있던 우크라이나에서 전쟁이 벌어진 상황에서, 유라시아의 동쪽에서도 미국과 일본을 중심으로 한 \n태평양...",
         "link": "https://www.hani.co.kr/arti/opinion/column/1040641.html",
@@ -232,11 +200,43 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "[우크라 침공] 젤렌스키가 쏘아올린 SNS…'푸틴 반대' 구심점",
+        "description": "실시간 영상으로 전황 ·키예프 잔류 입증하며 지지 확보. 볼로디미르 젤렌스키 우크라이나 대통령. (키예프 AFP=연합뉴스) 볼로디미르 \n젤...",
+        "link": "https://www.yna.co.kr/view/AKR20220228063400009",
+        "date": "2022. 2. 28.",
+        "image_path": "https://img0.yna.co.kr/photo/yna/YH/2022/02/27/PYH2022022706530034000_P4.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "러-우크라이나 전쟁을 보는 우리의 자세는?",
         "description": "실시간으로 신문, 방송, SNS를 통해 전해지는 우크라이나 상황은 보고도 믿기지 않는다. 러시아 푸틴 대통령은 친러 반정부군이 장악하고 \n있는 우크라이나...",
         "link": "https://www.gunchinews.com/news/articleView.html?idxno=63144",
         "date": "2022. 3. 14.",
         "image_path": "http://www.gunchinews.com/news/thumbnail/202203/63144_65754_935_v150.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "이슈 | 러시아, 우크라이나 침공",
+        "description": "09:35 볼로디미르 젤렌스키 우크라이나 대통령이 러시아군과 격전이 벌어지고 있는 돈바스 지역을 방문했다. 젤렌스키 대통령은 \n“세베로도네츠크는 어려운 상황”...",
+        "link": "https://www.khan.co.kr/issue/articles/ahb03",
+        "date": "2022. 1. 25.",
+        "image_path": "//img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라이나 피란민 100만 돌파...크이우 탈출 한인 \"상황 많이 안좋아\"",
+        "description": "러시아의 우크라이나 침공 후 한 주 새 100만 명 넘는 피란민이 발생했습니다 ... 실시간으로 다들 안전한지 안부 묻고 있는데 \n아직까지는 다 잘 계신...",
+        "link": "https://www.voakorea.com/a/6468337.html",
+        "date": "2022. 3. 4.",
+        "image_path": "https://gdb.voanews.com/01d90000-0aff-0242-ff14-08d9fce2abbd_w1200_r1.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "정부, 우크라이나사태 총력 지원…실물경제 중점점검",
+        "description": "산업부-수출지원기관, 우크라이나 사태 및 수출상황 점검회의수출성장 흐름 저헤 리스크 요인…최악 상정 철저히 대비수출기업애로 실시간 \n점검-수출...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2022/02/22/2022022200134.html",
+        "date": "2022. 2. 22.",
+        "image_path": "https://image.newdaily.co.kr/site/data/img/2022/02/22/2022022200134_0.jpg",
         "catagory": "지역 라이브 상황"
     }
 ]

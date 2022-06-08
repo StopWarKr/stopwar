@@ -16,14 +16,6 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "돈바스 시가전 격렬…젤렌스키 \"세베로도네츠크 포기 안해\"",
-        "description": "볼로디미르 젤렌스키 우크라이나 대통령은 상황이 어렵지만 이 도시를 포기 ... 군이 세베로도네츠크 교전에서 (수적으로) 더 많고 더 \n강력하지만,...",
-        "link": "https://news.koreadaily.com/2022/06/07/society/international/20220607005858720.html",
-        "date": "1일 전",
-        "image_path": "No Image",
-        "catagory": "교전 최신 상황"
-    },
-    {
         "name": "러시아 국방부 '마리우폴 저항군 항복' 발표...우크라이나 \"북부 전선 국경 도달\"",
         "description": "우크라이나군은 이날(17일) 새벽 마리우폴에서의 전투 종료를 선언한 바 있습니다. 아조우스탈 제철소 안에서 항전하던 부상 병력 치료를 \n조건으로 러시아...",
         "link": "https://www.voakorea.com/a/6576651.html",
@@ -40,11 +32,11 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "[중앙시평] 우크라이나 사태에 잘 대처하려면",
-        "description": "[중앙시평] 우크라이나 사태에 잘 대처하려면. 위성락 전 한반도평화교섭본부장·리셋 코리아 외교안보분과장. 우크라이나에서 전투가 시작된 \n지 100일이...",
-        "link": "https://news.koreadaily.com/2022/06/07/society/opinion/20220607083641797.html",
+        "name": "돈바스 시가전 격렬…젤렌스키 \"세베로도네츠크 포기 안해\"",
+        "description": "볼로디미르 젤렌스키 우크라이나 대통령은 상황이 어렵지만 이 도시를 포기 ... 군이 세베로도네츠크 교전에서 (수적으로) 더 많고 더 \n강력하지만,...",
+        "link": "https://news.koreadaily.com/2022/06/07/society/international/20220607005858720.html",
         "date": "1일 전",
-        "image_path": "No Image",
+        "image_path": "https://news.koreadaily.com/data/photo/2022/06/07/f434dc0b-9e68-4391-8a2c-20212e35e062.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -53,6 +45,14 @@
         "link": "https://www.chosun.com/international/europe/2022/05/13/BV6P6GP6SVGQBP7J74BMYJSPBY/",
         "date": "3주 전",
         "image_path": "https://images.chosun.com/resizer/pe0yT1UxeFozSXg4TFyW-GSS6c0=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4E2YJLWEEJP6XO3M7MZXXBKC5E.JPG",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "[중앙시평] 우크라이나 사태에 잘 대처하려면",
+        "description": "[중앙시평] 우크라이나 사태에 잘 대처하려면. 위성락 전 한반도평화교섭본부장·리셋 코리아 외교안보분과장. 우크라이나에서 전투가 시작된 \n지 100일이...",
+        "link": "https://news.koreadaily.com/2022/06/07/society/opinion/20220607083641797.html",
+        "date": "1일 전",
+        "image_path": "https://news.koreadaily.com/data/photo/2022/06/08/acb45f4a-f0c3-4a81-b0ec-763cc4a255e3.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -67,7 +67,7 @@
         "name": "우크라 전쟁 100일, 세이브더칠드런 아동 생존 및 교육권 위기 ...",
         "description": "그는 \"우크라이나의 동부 지역 교전이 격화되면서 인도주의적 위기 상황이 악화되었다. 이 지역에 거주하는 아동들은 이번 사태 이전부터 \n학교 안팎...",
         "link": "https://kr.christianitydaily.com/articles/113372/20220603/%EC%9A%B0%ED%81%AC%EB%9D%BC-%EC%A0%84%EC%9F%81-100%EC%9D%BC-%EC%84%B8%EC%9D%B4%EB%B8%8C%EB%8D%94%EC%B9%A0%EB%93%9C%EB%9F%B0-%EC%95%84%EB%8F%99-%EC%83%9D%EC%A1%B4-%EB%B0%8F-%EA%B5%90%EC%9C%A1%EA%B6%8C-%EC%9C%84%EA%B8%B0-%EA%B2%BD%EA%B3%A0.htm",
-        "date": "3일 전",
+        "date": "4일 전",
         "image_path": "https://kr.christianitydaily.com/data/images/full/125275/image.jpg",
         "catagory": "교전 최신 상황"
     },
@@ -107,7 +107,7 @@
         "name": "\"우크라, 돈바스 요충지 세베로도네츠크 반격 실마리\"",
         "description": "우크라이나 국방부도 병사들이 유럽에서 미국과 영국이 지원을 약속한 첨단 미사일 시스템 운영에 대해 훈련을 받고 있다며 이는 이번 전투를 \n유리하게...",
         "link": "https://www.mk.co.kr/news/world/view/2022/06/493214/",
-        "date": "3일 전",
+        "date": "4일 전",
         "image_path": "https://file.mk.co.kr/meet/yonhap/2022/06/04/image_readtop_2022_493214_0_084511.jpg",
         "catagory": "교전 최신 상황"
     },
@@ -155,32 +155,8 @@
         "name": "\"우크라이나 하르키우에서 프랑스 의용군 전투 중 사망\"",
         "description": "AFP통신 등에 따르면 프랑스 외무부 대변인은 이날 \"프랑스 시민이 우크라이나 전투에서 치명상을 입었다는 슬픈 소식을 접했다\"며 \n\"희생자 가족에게 애도...",
         "link": "https://www.fnnews.com/news/202206040522036801",
-        "date": "3일 전",
+        "date": "4일 전",
         "image_path": "https://image.fnnews.com/resource/media/image/2022/06/04/202206040521575672_l.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "'우크라 보급로' 세베로도네츠크서 일진일퇴… 親러 반군 장성 ...",
-        "description": "러시아군의 흑해 봉쇄로 곡물 수출길이 막힌 상황에서 우크라이나는 흑해 통제권을 되찾기 ... 한편 동부 전선에선 치열한 교전이 이어지고 \n있다.",
-        "link": "http://www.munhwa.com/news/view.html?no=2022060701031421302002",
-        "date": "17시간 전",
-        "image_path": "http://image.munhwa.com/2011web/img/mh_mh_logo.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "韓 활동가 파견 원하는데… NGO 구호활동 발목잡는 ‘여권법’ - 조선일보",
-        "description": "세이브더칠드런은 지난 4월 우크라이나 교전 지역을 벗어나 서부로 이동하는 ... 상황이 이렇다 보니 해외 NGO 사이에서도 “인도적 \n지원까지 금지하는...",
-        "link": "https://www.chosun.com/national/national_general/2022/06/07/HC2BZXU7VFCRXHTMPWHJSUFJVM/",
-        "date": "21시간 전",
-        "image_path": "https://images.chosun.com/resizer/7NBfsRdK8vTI_TQ3qFxKuiEqjEk=/1000x525/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HPVALWXP6BDGNJCGAYVMMPM7RQ.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "푸틴, \"우크라서 전사한 내무군 유족에게 1억원 지급할 것\"",
-        "description": "앞서 국가근위대 대원 115명이 우크라이나 전투를 거부한 이유로 해고된 바 있다. 이들은 해고가 부당하다며 소송을 제기했지만, 지난달 \n25일 러시아 군사...",
-        "link": "https://zdnet.co.kr/view/?no=20220607104722",
-        "date": "16시간 전",
-        "image_path": "https://image.zdnet.co.kr/2022/06/07/a130e9c22d1f1134361597ba2ba4e069.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -200,6 +176,14 @@
         "catagory": "교전 최신 상황"
     },
     {
+        "name": "韓 활동가 파견 원하는데… NGO 구호활동 발목잡는 ‘여권법’ - 조선일보",
+        "description": "세이브더칠드런은 지난 4월 우크라이나 교전 지역을 벗어나 서부로 이동하는 ... 상황이 이렇다 보니 해외 NGO 사이에서도 “인도적 \n지원까지 금지하는...",
+        "link": "https://www.chosun.com/national/national_general/2022/06/07/HC2BZXU7VFCRXHTMPWHJSUFJVM/",
+        "date": "1일 전",
+        "image_path": "https://images.chosun.com/resizer/7NBfsRdK8vTI_TQ3qFxKuiEqjEk=/1000x525/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HPVALWXP6BDGNJCGAYVMMPM7RQ.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
         "name": "[이슈현장] 우크라전쟁 100일…젤렌스키 \"국토 1/5 점령당해\"",
         "description": "<질문 4> 다시, 우크라이나 내부 상황으로 들어와서요. 키이우 점령에 실패한 러시아로서는 현재 교전중인 돈바스를 손에 넣기 위해 \n이곳에 화력을...",
         "link": "https://www.yna.co.kr/view/MYH20220603013400038",
@@ -208,8 +192,24 @@
         "catagory": "교전 최신 상황"
     },
     {
+        "name": "'우크라 보급로' 세베로도네츠크서 일진일퇴… 親러 반군 장성 ...",
+        "description": "러시아군의 흑해 봉쇄로 곡물 수출길이 막힌 상황에서 우크라이나는 흑해 통제권을 되찾기 ... 한편 동부 전선에선 치열한 교전이 이어지고 \n있다.",
+        "link": "http://www.munhwa.com/news/view.html?no=2022060701031421302002",
+        "date": "1일 전",
+        "image_path": "http://image.munhwa.com/2011web/img/mh_mh_logo.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "푸틴, \"우크라서 전사한 내무군 유족에게 1억원 지급할 것\"",
+        "description": "앞서 국가근위대 대원 115명이 우크라이나 전투를 거부한 이유로 해고된 바 있다. 이들은 해고가 부당하다며 소송을 제기했지만, 지난달 \n25일 러시아 군사...",
+        "link": "https://zdnet.co.kr/view/?no=20220607104722",
+        "date": "1일 전",
+        "image_path": "https://image.zdnet.co.kr/2022/06/07/a130e9c22d1f1134361597ba2ba4e069.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
         "name": "[단독 인터뷰] 이근 전 대위 \"목숨 걸고 우크라이나에 온 이유는…\"",
-        "description": "우리 팀은 이르핀(우크라이나 북부 키이브주에 있는 도시)에서 처음 전투를 시작했고 상황이 너무 심각해서 팀원 중 한 명을 보내지 않기로 \n결정했다.",
+        "description": "전투 모습 사진 공개…직접 밝힌 현재 상황 · Q. 장기화되고 있는 우크라이나 전쟁 상황, 특히 한국 의용군의 상태에 대해 알려달라. \n\"러시아군은 여러 방향...",
         "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006748763",
         "date": "3주 전",
         "image_path": "https://img.sbs.co.kr/newimg/news/20220513/201663868_16v9.jpg",
@@ -224,19 +224,19 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "'아조우스탈 결사항전' 우크라군, 중상자 사진 공개하며 'SOS'",
-        "description": "공개된 사진 가운데에는 전투 과정에서 팔과 다리를 잃은 부대원들의 모습이 다수 담겼다. 가디언은 아조우 연대가 이런 '참혹한 이미지'와 \n함께 도움을...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/05/417693/",
-        "date": "4주 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/12/image_readtop_2022_417693_0_120511.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
         "name": "공격 대 수비 '3대1 원칙' 오류 증명한 러시아",
         "description": "또한 러시아와 우크라이나의 전투장갑차 비율은 4.3대 1, ... 스태픈 비들 컬럼비아대 교수는 이 같은 상황에 대해 \"3대 1 원칙은 \n과학이 아니고 인간...",
         "link": "https://www.hankyung.com/international/article/202205145312Y",
         "date": "3주 전",
         "image_path": "https://img.hankyung.com/photo/202205/ZK.29966933.1.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "'아조우스탈 결사항전' 우크라군, 중상자 사진 공개하며 'SOS'",
+        "description": "공개된 사진 가운데에는 전투 과정에서 팔과 다리를 잃은 부대원들의 모습이 다수 담겼다. 가디언은 아조우 연대가 이런 '참혹한 이미지'와 \n함께 도움을...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/05/417693/",
+        "date": "4주 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/12/image_readtop_2022_417693_0_120511.jpg",
         "catagory": "교전 최신 상황"
     }
 ]
