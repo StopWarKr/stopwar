@@ -3,7 +3,7 @@
         "name": "‘우크라이나를 위하여’ 평화기원 자선음악회... 23일 롯데콘서트홀 - 조선일보",
         "description": "'우크라이나를 위하여' 슬로건으로 열리는 이번 콘서트는 국제녹색휴머니티기구와 주한 우크라이나 대사관이 후원하는 자선음악회다. 'You \nare not alone'...",
         "link": "https://www.chosun.com/culture-life/culture_general/2022/06/08/PH7GGAGKVZGOXDJUMACWVA4NOQ/",
-        "date": "12시간 전",
+        "date": "20시간 전",
         "image_path": "https://images.chosun.com/resizer/XzdFtid6BYpIj26ATG_U0Q2WXtw=/600x315/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CSRQPDGQMJG3NFZMEHDR7D7YNA.jpg",
         "catagory": "후원"
     },
@@ -11,7 +11,7 @@
         "name": "'우크라 평화 기원 자선음악회 함께 해요' - 서울경제",
         "description": "아르텔필하모닉은 이번 공연이 '우크라이나를 위하여' 슬로건 하에 유엔 비정부기구(NGO)인 국제녹색휴머니티기구와 주한 우크라이나대사관 \n공동 후원...",
         "link": "https://www.sedaily.com/NewsView/26760YCQ0D",
-        "date": "9시간 전",
+        "date": "17시간 전",
         "image_path": "https://newsimg.sedaily.com/2022/06/08/26760YCQ0D_1.jpg",
         "catagory": "후원"
     },
@@ -24,6 +24,14 @@
         "catagory": "후원"
     },
     {
+        "name": "심상찮은 전쟁 후폭풍…아랍의 봄 불러온 식량위기 악몽[윤홍우 ...",
+        "description": "우크라이나 전쟁의 장기화가 전 세계에 초유의 식량위기를 불러오고 ... 해협 통제권을 가진 터키가 유엔의 후원을 받아서 우크라이나 곡물 \n수출을...",
+        "link": "https://www.sedaily.com/NewsView/2676GOIPLD",
+        "date": "1시간 전",
+        "image_path": "https://newsimg.sedaily.com/2022/06/09/2676GOIPLD_1.jpg",
+        "catagory": "후원"
+    },
+    {
         "name": "우크라이나 골프 유망주 골로드 후원하며 ‘꿈의 여정’ 동행 - 조선일보",
         "description": "'골프존 레드베터 아카데미(Golfzon Leadbetter Academy)'가 우크라이나 골프 유망주 미카일로 골로드(Mykhailo \nGolodㆍ15)를 후원하며 꿈의 여정을 함께...",
         "link": "https://www.chosun.com/special/special_section/2022/05/30/65AM4VMYVNCMDH3ZUASR642X3A/",
@@ -32,11 +40,11 @@
         "catagory": "후원"
     },
     {
-        "name": "[정구철의 월요논단] 우크라이나 난민 캠프 방문기",
-        "description": "서귀포 중앙교회는 올해 부활주일 헌금 전액을 환경적 재난이 시작되고 있는 몽골과 전쟁으로 어려움을 겪고 있는 우크라이나 난민후원에 \n사용하기로...",
-        "link": "http://www.ihalla.com/article.php?aid=1653836400727082099",
-        "date": "5일 전",
-        "image_path": "http://www.ihalla.com/upimages/gisaimg/202205/727082.jpg",
+        "name": "우크라이나 난민 돕는 폴란드 한상 [인사이드 아웃]",
+        "description": "남 회장은 \"폴란드한인회 활동을 후원해주는 단체들이 있어 힘이 된다\"며 \"스페인 카탈루냐한인회와 독일총연합회, 유럽총한인연합회, \n중소기업융합중앙회...",
+        "link": "https://www.mk.co.kr/premium/behind-story/view/2022/05/31927/",
+        "date": "3주 전",
+        "image_path": "https://file.mk.co.kr/mkde/N0/2022/05/20220512_5165108_1652316591.jpeg",
         "catagory": "후원"
     },
     {
@@ -45,14 +53,6 @@
         "link": "https://www.chosun.com/national/national_general/2022/06/07/N5NXH6KJRZBVVOYI6TY7ENPW64/",
         "date": "2일 전",
         "image_path": "https://images.chosun.com/resizer/_cVrISesMlDuq8Q5Zj93cpCJTbQ=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DCBO6PKSUJGJ3OS64UOM4K5BMQ.png",
-        "catagory": "후원"
-    },
-    {
-        "name": "우크라이나 난민 돕는 폴란드 한상 [인사이드 아웃]",
-        "description": "남 회장은 \"폴란드한인회 활동을 후원해주는 단체들이 있어 힘이 된다\"며 \"스페인 카탈루냐한인회와 독일총연합회, 유럽총한인연합회, \n중소기업융합중앙회...",
-        "link": "https://www.mk.co.kr/premium/behind-story/view/2022/05/31927/",
-        "date": "3주 전",
-        "image_path": "https://file.mk.co.kr/mkde/N0/2022/05/20220512_5165108_1652316591.jpeg",
         "catagory": "후원"
     },
     {
@@ -72,11 +72,43 @@
         "catagory": "후원"
     },
     {
+        "name": "[정구철의 월요논단] 우크라이나 난민 캠프 방문기",
+        "description": "서귀포 중앙교회는 올해 부활주일 헌금 전액을 환경적 재난이 시작되고 있는 몽골과 전쟁으로 어려움을 겪고 있는 우크라이나 난민후원에 \n사용하기로...",
+        "link": "http://m.ihalla.com/article.php?aid=1653836400727082099",
+        "date": "1주 전",
+        "image_path": "http://www.ihalla.com/upimages/gisaimg/202205/727082.jpg",
+        "catagory": "후원"
+    },
+    {
+        "name": "광주시교육청, 우크라이나 고려인 후원 모금 전달",
+        "description": "광주시교육청, 우크라이나 고려인 후원 모금 전달 ... 산하기관·학교의 교원·직원 대상으로 고려인 동포 후원을 위한 모금을 진행했다고 \n19일 밝혔다.",
+        "link": "https://m.inews24.com/v/1482248",
+        "date": "3주 전",
+        "image_path": "https://img-lb.inews24.com/v1/facebookexternalhit/face/626x352/aab5a9f322f4a3.jpg",
+        "catagory": "후원"
+    },
+    {
+        "name": "미주성시화운동, 우크라이나 성금 5천 달러 전달",
+        "description": "김재권 이사장은 “지난 4월 1일 LA은혜한인교회에서 우크라이나를 위한 ... 비 등을 제외한 5만 달러(한화 6,345만 원)를 \n기독교 단체 등에 후원했다.",
+        "link": "https://www.christiandaily.co.kr/news/115462",
+        "date": "2주 전",
+        "image_path": "https://images.christiandaily.co.kr/data/images/full/93311/image.jpg",
+        "catagory": "후원"
+    },
+    {
         "name": "이준석·우크라 대통령 비서실장 회담...\"한국의 지속 지지 감사\"",
         "description": "예르마크 실장은 볼로디미르 젤렌스키 우크라이나 대통령이 재건이 필요한 우크라이나 지역과 도시를 민주주의 국가들이 후원할 수 있도록 \n초청한다는...",
         "link": "http://sisa-news.com/news/article.html?no=201578",
         "date": "1일 전",
         "image_path": "http://www.sisa-news.com/data/photos/20220623/art_165461257083_609c0e.jpg",
+        "catagory": "후원"
+    },
+    {
+        "name": "여의도순복음교회 청년국 '더 홀리 스피릿 페스티벌' 개최",
+        "description": "우크라이나 돕기 코너 기독청년들 4천만원 모아 우크라이나 돕기 후원 '더 홀리 스피릿' 성회..2006년부터 시작, 14회째.",
+        "link": "https://www.nocutnews.co.kr/news/5767685",
+        "date": "2일 전",
+        "image_path": "https://file2.nocutnews.co.kr/newsroom/image/2022/06/06/202206061652562586_0.jpg",
         "catagory": "후원"
     },
     {
@@ -88,27 +120,11 @@
         "catagory": "후원"
     },
     {
-        "name": "광주시교육청, 관내 학교와 함께 우크라이나 고려인 동포 후원 모금 전달",
-        "description": "[광주=내외뉴스통신] 위지영 기자. 광주광역시교육청이 지난 4월 말부터 5월 초 시교육청과 전 산하기관·학교의 교원·직원 대상으로 \n고려인 동포 후원...",
-        "link": "http://www.nbnnews.co.kr/news/articleView.html?idxno=677340",
-        "date": "3주 전",
-        "image_path": "https://cdn.nbnnews.co.kr/news/thumbnail/202205/677340_676253_160_v150.jpg",
-        "catagory": "후원"
-    },
-    {
-        "name": "우크라이나 전쟁난민 긴급구호연대, 성폭력 피해 여성 쉼터 6천 만원 지원",
-        "description": "6월 중순 우크라이나 접경지역에서 난민 지원 사업 논의 ... <긴급구호연대>는 앞으로 성폭력 피해 여성들을 위한 쉼터 2개소를 정기 \n후원하고,...",
-        "link": "https://www.nocutnews.co.kr/news/5765262",
-        "date": "1주 전",
-        "image_path": "https://file2.nocutnews.co.kr/newsroom/image/2022/05/31/202205311725008483_0.jpg",
-        "catagory": "후원"
-    },
-    {
-        "name": "여의도순복음교회 청년국 '더 홀리 스피릿 페스티벌' 개최",
-        "description": "우크라이나 돕기 코너 기독청년들 4천만원 모아 우크라이나 돕기 후원 '더 홀리 스피릿' 성회..2006년부터 시작, 14회째.",
-        "link": "https://www.nocutnews.co.kr/news/5767685",
-        "date": "2일 전",
-        "image_path": "https://file2.nocutnews.co.kr/newsroom/image/2022/06/06/202206061652562586_0.jpg",
+        "name": "정부, 우크라이나 원전 안전 운영...120만 달러 지원",
+        "description": "정부는 우크라이나 원전의 안전한 운영과 안보 확보 지원을 위해 국제원자력기구(IAEA)를 통해 약 120만 달러 규모의 지원을 \n제공하기로 했다.",
+        "link": "http://www.spnews.co.kr/news/articleView.html?idxno=53035",
+        "date": "3시간 전",
+        "image_path": "https://cdn.spnews.co.kr/news/thumbnail/202206/53035_53506_3512_v150.jpg",
         "catagory": "후원"
     },
     {
@@ -136,6 +152,14 @@
         "catagory": "후원"
     },
     {
+        "name": "뉴제주라이온스클럽, 경북·강원 산불피해.우크라이나 구호성금 ...",
+        "description": "뉴제주라이온스클럽은 1989년 6월에 창립, 현재 58명의 회원들이 한국한센복지협회 정기후원, 봉개동 지역 독거노인 후원, 코로나19 \n극복성금 기탁,...",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=488255",
+        "date": "5일 전",
+        "image_path": "http://www.headlinejeju.co.kr/news/photo/202206/488255_379882_327.jpg",
+        "catagory": "후원"
+    },
+    {
         "name": "천주교 수원교구, 심순화 성화 초대전 개최",
         "description": "3년간 수원주보 1면에 게재 작품 중 60여 점 전시 수익금 전액 우크라이나 후원. 심순화 성화 초대전 포스터. (사진=천주교 수원교구 \n제공).",
         "link": "https://kgnews.co.kr/mobile/article.html?no=701508",
@@ -144,19 +168,11 @@
         "catagory": "후원"
     },
     {
-        "name": "부활상회 김선영 대표, 우크라 탈출 고려인동포 위해 후라이팬 ...",
-        "description": "고려인마을은 광주 정착 우크라이나 고려인동포들에게 긴급 연락위 취해 후원 후라이팬을 전달했고, 추후 마련되는 기금을 통해 주방용품 \n나눔행사를...",
-        "link": "https://www.gjdream.com/news/articleView.html?idxno=615033",
-        "date": "1일 전",
-        "image_path": "https://cdn.gjdream.com/news/thumbnail/202206/615033_215066_2656_v150.jpg",
-        "catagory": "후원"
-    },
-    {
-        "name": "여의도순복음교회 청년부 ‘더 홀리 스피릿 페스티벌’ 6일 개최",
-        "description": "특히 이번 성회를 앞두고 우크라이나 후원 프로젝트 '흘려보내는 사랑으로, 우크라이나에 사랑을 전해주세요'가 진행 중이다.",
-        "link": "https://www.christiandaily.co.kr/news/115759",
-        "date": "1주 전",
-        "image_path": "https://images.christiandaily.co.kr/data/images/full/93658/image.jpg",
+        "name": "우크라이나 출신 고려인, '세계인의 날' 유공동포 선정",
+        "description": "그는 가족카페에서 버는 수익으로 고려인 긴급 의료비 지원을 비롯해 형편이 어려운 고려인의 생활비, 임대보증금, 보육비·장학금을 후원했다.",
+        "link": "https://m.mk.co.kr/news/politics/view/2022/05/435518/",
+        "date": "3주 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/17/image_readtop_2022_435518_0_163711.jpg",
         "catagory": "후원"
     },
     {
@@ -176,27 +192,11 @@
         "catagory": "후원"
     },
     {
-        "name": "레드엔젤, 케이팝 콘서트 수익금 우크라이나 긴급 구호자금 전달",
-        "description": "이에 따라 운영 시스템이 '쿠션 라이브', 구세군 공동 주최 및 주관, 레드엔젤 후원 '위올아원 K팝 콘서트'로 변환된다. '쿠션 \n라이브'는 K팝 콘서트...",
-        "link": "https://www.mk.co.kr/star/hot-issues/view/2022/05/412990/",
-        "date": "1개월 전",
-        "image_path": "https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_412990_16521672625037714.jpg",
-        "catagory": "후원"
-    },
-    {
         "name": "샘복지재단, 우크라이나 난민 보호소에 긴급구호식품 지원",
         "description": "후원에 동참하려면 홈페이지(samcare.campaignus.me)와 네이버 해피빈에서 '샘복지재단'을 검색해 참여할 수 있다. \n1997년 설립된 재단은 북한에 '사랑의...",
         "link": "https://m.mk.co.kr/news/society/view/2022/05/416449/",
         "date": "1개월 전",
         "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/11/image_readtop_2022_416449_0_145411.jpg",
-        "catagory": "후원"
-    },
-    {
-        "name": "그린닥터스, 우크라이나 긴급 의료지원단 파견",
-        "description": "그린닥터스 우크라이나 의료지원단은 김동헌 온종합병원장(외과)·오무영 온종합병원 소아 ... KB국민은행(은행장 이재근)이 800만 원을 \n후원했다.",
-        "link": "http://www.doctorsnews.co.kr/news/articleView.html?idxno=144483",
-        "date": "1개월 전",
-        "image_path": "http://www.doctorsnews.co.kr/news/thumbnail/202205/144483_104534_1814_v150.jpg",
         "catagory": "후원"
     },
     {
@@ -216,11 +216,19 @@
         "catagory": "후원"
     },
     {
-        "name": "빗크몬, 태권도 박애 재단 아시아와 후원 약정서 MOU 체결",
-        "description": "빗크몬의 후원은 최근 러시아-우크라이나 전쟁으로 인해 많은 난민들이 생김에 따라, 평화에 대한 중요성과 꿈과 희망의 메시지를 담은 \n태권도의...",
-        "link": "http://www.sisamagazine.co.kr/news/articleView.html?idxno=445675",
-        "date": "3주 전",
-        "image_path": "https://cdn.sisamagazine.co.kr/news/thumbnail/202205/445675_450728_423_v150.jpg",
+        "name": "영국 남성, 방금 만난 22세 우크라이나 난민과 오랜 파트너 떠나",
+        "description": "일부는 가족 비자로, 다른 일부는 낯선 사람이 개인 또는 그룹을 호스트할 수 있는 후원 프로그램을 통해 왔습니다. 그러나 일부 \n이민자들은 부적절한 주택에 배치되었고...",
+        "link": "https://histimes.com/%EC%98%81%EA%B5%AD-%EB%82%A8%EC%84%B1-%EB%B0%A9%EA%B8%88-%EB%A7%8C%EB%82%9C-22%EC%84%B8-%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98-%EB%82%9C%EB%AF%BC%EA%B3%BC-%EC%98%A4%EB%9E%9C-%ED%8C%8C%ED%8A%B8/",
+        "date": "2주 전",
+        "image_path": "https://histimes.com/wp-content/uploads/2022/05/71bc3730-d989-11ec-ac6d-fb1d5fd88cda_1200_630.png",
+        "catagory": "후원"
+    },
+    {
+        "name": "[온라인 브리핑] 우크라이나 침공 3개월 국제앰네스티 활동 ...",
+        "description": "우리가 우크라이나를 포함한 글로벌 인권 위기 상황에 긴급 대응할 수 있는 것은 바로 여러분과 같은 회원, 지지자 분들의 강력한 후원과 \n연대 덕분...",
+        "link": "https://amnesty.or.kr/45397/",
+        "date": "4주 전",
+        "image_path": "No Image",
         "catagory": "후원"
     },
     {
@@ -228,15 +236,7 @@
         "description": "주한 우크라이나대사관 인도지원 계좌 개설 시민들 '십시일반' 송금 인증샷 남겨 대사관 \"어려운 시기 후원 감사해\" 인사. 주한 \n우크라이나대사관...",
         "link": "https://m.hankookilbo.com/News/Read/A2022030217310000172",
         "date": "2022. 3. 2.",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/02/47ea609c-335f-47b4-be46-3238b2d39bd0.jpg?t=20220608183137",
-        "catagory": "후원"
-    },
-    {
-        "name": "우크라이나: '내 사진 도용해 가짜 후원금 모금'...'스캠' 피해 막을 ...",
-        "description": "우크라이나 전쟁이 장기화되는 가운데 피해자들을 위한 기부 행렬도 이어지고 있다. 하지만 이를 악용하는 사기 행각도 늘고 있다.",
-        "link": "https://www.bbc.com/korean/international-61102783",
-        "date": "1개월 전",
-        "image_path": "https://ichef.bbci.co.uk/news/1024/branded_korean/F351/production/_124198226_p0c1sh07.jpg",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/02/47ea609c-335f-47b4-be46-3238b2d39bd0.jpg?t=20220609020322",
         "catagory": "후원"
     }
 ]

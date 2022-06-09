@@ -8,6 +8,14 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "짙어지는 `S의 공포`…세계은행 총재",
+        "description": "러시아는 8.9% 역성장하고 우크라이나는 전년보다 45.1% 후퇴할 것으로 내다봤다. ... WB는 현재 경제 상황이 미국의 높은 연방 \n지출과 오일쇼크,...",
+        "link": "http://vip.mk.co.kr/news/view/21/20/1956306.html",
+        "date": "17시간 전",
+        "image_path": "https://file.mk.co.kr/news/facebook_mknews.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "[주말판] 러시아-우크라이나 전쟁 계기로 하이브리드전 시대 ...",
         "description": "[보안뉴스 문정후 기자] 지난 3월 러시아의 우크라이나 침공이 한창 진행 ... 우나스(Vincas Ciziunas)는 “아직까지 \n러시아-우크라이나 전쟁의 상황...",
         "link": "http://www.boannews.com/media/view.asp?idx=106941",
@@ -21,14 +29,6 @@
         "link": "https://www.hani.co.kr/arti/opinion/column/1033374.html",
         "date": "2022. 3. 3.",
         "image_path": "https://flexible.img.hani.co.kr/flexible/normal/851/456/imgdb/child/2022/0304/16463610722411_20211230502501.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "구글까지 우크라 돕는다…\"실시간 도로 상황 비공개 전환\"",
-        "description": "로이터 통신이 27일(현지시간) 구글의 지도 앱인 구글맵이 우크라이나 현지 도로 상황을 실시간으로 보여주는 기능을 일시적으로 차단했다고 \n보도했다...",
-        "link": "https://www.hankyung.com/international/article/2022022841877",
-        "date": "2022. 2. 28.",
-        "image_path": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -192,14 +192,6 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "우크라이나 피란민 100만 돌파...크이우 탈출 한인 \"상황 많이 안좋아\"",
-        "description": "러시아의 우크라이나 침공 후 한 주 새 100만 명 넘는 피란민이 발생했습니다 ... 실시간으로 다들 안전한지 안부 묻고 있는데 \n아직까지는 다 잘 계신...",
-        "link": "https://www.voakorea.com/a/6468337.html",
-        "date": "2022. 3. 4.",
-        "image_path": "https://gdb.voanews.com/01d90000-0aff-0242-ff14-08d9fce2abbd_w1200_r1.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "정부, 우크라이나사태 총력 지원…실물경제 중점점검",
         "description": "산업부-수출지원기관, 우크라이나 사태 및 수출상황 점검회의수출성장 흐름 저헤 리스크 요인…최악 상정 철저히 대비수출기업애로 실시간 \n점검-수출...",
         "link": "https://biz.newdaily.co.kr/site/data/html/2022/02/22/2022022200134.html",
@@ -224,19 +216,27 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "우크라이나 피란민 100만 돌파...크이우 탈출 한인 \"상황 많이 안좋아\"",
+        "description": "러시아의 우크라이나 침공 후 한 주 새 100만 명 넘는 피란민이 발생했습니다 ... 실시간으로 다들 안전한지 안부 묻고 있는데 \n아직까지는 다 잘 계신...",
+        "link": "https://www.voakorea.com/a/6468337.html",
+        "date": "2022. 3. 4.",
+        "image_path": "https://gdb.voanews.com/01d90000-0aff-0242-ff14-08d9fce2abbd_w1200_r1.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "[영상] 불탄 탱크 널브러진 군인 시신…'우크라 전쟁' 24시간의 참상",
+        "description": "러시아의 24일(현지시간) 침공으로 시작된 우크라이나 전쟁은 과거의 전쟁들 ... 그 장면들은 소셜네트워크서비스(SNS)를 타고 전 \n세계에 실시간으로...",
+        "link": "https://m.yna.co.kr/view/MYH20220225019100704",
+        "date": "2022. 2. 25.",
+        "image_path": "https://img3.yna.co.kr/mpic/YH/2022/02/25/MYH20220225019100704.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "[창비주간논평] 러시아의 우크라이나 침공이 대한민국에 던진 ...",
         "description": "인터넷과 SNS를 통해 실시간으로 우크라이나 시민들의 고통과 비통함이 ... 미국과 러시아의 설득으로 핵무기를 포기했던 우크라이나가 \n침공받는 상황...",
         "link": "https://www.peoplepower21.org/1868705",
         "date": "2022. 3. 2.",
         "image_path": "https://magazine.changbi.com/wp-content/uploads/2017/10/%EC%9D%B4%ED%83%9C%ED%98%B8-120.png",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "화염 싸인 고국 지켜보는 우크라이나인들…\"집 근처서 폭격소리 ...",
-        "description": "우크라이나인이 모여있는 텔레그램 단체대화방 사진. 서울에 거주하는 우크라이나인 이리나 베레즈나는 이곳에 올라오는 정보 등으로 자국의 \n상황을...",
-        "link": "https://www.khan.co.kr/article/202202241757001",
-        "date": "2022. 2. 24.",
-        "image_path": "https://img.khan.co.kr/news/2022/02/24/2022022401003056500273422.jpg",
         "catagory": "지역 라이브 상황"
     }
 ]
