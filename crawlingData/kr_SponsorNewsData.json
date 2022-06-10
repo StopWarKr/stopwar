@@ -3,7 +3,7 @@
         "name": "‘우크라이나를 위하여’ 평화기원 자선음악회... 23일 롯데콘서트홀 - 조선일보",
         "description": "'우크라이나를 위하여' 슬로건으로 열리는 이번 콘서트는 국제녹색휴머니티기구와 주한 우크라이나 대사관이 후원하는 자선음악회다. 'You \nare not alone'...",
         "link": "https://www.chosun.com/culture-life/culture_general/2022/06/08/PH7GGAGKVZGOXDJUMACWVA4NOQ/",
-        "date": "1일 전",
+        "date": "2일 전",
         "image_path": "https://images.chosun.com/resizer/XzdFtid6BYpIj26ATG_U0Q2WXtw=/600x315/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CSRQPDGQMJG3NFZMEHDR7D7YNA.jpg",
         "catagory": "후원"
     },
@@ -11,24 +11,8 @@
         "name": "돈바스, 우크라이나 전쟁의 기원 | Redian",
         "description": "돈바스는 우크라이나 동부의 도네츠크주와 루한시크주를 합쳐서 가리키는 ... 을 후원하는 마피아식 보호 방식인 '크리샤'(крыша)의 \n태동을 의미했다.",
         "link": "http://www.redian.org/archive/162429",
-        "date": "1시간 전",
+        "date": "6시간 전",
         "image_path": "http://www.redian.org/wp-content/uploads/2022/06/1-9.jpg",
-        "catagory": "후원"
-    },
-    {
-        "name": "'어이 상실' 김종대 \"우크라이나 간 이준석... 치기어린 소영웅주의 ...",
-        "description": "어이 상실' 김종대 \"우크라이나 간 이준석... 치기어린 소영웅주의, ... 계좌후원: 농협 003-01-196121 (예금주: \n오마이뉴스) 그 외 방식(신용카드, 휴대폰, 계좌이체,...",
-        "link": "http://www.ohmynews.com/NWS_Web/view/mov_pg.aspx?CNTN_CD=ME000099217&CMPT_CD=A0292",
-        "date": "11시간 전",
-        "image_path": "http://ojsfile.ohmynews.com/MOV_T_IMG/2022/0608/ME000099217_C.jpg",
-        "catagory": "후원"
-    },
-    {
-        "name": "[객석] 전쟁의 비극을 부른 러시아… 오를 수 있는 무대가 없다",
-        "description": "지난 2월, 러시아의 우크라이나 침공 이후 서방 진영의 대러 문화 제재는 올 ... 친 푸틴 자본이 후원하는 그룹에 속한 지휘자 \n테오도르 쿠렌치...",
-        "link": "http://www.dt.co.kr/contents.html?article_no=2022061002101919807001",
-        "date": "15시간 전",
-        "image_path": "http://contents.dt.co.kr/images/202206/2022061002101919807001[1].jpg?var=0917",
         "catagory": "후원"
     },
     {
@@ -40,11 +24,27 @@
         "catagory": "후원"
     },
     {
+        "name": "'어이 상실' 김종대 \"우크라이나 간 이준석... 치기어린 소영웅주의 ...",
+        "description": "어이 상실' 김종대 \"우크라이나 간 이준석... 치기어린 소영웅주의, ... 계좌후원: 농협 003-01-196121 (예금주: \n오마이뉴스) 그 외 방식(신용카드, 휴대폰, 계좌이체,...",
+        "link": "http://www.ohmynews.com/NWS_Web/view/mov_pg.aspx?CNTN_CD=ME000099217&CMPT_CD=A0292",
+        "date": "15시간 전",
+        "image_path": "http://ojsfile.ohmynews.com/MOV_T_IMG/2022/0608/ME000099217_C.jpg",
+        "catagory": "후원"
+    },
+    {
         "name": "러시아·우크라 전쟁 피난 동포 124명 인천 거주... “지원 절실”",
         "description": "시민들에겐 따뜻한 관심과 후원을 바랐다. ... 전쟁 중 우크라이나에 거주하는 동포인 고려인 2만5000여명 중 일부가 사망하거나 \n다치고 재산을 잃는...",
         "link": "https://www.incheontoday.com/news/articleView.html?idxno=219126",
-        "date": "20시간 전",
+        "date": "1일 전",
         "image_path": "https://cdn.incheontoday.com/news/thumbnail/202206/219126_222652_026_v150.jpg",
+        "catagory": "후원"
+    },
+    {
+        "name": "[객석] 전쟁의 비극을 부른 러시아… 오를 수 있는 무대가 없다",
+        "description": "지난 2월, 러시아의 우크라이나 침공 이후 서방 진영의 대러 문화 제재는 올 ... 친 푸틴 자본이 후원하는 그룹에 속한 지휘자 \n테오도르 쿠렌치...",
+        "link": "http://www.dt.co.kr/contents.html?article_no=2022061002101919807001",
+        "date": "19시간 전",
+        "image_path": "http://contents.dt.co.kr/images/202206/2022061002101919807001[1].jpg?var=2926",
         "catagory": "후원"
     },
     {
@@ -53,6 +53,14 @@
         "link": "https://www.mk.co.kr/premium/behind-story/view/2022/05/31927/",
         "date": "4주 전",
         "image_path": "https://file.mk.co.kr/mkde/N0/2022/05/20220512_5165108_1652316591.jpeg",
+        "catagory": "후원"
+    },
+    {
+        "name": "알리코제약, '강원동계청소년올림픽 지원사업' 의약품 후원",
+        "description": "우크라이나 난민 구호를 위해 창상피복재 '레노스카 밴드' 등 1억5000만원 상당을 한국 정교회 대교구를 통해 현지로 보냈다. \n알리코제약 관계자는 “더운...",
+        "link": "https://www.edaily.co.kr/news/read?newsId=01449766632360408&mediaCodeNo=257",
+        "date": "6시간 전",
+        "image_path": "https://image.edaily.co.kr/images/Photo/files/NP/S/2022/06/PS22061000197.jpg",
         "catagory": "후원"
     },
     {
@@ -72,22 +80,6 @@
         "catagory": "후원"
     },
     {
-        "name": "우크라이나에 성경 17만부 기증",
-        "description": "한국교회와 기관, 개인 후원이 잇따른 결과 전년도에 비해 무려 10억8000여만 원이 증가한 총 35억8000여 만원이 모금됐다. \n대한성서공회는 이밖에도...",
-        "link": "http://www.kidok.com/news/articleView.html?idxno=215716",
-        "date": "6일 전",
-        "image_path": "http://www.kidok.com/news/thumbnail/202206/215716_65987_2718_v150.jpg",
-        "catagory": "후원"
-    },
-    {
-        "name": "한국타임즈",
-        "description": "... 기자] 패션유통기업 이랜드가 설립한 아시안미션(대표 이상준)이 우크라이나 탈출 고려인동포들에게 긴급 구호품으로 의류 57상자를 \n후원했다.",
-        "link": "http://www.hktimes.kr/read.php3?aid=1654730657151854003",
-        "date": "1일 전",
-        "image_path": "No Image",
-        "catagory": "후원"
-    },
-    {
         "name": "광주시교육청, 우크라이나 고려인 후원 모금 전달",
         "description": "광주시교육청, 우크라이나 고려인 후원 모금 전달 ... 산하기관·학교의 교원·직원 대상으로 고려인 동포 후원을 위한 모금을 진행했다고 \n19일 밝혔다.",
         "link": "https://m.inews24.com/v/1482248",
@@ -104,18 +96,18 @@
         "catagory": "후원"
     },
     {
-        "name": "알리코제약, '강원동계청소년올림픽 지원사업' 의약품 후원",
-        "description": "우크라이나 난민 구호를 위해 창상피복재 '레노스카 밴드' 등 1억5000만원 상당을 한국 정교회 대교구를 통해 현지로 보냈다. \n알리코제약 관계자는 “더운...",
-        "link": "https://www.edaily.co.kr/news/read?newsId=01449766632360408&mediaCodeNo=257",
-        "date": "2시간 전",
-        "image_path": "https://image.edaily.co.kr/images/Photo/files/NP/S/2022/06/PS22061000197.jpg",
+        "name": "한국타임즈",
+        "description": "... 기자] 패션유통기업 이랜드가 설립한 아시안미션(대표 이상준)이 우크라이나 탈출 고려인동포들에게 긴급 구호품으로 의류 57상자를 \n후원했다.",
+        "link": "http://www.hktimes.kr/read.php3?aid=1654730657151854003",
+        "date": "1일 전",
+        "image_path": "No Image",
         "catagory": "후원"
     },
     {
         "name": "베일이 우크라이나를 무너뜨리면서 웨일스가 카타르 월드컵 ...",
         "description": "가레스 베일은 웨일스가 우크라이나를 1-0으로 꺾고 2022년 월드컵 진출권을 확보 ... 잉글랜드는 12번째 선수의 후원으로 이 \n웨일즈 팀이 국제 토너먼트에서 역전을...",
         "link": "https://histimes.com/%EB%B2%A0%EC%9D%BC%EC%9D%B4-%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98%EB%A5%BC-%EB%AC%B4%EB%84%88%EB%9C%A8%EB%A6%AC%EB%A9%B4%EC%84%9C-%EC%9B%A8%EC%9D%BC%EC%8A%A4%EA%B0%80-%EC%B9%B4%ED%83%80/",
-        "date": "23시간 전",
+        "date": "1일 전",
         "image_path": "https://histimes.com/wp-content/uploads/2022/06/0_FBL-WC-2022-EUR-QUALIFIER-WAL-UKR.jpg",
         "catagory": "후원"
     },
@@ -123,24 +115,8 @@
         "name": "우크라이나 전쟁 100일...'연극'으로 러시아 침략 재조명한다",
         "description": "대전대 공연예술융합학과 김상열 교수는 7일부터 12일까지 대전 상상아트홀에서 대전시 및 대전문화재단의 후원을 받아 미하일 불가코프의 \n소설 '개의...",
         "link": "https://m.hankookilbo.com/News/Read/A2022060512590001929",
-        "date": "4일 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/06/05/fe588e8a-149b-452e-b8ae-f389dcdbde49.png?t=20220610021001",
-        "catagory": "후원"
-    },
-    {
-        "name": "알리코제약, 2024 강원동계청소년올림픽 지원사업에 의약품 후원",
-        "description": "한편 알리코제약은 지난 2월 우크라이나 대사관의 요청으로 구호 의약품을 지원했으며, 우크라이나 난민 구호를 위해 창상피복재 '레노스카 \n밴드' 약...",
-        "link": "https://kr.acrofan.com/detail.php?number=259543",
-        "date": "28분 전",
-        "image_path": "http://kr.acrofan.com/img/noImg.jpg",
-        "catagory": "후원"
-    },
-    {
-        "name": "이준석·우크라 대통령 비서실장 회담...\"한국의 지속 지지 감사\"",
-        "description": "예르마크 실장은 볼로디미르 젤렌스키 우크라이나 대통령이 재건이 필요한 우크라이나 지역과 도시를 민주주의 국가들이 후원할 수 있도록 \n초청한다는...",
-        "link": "http://sisa-news.com/news/article.html?no=201578",
-        "date": "2일 전",
-        "image_path": "http://www.sisa-news.com/data/photos/20220623/art_165461257083_609c0e.jpg",
+        "date": "5일 전",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/06/05/fe588e8a-149b-452e-b8ae-f389dcdbde49.png?t=20220610062955",
         "catagory": "후원"
     },
     {
@@ -149,6 +125,14 @@
         "link": "https://www.nocutnews.co.kr/news/5767685",
         "date": "3일 전",
         "image_path": "https://file2.nocutnews.co.kr/newsroom/image/2022/06/06/202206061652562586_0.jpg",
+        "catagory": "후원"
+    },
+    {
+        "name": "이준석·우크라 대통령 비서실장 회담...\"한국의 지속 지지 감사\"",
+        "description": "예르마크 실장은 볼로디미르 젤렌스키 우크라이나 대통령이 재건이 필요한 우크라이나 지역과 도시를 민주주의 국가들이 후원할 수 있도록 \n초청한다는...",
+        "link": "http://sisa-news.com/news/article.html?no=201578",
+        "date": "2일 전",
+        "image_path": "http://www.sisa-news.com/data/photos/20220623/art_165461257083_609c0e.jpg",
         "catagory": "후원"
     },
     {
@@ -176,10 +160,18 @@
         "catagory": "후원"
     },
     {
+        "name": "여의도순복음교회 청년부 ‘더 홀리 스피릿 페스티벌’ 6일 개최",
+        "description": "특히 이번 성회를 앞두고 우크라이나 후원 프로젝트 '흘려보내는 사랑으로, 우크라이나에 사랑을 전해주세요'가 진행 중이다.",
+        "link": "https://www.christiandaily.co.kr/news/115759",
+        "date": "1주 전",
+        "image_path": "https://images.christiandaily.co.kr/data/images/full/93658/image.jpg",
+        "catagory": "후원"
+    },
+    {
         "name": "노원문화재단, '와톤 크라우드펀딩' 캠페인 진행",
         "description": "당일 현장 후원이 가능하며, 후원(최소 1만원)참여 기부자에게 축제 초대권과 체험프로그램 참여 혜택이 제공된다. 또한 후원금의 50%는 \n우크라이나...",
         "link": "http://classian.co.kr/View.aspx?No=2414993",
-        "date": "13시간 전",
+        "date": "18시간 전",
         "image_path": "http://classian.co.kr/Files/212/News/202206/3797_20220609211643566.JPG",
         "catagory": "후원"
     },
@@ -189,6 +181,14 @@
         "link": "https://cm.asiae.co.kr/ranking-view/20220609/2022060821535093268",
         "date": "1일 전",
         "image_path": "https://cphoto.asiae.co.kr/listimglink/6/2022060821525396424_1654692773.jpg",
+        "catagory": "후원"
+    },
+    {
+        "name": "여의도순복음, 3년 만의 청년집회 '더 홀리 스피릿 페스티벌'",
+        "description": "이와 더불어 찬양은 아가파오 워십, 아이자야 씩스티원, 팀 조슈아 등이 주도한다. 이번 성회와 함께, 우크라이나 후원 프로젝트 \n'흘려보내는 사랑으로,...",
+        "link": "https://www.christiantoday.co.kr/news/347908",
+        "date": "1주 전",
+        "image_path": "https://images.christiantoday.co.kr/data/images/full/346973/image.jpg",
         "catagory": "후원"
     },
     {
@@ -208,11 +208,11 @@
         "catagory": "후원"
     },
     {
-        "name": "샘복지재단, 우크라이나 난민 보호소에 긴급구호식품 지원",
-        "description": "후원에 동참하려면 홈페이지(samcare.campaignus.me)와 네이버 해피빈에서 '샘복지재단'을 검색해 참여할 수 있다. \n1997년 설립된 재단은 북한에 '사랑의...",
-        "link": "https://m.mk.co.kr/news/society/view/2022/05/416449/",
+        "name": "그린닥터스, 우크라이나 긴급 의료지원단 파견",
+        "description": "그린닥터스 우크라이나 의료지원단은 김동헌 온종합병원장(외과)·오무영 온종합병원 소아 ... KB국민은행(은행장 이재근)이 800만 원을 \n후원했다.",
+        "link": "http://www.doctorsnews.co.kr/news/articleView.html?idxno=144483",
         "date": "1개월 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/11/image_readtop_2022_416449_0_145411.jpg",
+        "image_path": "http://www.doctorsnews.co.kr/news/thumbnail/202205/144483_104534_1814_v150.jpg",
         "catagory": "후원"
     },
     {
