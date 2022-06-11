@@ -35,16 +35,8 @@
         "name": "\"러시아 민간군사기업 '바그너그룹' 용병 기지 궤멸\"...우크라이나군, 헤르손 반격 확대",
         "description": "미군 정보 당국자는 이날(10일) VOA와의 통화에서, 바그너그룹 기지에 큰 피해를 입혔다는 우크라이나 측의 발표를 아직 확인할 수 \n있는 단계는...",
         "link": "https://www.voakorea.com/a/6612404.html",
-        "date": "11시간 전",
+        "date": "15시간 전",
         "image_path": "https://gdb.voanews.com/e909c807-ed26-4165-9048-8778305d7115_w1200_r1.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "폐허가 된 도시 이르핀·부차‥\"왜 우리를 공격했는지 모르겠다\"",
-        "description": "어제 우크라이나 수도 키이우에 들어갔던 MBC 취재진이 오늘은 인근 도시 ... 인데 이 지역에서의 민간인 피해 상황을 보여주는 한 \n사례일 뿐입니다.",
-        "link": "https://imnews.imbc.com/replay/2022/nwdesk/article/6377427_35744.html",
-        "date": "14시간 전",
-        "image_path": "https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/06/10/desk_20220610_201537_1_15_Large.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -53,6 +45,14 @@
         "link": "https://radiokorea.com/news/article.php?uid=389922",
         "date": "2일 전",
         "image_path": "https://rk-img-news.s3.us-west-2.amazonaws.com/2022/06/09/389922/1.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "폐허가 된 도시 이르핀·부차‥\"왜 우리를 공격했는지 모르겠다\"",
+        "description": "어제 우크라이나 수도 키이우에 들어갔던 MBC 취재진이 오늘은 인근 도시 ... 인데 이 지역에서의 민간인 피해 상황을 보여주는 한 \n사례일 뿐입니다.",
+        "link": "https://imnews.imbc.com/replay/2022/nwdesk/article/6377427_35744.html",
+        "date": "19시간 전",
+        "image_path": "https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/06/10/desk_20220610_201537_1_15_Large.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -67,24 +67,8 @@
         "name": "尹, 이준석에 “우크라 특사로 가시면 더 할 것 많은데”",
         "description": "이 대표가 우크라이나를 다녀온 상황에 대해서는 박성민 당 대표 ... 기업들이 가 있는 '미콜라이우'라는 이런 도시가 점령 돼 기업 \n피해가 좀 크다.",
         "link": "https://www.donga.com/news/Politics/article/all/20220610/113881083/1",
-        "date": "20시간 전",
+        "date": "1일 전",
         "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/06/10/113881216.1.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "전사자 시신 버리고 간 러시아… 우크라가 대신 묻어줬다 - 조선일보",
-        "description": "이날 우크라이나 법의학팀이 발견한 해당 병사 시신 오른팔에는 러시아 ... 명이 전사했다고 발표한 뒤 구체적인 인명피해 현황을 밝히지 \n않고 있다.",
-        "link": "https://www.chosun.com/international/international_general/2022/05/12/EE2J2KL7X5DL7A2GIQL3COAKFM/",
-        "date": "1개월 전",
-        "image_path": "https://images.chosun.com/resizer/uBhTuP5tZhoFS5oYBgCW_c55qoA=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TWRFHOBXMJKKLD5QZE4ACQQHXY.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "요충지 ‘세베로도네츠크’ 곳곳서 격전…“양측 모두 피해 심각”",
-        "description": "우크라이나군의 격렬한 저항에도 상황은 계속 안좋아지고 있는 것으로 보인다. 앞서 우크라이나 측은 러시아군에 뺏긴 세베로도네츠크 영토 \n20%를 탈환...",
-        "link": "https://www.donga.com/news/Inter/article/all/20220607/113814727/1",
-        "date": "4일 전",
-        "image_path": "No Image",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -96,6 +80,14 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "요충지 ‘세베로도네츠크’ 곳곳서 격전…“양측 모두 피해 심각”",
+        "description": "우크라이나군의 격렬한 저항에도 상황은 계속 안좋아지고 있는 것으로 보인다. 앞서 우크라이나 측은 러시아군에 뺏긴 세베로도네츠크 영토 \n20%를 탈환...",
+        "link": "https://www.donga.com/news/Inter/article/all/20220607/113814727/1",
+        "date": "4일 전",
+        "image_path": "No Image",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "민간인 사망자만 3만명 육박…우크라이나 전쟁, 끝이 안 보인다",
         "description": "러시아, 하급 장교 피해 늘어 사기 크게 떨어진 듯 ... 루한스크 상황이 급박하게 돌아가는 가운데 조 바이든 미국 대통령은 같은 날 \n그동안...",
         "link": "https://www.hani.co.kr/arti/international/international_general/1045614.html",
@@ -104,11 +96,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "우크라전 106일, 루한스크 점령 문턱 격전 심화…일진일퇴 막판 공방",
-        "description": "우크라이나 국방 당국 역시 아군의 피해보다는 러시아 군의 병력 손실이 더 ... 우크라이나 총참모부는 일일 상황보고를 통해 러시아 군이 \n드론을...",
-        "link": "https://www.donga.com/news/Inter/article/all/20220610/113879317/1",
-        "date": "22시간 전",
-        "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/06/10/113879303.2.jpg",
+        "name": "보다 오래 버티는 쪽이 승자?…우크라 전쟁 5가지 시나리오",
+        "description": "우크라이나군의 피해상황은 공식적으로 밝혀지지 않았다. 서방의 추정에 따르면 전쟁 시작 1달째인 지난 3월 말까지 4만명의 병력이 \n사망하거나...",
+        "link": "https://www.news1.kr/articles/?4686671",
+        "date": "3주 전",
+        "image_path": "https://image.news1.kr/system/photos/2022/5/19/5379367/article.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -120,11 +112,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "러시아군 폭격 당했던 새벽 상황 설명하는 올렉 씨",
-        "description": "[TV서울=김용숙 기자] 10일(현지시간) 우크라이나의 수도 키이우의 북쪽 외곽에 위치한 러시아군 폭격 피해 아파트. 이 아파트는 지난 \n3월 14일...",
-        "link": "http://www.tvseoul.kr/news/article.html?no=44777",
-        "date": "23분 전",
-        "image_path": "http://www.tvseoul.kr/data/photos/20220623/art_16549115276825_83606d.jpg",
+        "name": "우크라전 106일, 루한스크 점령 문턱 격전 심화…일진일퇴 막판 공방",
+        "description": "우크라이나 국방 당국 역시 아군의 피해보다는 러시아 군의 병력 손실이 더 ... 우크라이나 총참모부는 일일 상황보고를 통해 러시아 군이 \n드론을...",
+        "link": "https://www.donga.com/news/Inter/article/all/20220610/113879317/1",
+        "date": "1일 전",
+        "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/06/10/113879303.2.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -136,19 +128,27 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "러시아의 침공은 우크라이나 외 지역에서 두 번째 위기를 ...",
-        "description": "어제의 파리아들은 오늘날의 동맹이지만 가까운 장래에 영원히 고향에서 쫓겨난 쿠르드족 난민들의 비참함은 돈바스의 러시아 포탄을 피해 \n도망치는 절망적인...",
-        "link": "https://histimes.com/%EB%9F%AC%EC%8B%9C%EC%95%84%EC%9D%98-%EC%B9%A8%EA%B3%B5%EC%9D%80-%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98-%EC%99%B8-%EC%A7%80%EC%97%AD%EC%97%90%EC%84%9C-%EB%91%90-%EB%B2%88%EC%A7%B8-%EC%9C%84/",
-        "date": "1일 전",
-        "image_path": "https://histimes.com/wp-content/uploads/2022/06/SEI_108814452-1024x680.jpg",
+        "name": "러시아군 폭격 당했던 새벽 상황 설명하는 올렉 씨",
+        "description": "[TV서울=김용숙 기자] 10일(현지시간) 우크라이나의 수도 키이우의 북쪽 외곽에 위치한 러시아군 폭격 피해 아파트. 이 아파트는 지난 \n3월 14일...",
+        "link": "http://www.tvseoul.kr/news/article.html?no=44777",
+        "date": "4시간 전",
+        "image_path": "http://www.tvseoul.kr/data/photos/20220623/art_16549115276825_83606d.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "아프리카 최악 식량난...“소말리아 어린이 수천명 굶주림으로 사망”",
-        "description": "유엔은 “저렴한 우크라이나산 곡물의 수입이 막힌 상황에서 기후 변화와 ... 그는 “이중 약 10만t이 시리아로 보내진 것이 \n확인됐다”며 “피해 농민을...",
-        "link": "https://www.chosun.com/international/international_general/2022/06/09/3ICDTNIY2BCVZDPTG7O3OYPAQA/",
-        "date": "1일 전",
-        "image_path": "https://images.chosun.com/resizer/gLvYtJgJdm8jmU27EQwB1438dEw=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CAZR76CWGVL2DGUSZIIGC25Q6E.JPG",
+        "name": "전쟁 와중에 힘 잃는 우크라이나 재벌들 : 국제일반 : 국제 : 뉴스",
+        "description": "행정을 맡은 재벌들은 자신들이 소유한 언론을 동원해 상황을 주도했고, ... 200억달러(약 25조400억원)의 피해 보상을 요구하는 \n소송을 벌이고 있다.",
+        "link": "https://www.hani.co.kr/arti/international/international_general/1045857.html",
+        "date": "5일 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/487/imgdb/original/2022/0606/20220606501341.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "尹 대통령, 이준석에 “특사로 우크라 가면 할게 많은데”",
+        "description": "윤석열 대통령은 10일 서울 용산 대통령 청사에서 국민의힘 지도부와 오찬을 했다. 윤 대통령은 특히 전쟁 중인 우크라이나를 다녀온 \n이준석 대표에...",
+        "link": "https://www.msn.com/ko-kr/news/politics/%E5%B0%B9-%EB%8C%80%ED%86%B5%EB%A0%B9-%EC%9D%B4%EC%A4%80%EC%84%9D%EC%97%90-%ED%8A%B9%EC%82%AC%EB%A1%9C-%EC%9A%B0%ED%81%AC%EB%9D%BC-%EA%B0%80%EB%A9%B4-%ED%95%A0%EA%B2%8C-%EB%A7%8E%EC%9D%80%EB%8D%B0/ar-AAYkiha",
+        "date": "7시간 전",
+        "image_path": "No Image",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -160,6 +160,14 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "아프리카 최악 식량난...“소말리아 어린이 수천명 굶주림으로 사망”",
+        "description": "유엔은 “저렴한 우크라이나산 곡물의 수입이 막힌 상황에서 기후 변화와 ... 그는 “이중 약 10만t이 시리아로 보내진 것이 \n확인됐다”며 “피해 농민을...",
+        "link": "https://www.chosun.com/international/international_general/2022/06/09/3ICDTNIY2BCVZDPTG7O3OYPAQA/",
+        "date": "1일 전",
+        "image_path": "https://images.chosun.com/resizer/gLvYtJgJdm8jmU27EQwB1438dEw=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CAZR76CWGVL2DGUSZIIGC25Q6E.JPG",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "전쟁, 평생 상처로 남지 않도록… 포화 속 우크라 동심 보듬다",
         "description": "집계되지 않은 사상자를 포함하면 피해 규모는 더 클 것으로 예상된다. 우크라이나 현지에서 직접 전쟁 피해 아동들을 만난 굿네이버스 \n긴급구호...",
         "link": "https://www.donga.com/news/Society/article/all/20220607/113813351/1",
@@ -168,11 +176,19 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "젤렌스키와 악수 나눈 이준석 “尹대통령께 전해달라는 얘기 많이 들어”",
-        "description": "이준석 국민의힘 대표가 볼로디미르 젤렌스키 우크라이나 대통령과 면담을 ... 젤렌스키 대통령을 비롯한 정부 관계자들로부터 현지 상황을 \n청취하고...",
-        "link": "https://www.donga.com/news/Politics/article/all/20220608/113836184/2",
-        "date": "3일 전",
-        "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/06/08/113836491.1.jpg",
+        "name": "러시아의 침공은 우크라이나 외 지역에서 두 번째 위기를 ...",
+        "description": "어제의 파리아들은 오늘날의 동맹이지만 가까운 장래에 영원히 고향에서 쫓겨난 쿠르드족 난민들의 비참함은 돈바스의 러시아 포탄을 피해 \n도망치는 절망적인...",
+        "link": "https://histimes.com/%EB%9F%AC%EC%8B%9C%EC%95%84%EC%9D%98-%EC%B9%A8%EA%B3%B5%EC%9D%80-%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98-%EC%99%B8-%EC%A7%80%EC%97%AD%EC%97%90%EC%84%9C-%EB%91%90-%EB%B2%88%EC%A7%B8-%EC%9C%84/",
+        "date": "1일 전",
+        "image_path": "https://histimes.com/wp-content/uploads/2022/06/SEI_108814452-1024x680.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라 도운 외국 용병 사형 선고…우크라군 희생 눈덩이",
+        "description": "우크라이나 국방부는 동부 격전지의 상황이 어렵다면서 하루 최대 100명이 ... 의 진전 없이 피해만 키우는 소모전에 들어갔다는 진단도 \n나옵니다.",
+        "link": "https://www.yna.co.kr/view/MYH20220610011300038",
+        "date": "1일 전",
+        "image_path": "https://img1.yna.co.kr/mpic/YH/2022/06/10/MYH20220610011300038.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -184,11 +200,19 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "우크라 도운 외국 용병 사형 선고…우크라군 희생 눈덩이",
-        "description": "우크라이나 국방부는 동부 격전지의 상황이 어렵다면서 하루 최대 100명이 ... 의 진전 없이 피해만 키우는 소모전에 들어갔다는 진단도 \n나옵니다.",
-        "link": "https://www.yna.co.kr/view/MYH20220610011300038",
-        "date": "21시간 전",
-        "image_path": "https://img1.yna.co.kr/mpic/YH/2022/06/10/MYH20220610011300038.jpg",
+        "name": "젤렌스키와 악수 나눈 이준석 “尹대통령께 전해달라는 얘기 많이 들어”",
+        "description": "이준석 국민의힘 대표가 볼로디미르 젤렌스키 우크라이나 대통령과 면담을 ... 젤렌스키 대통령을 비롯한 정부 관계자들로부터 현지 상황을 \n청취하고...",
+        "link": "https://www.donga.com/news/Politics/article/all/20220608/113836184/2",
+        "date": "3일 전",
+        "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/06/08/113836491.1.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "[영상] 전쟁 피해 한국 온 우크라 고양이…누리꾼 도움에 '안락사' 모면",
+        "description": "그는 우크라이나가 전쟁 상황이라 출국하는 동물들에 대해 검역증을 발급받을 수 없었습니다. 문제는 검역증이 없으면 '윤기'에 대한 검역 \n절차를 밟을 수...",
+        "link": "https://www.yna.co.kr/view/MYH20220512014400704",
+        "date": "1개월 전",
+        "image_path": "https://img1.yna.co.kr/mpic/YH/2022/05/12/MYH20220512014400704.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -200,30 +224,6 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "“우크라 난민 구호 통해 北 긴급 사태 대비”",
-        "description": "모퉁이돌선교회가 6월 카타콤 특집을 통해 우크라이나 난민촌이 있는 ... 러시아의 침공을 피해 해외로 탈출한 우크라이나 난민의 수는 \n6백만 명을...",
-        "link": "https://www.christiantoday.co.kr/news/348099",
-        "date": "13시간 전",
-        "image_path": "https://images.christiantoday.co.kr/data/images/full/347232/image.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "[사설] 우크라이나 전후 재건, 적극적인 참여 전략 수립하길",
-        "description": "드미트로 세닉 우크라이나 외교차관이 한국에 왔다. ... 이준석 국민의힘 대표는 지금 키이우에서 피해 상황을 둘러보며 협력 방안을 \n논의하고 있다.",
-        "link": "https://news.kmib.co.kr/article/view.asp?arcid=0924248983&code=11171111&sid1=opi",
-        "date": "4일 전",
-        "image_path": "https://image.kmib.co.kr/images/fb_share.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "\"총알 피해 한국에 왔지만…살기 힘들다\" 우크라이나 피난 동포들 '눈물'",
-        "description": "그는 \"우크라이나에는 아들이 남겨져 있어 전쟁 피해를 당하진 않을 지 ... 에서의 삶이 녹록하지 않아 이러지도 저러지도 못하는 \n상황\"이라고 했다.",
-        "link": "https://www.news1.kr/articles/?4706816",
-        "date": "1일 전",
-        "image_path": "https://image.news1.kr/system/photos/2022/6/9/5418495/article.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "우크라의 딜레마...돈바스 최대 격전지서 후퇴하나",
         "description": "볼로디미르 젤렌스키 우크라이나 대통령은 세베로도네츠크와 강 건너 지역이 ... 러시아군 피해도 만만치 않은 상황에서 시가전을 이어가 더 \n타격을...",
         "link": "https://www.etoday.co.kr/news/view/2141543",
@@ -232,11 +232,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "우크라이나 전쟁 100일, 돈바스 격전...미 '종교자유보고서' 중·러·북한 등 탄압 지적",
-        "description": "진행자) 지금 우크라이나의 상황은 어떤가요? ... 은 전날(2일) 룩셈부르크 의회에 러시아의 침공으로 인한 피해를 호소하면서 이같이 \n밝혔습니다.",
-        "link": "https://www.voakorea.com/a/6601915.html",
+        "name": "우크라이나 침공 100일...끝이 보이지 않는 전쟁",
+        "description": "당초 푸틴 대통령이 우크라이나를 침공했던 명분 자체가 나토의 동진을 ... 이게 전시 상황이다 보니까 사실 피해의 집계가 정확하지 않고 \n기관별로...",
+        "link": "https://www.ytn.co.kr/_ln/0104_202206031711288991",
         "date": "1주 전",
-        "image_path": "https://gdb.voanews.com/096e0000-0a00-0242-7af2-08da456f6fc5_w1200_r1.jpg",
+        "image_path": "https://image.ytn.co.kr/general/jpg/2022/0603/202206031711288991_t.jpg",
         "catagory": "지역 라이브 상황"
     }
 ]

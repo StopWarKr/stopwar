@@ -1,10 +1,10 @@
 ﻿[
     {
-        "name": "중국 '신중' 계산 - 대만 '비대칭 전력' 강화 - 미국 '무력개입' 신호",
-        "description": "대만은 러시아의 침공이 이뤄지기 전인 1월 하순부터 '우크라이나 정세 대응 태스크포스(TF)'를 꾸려 실시간으로 상황을 살폈다. \n러시아가 우크라이나를...",
-        "link": "https://www.hani.co.kr/arti/international/international_general/1045785.html",
-        "date": "5일 전",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2022/0605/20220605501595.jpg",
+        "name": "[메보라 방송] 러시아-우크라이나 감정의 전쟁 어디로 흘러 가는가",
+        "description": "<피렌체의식탁> 칼럼으로 우크라이나 전쟁 당사자들의 생생한 상황을 전해 ... 우크라이나와 러시아 간의 전쟁이 실시간으로 전해지는 \n현상을 보면서...",
+        "link": "https://firenzedt.com/22555",
+        "date": "23시간 전",
+        "image_path": "https://cdn.firenzedt.com/wp-content/uploads/2022/06/KakaoTalk_Photo_2022-06-10-14-05-12-005.jpeg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -32,19 +32,19 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "‘우크라 2박3일 취재’ 제한 변경… 2주간 11개주 취재 가능",
+        "description": "향후 우크라이나 안전 상황에 추가 변화가 있는 경우 재조정될 가능성도 있다고 외교부는 밝혔다. 활동 계획서에는 언론인 신상과 함께 방문 \n목적와...",
+        "link": "http://www.mediatoday.co.kr/news/articleView.html?idxno=304222",
+        "date": "2주 전",
+        "image_path": "https://cdn.mediatoday.co.kr/news/thumbnail/202205/304222_412546_2728_v150.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "일본에서 보는 우크라이나 전쟁 : 칼럼 : 사설.칼럼 : 뉴스",
         "description": "지난달 24일 러시아가 우크라이나를 침공했다. 일본에서도 방송, 신문, 사회관계망서비스(SNS)를 통해 우크라이나 상황이 실시간으로 \n전달되고 있다.",
         "link": "https://www.hani.co.kr/arti/opinion/column/1033374.html",
         "date": "2022. 3. 3.",
         "image_path": "https://flexible.img.hani.co.kr/flexible/normal/851/456/imgdb/child/2022/0304/16463610722411_20211230502501.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
-        "name": "[우크라 침공] 구글맵, 우크라 실시간 도로상황 안보여주기로",
-        "description": "(서울=연합뉴스) 김지연 기자 = 구글의 지도 앱인 구글맵이 우크라이나 현지 도로 상황을 실시간으로 보여주는 기능을 일시적으로 \n차단했다고 로이터...",
-        "link": "https://m.yna.co.kr/view/AKR20220228072800009",
-        "date": "2022. 2. 28.",
-        "image_path": "https://img3.yna.co.kr/photo/etc/epa/2008/04/10/PEP20080410084901009_P4.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -112,14 +112,6 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "이슈 | 러시아, 우크라이나 침공",
-        "description": "젤렌스키 만난 이준석 “'우크라 상황 윤 대통령에 전해달라' 많이 들어”. 09:10 우크라이나를 방문한 이준석 국민의힘 대표가 \n볼로디미르 젤렌스키 우크라이나 대통령...",
-        "link": "https://www.khan.co.kr/issue/articles/ahb03",
-        "date": "2022. 1. 25.",
-        "image_path": "//img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "정부·산업계, 우크라이나 전쟁에 실물경제 악영향 우려 초긴장",
         "description": "산업부는 공급망 교란으로 원자재 및 에너지 수급 상황에 문제가 생길 가능성에 대비해 수급 상황을 실시간 점검하고 있다. 러시아나 \n우크라이나가...",
         "link": "https://www.hani.co.kr/arti/economy/economy_general/1032459.html",
@@ -128,11 +120,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "우크라이나 '자포리자' 원전 인근 화재에 '화들짝'...'제2체르노빌 ...",
-        "description": "그러나 국제사회의 우려는 아직 가시지 않고 있는 상황이다. 자포리자 원전 실시간 중계 캡쳐. 연합뉴스 제공. 자포리자 원전은...",
-        "link": "https://m.dongascience.com/news.php?idx=52734",
-        "date": "2022. 3. 4.",
-        "image_path": "https://image.dongascience.com/Photo/2022/03/16463749541167.jpg",
+        "name": "이슈 | 러시아, 우크라이나 침공",
+        "description": "젤렌스키 만난 이준석 “'우크라 상황 윤 대통령에 전해달라' 많이 들어”. 09:10 우크라이나를 방문한 이준석 국민의힘 대표가 \n볼로디미르 젤렌스키 우크라이나 대통령...",
+        "link": "https://www.khan.co.kr/issue/articles/ahb03",
+        "date": "2022. 1. 25.",
+        "image_path": "//img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -144,6 +136,14 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "우크라이나 '자포리자' 원전 인근 화재에 '화들짝'...'제2체르노빌 ...",
+        "description": "그러나 국제사회의 우려는 아직 가시지 않고 있는 상황이다. 자포리자 원전 실시간 중계 캡쳐. 연합뉴스 제공. 자포리자 원전은...",
+        "link": "https://m.dongascience.com/news.php?idx=52734",
+        "date": "2022. 3. 4.",
+        "image_path": "https://image.dongascience.com/Photo/2022/03/16463749541167.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "KBS 시청자위원들 ‘지상파 우크라이나 생중계’ 일침",
         "description": "KBS 유튜브 채널의 실시간 댓글창에 달리는 성희롱 댓글 등에 적극적 대응 ... 그런 비판이 잇따르고 있다는 사실을 알게 되었고 \n상황을 인지한 뒤에...",
         "link": "http://www.mediatoday.co.kr/news/articleView.html?idxno=303177",
@@ -152,19 +152,19 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "[우크라 침공] 가짜 전쟁 영상이 판치는 틱톡... 오래된 교전 영상 ...",
-        "description": "오래된 교전 영상 '실시간 상황'처럼 조작 논란 ... 러시아의 우크라이나 침공과 관련해 틱톡에서 가짜 뉴스들이 쏟아지고 있다.",
-        "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=122890",
-        "date": "2022. 3. 1.",
-        "image_path": "http://www.wikileaks-kr.org/news/thumbnail/202202/122890_105630_326_v150.jpg",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "우크라이나 부총리, 한국 기업에 위성영상 제공 요청…업체 ...",
         "description": "페도로프 부총리는 “러시아군과 장비의 움직임을 야간에도 파악하기 위해 실시간으로 제공되는 고해상의 합성개구레이더(SAR) 위성영상이 \n필요하다”며...",
         "link": "https://m.dongascience.com/news.php?idx=52708",
         "date": "2022. 3. 3.",
         "image_path": "https://image.dongascience.com/Photo/2022/03/16462870890774.JPG",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "[우크라 침공] 가짜 전쟁 영상이 판치는 틱톡... 오래된 교전 영상 ...",
+        "description": "오래된 교전 영상 '실시간 상황'처럼 조작 논란 ... 러시아의 우크라이나 침공과 관련해 틱톡에서 가짜 뉴스들이 쏟아지고 있다.",
+        "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=122890",
+        "date": "2022. 3. 1.",
+        "image_path": "http://www.wikileaks-kr.org/news/thumbnail/202202/122890_105630_326_v150.jpg",
         "catagory": "지역 라이브 상황"
     },
     {
@@ -200,6 +200,14 @@
         "catagory": "지역 라이브 상황"
     },
     {
+        "name": "러시아 극초음속 미사일 발사, EU 정상회의 의장 긴급 대피...바이든 '무기대여법' 서명",
+        "description": "지역 당국은 10일 현재 인명 피해 상황을 파악하고 있는 가운데, 사상자가 상당수 나온 것으로 알려졌습니다. 러시아군이 우크라이나에서 \n극초음속...",
+        "link": "https://www.voakorea.com/a/6565034.html",
+        "date": "1개월 전",
+        "image_path": "https://gdb.voanews.com/03180000-0aff-0242-6ddb-08da32a9ded1_w1200_r1.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
         "name": "러-우크라이나 전쟁을 보는 우리의 자세는?",
         "description": "실시간으로 신문, 방송, SNS를 통해 전해지는 우크라이나 상황은 보고도 믿기지 않는다. 러시아 푸틴 대통령은 친러 반정부군이 장악하고 \n있는 우크라이나...",
         "link": "https://www.gunchinews.com/news/articleView.html?idxno=63144",
@@ -216,14 +224,6 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "[신박한 한반도 신무기 대백과] 우크라에서 부실 증명된 러시아의 전차, 같은 혈통의 북한 전차는?",
-        "description": "(진행자) 우크라이나 총 참모부는 전쟁 두 달인 상황에서 러시아군 전차를 ... 실시간으로 전세계에 적나라하게 드러나고 있다고 할 수 \n있겠습니다.",
-        "link": "https://www.rfa.org/korean/weekly_program/c2e0bc15d55cd55cbc18b3c4c2e0bb34ae30b300bc31acfc/newweaphone-05092022092901.html",
-        "date": "1개월 전",
-        "image_path": "https://www.rfa.org/korean/weekly_program/c2e0bc15d55cd55cbc18b3c4c2e0bb34ae30b300bc31acfc/newweaphone-05092022092901.html/@@images/image/social_media",
-        "catagory": "지역 라이브 상황"
-    },
-    {
         "name": "정부, 우크라이나사태 총력 지원…실물경제 중점점검",
         "description": "산업부-수출지원기관, 우크라이나 사태 및 수출상황 점검회의수출성장 흐름 저헤 리스크 요인…최악 상정 철저히 대비수출기업애로 실시간 \n점검-수출...",
         "link": "https://biz.newdaily.co.kr/site/data/html/2022/02/22/2022022200134.html",
@@ -232,11 +232,11 @@
         "catagory": "지역 라이브 상황"
     },
     {
-        "name": "우크라이나 전쟁의 이면: 서방과 러시아의 허위 정보전",
-        "description": "볼로디미르 젤렌스키 우크라이나 대통령도 소셜 미디어를 이용해 전 세계에 실시간으로 전쟁 상황을 알리고 있다. 반대로 거짓과 잘못된 \n정보가...",
-        "link": "https://www.technologyreview.kr/%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98-%EC%A0%84%EC%9F%81%EC%9D%98-%EC%9D%B4%EB%A9%B4-%EC%84%9C%EB%B0%A9%EA%B3%BC-%EB%9F%AC%EC%8B%9C%EC%95%84%EC%9D%98-%ED%97%88%EC%9C%84-%EC%A0%95%EB%B3%B4/",
-        "date": "2022. 3. 10.",
-        "image_path": "https://www.technologyreview.kr/wp-content/uploads/2022/03/러시-1.jpg",
+        "name": "우크라이나 피란민 100만 돌파...크이우 탈출 한인 \"상황 많이 안좋아\"",
+        "description": "러시아의 우크라이나 침공 후 한 주 새 100만 명 넘는 피란민이 발생했습니다 ... 실시간으로 다들 안전한지 안부 묻고 있는데 \n아직까지는 다 잘 계신...",
+        "link": "https://www.voakorea.com/a/6468337.html",
+        "date": "2022. 3. 4.",
+        "image_path": "https://gdb.voanews.com/01d90000-0aff-0242-ff14-08d9fce2abbd_w1200_r1.jpg",
         "catagory": "지역 라이브 상황"
     }
 ]
