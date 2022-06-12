@@ -17,7 +17,7 @@
     },
     {
         "name": "우크라이나 전쟁: 영미 등 서방국의 지지는 얼마나 유지될까",
-        "description": "러시아군이 우크라이나 동부 돈바스 지역을 조금씩 장악해가고 있으며 이번 ... 휴전 가능성과 받아들일 만한 협상의 재기를\" 원하고 \n있다고 밝혔다.",
+        "description": "마리오 드라기 이탈리아 총리 또한 그다음 날 미국 백악관에서 열린 정상회담 자리에서 유럽인들은 \"휴전 가능성과 받아들일 만한 협상의 \n재기를\" 원...",
         "link": "https://www.bbc.com/korean/international-61715229",
         "date": "5일 전",
         "image_path": "https://ichef.bbci.co.uk/news/1024/branded_korean/167E2/production/_125003129_hi074844067.jpg",
@@ -28,7 +28,7 @@
         "description": "... 승리\"는 불가능하며 우크라이나 정부는 전쟁 상황에 대한 \"현실적 평가\"와 미국의 지원의 \"한계\"를 감안해 평화협상에 나서야 \n한다고 밝혔다.",
         "link": "https://www.pressian.com/pages/articles/2022052617253855182",
         "date": "2주 전",
-        "image_path": "No Image",
+        "image_path": "https://www.pressian.com/_resources/10/2022/05/26/2022052617252870079_l.jpg",
         "catagory": "협상 진행 과정"
     },
     {
@@ -37,6 +37,14 @@
         "link": "https://www.voakorea.com/a/6588488.html",
         "date": "2주 전",
         "image_path": "https://gdb.voanews.com/031a0000-0aff-0242-969c-08da3aec3854_cx0_cy14_cw92_w1200_r1.jpg",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "하루 포격 6만발 vs 6000발... 우크라, 유럽이 준 포탄 못쓰는 이유 - 조선일보",
+        "description": "친러 반군 측은 “우크라이나군이 민간인을 방패로 내세워 러시아군과 협상을 시도하면서 인근 리시찬스크로 퇴각하려 한다”고 주장했다.",
+        "link": "https://www.chosun.com/international/international_general/2022/06/12/JCE7UMVQFZF6NK2F34ORZNMRZI/",
+        "date": "5시간 전",
+        "image_path": "https://images.chosun.com/resizer/QctkCcYm9dNj8AjuQdXYhqyl1lM=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IX3GWECPBJP4NBYE4UNKAVF474.jpg",
         "catagory": "협상 진행 과정"
     },
     {
@@ -51,7 +59,7 @@
         "name": "젤렌스키 승전 다짐 \"러시아 영토 진격 계획 없어\"...우크라이나 EU 가입 논의 진전",
         "description": "볼로디미르 젤렌스키 우크라이나 대통령이 11일 싱가포르에서 계속된 제19차 ... 전쟁의 여파로 세계적인 식량 위기가 고조되는 상황을 \n우려했습니다.",
         "link": "https://www.voakorea.com/a/6613337.html",
-        "date": "19시간 전",
+        "date": "1일 전",
         "image_path": "https://gdb.voanews.com/096e0000-0a00-0242-66ea-08da4bb5f525_w1200_r1.jpg",
         "catagory": "협상 진행 과정"
     },
@@ -64,19 +72,19 @@
         "catagory": "협상 진행 과정"
     },
     {
-        "name": "러시아 외무장관, 우크라이나 사실상 협상과정에서 퇴출",
-        "description": "라브로프 외무장관은 우크라이나 협상대표가 미국과 영국의 영도를 ... 이 철군하지 않은 상황에서 휴전한다는 제안도 받아들일 수 없다고 \n표시했다.",
-        "link": "https://korean.cri.cn/2022/05/18/ARTINoGG2tRD6cjaz40QJFDG220518.shtml",
-        "date": "3주 전",
-        "image_path": "No Image",
-        "catagory": "협상 진행 과정"
-    },
-    {
         "name": "자신감의 우크라, 오기의 러시아…멀어지는 평화협상",
         "description": "러시아 역시 전쟁이 계획대로 진행되지 않는 상황에서 별다른 성과도 없이 협상으로 출구를 모색하기 어려운 상황이라는 분석이 나온다. \n우크라이나와...",
         "link": "https://www.yna.co.kr/view/AKR20220518056200009",
         "date": "3주 전",
         "image_path": "https://img4.yna.co.kr/photo/yna/YH/2022/05/17/PYH2022051719770034000_P4.jpg",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "러시아 외무장관, 우크라이나 사실상 협상과정에서 퇴출",
+        "description": "라브로프 외무장관은 우크라이나 협상대표가 미국과 영국의 영도를 ... 이 철군하지 않은 상황에서 휴전한다는 제안도 받아들일 수 없다고 \n표시했다.",
+        "link": "https://korean.cri.cn/2022/05/18/ARTINoGG2tRD6cjaz40QJFDG220518.shtml",
+        "date": "3주 전",
+        "image_path": "No Image",
         "catagory": "협상 진행 과정"
     },
     {
@@ -104,14 +112,6 @@
         "catagory": "협상 진행 과정"
     },
     {
-        "name": "젤렌스키 \"교착은 선택지에 없다\"…장기전 속 `정전카드` 선긋기",
-        "description": "이날 인터뷰는 30분 간 화상으로 진행됐다. ... 협상은 우크라이나 북부 부차 지역에서 러시아군의 우크라이나 민간인 학살이 불거져 \n사실상 중단된...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/06/500576/",
-        "date": "4일 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/06/08/image_readtop_2022_500576_0_085912.jpg",
-        "catagory": "협상 진행 과정"
-    },
-    {
         "name": "미·나토 \"우크라 군사지원 목표는 최대 협상력 확보\"",
         "description": "미국과 북대서양조약기구(NATO·나토)가 우크라이나에 대한 군사 지원은 ... 미국과 나토의 최고위 당국자는 전선의 상황이 향후 협상에 \n영향을 미칠...",
         "link": "https://www.mk.co.kr/news/world/view/2022/06/487922/",
@@ -120,19 +120,19 @@
         "catagory": "협상 진행 과정"
     },
     {
-        "name": "[뉴스의 창] 우크라이나 침공 100일…한 발 물러서는 미국",
-        "description": "키신저 장관은 “러시아와의 협상을 서둘러야 하며 우크라이나는 유럽의 ... 그의 주장은 미국도 상황 변화에 따라 얼마든지 입장을 달리할 \n수 있음을...",
-        "link": "http://weekly.hankooki.com/news/articleView.html?idxno=7073020",
+        "name": "[특징주] 고려산업, 우크라 협상 결렬… 전쟁·가뭄 전세계 '사상 ...",
+        "description": "우크라이나는 올해 약 5000만t의 곡물을 생산할 예정이나 현재 수출길이 막혔고 곡물 저장도 쉽지 않은 상황이다. 구테흐스 총장은 \n\"러시아가...",
+        "link": "https://kr.investing.com/news/stock-market-news/article-804670",
         "date": "2일 전",
-        "image_path": "https://cdn.weekly.hankooki.com/news/thumbnail/202206/7073020_175928_4938_v150.jpg",
+        "image_path": "https://i-invdn-com.investing.com/news/asian_2_800x533_L_1411971631.jpg",
         "catagory": "협상 진행 과정"
     },
     {
-        "name": "바이든 \"러 침공 경고 무시\" 발언에 우크라 당국자들 반발",
-        "description": "젤렌스키대통령은 지난 2019년 대통령에 당선할 당시 우크라이나 동부 러시아 지원 반군과 평화협상을 할 것이라고 약속했으며 협상 분위기 \n조성을...",
-        "link": "http://www.sisa-news.com/news/article.html?no=201996",
-        "date": "11시간 전",
-        "image_path": "http://www.sisa-news.com/data/photos/20220623/art_165499754071_01e421.jpg",
+        "name": "젤렌스키 \"교착은 선택지에 없다\"…장기전 속 `정전카드` 선긋기",
+        "description": "이날 인터뷰는 30분 간 화상으로 진행됐다. ... 협상은 우크라이나 북부 부차 지역에서 러시아군의 우크라이나 민간인 학살이 불거져 \n사실상 중단된...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/06/500576/",
+        "date": "4일 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/06/08/image_readtop_2022_500576_0_085912.jpg",
         "catagory": "협상 진행 과정"
     },
     {
@@ -141,6 +141,14 @@
         "link": "https://www.mk.co.kr/news/world/view/2022/05/458089/",
         "date": "3주 전",
         "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/24/image_readtop_2022_458089_0_151811.jpg",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "[뉴스의 창] 우크라이나 침공 100일…한 발 물러서는 미국",
+        "description": "키신저 장관은 “러시아와의 협상을 서둘러야 하며 우크라이나는 유럽의 ... 그의 주장은 미국도 상황 변화에 따라 얼마든지 입장을 달리할 \n수 있음을...",
+        "link": "http://weekly.hankooki.com/news/articleView.html?idxno=7073020",
+        "date": "2일 전",
+        "image_path": "https://cdn.weekly.hankooki.com/news/thumbnail/202206/7073020_175928_4938_v150.jpg",
         "catagory": "협상 진행 과정"
     },
     {
@@ -156,55 +164,15 @@
         "description": "러시아가 우크라이나 침공 82일 만에 우크라이나 동남부 항구도시인 마리 ... 은 17일(현지시간) 우크라이나와 협상이 진행되지 않고 \n있다고 밝혔다.",
         "link": "https://www.pressian.com/pages/articles/2022051806221546294",
         "date": "3주 전",
-        "image_path": "No Image",
+        "image_path": "https://www.pressian.com/_resources/10/2022/05/18/2022051806275834101_l.jpg",
         "catagory": "협상 진행 과정"
     },
     {
-        "name": "“2월24일 이전으로 돌아가야”…젤렌스키 평화협상 전제 강조",
-        "description": "볼로디미르 젤렌스키 우크라이나 대통령은 최근 러시아와 휴전협상을 하기 ... 되찾긴 힘든 상황이니 외교를 통해 회복을 논의하겠다는 \n입장이다.",
-        "link": "https://www.hani.co.kr/arti/international/europe/1045615.html",
-        "date": "1주 전",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/800/566/imgdb/original/2022/0602/20220602504903.jpg",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "우크라이나, 곡물 수출 중재안 거부...바이든, 미주 지역 '투자·보건 협력 확대' 제시",
-        "description": "우크라이나의 흑해 곡물 수출 협상이 좀처럼 해결점을 찾지 못하고 ... 진행자) 일부 점령지에서는 벌써부터 관련 행정 조처가 진행되고 \n있다고요?",
-        "link": "https://www.voakorea.com/a/6610052.html",
-        "date": "2일 전",
-        "image_path": "https://gdb.voanews.com/0f590000-0aff-0242-32b6-08da496efaf2_w1200_r1.jpg",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "러-우, 치열한 세베로도네츠크 쟁탈전…왜?",
-        "description": "모투자니크 우크라이나 국방부 대변인은 \"오늘날 우크라이나 동부의 상황은 극도로 어렵고, 동부 우크라이나 전쟁의 결과가 우크라이나 국가의 \n운명을...",
-        "link": "http://dspdaily.com/news/view.php?no=19042",
-        "date": "2일 전",
-        "image_path": "http://dspdaily.com/data/news/2206/360x231/9754221158290944ea408b9ca7ce44f9_GWY3KaiFggdX.png",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "휴전인가 수복인가… 러시아 돈바스 장악에, 우크라이나·서방 ‘갑론을박’",
-        "description": "타스통신 등에 따르면 평화협상의 러시아 측 단장인 블라디미르 메딘 ... 는 전력 손실이 누적돼 전쟁의 지속 가능성에도 경고등이 켜진 \n상황이다.",
-        "link": "https://m.khan.co.kr/article/202205231453011",
-        "date": "3주 전",
-        "image_path": "https://img.khan.co.kr/news/2022/05/23/2022052301002808700257341.jpg",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "미국 주도 경제협력체 'IPEF' 출범...폴란드 대통령 \"우크라이나 미래 스스로 정해야\"",
-        "description": "폴란드 대통령 \"우크라이나 미래 스스로 정해야\" ... 대통령 보좌관은 22일, 러시아는 우크라이나와 협상을 재개할 준비가 돼 있다고 \n말했습니다.",
-        "link": "https://www.voakorea.com/a/6585458.html",
-        "date": "3주 전",
-        "image_path": "https://gdb.voanews.com/03180000-0aff-0242-07da-08da3ca609a4_w1200_r1.jpg",
-        "catagory": "협상 진행 과정"
-    },
-    {
-        "name": "전세계 46개국 4,900만여명, 굶어죽을 위기 처해",
-        "description": "여기에 러시아의 우크라이나 침공과 그 이후 진행되는 상황이 식량 문제 ... 방안을 논의하고 있지만 식량 협상은 여전히 교착상태에 있는 \n모습이다.",
-        "link": "https://www.radiokorea.com/news/article.php?uid=389989",
-        "date": "1일 전",
-        "image_path": "https://rk-img-news.s3.us-west-2.amazonaws.com/2022/06/11/389989/1.jpg",
+        "name": "바이든 \"러 침공 경고 무시\" 발언에 우크라 당국자들 반발",
+        "description": "젤렌스키대통령은 지난 2019년 대통령에 당선할 당시 우크라이나 동부 러시아 지원 반군과 평화협상을 할 것이라고 약속했으며 협상 분위기 \n조성을...",
+        "link": "http://www.sisa-news.com/news/article.html?no=201996",
+        "date": "17시간 전",
+        "image_path": "http://www.sisa-news.com/data/photos/20220623/art_165499754071_01e421.jpg",
         "catagory": "협상 진행 과정"
     },
     {
@@ -216,11 +184,35 @@
         "catagory": "협상 진행 과정"
     },
     {
+        "name": "러-우, 치열한 세베로도네츠크 쟁탈전…왜?",
+        "description": "모투자니크 우크라이나 국방부 대변인은 \"오늘날 우크라이나 동부의 상황은 극도로 어렵고, 동부 우크라이나 전쟁의 결과가 우크라이나 국가의 \n운명을...",
+        "link": "http://dspdaily.com/news/view.php?no=19042",
+        "date": "2일 전",
+        "image_path": "http://dspdaily.com/data/news/2206/360x231/9754221158290944ea408b9ca7ce44f9_GWY3KaiFggdX.png",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "유럽 “평화협상” 러도 ‘7월 고비설’… 우크라戰 변곡점 맞나 - 조선일보",
+        "description": "러시아와 서방 양측이 조만간 우크라이나 전쟁을 더 길게 끌고 가기 힘든 ... 로 생활 물가 전반이 급등하면서 민심의 동요까지 우려되는 \n상황이다.",
+        "link": "https://www.chosun.com/international/international_general/2022/05/27/SKKMQLZG3VFXJANMK4OSJN42XU/",
+        "date": "2주 전",
+        "image_path": "https://images.chosun.com/resizer/0x0NPYelkH39im4KsF-puDcTyMI=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/URVVEBZDHZP2BJFZTZD5XDKKB4.jpg",
+        "catagory": "협상 진행 과정"
+    },
+    {
         "name": "우크라이나군 시신 210구 송환...미국 기업, 중미에 총 32억 달러 투자",
         "description": "진행자) 이런 가운데 러시아와 터키 간에 고위급 회담이 진행됐군요? ... 양국의 접촉은 유엔 주도의 우크라이나 곡물 수송 방안과 정전 \n협상이 주요...",
         "link": "https://www.voakorea.com/a/6608276.html",
-        "date": "3일 전",
+        "date": "4일 전",
         "image_path": "https://gdb.voanews.com/03cc0000-0aff-0242-5615-08da23adf643_w1200_r1.jpg",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "휴전인가 수복인가… 러시아 돈바스 장악에, 우크라이나·서방 ‘갑론을박’",
+        "description": "타스통신 등에 따르면 평화협상의 러시아 측 단장인 블라디미르 메딘 ... 는 전력 손실이 누적돼 전쟁의 지속 가능성에도 경고등이 켜진 \n상황이다.",
+        "link": "https://m.khan.co.kr/article/202205231453011",
+        "date": "3주 전",
+        "image_path": "https://img.khan.co.kr/news/2022/05/23/2022052301002808700257341.jpg",
         "catagory": "협상 진행 과정"
     },
     {
@@ -237,6 +229,14 @@
         "link": "https://www.yna.co.kr/view/AKR20220524099800009",
         "date": "3주 전",
         "image_path": "https://img1.yna.co.kr/etc/inner/KR/2022/05/24/AKR20220524099800009_01_i_P4.jpg",
+        "catagory": "협상 진행 과정"
+    },
+    {
+        "name": "우크라 “평화 협상 불가능 상태”…러는 “우크라가 중단” 비판",
+        "description": "러시아와 우크라이나의 종전 협상이 교착 상태에 빠진 가운데, 우크라이나 협상단이 러시아와 협상이 불가능한 상황이라고 밝혔다.",
+        "link": "https://www.donga.com/news/Inter/article/all/20220519/113487733/1",
+        "date": "3주 전",
+        "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/05/19/113487680.2.jpg",
         "catagory": "협상 진행 과정"
     }
 ]

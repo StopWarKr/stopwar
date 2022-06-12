@@ -16,14 +16,6 @@
         "catagory": "규제"
     },
     {
-        "name": "'규제 철폐·인력 확대' 尹 특명에 인력난 반도체 업계 반색",
-        "description": "윤석열 정부 출범 후 반도체 산업을 옥죄던 규제 철폐와 인재 육성 ... 코로나19 확산과 러시아-우크라이나 전쟁 등은 공급망 대란을 \n촉발했다.",
-        "link": "http://it.chosun.com/site/data/html_dir/2022/06/10/2022061002253.html",
-        "date": "15시간 전",
-        "image_path": "http://itimg.chosun.com/sitedata/image/202206/10/2022061002247_0.png",
-        "catagory": "규제"
-    },
-    {
         "name": "우크라서 격추된 러시아군 드론에 일본제 카메라·엔진 사용돼",
         "description": "러시아의 우크라이나 침공을 계기로 대(對)러시아 수출규제가 강화된 상황에서 우크라이나에서 추락한 러시아 무인기(드론)에서 일본산 부품이 \n잇달아...",
         "link": "https://www.mk.co.kr/news/world/view/2022/06/491911/",
@@ -32,11 +24,19 @@
         "catagory": "규제"
     },
     {
-        "name": "‘괴짜’ 일론 머스크가 왜 우크라이나 전쟁에 등장하나...우리가 놓쳤던 스토리",
-        "description": "전쟁 발발과 함께 트위터로 우크라이나 정부의 SOS가 머스크에게 전달되었고 ... 하지만 각종 규제로 도입이 늦어지고 있었다.",
-        "link": "https://www.bosik.kr/news/articleView.html?idxno=7339",
-        "date": "12시간 전",
-        "image_path": "https://cdn.bosik.kr/news/thumbnail/202206/7339_11404_5537_v150.jpg",
+        "name": "'규제 철폐·인력 확대' 尹 특명에 인력난 반도체 업계 반색",
+        "description": "윤석열 정부 출범 후 반도체 산업을 옥죄던 규제 철폐와 인재 육성 ... 코로나19 확산과 러시아-우크라이나 전쟁 등은 공급망 대란을 \n촉발했다.",
+        "link": "http://it.chosun.com/site/data/html_dir/2022/06/10/2022061002253.html",
+        "date": "21시간 전",
+        "image_path": "http://itimg.chosun.com/sitedata/image/202206/10/2022061002247_0.png",
+        "catagory": "규제"
+    },
+    {
+        "name": "IAEA “러 통제 우크라 핵 발전소, 안전 위험 상태”",
+        "description": "이어 “예비 부품 공급망 중단 우려가 있고 우크라이나 규제당국은 우크라이나와 IAEA 간 안전보장 협정 적용을 받는 핵시설의 핵물질에 \n대한 통제권을...",
+        "link": "https://www.donga.com/news/Inter/article/all/20220606/113812820/1",
+        "date": "6일 전",
+        "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/06/06/113812816.2.jpg",
         "catagory": "규제"
     },
     {
@@ -45,6 +45,14 @@
         "link": "https://www.mk.co.kr/news/economy/view/2022/06/507072/",
         "date": "3일 전",
         "image_path": "https://file.mk.co.kr/news/facebook_mknews.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "‘괴짜’ 일론 머스크가 왜 우크라이나 전쟁에 등장하나...우리가 놓쳤던 스토리",
+        "description": "전쟁 발발과 함께 트위터로 우크라이나 정부의 SOS가 머스크에게 전달되었고 ... 하지만 각종 규제로 도입이 늦어지고 있었다.",
+        "link": "https://www.bosik.kr/news/articleView.html?idxno=7339",
+        "date": "18시간 전",
+        "image_path": "https://cdn.bosik.kr/news/thumbnail/202206/7339_11404_5537_v150.jpg",
         "catagory": "규제"
     },
     {
@@ -64,27 +72,19 @@
         "catagory": "규제"
     },
     {
-        "name": "KIEP \"우크라 사태로 곡물가 상승 지속 가능성…공조 강화해야\"",
-        "description": "전쟁으로 우크라이나의 곡물 생산성이 감소한 상황에서 러시아와 우크라이나는 전략 작물에 대한 수출을 규제하고 있다. KIEP는 국제 곡물 \n가격의 변동성...",
-        "link": "https://www.yna.co.kr/view/AKR20220518145300002",
-        "date": "3주 전",
-        "image_path": "https://img2.yna.co.kr/photo/cms/2022/05/04/86/PCM20220504000086990_P4.jpg",
-        "catagory": "규제"
-    },
-    {
         "name": "뉴시스",
         "description": "이어 \"예비 부품 공급망 중단 우려가 있고 우크라이나 규제당국은 우크라이나와 IAEA 간 안전보장 협정 적용을 받는 핵시설의 핵물질에 \n대한 통제권을...",
         "link": "https://mobile.newsis.com/view.html?ar_id=NISX20220606_0001897818",
-        "date": "5일 전",
+        "date": "6일 전",
         "image_path": "https://image.newsis.com/2022/05/02/NISI20220502_0018757827_web.jpg",
         "catagory": "규제"
     },
     {
-        "name": "한은 성장률 전망치 2.7% 달성도 위태…韓경제 먹구름",
-        "description": "다만 우크라이나 사태, 한국의 최대 수출국인 중국의 성장둔화 등을 고려 ... 방향성은 Δ과감한 규제·세제 개편을 통한 기업활력 제고 \nΔ공공·노동·...",
-        "link": "https://www.donga.com/news/Economy/article/all/20220612/113892292/1",
-        "date": "14시간 전",
-        "image_path": "https://dimg.donga.com/a/600/0/90/5/wps/NEWS/IMAGE/2022/06/12/113892086.2.jpg",
+        "name": "[표학길 칼럼] 경제 복합위기, 결국은 생산성 향상이 해법",
+        "description": "코로나 규제의 완화에도 불구하고 경제성장률도 크게 둔화되고 있다. ... 이 역시 우크라이나 전쟁의 장기화 속에 지극히 불투명한 상태에 \n있다.",
+        "link": "http://www.dt.co.kr/contents.html?article_no=2022061302102269061001",
+        "date": "8시간 전",
+        "image_path": "http://img.dt.co.kr/images/dt_biglogo.jpg",
         "catagory": "규제"
     },
     {
@@ -96,27 +96,27 @@
         "catagory": "규제"
     },
     {
+        "name": "[오피니언 기고] 소비자 물가는 높아지는데 소비회복은 언제…",
+        "description": "우크라이나 사태가 촉발한 곡물 및 원자재 폭등으로 물가상승률이 확대돼 ... 우리나라 내수시장의 경우 IMF 이전부터 규제가 조금씩 \n시작되다가 IMF...",
+        "link": "https://www.ktnews.com/news/articleView.html?idxno=124117",
+        "date": "3일 전",
+        "image_path": "http://www.ktnews.com/news/thumbnail/202206/124117_87196_2912_v150.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "'지나치게 형편없다'…부품 못 구해 '안전장치'도 없는 車 출시하는 러시아",
+        "description": "이는 우크라이나 침공에 따른 서방 제재의 영향으로 보인다. ... 에어백과 ABS 등을 장착하지 않고도 자동차를 판매할 수 있도록 \n규제를 완화한...",
+        "link": "https://cm.asiae.co.kr/article/world-all/2022061222033933278",
+        "date": "1시간 전",
+        "image_path": "https://cphoto.asiae.co.kr/listimglink/6/2017061609580290855_1.jpg",
+        "catagory": "규제"
+    },
+    {
         "name": "윤석열 정부는 규제완화 통한 공급 늘리는 정책으로 ...",
         "description": "글로벌 긴축과 인플레이션(물가 상승), 공급망 불안, 러시아의 우크라이나 침공에 따른 유가·원자재 가격 상승 등 대외 요인 악화가 \n꼬리에 꼬리를...",
         "link": "https://www.socialvalue.kr/news/view/1065561815934612",
-        "date": "14시간 전",
+        "date": "20시간 전",
         "image_path": "http://www.socialvalue.kr/news/data/20220612/p1065561815934612_660_thum.jpg",
-        "catagory": "규제"
-    },
-    {
-        "name": "올해 주식시장 상승장 재진입, 물가 하락 속도에 달렸다",
-        "description": "... 중국 규제 리스크, 암호화폐 및 스테이블 코인 관련 사안은 후순위로 ... 우크라이나 사태, 연준 긴축, 경기침체 등 현재 \n금융시장을 지배하는...",
-        "link": "https://weekly.donga.com/List/3/04/11/3438373/1",
-        "date": "11시간 전",
-        "image_path": "https://dimg.donga.com/a/600/0/90/5/ugc/CDB/WEEKLY/Article/62/a2/95/43/62a29543076bd2738250.jpg",
-        "catagory": "규제"
-    },
-    {
-        "name": "[표학길 칼럼] 경제 복합위기, 결국은 생산성 향상이 해법",
-        "description": "그러나 신정부는 법인세, 부동산세 완화와 규제 완화를 통한 투자활성화 ... 이 역시 우크라이나 전쟁의 장기화 속에 지극히 불투명한 \n상태에 있다.",
-        "link": "http://www.dt.co.kr/contents.html?article_no=2022061302102269061001",
-        "date": "2시간 전",
-        "image_path": "http://img.dt.co.kr/images/dt_biglogo.jpg",
         "catagory": "규제"
     },
     {
@@ -128,11 +128,35 @@
         "catagory": "규제"
     },
     {
+        "name": "바이든 \"우크라에 러 공격 가능한 장거리 로켓시스템 안 보내\"",
+        "description": "바이든 대통령은 이날 기자들과 만나 우크라이나에 장거리 로켓시스템 ... 주 유밸디 총격 참사 현장을 방문한 바이든 대통령은 총기 \n규제와 관련,...",
+        "link": "https://m.mk.co.kr/news/world/view/2022/05/478162/",
+        "date": "2주 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/31/image_readtop_2022_478162_0_115411.jpg",
+        "catagory": "규제"
+    },
+    {
         "name": "러시아-우크라이나 전장에 '치명적' 살인로봇 등장",
         "description": "러시아가 우크라이나 침공 전쟁에서 치명적인 자율무기를 사용 중인 것으로 ... 미국은 살상 로봇을 규제하되 무력 사용에 대한 적절한 \n수준의 인간...",
         "link": "http://m.g-enews.com/article/Global-Biz/2022/05/202205220639014484e8b8a793f7_1",
         "date": "3주 전",
         "image_path": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2022052210043406383e8b8a793f7210178127232.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "\"온라인 플랫폼 기업들 급성장…소비자 보호 입법 서둘러야\"",
+        "description": "유 교수는 \"바이든 정부는 플랫폼 규제와 반독점을 미국 경제의 생산성 향상, 경제 성장과 밀접하게 연관 짓는다\"면서도 \"러시아의 \n우크라이나 침공,...",
+        "link": "https://www.mk.co.kr/news/society/view/2022/06/503423/",
+        "date": "4일 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/06/08/image_readtop_2022_503423_0_181012.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "올해 주식시장 상승장 재진입, 물가 하락 속도에 달렸다",
+        "description": "... 중국 규제 리스크, 암호화폐 및 스테이블 코인 관련 사안은 후순위로 ... 우크라이나 사태, 연준 긴축, 경기침체 등 현재 \n금융시장을 지배하는...",
+        "link": "https://weekly.donga.com/List/3/04/11/3438373/1",
+        "date": "17시간 전",
+        "image_path": "https://dimg.donga.com/a/600/0/90/5/ugc/CDB/WEEKLY/Article/62/a2/95/43/62a29543076bd2738250.jpg",
         "catagory": "규제"
     },
     {
@@ -144,14 +168,6 @@
         "catagory": "규제"
     },
     {
-        "name": "[역대 기재부장관 특별대담] \"노동규제에 해외투자 국내 4배 ...",
-        "description": "그는 \"국내·외적으로 유동성이 과도하게 풀리면서 시장에 초과수요가 있는 상황\"이라며 \"미·중 갈등, 우크라이나 사태 등이 원자재를 \n중심으로 글로벌...",
-        "link": "http://www.dt.co.kr/contents.html?article_no=2022061002100332049002",
-        "date": "3일 전",
-        "image_path": "http://contents.dt.co.kr/images/202206/2022061002100332049002[1].jpg?var=3750",
-        "catagory": "규제"
-    },
-    {
         "name": "적십자, 우크라이나 투항병 전쟁포로 등록...상하이 버스 운행 22일 재개",
         "description": "아조우스탈 제철소에 있던 우크라이나 병사들의 전쟁 포로 등록이 진행됐다고요? ... 중국 상하이시의 방역 규제가 점점 풀리고 있다고요?",
         "link": "https://www.voakorea.com/a/6580587.html",
@@ -160,11 +176,19 @@
         "catagory": "규제"
     },
     {
-        "name": "인도 갑작스러운 밀수출 규제로 수출 물량 180만t 묶여",
-        "description": "하지만 올해는 우크라이나 전쟁 등으로 글로벌 밀 가격이 오르면서 농민들이 정부 대신 민간 수출업자에 대거 밀을 내다 파는 상황이 \n발생했다.",
-        "link": "https://www.mk.co.kr/news/world/view/2022/05/434180/",
+        "name": "[Bit코인] 비트코인, 3만 달러 무너져…“가상자산, 증권으로 규제 ...",
+        "description": "또 미국의 긴축 기조에 따른 경기침체 우려와 중국의 성장률 둔화, 러시아·우크라이나 전쟁의 장기화 등 악재도 여전하다.",
+        "link": "https://www.etoday.co.kr/news/view/2134397",
         "date": "4주 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/17/image_readtop_2022_434180_0_133111.jpg",
+        "image_path": "https://img.etoday.co.kr/pto_db/2022/05/600/20220517100333_1753070_1121_923.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "[올댓차이나] 5월 중국 석탄 수입 2055만t·2.3%↓...\"코로나 규제\"",
+        "description": "석탄 수입량은 러시아의 우크라이나 침공에 따른 수급 차질을 우려해 ... 엄격한 코로나19 규제를 풀거나 완화하면서 제조업이 가동을 \n재개하는...",
+        "link": "https://www.fnnews.com/news/202206092333271273",
+        "date": "3일 전",
+        "image_path": "https://image.fnnews.com/resource/media/image/2022/06/09/202206092333233142_l.jpg",
         "catagory": "규제"
     },
     {
@@ -172,31 +196,7 @@
         "description": "그는 \"국내·외적으로 유동성이 과도하게 풀리면서 시장에 초과수요가 있는 상황\"이라며 \"미·중 갈등, 우크라이나 사태 등이 원자재를 \n중심으로 글로벌...",
         "link": "http://www.dt.co.kr/contents.html?article_no=2022061002100332049002",
         "date": "3일 전",
-        "image_path": "http://contents.dt.co.kr/images/202206/2022061002100332049002[1].jpg?var=3756",
-        "catagory": "규제"
-    },
-    {
-        "name": "국내 최고 자본시장(Capital Markets) 미디어",
-        "description": "김 내정자는 우크라이나 사태 등으로 국내외 금융시장의 변동성이 커지는 ... 이에 대출규제 정상화를 통해 건전성 관리에 집중할 것으로 \n보인다.",
-        "link": "http://www.thebell.co.kr/free/content/ArticleView.asp?key=202206071054362600102448",
-        "date": "5일 전",
-        "image_path": "https://image.thebell.co.kr/news/photo/2022/06/07/20220607110259852.jpg",
-        "catagory": "규제"
-    },
-    {
-        "name": "적십자, 우크라이나 투항병 전쟁포로 등록...상하이 버스 운행 22일 재개",
-        "description": "아조우스탈 제철소에 있던 우크라이나 병사들의 전쟁 포로 등록이 진행됐다고요? ... 중국 상하이시의 방역 규제가 점점 풀리고 있다고요?",
-        "link": "https://www.voakorea.com/a/6580587.html",
-        "date": "3주 전",
-        "image_path": "https://gdb.voanews.com/03180000-0aff-0242-a67d-08da39268c17_w1200_r1.jpg",
-        "catagory": "규제"
-    },
-    {
-        "name": "손경식 경총 회장 \"규제 개혁으로 일자리 창출\"…ILO 총회 연설",
-        "description": "손 회장은 \"팬데믹으로 사라진 전 세계 일자리 2억5천500만개 중 2천200만개는 여전히 회복되지 못하고 있다\"며 \"최근 \n러시아·우크라이나 사태와...",
-        "link": "https://www.mk.co.kr/news/economy/view/2022/06/499879/",
-        "date": "5일 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/06/07/image_readtop_2022_499879_0_180111.jpg",
+        "image_path": "http://contents.dt.co.kr/images/202206/2022061002100332049002[1].jpg?var=2758",
         "catagory": "규제"
     },
     {
@@ -208,6 +208,14 @@
         "catagory": "규제"
     },
     {
+        "name": "손경식 경총 회장 \"규제 개혁으로 일자리 창출\"…ILO 총회 연설",
+        "description": "손 회장은 \"팬데믹으로 사라진 전 세계 일자리 2억5천500만개 중 2천200만개는 여전히 회복되지 못하고 있다\"며 \"최근 \n러시아·우크라이나 사태와...",
+        "link": "https://www.mk.co.kr/news/economy/view/2022/06/499879/",
+        "date": "5일 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/06/07/image_readtop_2022_499879_0_180111.jpg",
+        "catagory": "규제"
+    },
+    {
         "name": "秋부총리 \"경기대응 주체는 기업…정부 역할은 이삭 줍기\"",
         "description": "그는 지난달 15일 첫 경제장관 간담회에서 \"우크라이나 사태 장기화, ... 기업 성장을 위해 규제에 대해선 통 크게 완화한다는 게 추 \n부총리의 한결된...",
         "link": "https://www.mk.co.kr/news/economy/view/2022/06/503364/",
@@ -216,27 +224,19 @@
         "catagory": "규제"
     },
     {
+        "name": "5년 만의 WTO 각료회의…통상본부장 “다자무역질서 복원 노력”",
+        "description": "... 규제를 철폐·축소한다는 목표 아래 모인 세계무역기구(WTO, World Trade Organization) 각료회의가 5년 만에 \n열린다. 러시아-우크라이나 전쟁으로...",
+        "link": "https://www.edaily.co.kr/news/read?newsId=01338246632361064&mediaCodeNo=257",
+        "date": "16시간 전",
+        "image_path": "https://image.edaily.co.kr/images/Photo/files/NP/S/2022/06/PS22061200130.jpg",
+        "catagory": "규제"
+    },
+    {
         "name": "율촌, '우크라이나 전쟁 100일, 대응과 전망' 웨비나",
         "description": "러시아의 대규모 군사 병력이 우크라이나 국경의 동, 남, ... 수출규제, 에너지 금수조치 등)을 취하여 러시아에 대한 지속적인 압박을 \n가하고 있다.",
         "link": "https://www.legaltimes.co.kr/news/articleView.html?idxno=66909",
         "date": "2주 전",
         "image_path": "http://www.legaltimes.co.kr/news/thumbnail/202205/66909_24366_84_v150.jpg",
-        "catagory": "규제"
-    },
-    {
-        "name": "\"온라인 플랫폼 급성장…규제 법안 신속히 마련해야\" < IT·과학 ...",
-        "description": "유혜영 교수는 \"바이든 정부는 플랫폼 규제와 반독점을 미국 경제의 생산성 향상, 경제 성장과 밀접하게 연관짓는다\"면서도 \"러시아의 \n우크라이나...",
-        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=212242",
-        "date": "3일 전",
-        "image_path": "https://cdn.straightnews.co.kr/news/thumbnail/202206/212242_111615_4033_v150.jpg",
-        "catagory": "규제"
-    },
-    {
-        "name": "5년 만의 WTO 각료회의…통상본부장 “다자무역질서 복원 노력”",
-        "description": "... 규제를 철폐·축소한다는 목표 아래 모인 세계무역기구(WTO, World Trade Organization) 각료회의가 5년 만에 \n열린다. 러시아-우크라이나 전쟁으로...",
-        "link": "https://www.edaily.co.kr/news/read?newsId=01338246632361064&mediaCodeNo=257",
-        "date": "10시간 전",
-        "image_path": "https://image.edaily.co.kr/images/Photo/files/NP/S/2022/06/PS22061200130.jpg",
         "catagory": "규제"
     }
 ]
