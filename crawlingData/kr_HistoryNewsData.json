@@ -1,58 +1,82 @@
 ﻿[
     {
         "name": "[정의길 칼럼] 우크라이나 전쟁도 '역사의 잔인한 속임수'인가?",
-        "description": "중동전쟁이 부른 오일쇼크와 스태그플레이션이 소련에는 역사의 잔인한 속임수였다면, 우크라이나 전쟁이 부르는 에너지·식량난과 40년 만의 \n물가...",
+        "description": "중동전쟁이 부른 오일쇼크와 스태그플레이션이 소련에는 역사의 잔인한 속임수였다면, 우크라이나 전쟁이 부르는 에너지·식량...",
         "link": "https://www.hani.co.kr/arti/opinion/column/1046773.html",
-        "date": "6시간 전",
+        "date": "11시간 전",
         "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/486/imgdb/original/2022/0613/20220613502326.jpg",
         "catagory": "역사"
     },
     {
-        "name": "'이슈픽 쌤과 함께' 류한수 교수, 러시아-우크라이나 전쟁의 핵심 ...",
-        "description": "류 교수는 이번 전쟁을 '역사 전쟁'으로 정의했다. 전쟁 개시 사흘 전, 푸틴 대통령은 55분에 달하는 긴 연설을 통해 '우크라이나는 \n러시아의 일부'...",
+        "name": "러시아와 싸우며 강해진 나라...우크라이나의 역사를 주목하자",
+        "description": "1차-2차 대전 사이 소련에 독립 투쟁 시도 - 제국역사라디 미르 푸틴 러시아 대통령폴란드독립소련맥락전쟁혁명우크라이나.",
+        "link": "https://m.hankookilbo.com/News/Read/A2022022414120000928",
+        "date": "2022. 2. 27.",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/02/24/54549abb-d0c9-4207-b78d-b10b6694ff30.jpg?t=20220613174914",
+        "catagory": "역사"
+    },
+    {
+        "name": "천년 우크라이나의 비극… 민족은 있는데 나라는 없었다 - 조선일보",
+        "description": "유럽 최후의 대국, 우크라이나의 역사｜구로카와 유지 지음｜안선주 옮김｜글항아리｜296쪽｜1만6000원. 작곡가 차이콥스키, 문필가 \n도스토옙스키와...",
+        "link": "https://www.chosun.com/culture-life/book/2022/02/19/KTA6BBTGH5EW7H2LHBA5XW2FFY/",
+        "date": "2022. 2. 19.",
+        "image_path": "https://images.chosun.com/resizer/qhPwjtAt4rKaP4Jrk_BsIvUmTtA=/700x367/filters:focal(368x234:378x244)/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C6YX4AO7GFGENNSM5DXT43KFPE.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "[제1403호]우크라이나와 러시아의 질긴 악연 : 세계일반 : 세계 : 뉴스",
+        "description": "“자연으로부터 축복받은 땅, 역사로부터 저주받은 땅.” 우크라이나를 한마디로 일컫는 표현이다. '유럽의 곡창'으로 불릴 만큼 비옥한 \n토양,...",
+        "link": "https://h21.hani.co.kr/arti/world/world_general/51689.html",
+        "date": "2022. 3. 6.",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/600/579/imgdb/original/2022/0306/2916465774963855.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "푸틴은 왜 우크라이나에 집착할까 : 국제일반 : 국제 : 뉴스",
+        "description": "러시아와 우크라이나 국경에 10만명에 가까운 러시아군이 집결하면서 긴장의 파고가 높아지고 있다. 상황이 급박하게 돌아가...",
+        "link": "https://www.hani.co.kr/arti/international/international_general/1022891.html",
+        "date": "2021. 12. 10.",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/970/500/imgdb/child/2021/1211/16392029178826_20211210502330.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "[소년중앙] 역사·문화부터 우크라이나인의 일상까지, 화폐 통해 본다",
+        "description": "김 학예연구사는 \"우크라이나에서 가장 중요한 역사적 인물 중 하나\"라며 5흐리브냐 지폐를 가리켰어요. \"화폐로 우크라이나 역사를 살필 \n수 있는 게...",
+        "link": "https://www.joongang.co.kr/article/25075257",
+        "date": "2주 전",
+        "image_path": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202205/30/0f7670ad-6bed-42dd-a164-145c3baad790.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "우크라이나 위기의 뿌리를 알고 싶다면 : 책&생각 : 문화 : 뉴스",
+        "description": "<유럽 최후의 대국, 우크라이나의 역사>는 주 우크라이나 대사를 지낸 일본 전직 외교관이 우크라이나의 역사를 정리한 책이다.",
+        "link": "https://www.hani.co.kr/arti/culture/book/1031603.html",
+        "date": "2022. 2. 18.",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/239/353/imgdb/original/2022/0217/20220217503804.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "'이슈픽 쌤과 함께' 류한수 교수, 러시아-우크라이나 전쟁의 핵심은 '역사'",
+        "description": "[스페셜타임스 정시환 기자] 29일(일) 오후 7시 10분 방송되는 KBS1 에 상명대 역사콘텐츠학과 류한수 교수가 출연해 러시아와 \n우크라이나가 뿌리를...",
         "link": "https://www.specialtimes.co.kr/news/articleView.html?idxno=316511",
         "date": "2주 전",
         "image_path": "http://www.specialtimes.co.kr/news/thumbnail/202205/316511_314000_4217_v150.jpg",
         "catagory": "역사"
     },
     {
-        "name": "이슈 픽 쌤과 함께, 러시아-우크라이나 전쟁의 핵심은 '역사 ...",
-        "description": "[한국강사신문 이미숙 기자] 5월 29일(일) 방송되는 <이슈PICK 쌤과 함께>에 상명대 역사콘텐츠학과 류한수 교수가 출연해 러시아와 \n우크라이나가...",
-        "link": "http://www.lecturernews.com/news/articleView.html?idxno=97955",
-        "date": "2주 전",
-        "image_path": "http://cdn.lecturernews.com/news/thumbnail/202205/97955_322059_3318_v150.jpg",
+        "name": "“같은 뿌리” “민족·종교·언어 달라”… 러·우크라 악연의 역사 - 조선일보",
+        "description": "블라디미르 푸틴 러시아 대통령은 지난 21일 대국민 연설에서 “우크라이나는 항상 러시아의 일부였다”고 했다. 1100년 전 \n'키예프루스'라는 뿌리가...",
+        "link": "https://www.chosun.com/international/international_general/2022/03/01/FFLM2KWLARBGNLIIKUEMVKG4MY/",
+        "date": "2022. 3. 1.",
+        "image_path": "https://images.chosun.com/resizer/HRWAuR-UXpMQ4-8HTqK9NR_uDdw=/960x504/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P2PNWTT43JGL5LNUWRCHMAL5SM.jpg",
         "catagory": "역사"
     },
     {
-        "name": "김정은, 푸틴에 축전 “정의의 위업 성과”…우크라이나 침공 가리킨 듯 - 조선비즈",
-        "description": "또 김정은은 “친선과 선린의 오랜 역사와 전통으로 이어져 온 조로(북러)관계를 귀중히 여기고 새 시대의 요구와 두 나라 인민들의 지향에 \n맞게...",
-        "link": "https://biz.chosun.com/policy/politics/2022/06/12/XYKMJJS5NFCFJE2DP7TDEGIXXQ/",
-        "date": "1일 전",
-        "image_path": "https://biz.chosun.com/resizer/wD-6KN8_BR-UkRpN_aNXsJ5iR8k=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/3NB5BHWZVVKSHLCC4YA235NWPI.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "돈바스 지역, 우크라이나 전쟁의 기원",
-        "description": "돈바스는 우크라이나 동부의 도네츠크주와 루한시크주를 합쳐서 가리키는 말이다. 이곳은 원래 인구밀도가 희박했고, 역사의 중심지도 아니었다.",
-        "link": "http://www.redian.org/archive/162429",
-        "date": "3일 전",
-        "image_path": "http://www.redian.org/wp-content/uploads/2022/06/1-9.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "우크라이나 사태와 영화 <남한산성>의 교훈 : 오피니언/칼럼 ...",
-        "description": "[세르게이 칼럼] 역사의 교훈을 기억하라. 사마리안퍼스. △우크라이나 난민들의 모습. c크투 DB. ※외부 기고는 본지...",
-        "link": "https://www.christiantoday.co.kr/news/348106",
-        "date": "1일 전",
-        "image_path": "https://images.christiantoday.co.kr/data/images/full/344664/image.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "[포착] '500년 역사', 불길 속으로…러軍 포격에 파괴된 우크라 ...",
-        "description": "우크라이나 동부 돈바스 지역에서 우크라이나군과 러시아군의 치열한 전투가 이어지는 가운데, 우크라이나 정교회 3대 성지로 꼽히는 수도원이 \n러시아...",
-        "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20220606601010",
-        "date": "1주 전",
-        "image_path": "No Image",
+        "name": "'역사의 종말' 후쿠야마 “러시아 우크라이나 침략 대실패로 끝날 것”",
+        "description": "저서 '역사의 종말'로 유명한 프랜시스 후쿠야마 미 스탠퍼드대 교수(시니어펠로)가 러시아의 우크라이나 침공이 대실패로 끝날 가능성이 \n매우 높다고...",
+        "link": "https://m.hankookilbo.com/News/Read/A2022030110510005140",
+        "date": "2022. 3. 1.",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/03/01/d976b9c1-4aee-4be3-bf54-ba49c1cc377e.jpg?t=20220613183036",
         "catagory": "역사"
     },
     {
@@ -64,22 +88,6 @@
         "catagory": "역사"
     },
     {
-        "name": "'1000년 넘은 황금 돔' 잿더미 위기… 러 포격에 스러지는 우크라 ...",
-        "description": "당장 전쟁 안 멈추면 우크라 역사 한 조각 사라져\" ... 유네스코는 침공 직후 성명에서 “러시아의 침공으로 우크라이나의 역사적, \n문화적 자산이 파괴...",
-        "link": "https://m.hankookilbo.com/News/Read/A2022060121070002965",
-        "date": "1주 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/06/01/9b5f86e9-96e2-429a-9c69-8a030428f21f.jpg?t=20220613123017",
-        "catagory": "역사"
-    },
-    {
-        "name": "푸틴, 표트르 대제 치적 꺼내며 “빼앗는 게 아니라 되찾는 것”",
-        "description": "푸틴 대통령은 지난해 7월 러시아 대통령궁 누리집에 올린 글에서 1천년 전 역사로 거슬러 올라가며 러시아와 우크라이나 역사적 동질성을 \n주장했다.",
-        "link": "https://www.hani.co.kr/arti/international/europe/1046549.html",
-        "date": "3일 전",
-        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/800/503/imgdb/original/2022/0610/20220610502377.jpg",
-        "catagory": "역사"
-    },
-    {
         "name": "류한수 교수 \"러시아ㆍ우크라이나 전쟁=역사 전쟁\"(이슈픽 쌤과 ...",
         "description": "류 교수는 이번 전쟁을 '역사 전쟁'으로 정의했다. 전쟁 개시 사흘 전, 푸틴 대통령은 55분에 달하는 긴 연설을 통해 '우크라이나는 \n러시아의 일부'라며,...",
         "link": "http://enter.etoday.co.kr/view/news_view.php?varAtcId=225751",
@@ -88,19 +96,35 @@
         "catagory": "역사"
     },
     {
+        "name": "\"푸틴, 우크라이나 전쟁 이기면 유럽 전역으로 전선 넓힐 것\"",
+        "description": "블라디미르 푸틴 러시아 대통령이 우크라이나 전쟁에서 승리하면 유럽 전역으로 ... 로트만 분석가는 \"푸틴이 늙어가고 있고 역사에 남을 \n작전을 수행...",
+        "link": "https://www.g-enews.com/article/Global-Biz/2022/06/202206091944005826e250e8e188_1",
+        "date": "4일 전",
+        "image_path": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2022060919521004907e250e8e1885822911040.jpg",
+        "catagory": "역사"
+    },
+    {
         "name": "우크라 \"獨, 우크라 EU 가입 지원하고 역사에 이름 남겨라\"",
         "description": "우크라이나가 무기 지원을 약속한 독일의 지원을 환영하면서 유럽연합(EU) 가입 지원도 호소했다. 압류한 러시아 해외 자산을 우크라이나 \n재건을 위해...",
         "link": "https://www.hankookilbo.com/News/Read/A2022051611070004844",
         "date": "1개월 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/05/16/b13cee1d-89f0-45e6-b747-dfdb807413f1.jpg?t=20220613124518",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/05/16/b13cee1d-89f0-45e6-b747-dfdb807413f1.jpg?t=20220613182919",
         "catagory": "역사"
     },
     {
-        "name": "[참성단] 우크라이나 고려인 피난민",
-        "description": "열 손가락 깨물어 안 아픈 손가락 없다지만 '고려인'의 역사적 통증은 각별하다. 자이니치, 조선족들은 모진 차별 속에서도 이주지에 민족 \n공동체를...",
-        "link": "http://m.kyeongin.com/view.php?key=20220612010001994",
-        "date": "1일 전",
-        "image_path": "http://www.kyeongin.com/mnt/file/202206/2022061201000400200019941.jpg?20220612072820",
+        "name": "푸틴 \"서방, 러시아 석유-가스 끊는데 수년 걸릴 것\" 자신감",
+        "description": "러시아가 우크라이나산 밀 수출을 막고 있는 것이 흑해의 항구 오데사 점령만을 목적으로 하고 있지 않다는 분석도 제기됐다. 동유럽 역사 \n전문가인...",
+        "link": "https://www.pressian.com/pages/articles/2022061315424847257",
+        "date": "11시간 전",
+        "image_path": "https://www.pressian.com/_resources/10/2022/06/13/2022061315463040751_l.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "\"윤석열 정부는 전 정부보다 높은 수준의 연대와 지원해줬으면...\"",
+        "description": "이날 포노마렌코 대사는 우크라이나 전통 의상인 '비쉬반카'의 날을 맞아 ... 이번 전쟁에서 러시아의 주요 목표는 우크라이나 역사를 \n말살하는 것과...",
+        "link": "https://m.hankookilbo.com/News/Read/A2022052600470004633",
+        "date": "2주 전",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/05/26/d4c19030-7313-436f-ac28-83db59913f7a.jpg?t=20220613183100",
         "catagory": "역사"
     },
     {
@@ -112,27 +136,19 @@
         "catagory": "역사"
     },
     {
-        "name": "교종, “우크라이나 전쟁에 익숙해지지 맙시다” 외(6월 9-12일)",
-        "description": "프란치스코 교종은 삼종기도 가르침 후 신자들에게 우크라이나 전쟁에 ... 교회는 역사를 두려워하지 않을 뿐만 아니라 역사를 사랑한다”고 \n거듭 강조...",
-        "link": "http://www.catholicnews.co.kr/news/articleView.html?idxno=32501",
-        "date": "10시간 전",
-        "image_path": "http://cdn.catholicnews.co.kr/news/thumbnail/202206/32501_53577_1533_v150.jpg",
+        "name": "[참성단] 우크라이나 고려인 피난민",
+        "description": "열 손가락 깨물어 안 아픈 손가락 없다지만 '고려인'의 역사적 통증은 각별하다. 자이니치, 조선족들은 모진 차별 속에서도 이주지에 민족 \n공동체를...",
+        "link": "http://m.kyeongin.com/view.php?key=20220612010001994",
+        "date": "1일 전",
+        "image_path": "http://www.kyeongin.com/mnt/file/202206/2022061201000400200019941.jpg?20220612072820",
         "catagory": "역사"
     },
     {
-        "name": "\"윤석열 정부는 전 정부보다 높은 수준의 연대와 지원해줬으면...\"",
-        "description": "드미트로 포노마렌코 주한 우크라이나 대사가 19일 서울 용산구 한남동 ... 이번 전쟁에서 러시아의 주요 목표는 우크라이나 역사를 \n말살하는 것과...",
-        "link": "https://m.hankookilbo.com/News/Read/A2022052600470004633",
-        "date": "2주 전",
-        "image_path": "https://newsimg-hams.hankookilbo.com/2022/05/26/d4c19030-7313-436f-ac28-83db59913f7a.jpg?t=20220613124528",
-        "catagory": "역사"
-    },
-    {
-        "name": "푸틴 \"서방, 러시아 석유-가스 끊는데 수년 걸릴 것\" 자신감",
-        "description": "러시아가 우크라이나산 밀 수출을 막고 있는 것이 흑해의 항구 오데사 점령만을 목적으로 하고 있지 않다는 분석도 제기됐다. 동유럽 역사 \n전문가인...",
-        "link": "https://www.pressian.com/pages/articles/2022061315424847257",
-        "date": "6시간 전",
-        "image_path": "https://www.pressian.com/_resources/10/2022/06/13/2022061315463040751_l.jpg",
+        "name": "[데스크에서] 우크라는 끝내 떨어졌지만 - 조선일보",
+        "description": "비통한 우크라이나 국민에게 월드컵 진출이 조그만 위안이라도 되길 바랐다. ... 역사도 슬픈데 인구와 경제 규모 등 잉글랜드와 비교해 \n뭐 하나 나은...",
+        "link": "https://www.chosun.com/opinion/desk/2022/06/11/RHUOW24SIJDFDDII7G5O7VLQGM/",
+        "date": "3일 전",
+        "image_path": "https://images.chosun.com/resizer/5VBp9eNd0bs6MSWaHBowKAb_ClU=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BETSBHXN4FJ7ZDJTWO4KOPWJIQ.JPG",
         "catagory": "역사"
     },
     {
@@ -144,6 +160,14 @@
         "catagory": "역사"
     },
     {
+        "name": "교종, “우크라이나 전쟁에 익숙해지지 맙시다” 외(6월 9-12일)",
+        "description": "프란치스코 교종은 삼종기도 가르침 후 신자들에게 우크라이나 전쟁에 ... 교회는 역사를 두려워하지 않을 뿐만 아니라 역사를 사랑한다”고 \n거듭 강조...",
+        "link": "http://www.catholicnews.co.kr/news/articleView.html?idxno=32501",
+        "date": "16시간 전",
+        "image_path": "http://cdn.catholicnews.co.kr/news/thumbnail/202206/32501_53577_1533_v150.jpg",
+        "catagory": "역사"
+    },
+    {
         "name": "[사공시] 러시아의 우크라이나 침공 100일, 꺾이지 않는 해바라기",
         "description": "[야로슬라프 흐릿삭 / 우크라이나 역사학자 : 스탈린이 1953년에 사망하자 자유화 체제가 시작되었습니다. 그리고 그 이후로 많은 \n우크라이나인들이...",
         "link": "https://www.ytn.co.kr/_ln/0104_202206040314311555",
@@ -152,19 +176,11 @@
         "catagory": "역사"
     },
     {
-        "name": "우크라이나 참전 외국인 3명 사형 선고...스페인, 중남미 이민자 수용 논란",
-        "description": "기자) 친러시아 법원이 우크라이나 측 군인 3명에게 사형을 선고했습니다. ... 마크롱 대통령은 푸틴 대통령이 그 자신은 물론 러시아 \n국민과 역사에...",
-        "link": "https://www.voakorea.com/a/6611954.html",
-        "date": "2일 전",
-        "image_path": "https://gdb.voanews.com/096e0000-0a00-0242-2d32-08da4a45c2d0_w1200_r1.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "우크라이나 참전 외국인 3명 사형 선고...스페인, 중남미 이민자 수용 논란",
-        "description": "기자) 친러시아 법원이 우크라이나 측 군인 3명에게 사형을 선고했습니다. ... 마크롱 대통령은 푸틴 대통령이 그 자신은 물론 러시아 \n국민과 역사에...",
-        "link": "https://www.voakorea.com/a/6611954.html",
-        "date": "2일 전",
-        "image_path": "https://gdb.voanews.com/096e0000-0a00-0242-2d32-08da4a45c2d0_w1200_r1.jpg",
+        "name": "마크롱 \"푸틴에 굴욕 주면 안돼\", 우크라이나 '망언' 반발...동부전선 러시아군 1만 이상 집결",
+        "description": "우크라이나 전쟁의 외교적 해법을 마련하려면, 블라디미르 푸틴 러시아 ... 은 자신과 국민, 역사에서 근본적으로 실수하고 있다\"고 \n지적했습니다.",
+        "link": "https://www.voakorea.com/a/6603519.html",
+        "date": "1주 전",
+        "image_path": "https://gdb.voanews.com/093a0000-0a00-0242-75af-08da0072d78b_w1200_r1.jpg",
         "catagory": "역사"
     },
     {
@@ -173,6 +189,14 @@
         "link": "https://www.hani.co.kr/arti/international/europe/1045754.html",
         "date": "1주 전",
         "image_path": "https://flexible.img.hani.co.kr/flexible/normal/639/426/imgdb/original/2022/0605/20220605500999.jpg",
+        "catagory": "역사"
+    },
+    {
+        "name": "우크라이나 참전 외국인 3명 사형 선고...스페인, 중남미 이민자 수용 논란",
+        "description": "기자) 친러시아 법원이 우크라이나 측 군인 3명에게 사형을 선고했습니다. ... 마크롱 대통령은 푸틴 대통령이 그 자신은 물론 러시아 \n국민과 역사에...",
+        "link": "https://www.voakorea.com/a/6611954.html",
+        "date": "3일 전",
+        "image_path": "https://gdb.voanews.com/096e0000-0a00-0242-2d32-08da4a45c2d0_w1200_r1.jpg",
         "catagory": "역사"
     },
     {
@@ -192,14 +216,6 @@
         "catagory": "역사"
     },
     {
-        "name": "러 “멍에 벗어던지고 강대국 증명” - 헤럴드경제 뉴스",
-        "description": "우크라이나를 침공하고 제국주의적 움직임을 보여 서방 등의 비난을 받는 ... 며 “그건 러시아의 천년 역사를 통해 태어나고 강화했으며 \n진실하고,...",
-        "link": "http://mbiz.heraldcorp.com/view.php?ud=20220613000083",
-        "date": "13시간 전",
-        "image_path": "//res.heraldm.com/content/image/2022/06/13/20220613000108_p.jpg",
-        "catagory": "역사"
-    },
-    {
         "name": "[특파원 시선] 원수가 된 형제 러시아·우크라이나 그리고 BTS",
         "description": "두 국가는 민족과 종교가 같고 역사도 상당 부분 공유한다. 우크라이나 자체가 한때 소러시아로 불리기도 했다. 우크라이나어와 러시아어도 \n큰 차이가...",
         "link": "https://m.mk.co.kr/news/world/view/2022/06/490124/",
@@ -208,35 +224,19 @@
         "catagory": "역사"
     },
     {
-        "name": "[인천의 아침] 전쟁과 평화",
-        "description": "유럽을 석권한 프랑스가 러시아를 공격하는 역사적 배경 속에 인간의 ... 이 러시아의 푸틴 대통령이 우크라이나를 침공하다 파멸하는 것이 \n역사의...",
-        "link": "https://www.kyeonggi.com/article/20220612580178",
-        "date": "1일 전",
-        "image_path": "https://scsgozneamae10236445.cdn.ntruss.com/data2/content/image/2022/06/12/.cache/512/20220612580183.jpg",
-        "catagory": "역사"
-    },
-    {
-        "name": "e대한경제",
-        "description": "[e대한경제=이경택 기자] : 'PEACE for CHILD'. 지난 2월24일 러시아의 우크라이나 무력 침공 이후 우크라이나와 인접한 \n폴란드 국경지역에서 어린이들이...",
-        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202206130720424100930",
-        "date": "14시간 전",
-        "image_path": "https://image.dnews.co.kr/photo/photo/2022/06/13/202206130720424100930-2-289475.jpg",
-        "catagory": "역사"
-    },
-    {
         "name": "'오렌지혁명' 주역 우크라 전 총리 \"소련령 복원이 푸틴 목표\"",
-        "description": "이성적이고 사악한 푸틴, 제국 건설로 역사에 이름 남기려 해\" ... 율리아 티모셴코 전 우크라이나 총리가 블라디미르 푸틴 러시아 \n대통령의 궁극적...",
-        "link": "https://www.hankyung.com/international/article/202206098446Y",
+        "description": "율리아 티모셴코 전 우크라이나 총리가 블라디미르 푸틴 러시아 대통령의 ... 면서 스탈린과 표트르 대제와 함께 역사에 남으려 결심했다고 \n강조했다.",
+        "link": "https://www.mk.co.kr/news/world/view/2022/06/504434/",
         "date": "4일 전",
-        "image_path": "https://img.hankyung.com/photo/202206/ZK.30270598.1.jpg",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/06/09/image_readtop_2022_504434_0_090711.jpg",
         "catagory": "역사"
     },
     {
-        "name": "獨·佛·伊 정상들 키이우행… 우크라 달래는 유럽",
-        "description": "우크라이나 전쟁이 장기화하면서 유럽이 분열 양상을 보이자 이를 수습하기 ... 북마케도니아와 역사 및 언어, 소수민족 문제로 갈등을 \n빚고 있는...",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20220613017023",
-        "date": "1일 전",
-        "image_path": "https://img.seoul.co.kr/img/upload/2022/06/12/SSI_20220612233859.jpg",
+        "name": "러시아 국방부 '마리우폴 저항군 항복' 발표...우크라이나 \"북부 전선 국경 도달\"",
+        "description": "우크라이나군 총참모부는 이날 성명에서 \"마리우폴 방어 병력은 전투 임무를 완수했다”고 밝히고, 해당 병력에 관해 \"우리 시대의 \n영웅들로, 영원히 역사...",
+        "link": "https://www.voakorea.com/a/6576651.html",
+        "date": "4주 전",
+        "image_path": "https://gdb.voanews.com/03190000-0aff-0242-97b7-08da37f64d9e_w1200_r1.jpg",
         "catagory": "역사"
     }
 ]
