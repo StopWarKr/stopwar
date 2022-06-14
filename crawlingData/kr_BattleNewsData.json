@@ -3,31 +3,15 @@
         "name": "젤렌스키 \"돈바스 전투, 유럽에서 가장 잔인한 전투될 것\"",
         "description": "올렉산드르 모투자니크 우크라이나 국방부 대변인은 동부 돈바스 지역 곳곳과 루한스크의 세베로도네츠크 지역에서 치열한 전투가 계속되고 \n있다고 밝혔다...",
         "link": "https://www.womennews.co.kr/news/articleView.html?idxno=224593",
-        "date": "6시간 전",
+        "date": "12시간 전",
         "image_path": "http://www.womennews.co.kr/news/photo/202206/224593_367258_2719.png",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "돈바스 요충 세베로도네츠크 시가전 격화…피란할 다리도 파괴",
-        "description": "로이터 통신 등에 따르면 12일(현지시간) 세베로도네츠크 도심에서는 거리마다 우크라이나군과 러시아군의 교전이 이어지고 있다.",
-        "link": "https://www.mk.co.kr/news/world/view/2022/06/514805/",
-        "date": "1일 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/06/13/image_readtop_2022_514805_0_120711.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "[월드피플+] “우크라의 영웅” 英 국제의용군, 격전지서 전사",
-        "description": "12일(이하 현지시간) 데일리메일은 영국 육군 출신으로 우크라이나 국제의용군에 합류한 조던 게이틀리가 10일 전투 중 사망했다고 유가족 \n발표를 인용해...",
-        "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20220613601010",
-        "date": "1일 전",
-        "image_path": "https://imgnn.seoul.co.kr/img/upload/2022/06/13/SSI_20220613140232.jpg",
         "catagory": "교전 최신 상황"
     },
     {
         "name": "돈바스 전투 \"가장 격렬한 국면 진입\"...러시아 정예 공수부대 중요 전술 실패로 '손실'",
         "description": "우크라이나 동부 돈바스 일대 전투가 가장 격렬한 국면에 진입했다고 우크라이나 국방부가 26일 밝혔습니다. 한나 말랴르 우크라이나 국방 \n차관은...",
         "link": "https://www.voakorea.com/a/6590597.html",
-        "date": "2주 전",
+        "date": "3주 전",
         "image_path": "https://gdb.voanews.com/03190000-0aff-0242-fba1-08da3db98384_w1200_r1.jpg",
         "catagory": "교전 최신 상황"
     },
@@ -40,11 +24,27 @@
         "catagory": "교전 최신 상황"
     },
     {
+        "name": "러시아 국방부 '마리우폴 저항군 항복' 발표...우크라이나 \"북부 전선 국경 도달\"",
+        "description": "우크라이나군은 이날(17일) 새벽 마리우폴에서의 전투 종료를 선언한 바 있습니다. 아조우스탈 제철소 안에서 항전하던 부상 병력 치료를 \n조건으로 러시아...",
+        "link": "https://www.voakorea.com/a/6576651.html",
+        "date": "1개월 전",
+        "image_path": "https://gdb.voanews.com/03190000-0aff-0242-97b7-08da37f64d9e_w1200_r1.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
         "name": "[포착] 우크라 탑건 '키이우의 유령'…전투기 조종석에서 본 ...",
         "description": "이날 우크라이나 군 총참모부는 “우크라이나 공군의 전투 모습이다. 우리나라를 공격한 자들에게는 자비가 없다”고 밝혔다. 그러면서 \n미그(MiG)-29 전투기...",
         "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20220614601003&section=international&type=&page=",
-        "date": "4시간 전",
+        "date": "10시간 전",
         "image_path": "https://imgnn.seoul.co.kr/img/upload/2022/06/14/SSI_20220614110012.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "키이우는 우크라이나 동부는 러시아‥여전한 전쟁의 흔적",
+        "description": "조 특파원이 나가 있는 키이우랑 서부 지역은 전쟁의 직접적인 여파에서는 벗어나고 있는데 반면에 동부지역은 아직 교전이 치열한 \n상황이고,...",
+        "link": "https://imnews.imbc.com/replay/2022/nwdesk/article/6378098_35744.html",
+        "date": "1일 전",
+        "image_path": "https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/06/13/desk_20220613_203552_1_23_Large.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -53,22 +53,6 @@
         "link": "https://m.mk.co.kr/news/world/view/2022/05/461184/",
         "date": "3주 전",
         "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/25/image_readtop_2022_461184_0_120811.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "러시아 국방부 '마리우폴 저항군 항복' 발표...우크라이나 \"북부 전선 국경 도달\"",
-        "description": "우크라이나군은 이날(17일) 새벽 마리우폴에서의 전투 종료를 선언한 바 있습니다. 아조우스탈 제철소 안에서 항전하던 부상 병력 치료를 \n조건으로 러시아...",
-        "link": "https://www.voakorea.com/a/6576651.html",
-        "date": "4주 전",
-        "image_path": "https://gdb.voanews.com/03190000-0aff-0242-97b7-08da37f64d9e_w1200_r1.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "키이우는 우크라이나 동부는 러시아‥여전한 전쟁의 흔적",
-        "description": "조 특파원이 나가 있는 키이우랑 서부 지역은 전쟁의 직접적인 여파에서는 벗어나고 있는데 반면에 동부지역은 아직 교전이 치열한 \n상황이고,...",
-        "link": "https://imnews.imbc.com/replay/2022/nwdesk/article/6378098_35744.html",
-        "date": "18시간 전",
-        "image_path": "https://image.imnews.imbc.com/replay/2022/nwdesk/article/__icsFiles/afieldfile/2022/06/13/desk_20220613_203552_1_23_Large.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -96,6 +80,22 @@
         "catagory": "교전 최신 상황"
     },
     {
+        "name": "돈바스 요충 세베로도네츠크 시가전 격화…피란할 다리도 파괴",
+        "description": "로이터 통신 등에 따르면 12일(현지시간) 세베로도네츠크 도심에서는 거리마다 우크라이나군과 러시아군의 교전이 이어지고 있다.",
+        "link": "https://www.mk.co.kr/news/world/view/2022/06/514805/",
+        "date": "1일 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/06/13/image_readtop_2022_514805_0_120711.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "\"무기 없이 협상하라\"…포격 지속에 최전선 우크라이나인들 '절규'",
+        "description": "아무데도 떠날 수 없고 지하실에만 있는 상황\"이라고 말했다. ... 한편, 우크라이나 동부 세베로도네츠크와 리시찬스크 지역에서 교전이 \n계속되고...",
+        "link": "https://www.news1.kr/articles/?4710943",
+        "date": "11시간 전",
+        "image_path": "https://image.news1.kr/system/photos/2022/6/14/5425168/article.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
         "name": "독일 TV 뉴스, 기관총 쏘는 이근 전투 장면 방송",
         "description": "해군특수전전단(UDT/SEAL) 대위 출신 유튜버 이근이 우크라이나에서 외국인 의용병 부대 '국토방위군 국제여단'에 합류했다가 부상을 \n입고 귀국한...",
         "link": "http://weekly.chosun.com/news/articleView.html?idxno=20645",
@@ -104,27 +104,19 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "\"무기 없이 협상하라\"…포격 지속에 최전선 우크라이나인들 '절규'",
-        "description": "아무데도 떠날 수 없고 지하실에만 있는 상황\"이라고 말했다. ... 한편, 우크라이나 동부 세베로도네츠크와 리시찬스크 지역에서 교전이 \n계속되고...",
-        "link": "https://www.fnnews.com/news/202206141005242794",
-        "date": "5시간 전",
-        "image_path": "https://image.fnnews.com/resource/media/image/2022/06/14/202206141005221267_l.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
         "name": "우크라 도왔다고 “사형”…철창 안 외인병사[포착]",
         "description": "우크라이나군에 가담해 전투에 참가했다가 투항한 이들 3명은 법원에서 ... 우크라이나와 러시아가 동부 돈바스 지역의 통제권을 두고 \n교전을 이어...",
         "link": "https://www.seoul.co.kr/news/newsView.php?id=20220611500010",
         "date": "3일 전",
-        "image_path": "https://img.seoul.co.kr/img/upload/2022/06/11/SSI_20220611062320.jpg",
+        "image_path": "No Image",
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "200구 넘는 시신 한 곳에…키이우 집단 학살 현장에 가다",
-        "description": "동부 돈바스 지역 상황은 어떻습니까? ... 세베로도네츠크를 두고 우크라이나군과 러시아군 양측이 치열한 전투를 이어가고 있기 때문인데요.",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006782231",
-        "date": "3일 전",
-        "image_path": "https://img.sbs.co.kr/newimg/news/20220610/201672026_1280.jpg",
+        "name": "우크라, 헤르손서 반격 확대…\"5개 정착지 주변 적 진지 공습\"",
+        "description": "우크라이나 대통령실도 이날 아침 브리핑에서 헤르손 상황에 대해 \"연쇄 폭발음이 종일 들렸으며, 주 경계에서 전투가 계속되고 있다\"고 \n전했다.",
+        "link": "https://www.mk.co.kr/news/world/view/2022/06/510470/",
+        "date": "4일 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/06/10/image_readtop_2022_510470_0_180411.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -136,19 +128,19 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "돈바스 시가전 격렬…젤렌스키 \"세베로도네츠크 포기 안해\"",
-        "description": "볼로디미르 젤렌스키 우크라이나 대통령은 상황이 어렵지만 이 도시를 포기 ... 군이 세베로도네츠크 교전에서 (수적으로) 더 많고 더 \n강력하지만,...",
-        "link": "https://news.koreadaily.com/2022/06/07/society/international/20220607005858720.html",
-        "date": "1주 전",
-        "image_path": "https://news.koreadaily.com/data/photo/2022/06/07/f434dc0b-9e68-4391-8a2c-20212e35e062.jpg",
+        "name": "200구 넘는 시신 한 곳에…키이우 집단 학살 현장에 가다",
+        "description": "동부 돈바스 지역 상황은 어떻습니까? ... 세베로도네츠크를 두고 우크라이나군과 러시아군 양측이 치열한 전투를 이어가고 있기 때문인데요.",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006782231",
+        "date": "4일 전",
+        "image_path": "https://img.sbs.co.kr/newimg/news/20220610/201672026_1280.jpg",
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "[World Now] 우크라 농업차관 \"러 침공으로 경작지 25% 상실\"",
-        "description": "세계의 곡물 창고'로 불리는 우크라이나가 러시아의 침공 이후 경작지의 ... 를 봉쇄하는 바람에 곡물 수백만 톤이 컨테이너에 쌓여 있는 \n상황입니다.",
-        "link": "https://imnews.imbc.com/news/2022/world/article/6378261_35680.html",
-        "date": "4시간 전",
-        "image_path": "https://image.imnews.imbc.com/news/2022/world/article/__icsFiles/afieldfile/2022/06/14/p20220608_46.jpg",
+        "name": "세베로도네츠크 시가전 격렬…젤렌스키 “결코 포기하지 않을 것”",
+        "description": "우크라이나 최대 교전 지역인 동부 루한스크주 세베로도네츠크에서 치열한 ... 젤렌스키 대통령은 앞서 이날 언론 브리핑에서 동부 지역 \n상황이...",
+        "link": "https://www.hani.co.kr/arti/international/international_general/1045973.html",
+        "date": "6일 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/730/486/imgdb/original/2022/0607/20220607501320.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -160,19 +152,19 @@
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "美 국방부 '러시아, 우크라이나 전쟁에서 탱크 1000대 손실'",
-        "description": "아울러 최근 소규모의 전투가 계속 되고 있는 상황이라고 덧붙였다. 박병희 기자 nut@asiae.co.kr <c경제를 보는 눈, 세계를 \n보는 창 아시아경제(www...",
-        "link": "https://cm.asiae.co.kr/article/2022052711062762536",
-        "date": "2주 전",
-        "image_path": "https://cphoto.asiae.co.kr/listimglink/6/2021052815250655453_1622183106.jpeg",
+        "name": "[World Now] 우크라 농업차관 \"러 침공으로 경작지 25% 상실\"",
+        "description": "세계의 곡물 창고'로 불리는 우크라이나가 러시아의 침공 이후 경작지의 ... 를 봉쇄하는 바람에 곡물 수백만 톤이 컨테이너에 쌓여 있는 \n상황입니다.",
+        "link": "https://imnews.imbc.com/news/2022/world/article/6378261_35680.html",
+        "date": "11시간 전",
+        "image_path": "https://image.imnews.imbc.com/news/2022/world/article/__icsFiles/afieldfile/2022/06/14/p20220608_46.jpg",
         "catagory": "교전 최신 상황"
     },
     {
-        "name": "우크라, 헤르손서 반격 확대…\"5개 정착지 주변 적 진지 공습\"",
-        "description": "우크라이나 대통령실도 이날 아침 브리핑에서 헤르손 상황에 대해 \"연쇄 폭발음이 종일 들렸으며, 주 경계에서 전투가 계속되고 있다\"고 \n전했다.",
-        "link": "https://www.hankyung.com/international/article/202206103213Y",
-        "date": "3일 전",
-        "image_path": "https://img.hankyung.com/photo/202206/ZK.30288402.1.jpg",
+        "name": "\"푸틴 근본적으론 벌써 졌다?\"…교착 우크라 전쟁, 향후 시나리오는",
+        "description": "우크라이나 수도 키이우 공격 때 패퇴한 부대가 제대로 훈련받지도 못한 신병과 함께 다시 전투에 투입되는가 하면, 체첸군과 러시아군의 \n작전 조율이...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/05/447074/",
+        "date": "3주 전",
+        "image_path": "https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_447074_16530289405049120.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -181,6 +173,14 @@
         "link": "https://m.mk.co.kr/news/world/view/2022/05/474681/",
         "date": "2주 전",
         "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/30/image_readtop_2022_474681_0_005511.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "美 국방부 '러시아, 우크라이나 전쟁에서 탱크 1000대 손실'",
+        "description": "아울러 최근 소규모의 전투가 계속 되고 있는 상황이라고 덧붙였다. 박병희 기자 nut@asiae.co.kr <c경제를 보는 눈, 세계를 \n보는 창 아시아경제(www...",
+        "link": "https://cm.asiae.co.kr/article/2022052711062762536",
+        "date": "2주 전",
+        "image_path": "https://cphoto.asiae.co.kr/listimglink/6/2021052815250655453_1622183106.jpeg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -197,6 +197,22 @@
         "link": "https://www.voakorea.com/a/6601915.html",
         "date": "1주 전",
         "image_path": "https://gdb.voanews.com/096e0000-0a00-0242-7af2-08da456f6fc5_w1200_r1.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "뉴시스",
+        "description": "올렉시 그로모프 우크라이나 총참모부 군 작전담당 부참모장은 돈바스 전투 상황에 관해 \"러시아가 유리하지만, 우리는 우리가 할 수 있는 \n모든 것을...",
+        "link": "https://mobile.newsis.com/view.html?ar_id=NISX20220527_0001887875",
+        "date": "2주 전",
+        "image_path": "https://image.newsis.com/2022/05/26/NISI20220526_0001007075_web.jpg",
+        "catagory": "교전 최신 상황"
+    },
+    {
+        "name": "우크라이나군 시신 210구 송환...미국 기업, 중미에 총 32억 달러 투자",
+        "description": "진행자) 아조우연대는 당초 민병대로 출발했다고 하죠? 기자) 그렇습니다. 지난 2014년, 우크라이나 동부 돈바스 일대에서 러시아와 \n우크라이나 간 교전이...",
+        "link": "https://www.voakorea.com/a/6608276.html",
+        "date": "5일 전",
+        "image_path": "https://gdb.voanews.com/03cc0000-0aff-0242-5615-08da23adf643_w1200_r1.jpg",
         "catagory": "교전 최신 상황"
     },
     {
@@ -219,24 +235,8 @@
         "name": "얼굴 보자마자 9분간 우크라 얘기만 한 尹-이준석…당내 갈등 정리되나 - 조선비즈",
         "description": "이 대표가 우크라이나 방문 일정 마치고 귀국한 다음 날 이뤄진 이 만남에서 윤 대통령은 현지 상황에 큰 관심을 보였다. 친윤(親尹)계인 \n당내 최다선...",
         "link": "https://biz.chosun.com/policy/politics/2022/06/10/R5IFDWXVNNGRLDGSAXG3X32CRU/",
-        "date": "3일 전",
-        "image_path": "https://biz.chosun.com/resizer/4I2XWJ2FGHxLVvk_-QRECSsAnaE=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/PHGYMYTPFZOWBMONEHK6PO7I6Y.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "소모전 치닫는 돈바스 전투...\"용병 3명 사형 선고\"",
-        "description": "국제부를 연결해 우크라이나 전쟁 속보 정리합니다. 이승훈 기자! 친러 정권인 도네츠크인민공화국 법원이 영국인 등 전쟁 포로에 대해 \n사형을 선고했다...",
-        "link": "https://www.ytn.co.kr/_ln/0104_202206100931333432",
         "date": "4일 전",
-        "image_path": "https://image.ytn.co.kr/general/jpg/2022/0610/202206100931333432_t.jpg",
-        "catagory": "교전 최신 상황"
-    },
-    {
-        "name": "하르키우 수복 임박…\"우크라에 키이우 방어 후 최대전과\"",
-        "description": "우크라이나 북동부에 있는 제2 도시 하르키우(하리코프)에서 러시아군의 완전 ... 교전했고 몇시간 동안은 도시를 누가 장악하는지 \n불확실한 상황이...",
-        "link": "https://www.mk.co.kr/news/world/view/2022/05/431612/",
-        "date": "1개월 전",
-        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/05/16/image_readtop_2022_431612_0_154911.jpg",
+        "image_path": "https://biz.chosun.com/resizer/4I2XWJ2FGHxLVvk_-QRECSsAnaE=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/PHGYMYTPFZOWBMONEHK6PO7I6Y.jpg",
         "catagory": "교전 최신 상황"
     }
 ]
