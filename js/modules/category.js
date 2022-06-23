@@ -29,6 +29,26 @@ const renderCard = (news, inputValue) => {
   article.appendChild(link);
   link.appendChild(imgBox);
   imgBox.appendChild(img);
+
+  if (news.catagory === '트위터') {
+    img.setAttribute(
+      'src',
+      'https://play-lh.googleusercontent.com/8sc6LSo3dRf54GaLdQR8UZfzd_fgHgWMJlNxGLP1HWPEU7YY4UxkyHc8-qCNwtyiqO55=s360-rw',
+    );
+    img.setAttribute('alt', news.catagory);
+
+    const twitterDescription = document.createElement('p');
+    twitterDescription.classList.add('twitter-description');
+    twitterDescription.textContent = news.description_ko;
+
+    link.appendChild(contentsBox);
+    contentsBox.appendChild(time).textContent = news.date;
+    contentsBox.appendChild(source).textContent = ' 출처 : 트위터';
+    contentsBox.appendChild(twitterDescription);
+
+    return newsCard;
+  }
+
   if (news.image_path) {
     if (news.image_path.slice(0, 5) == 'https') {
       img.setAttribute('src', news.image_path);
