@@ -1,0 +1,11 @@
+{
+  "black-formatter.args": ["79"],
+  "python.linting.enabled": false,
+  "[python]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    },
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true
+  }
+}
